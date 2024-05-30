@@ -1,0 +1,247 @@
+@import url("./theme.css");
+
+body {
+  background-color: var(--bg);
+  color: var(--color-text);
+  quotes: "「" "」";
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-inline: 48px;
+
+  article {
+    max-width: 1024px;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  --lh-h: 1.3;
+  --h-mt: 1.125;
+  --h-mb: 0.25;
+  font: normal var(--fs-h) / var(--lh-h) var(--family-display);
+  margin-block: calc(var(--fs-h) / var(--h-mt)) calc(var(--fs-h) * var(--h-mb));
+}
+
+h1 {
+  --fs-h: var(--fs-950);
+  font-weight: 700;
+}
+
+h2 {
+  --fs-h: var(--fs-900);
+  font-weight: 600;
+}
+
+h3 {
+  --fs-h: var(--fs-800);
+  font-weight: 600;
+}
+
+h4 {
+  --fs-h: var(--fs-700);
+  font-weight: 500;
+}
+
+h5 {
+  --fs-h: var(--fs-600);
+  font-weight: 500;
+}
+
+h6 {
+  --fs-h: var(--fs-500);
+  font-weight: 500;
+}
+
+p,
+ul,
+ol,
+dl {
+  --fs-p: var(--fs-400);
+  --lh-p: 1.7;
+  --p-mt: 1.125;
+  --p-mb: 0.25;
+  font: normal var(--fs-p) / var(--lh-p) var(--family-body);
+  margin-block: calc(var(--fs-p) / var(--p-mt)) calc(var(--fs-p) * var(--p-mb));
+}
+
+.columns {
+  width: 100%;
+  columns: 2;
+}
+
+dl {
+  display: grid;
+  align-items: baseline;
+  grid-template-columns: min-content 1fr;
+  row-gap: 12px;
+  width: 100%;
+  font-size: var(--fs-600);
+}
+
+dt {
+  justify-self: end;
+  break-after: avoid;
+  white-space: nowrap;
+}
+
+dd {
+  margin: unset;
+  padding-inline: 8px;
+  break-inside: avoid;
+
+  rt {
+    text-align: left;
+  }
+}
+
+rt {
+  font-size: 0.6em;
+  user-select: none;
+  speak: none;
+}
+
+cite {
+  color: oklch(33.85% 0.1638 258.7 / 0.714);
+  font-style: unset;
+}
+
+.github-markdown-body mark,
+mark {
+  background-color: unset;
+  color: oklch(65.52% 0.1783 58.44 / 0.75);
+}
+
+del {
+  color: oklch(57.48% 0.2644 29 / 0.475);
+}
+
+ins {
+  color: oklch(59.81% 0.1808 127.2 / 0.702);
+  text-decoration: none;
+}
+
+iframe {
+  display: flex;
+  width: 80%;
+  height: unset;
+  margin-inline: auto;
+  aspect-ratio: 16/9;
+}
+
+.markdown-alert {
+  & .markdown-alert-title {
+    --fs-p: var(--fs-600);
+    --lh-h: 1.3;
+    --h-mt: 1.125;
+    --h-mb: 0.25;
+    align-items: center;
+    font: 500 var(--fs-p) / var(--lh-h) var(--family-display);
+    margin-block: calc(var(--fs-p) / var(--h-mt))
+      calc(var(--fs-p) * var(--h-mb));
+
+    & .octicon {
+      width: 0.9em;
+      height: 0.9em;
+    }
+  }
+
+  &.markdown-alert-note {
+    background-color: var(--indigo-a100);
+    border-color: var(--indigo-a400);
+    color: var(--indigo-a700);
+
+    & .markdown-alert-title {
+      color: var(--indigo-a800);
+
+      & .octicon {
+        color: var(--indigo-a600);
+      }
+    }
+  }
+
+  &.markdown-alert-tip {
+    background-color: var(--green-a100);
+    border-color: var(--green-a400);
+    color: var(--green-a700);
+
+    & .markdown-alert-title {
+      color: var(--green-a800);
+
+      & .octicon {
+        color: var(--green-a600);
+      }
+    }
+  }
+
+  &.markdown-alert-caution {
+    background-color: var(--red-a100);
+    border-color: var(--red-a400);
+    color: var(--red-a700);
+
+    & .markdown-alert-title {
+      color: var(--red-a800);
+
+      & .octicon {
+        color: var(--red-a600);
+      }
+    }
+  }
+
+  &.markdown-alert-warning {
+    background-color: var(--yellow-a100);
+    border-color: var(--yellow-a400);
+    color: var(--yellow-a700);
+
+    & .markdown-alert-title {
+      color: var(--yellow-a800);
+
+      & .octicon {
+        color: var(--yellow-a600);
+      }
+    }
+  }
+}
+
+table,
+label {
+  --fs-l: var(--fs-400);
+  --lh-l: 1.5;
+  font: normal var(--fs-l) / var(--lh-l) var(--family-display);
+}
+
+table {
+  position: relative;
+  width: 100%;
+  border-radius: 8px;
+  background-color: var(--surface-default);
+  color: var(--color-text);
+  table-layout: fixed;
+
+  thead {
+    position: sticky;
+    top: 0;
+    background-color: var(--surface-default);
+  }
+
+  th,
+  td {
+    padding: 0.75em 0.5em;
+    vertical-align: top;
+  }
+
+  thead th {
+    box-shadow: inset 0 -2px var(--cn-500);
+  }
+
+  tbody tr:not(:last-child) td {
+    box-shadow: inset 0 -1px var(--cn-500);
+  }
+}

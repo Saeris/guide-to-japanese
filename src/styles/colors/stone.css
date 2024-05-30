@@ -1,0 +1,55 @@
+:root {
+  --stone-25: oklch(98.87% 0.009 84.57);
+  --stone-50: oklch(97.37% 0.009 84.57);
+  --stone-100: oklch(95.09% 0.008 73.74);
+  --stone-200: oklch(92.06% 0.008 73.74);
+  --stone-300: oklch(86.17% 0.008 80.72);
+  --stone-400: oklch(80.02% 0.008 73.73);
+  --stone-500: oklch(74.22% 0.008 80.72);
+  --stone-600: oklch(62.78% 0.008 80.71);
+  --stone-700: oklch(53.59% 0.009 80.71);
+  --stone-800: oklch(41.91% 0.008 67.59);
+  --stone-900: oklch(30.69% 0.008 75.27);
+  --stone-950: oklch(19.37% 0.008 67.35);
+
+  --stone-a25: oklch(75.39% 0.1836 72.59 / 0.04);
+  --stone-a50: oklch(55.83% 0.1361 73.1 / 0.059);
+  --stone-a100: oklch(36.1% 0.091 64.93 / 0.083);
+  --stone-a200: oklch(28.06% 0.0697 66.84 / 0.122);
+  --stone-a300: oklch(22.85% 0.055 76.92 / 0.2);
+  --stone-a400: oklch(18.04% 0.0405 74.48 / 0.275);
+  --stone-a500: oklch(17.19% 0.037 89.56 / 0.35);
+  --stone-a600: oklch(14.17% 0.0284 91.1 / 0.483);
+  --stone-a700: oklch(14.29% 0.0337 90.6 / 0.593);
+  --stone-a800: oklch(11.48% 0.0278 75.61 / 0.714);
+  --stone-a900: oklch(10.8% 0.0256 93.7 / 0.828);
+  --stone-a950: oklch(10.23% 0.0244 80.76 / 0.934);
+
+  &.dark {
+    --stone-25: oklch();
+    --stone-50: oklch();
+    --stone-100: oklch();
+    --stone-200: oklch();
+    --stone-300: oklch();
+    --stone-400: oklch();
+    --stone-500: oklch();
+    --stone-600: oklch();
+    --stone-700: oklch();
+    --stone-800: oklch();
+    --stone-900: oklch();
+    --stone-950: oklch();
+
+    --stone-a25: oklch();
+    --stone-a50: oklch();
+    --stone-a100: oklch();
+    --stone-a200: oklch();
+    --stone-a300: oklch();
+    --stone-a400: oklch();
+    --stone-a500: oklch();
+    --stone-a600: oklch();
+    --stone-a700: oklch();
+    --stone-a800: oklch();
+    --stone-a900: oklch();
+    --stone-a950: oklch();
+  }
+}

@@ -1,3 +1,40 @@
 {
-  "extends": "astro/tsconfigs/strict"
+  "extends": "astro/tsconfigs/strict",
+  "ts-node": {
+    "transpileOnly": true
+  },
+  "compilerOptions": {
+    "noEmit": true,
+    "isolatedModules": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "importHelpers": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "allowImportingTsExtensions": true,
+    "lib": ["ESNext", "DOM"],
+    "allowJs": true,
+    "jsx": "preserve",
+    "declaration": true,
+    "strict": false,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "incremental": true,
+    "noErrorTruncation": true,
+    "plugins": [
+      {
+        "name": "next"
+      },
+      {
+        "name": "typescript-plugin-css-modules"
+      }
+    ]
+  }
 }

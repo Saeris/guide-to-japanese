@@ -1,0 +1,55 @@
+:root {
+  --sand-25: oklch(98.73% 0.01 72.66);
+  --sand-50: oklch(97.23% 0.01 72.66);
+  --sand-100: oklch(95.16% 0.012 75.37);
+  --sand-200: oklch(92.16% 0.011 71.89);
+  --sand-300: oklch(86.04% 0.012 71.88);
+  --sand-400: oklch(80.13% 0.012 71.87);
+  --sand-500: oklch(74.3% 0.013 79.77);
+  --sand-600: oklch(62.65% 0.013 71.82);
+  --sand-700: oklch(53.39% 0.011 72.57);
+  --sand-800: oklch(41.94% 0.012 72.5);
+  --sand-900: oklch(30.73% 0.012 78.13);
+  --sand-950: oklch(19.43% 0.012 73.22);
+
+  --sand-a25: oklch(73.32% 0.1889 63.86 / 0.044);
+  --sand-a50: oklch(55.59% 0.1423 64.75 / 0.063);
+  --sand-a100: oklch(47.49% 0.1211 64.22 / 0.095);
+  --sand-a200: oklch(35.36% 0.0914 61.67 / 0.13);
+  --sand-a300: oklch(26.37% 0.0659 65.19 / 0.208);
+  --sand-a400: oklch(22.17% 0.0537 67.26 / 0.283);
+  --sand-a500: oklch(20.15% 0.0454 79.86 / 0.357);
+  --sand-a600: oklch(17% 0.0375 74.64 / 0.495);
+  --sand-a700: oklch(14.46% 0.0341 86.8 / 0.597);
+  --sand-a800: oklch(13.46% 0.0319 83.19 / 0.722);
+  --sand-a900: oklch(12.55% 0.0296 88.97 / 0.836);
+  --sand-a950: oklch(11.94% 0.0282 85.49 / 0.942);
+
+  &.dark {
+    --sand-25: oklch();
+    --sand-50: oklch();
+    --sand-100: oklch();
+    --sand-200: oklch();
+    --sand-300: oklch();
+    --sand-400: oklch();
+    --sand-500: oklch();
+    --sand-600: oklch();
+    --sand-700: oklch();
+    --sand-800: oklch();
+    --sand-900: oklch();
+    --sand-950: oklch();
+
+    --sand-a25: oklch();
+    --sand-a50: oklch();
+    --sand-a100: oklch();
+    --sand-a200: oklch();
+    --sand-a300: oklch();
+    --sand-a400: oklch();
+    --sand-a500: oklch();
+    --sand-a600: oklch();
+    --sand-a700: oklch();
+    --sand-a800: oklch();
+    --sand-a900: oklch();
+    --sand-a950: oklch();
+  }
+}

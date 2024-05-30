@@ -1,7 +1,9 @@
 {
-  "name": "receptive-ring",
+  "name": "guide-to-japanese",
+  "version": "0.0.0",
+  "private": true,
   "type": "module",
-  "version": "0.0.1",
+  "packageManager": "yarn@4.2.2",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -10,8 +12,25 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.7.1",
-    "astro": "^2.10.5",
-    "sharp": "^0.32.3"
+    "@astrojs/mdx": "^3.0.1",
+    "@fontsource-variable/nunito": "^5.0.19"
+  },
+  "devDependencies": {
+    "@remark-embedder/core": "^3.0.3",
+    "@remark-embedder/transformer-oembed": "^5.0.0",
+    "astro": "^4.8.6",
+    "postcss": "^8.4.38",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-nested": "^6.0.1",
+    "postcss-preset-env": "^9.5.13",
+    "rehype-rewrite": "^4.0.2",
+    "remark-alerts": "^0.0.1",
+    "remark-definition-list": "^2.0.0",
+    "remark-denden-ruby": "^0.3.1",
+    "remark-extended-table": "^2.0.2",
+    "remark-flexible-markers": "^1.2.1",
+    "remark-ins": "^1.1.0",
+    "remark-squeeze-paragraphs": "^6.0.0",
+    "sharp": "^0.33.4"
   }
 }

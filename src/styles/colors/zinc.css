@@ -1,0 +1,55 @@
+:root {
+  --zinc-25: oklch(98.85% 0.005 274.97);
+  --zinc-50: oklch(97.35% 0.006 274.97);
+  --zinc-100: oklch(95.23% 0.008 271.33);
+  --zinc-200: oklch(92.21% 0.008 271.32);
+  --zinc-300: oklch(86.17% 0.008 278.62);
+  --zinc-400: oklch(80.14% 0.007 268.53);
+  --zinc-500: oklch(74.22% 0.009 278.59);
+  --zinc-600: oklch(62.75% 0.008 277.09);
+  --zinc-700: oklch(53.56% 0.008 277.05);
+  --zinc-800: oklch(42.11% 0.008 276.98);
+  --zinc-900: oklch(30.62% 0.009 276.84);
+  --zinc-950: oklch(19.19% 0.008 274.47);
+
+  --zinc-a25: oklch(44.1% 0.2435 261.9 / 0.02);
+  --zinc-a50: oklch(31.73% 0.1747 263.1 / 0.04);
+  --zinc-a100: oklch(27.73% 0.1365 260.1 / 0.071);
+  --zinc-a200: oklch(21.13% 0.0974 258.8 / 0.11);
+  --zinc-a300: oklch(14.44% 0.0635 260.3 / 0.185);
+  --zinc-a400: oklch(13.57% 0.0436 251.4 / 0.263);
+  --zinc-a500: oklch(11.81% 0.0481 261.8 / 0.334);
+  --zinc-a600: oklch(10.18% 0.0331 260.7 / 0.471);
+  --zinc-a700: oklch(8.921% 0.0361 253.7 / 0.577);
+  --zinc-a800: oklch(8.368% 0.0276 245.4 / 0.702);
+  --zinc-a900: oklch(7.373% 0.0327 256.5 / 0.82);
+  --zinc-a950: oklch(6.974% 0.0271 252.3 / 0.926);
+
+  &.dark {
+    --zinc-25: oklch();
+    --zinc-50: oklch();
+    --zinc-100: oklch();
+    --zinc-200: oklch();
+    --zinc-300: oklch();
+    --zinc-400: oklch();
+    --zinc-500: oklch();
+    --zinc-600: oklch();
+    --zinc-700: oklch();
+    --zinc-800: oklch();
+    --zinc-900: oklch();
+    --zinc-950: oklch();
+
+    --zinc-a25: oklch();
+    --zinc-a50: oklch();
+    --zinc-a100: oklch();
+    --zinc-a200: oklch();
+    --zinc-a300: oklch();
+    --zinc-a400: oklch();
+    --zinc-a500: oklch();
+    --zinc-a600: oklch();
+    --zinc-a700: oklch();
+    --zinc-a800: oklch();
+    --zinc-a900: oklch();
+    --zinc-a950: oklch();
+  }
+}

@@ -1,0 +1,29 @@
+---
+import "@fontsource-variable/nunito";
+import 'remark-alerts/styles/github-colors-light.css'
+import 'remark-alerts/styles/github-colors-dark-media.css'
+import 'remark-alerts/styles/github-base.css'
+import "../styles/global.css";
+
+export interface Props {
+  title: string;
+}
+
+const { title } = Astro.props as Props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>

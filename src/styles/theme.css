@@ -1,0 +1,92 @@
+@import url("./fonts.css");
+@import url("./colors.css");
+
+:root {
+  --family-body: "Nunito Sans Variable", "UDDigiKyokasho StdN";
+  --family-display: "Mona Sans";
+  --font-base: 20px;
+  --scale: 1.125;
+
+  --fs-25: calc(var(--fs-50) / var(--scale));
+  --fs-50: calc(var(--fs-75) / var(--scale));
+  --fs-75: calc(var(--fs-100) / var(--scale));
+  --fs-100: calc(var(--fs-200) / var(--scale));
+  --fs-200: calc(var(--fs-300) / var(--scale));
+  --fs-300: calc(var(--fs-400) / var(--scale));
+  --fs-400: var(--font-base);
+  --fs-500: calc(var(--fs-400) * var(--scale));
+  --fs-600: calc(var(--fs-500) * var(--scale));
+  --fs-700: calc(var(--fs-600) * var(--scale));
+  --fs-800: calc(var(--fs-700) * var(--scale));
+  --fs-900: calc(var(--fs-800) * var(--scale));
+  --fs-950: calc(var(--fs-900) * var(--scale));
+
+  /* Primary Color */
+  --cp-25: var(--indigo-25);
+  --cp-50: var(--indigo-50);
+  --cp-100: var(--indigo-100);
+  --cp-200: var(--indigo-200);
+  --cp-300: var(--indigo-300);
+  --cp-400: var(--indigo-400);
+  --cp-500: var(--indigo-500);
+  --cp-600: var(--indigo-600);
+  --cp-700: var(--indigo-700);
+  --cp-800: var(--indigo-800);
+  --cp-900: var(--indigo-900);
+  --cp-950: var(--indigo-950);
+  --cp-a25: var(--indigo-25);
+  --cp-a50: var(--indigo-50);
+  --cp-a100: var(--indigo-a100);
+  --cp-a200: var(--indigo-a200);
+  --cp-a300: var(--indigo-a300);
+  --cp-a400: var(--indigo-a400);
+  --cp-a500: var(--indigo-a500);
+  --cp-a600: var(--indigo-a600);
+  --cp-a700: var(--indigo-a700);
+  --cp-a800: var(--indigo-a800);
+  --cp-a900: var(--indigo-a900);
+  --cp-a950: var(--indigo-a950);
+
+  /* Neutral Color */
+  --cn-25: var(--neutral-25);
+  --cn-50: var(--neutral-50);
+  --cn-100: var(--neutral-100);
+  --cn-200: var(--neutral-200);
+  --cn-300: var(--neutral-300);
+  --cn-400: var(--neutral-400);
+  --cn-500: var(--neutral-500);
+  --cn-600: var(--neutral-600);
+  --cn-700: var(--neutral-700);
+  --cn-800: var(--neutral-800);
+  --cn-900: var(--neutral-900);
+  --cn-950: var(--neutral-950);
+  --cn-a25: var(--neutral-a25);
+  --cn-a50: var(--neutral-a50);
+  --cn-a100: var(--neutral-a100);
+  --cn-a200: var(--neutral-a200);
+  --cn-a300: var(--neutral-a300);
+  --cn-a400: var(--neutral-a400);
+  --cn-a500: var(--neutral-a500);
+  --cn-a600: var(--neutral-a600);
+  --cn-a700: var(--neutral-a700);
+  --cn-a800: var(--neutral-a800);
+  --cn-a900: var(--neutral-a900);
+  --cn-a950: var(--neutral-a950);
+
+  --bg: #fefeff;
+  --surface-default: var(--bg);
+  --surface-inset: var(--cn-50);
+  --surface-raised: var(--cn-25);
+  --surface-translucent: hsl(210 2 93 / 0.8);
+
+  &.dark {
+    --bg: #111111;
+    --surface-default: var(--bg);
+    --surface-inset: var(--neutral-25);
+    --surface-raised: var(--neutral-100);
+    --surface-translucent: hsl(240 6 12 / 0.7);
+  }
+
+  --color-text: var(--cn-a950);
+  --color-text-subtle: var(--cn-a800);
+}
