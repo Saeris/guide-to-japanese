@@ -4,8 +4,6 @@ chapter: The Writing System
 part: 5
 ---
 
-# Kanji
-
 https://www.youtube.com/watch?v=_aorJUkr06c
 
 ## What is Kanji?

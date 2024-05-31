@@ -1,0 +1,68 @@
+---
+import type { MarkdownHeading } from "astro/dist/@types/astro";
+import ToCHeading from "./ToCSection.astro";
+
+export interface Props {
+    headings: MarkdownHeading[]
+}
+
+const { headings } = Astro.props;
+---
+<style>
+    nav.toc {
+        --stroke-width: 2px;
+
+        position: sticky;
+        top: 8px;
+
+        ul {
+            display: flex;
+            flex-direction: column;
+            border-left: var(--stroke-width) solid var(--cn-400);
+            padding-block: 12px;
+            box-sizing: border-box;
+        }
+    }
+</style>
+
+<script>
+    function addIntersectionObserver() {
+        const observer = new IntersectionObserver((sections) => {
+            sections.forEach((section) => {
+            const heading = section.target.querySelector('h2, h3, h4, h5');
+            if (!heading) return;
+            const id = heading.getAttribute('id');
+            const link = document.querySelector(`nav.toc li a[href="#${id}"]`);
+            if (!link) return;
+
+            const addRemove = section.intersectionRatio > 0 ? 'add' : 'remove';
+            link.classList[addRemove]('active');
+            });
+        });
+
+        document.querySelectorAll('article section').forEach((section) => {
+            observer.observe(section);
+        });
+    }
+    
+    addIntersectionObserver();
+</script>
+
+<nav class="toc">
+  <h2>On this page</h2>
+  <ul>
+    {headings.map((heading) => <ToCHeading heading={heading} />)}
+  </ul>
+  <svg class="toc-progress" xmlns="http://www.w3.org/2000/svg">
+    <path
+      class="toc-marker"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-dasharray="1 0 0 1000"
+      stroke-dashoffset="1"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    ></path>
+  </svg>
+</nav>

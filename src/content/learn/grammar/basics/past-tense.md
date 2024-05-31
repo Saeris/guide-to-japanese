@@ -1,8 +1,8 @@
 ---
 title: Past Tense
+chapter: Basic Grammar
+part: 0
 ---
-
-# Past Tense
 
 We will finish defining all the basic properties of verbs by learning how to express the past and past-negative tense of actions. I will warn you in advance that the conjugation rules in this section will be the most complex rules you will learn in all of Japanese. On the one hand, once you have this section nailed, all other rules of conjugation will seem simple. On the other hand, you might need to refer back to this section many times before you finally get all the rules. You will probably need a great deal of practice until you can become familiar with all the different conjugations.
 
@@ -114,9 +114,7 @@ We will start off with the easy ru-verb category. To change a ru-verb from the d
 
 Changing a u-verb from dictionary form to the past tense is difficult because we must break up u-verbs into four additional categories. These four categories depend on the last character of the verb. The table below illustrates the different sub-categories. In addition, there is one exception to the rules, which is the verb ""{行|い}く"". I’ve bundled it with the regular exception verbs ""する"" and ""{来|く}る"" even though ""{行|い}く"" is a regular u-verb in all other conjugations.
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2ch;"><div style="max-width: 65%"><center>
-
-##### Past tense conjugations for u-verbs
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2ch;"><div style="max-width: 65%">
 
 | Ending | Non-Past | changes to… |    Past    |
 | :----: | :------: | :---------: | :--------: |
@@ -132,9 +130,9 @@ Changing a u-verb from dictionary form to the past tense is difficult because we
 |   う   | 買==う== |  う → った  | 買==った== |
 |   つ   | 持==つ== |  つ → った  | 持==った== |
 
-</center></div><div style="max-width: 35%; margin-top: 0"><center>
+Table: Past tense conjugations for u-verbs
 
-##### Exceptions
+</div><div style="max-width: 35%; margin-top: 0">
 
 | Non-Past |     Past     |
 | :------: | :----------: |
@@ -142,11 +140,14 @@ Changing a u-verb from dictionary form to the past tense is difficult because we
 |   くる   |   き==た==   |
 |   行く   | 行==った==\* |
 
-</center></div>
+Table: Exceptions
 
-<small style="width: 100%;">
-* exceptions particular to this conjugation
-</small></div>
+</div>
+
+<small style="width: 100%;"><center>
+
+- exceptions particular to this conjugation
+</center></small></div>
 
 #### Examples
 

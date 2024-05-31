@@ -30,7 +30,7 @@
     "noErrorTruncation": true,
     "plugins": [
       {
-        "name": "next"
+        "name": "@astrojs/ts-plugin"
       },
       {
         "name": "typescript-plugin-css-modules"

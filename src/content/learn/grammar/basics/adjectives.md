@@ -4,8 +4,6 @@ chapter: Basic Grammar
 part: 6
 ---
 
-# Adjectives
-
 https://www.youtube.com/watch?v=LGXVzWwz0Oc
 
 ## Properties of Adjectives
@@ -176,16 +174,12 @@ Now that we got that matter cleared up, below are the rules for conjugating i-ad
 > 1. {高|たか}~~い~~ → {高|たか}==かった==
 > 1. {高|たか}くな~~い~~ → {高|たか}くな==かった==
 >
-> <center>
->
-> ##### Summary of i-adjective conjugations
->
 > |              | Positive |   Negative   |
 > | ------------ | :------: | :----------: |
 > | **Non-Past** |   高い   |   高くない   |
 > | **Past**     | 高かった | 高くなかった |
 >
-> </center>
+> Table: Summary of i-adjective conjugations
 
 #### Examples
 
@@ -234,27 +228,19 @@ There is one i-adjective meaning “good” that acts slightly differently from 
 
 Another adjective that acts like this is ""かっこいい"" because it is an abbreviated version of two words merged together: ""格好"" and ""いい"". Since it uses the same ""いい"", you need to use the same conjugations.
 
-<center>
-
-##### Conjugation for ""いい""
-
 |              | Positive |   Negative   |
 | ------------ | :------: | :----------: |
 | **Non-Past** |   いい   |   よくない   |
 | **Past**     | よかった | よくなかった |
 
-</center>
-
-<center>
-
-##### Conjugation for ""かっこいい""
+Table: Conjugation for ""いい""
 
 |              |    Positive    |      Negative      |
 | ------------ | :------------: | :----------------: |
 | **Non-Past** |   かっこいい   |   かっこよくない   |
 | **Past**     | かっこよかった | かっこよくなかった |
 
-</center>
+Table: Conjugation for ""かっこいい""
 
 Take care to make all the conjugations from ""よい"" not ""いい"".
 

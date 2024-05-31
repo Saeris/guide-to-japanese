@@ -4,8 +4,6 @@ chapter: Basic Grammar
 part: 10
 ---
 
-# Negative Verbs
-
 Now that we’ve seen how to declare things and perform actions with verbs, we want to be able to say the negative. In other words, we want to say that such-and-such action was not performed. This is done by conjugating the verb to the negative form just like the state-of-being for nouns and adjectives. However, the rules are a tad more complicated.
 
 ## Conjugating verbs into the negative
@@ -115,10 +113,6 @@ Anyway, the reason I bring it up here is because the negative of ""ある"" is "
 >
 > <small>＊ = exceptions particular to this conjugation</small>
 
-<center>
-
-##### Negative form conjugation examples
-
 | ru-verb             | u-verb                  | exception         |
 | ------------------- | ----------------------- | ----------------- |
 | 見る → 　見ない     | 話す → 　話さない       | する → しない     |
@@ -131,7 +125,7 @@ Anyway, the reason I bring it up here is because the negative of ""ある"" is "
 | 着る → 　着ない     | 帰る → 　帰らない       |                   |
 | いる → 　いない     | 死ぬ → 　死なない       |                   |
 
-</center>
+Table: Negative form conjugation examples
 
 #### Examples
 

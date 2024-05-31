@@ -4,8 +4,6 @@ chapter: Basic Grammar
 part: 6
 ---
 
-# Adverbs and Sentence-ending particles
-
 ## Properties of Adverbs
 
 ### Vocabulary

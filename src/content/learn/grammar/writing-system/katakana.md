@@ -4,17 +4,11 @@ chapter: The Writing System
 part: 3
 ---
 
-# Katakana
-
 https://www.youtube.com/watch?v=ZIbKs0ZaPUg
 
 As mentioned before, Katakana is mainly used for words imported from foreign languages. It can also be used to emphasize certain words similar to the function of italics. For a more complete list of usages, refer to the [Wikipedia entry on katakana](http://en.wikipedia.org/wiki/Katakana#Usage).
 
 Katakana represents the same set of phonetic sounds as Hiragana except all the characters are different. Since foreign words must fit into this limited set of [consonants+vowel] sounds, they undergo many radical changes resulting in instances where English speakers can’t understand words that are supposed to be derived from English! As a result, the use of Katakana is extremely difficult for English speakers because they expect English words to sound like… well… English. Instead, it is better to completely forget the original English word, and treat the word as an entirely separate Japanese word, otherwise you can run into the habit of saying English words with English pronunciations (whereupon a Japanese person may or may not understand what you are saying).
-
-<center>
-
-##### Katakana
 
 |      n       |       w        |  r  |  y  |  m  |       h       |  n  |       t        |       s        |  k  |     |     |
 | :----------: | :------------: | :-: | :-: | :-: | :-----------: | :-: | :------------: | :------------: | :-: | :-: | :-: |
@@ -24,9 +18,9 @@ Katakana represents the same set of phonetic sounds as Hiragana except all the c
 |              |      ヱ\*      | レ  |     | メ  |      ヘ       | ネ  |       テ       |       セ       | ケ  | エ  |  e  |
 |              | ヲ\* <br/> (o) | ロ  | ヨ  | モ  |      ホ       | ノ  |       ト       |       ソ       | コ  | オ  |  o  |
 
-<small>\* = obsolete or rarely used</small>
+Table: Katakana
 
-</center>
+<small>\* = obsolete or rarely used</small>
 
 Katakana is significantly tougher to master compared to Hiragana because it is only used for certain words and you don’t get nearly as much practice as you do with Hiragana. To learn the proper stroke order (and yes, you need to), here is a link to practice sheets for Katakana.
 
@@ -66,10 +60,6 @@ https://www.youtube.com/watch?v=gBdX3kZEUTw
 
 Due to the limitations of the sound set in Hiragana, some new combinations have been devised over the years to account for sounds that were not originally in Japanese. Most notable is the lack of the _/ti/_ _/di/_ and _/tu/_ _/du/_ sounds (because of the _/chi/_ _/tsu/_ sounds), and the lack of the _/f/_ consonant sound except for ""ふ"". The _/sh/_ _/j/_ _/ch/_ consonants are also missing for the _/e/_ vowel sound. The decision to resolve these deficiencies was to add small versions of the five vowel sounds. This has also been done for the _/w/_ consonant sound to replace the obsolete characters. In addition, the convention of using the little double slashes on the ""ウ"" vowel (ヴ) with the small ""ア、イ、エ、オ"" to designate the _/v/_ consonant has also been established but it’s not often used probably due to the fact that Japanese people still have difficulty pronouncing _/v/_. For instance, while you may guess that “volume” would be pronounced with a _/v/_ sound, the Japanese have opted for the easier to pronounce “bolume” (ボリューム). In the same way, vodka is written as “wokka” (ウォッカ) and not ""ヴォッカ"". You can write “violin” as either ""バイオリン"" or ""ヴァイオリン"". It really doesn’t matter however because almost all Japanese people will pronounce it with a _/b/_ sound anyway. The following table shows the added sounds that were lacking with a highlight. Other sounds that already existed are reused as appropriate.
 
-<center>
-
-##### Additional sounds
-
 |    v     |    w     |    f     |    ch    |    d     |    t     |    j     |    sh    |     |
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :-: |
 | ==ヴァ== |    ワ    | ==ファ== |   チャ   |    ダ    |    タ    |   ジャ   |   シャ   |  a  |
@@ -78,7 +68,7 @@ Due to the limitations of the sound set in Hiragana, some new combinations have 
 | ==ヴェ== | ==ウェ== | ==フェ== | ==チェ== |    デ    |    テ    | ==ジェ== | ==シェ== |  e  |
 | ==ヴォ== | ==ウォ== | ==フォ== |   チョ   |    ド    |    ト    |   ジョ   |   ショ   |  o  |
 
-</center>
+Table: Additional sounds
 
 > [!Note] Notes
 >
@@ -89,10 +79,6 @@ Due to the limitations of the sound set in Hiragana, some new combinations have 
 ## Some examples of words in Katakana
 
 Translating English words into Japanese is a knack that requires quite a bit of practice and luck. To give you a sense of how English words become “Japanified”, here are a few examples of words in Katakana. Sometimes the words in Katakana may not even be correct English or have a different meaning from the English word it’s supposed to represent. Of course, not all Katakana words are derived from English.
-
-<center>
-
-##### Sample Katakana Words
 
 | English          | Japanese                      |
 | ---------------- | ----------------------------- |
@@ -106,3 +92,5 @@ Translating English words into Japanese is a knack that requires quite a bit of 
 | sofa             | ソファ or ソファー            |
 | Halloween        | ハロウィーン                  |
 | French fries     | フライドポテト (fried potato) |
+
+Table: Sample Katakana Words

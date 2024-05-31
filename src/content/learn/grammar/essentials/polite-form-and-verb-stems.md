@@ -4,8 +4,6 @@ chapter: Essential Grammar
 part: 1
 ---
 
-# Polite Form and Verb Stems
-
 ## Not being rude in Japan
 
 ### Vocabulary
@@ -204,10 +202,6 @@ Of course, the reason I introduced the verb stem is to learn how to conjugate ve
 
 To conjugate verbs into the masu-form, you attach different conjugations of ""ます"" to the stem depending on the tense. Here is a chart.
 
-<center>
-
-##### A conjugation chart with sample stem ""遊び""
-
 |              | ます conjugations |    Stem+ます     |
 | ------------ | :---------------: | :--------------: |
 | **Plain**    |       ます        |     遊びます     |
@@ -215,7 +209,7 @@ To conjugate verbs into the masu-form, you attach different conjugations of ""�
 | **Past**     |      ました       |    遊びました    |
 | **Past-Neg** |   ませんでした    | 遊びませんでした |
 
-</center>
+Table: A conjugation chart with sample stem ""遊び""
 
 ### Examples
 
@@ -280,10 +274,6 @@ To conjugate verbs into the masu-form, you attach different conjugations of ""�
 
 For any sentence that does not end in a ru-verb or u-verb, the only thing that needs to be done is to add ""です"" or ""でした"". You can also do this for substituted nouns (both ""の"" and ""ん"") by just treating them like regular nouns. Another important thing to remember is that if there is a declarative ""だ"", it must be removed. In being polite, I guess you can’t be so bold as to forwardly declare things the way ""だ"" does. Just like the masu-form, this must also go at the end of a complete sentence. Here is a chart illustrating the conjugations.
 
-<center>
-
-##### i-adjective (だ cannot be used)
-
 |              |      Casual      |        Polite        |
 | ------------ | :--------------: | :------------------: |
 | **Plain**    |     かわいい     |     かわいいです     |
@@ -291,11 +281,7 @@ For any sentence that does not end in a ru-verb or u-verb, the only thing that n
 | **Past**     |   かわいかった   |   かわいかったです   |
 | **Past-Neg** | かわいくなかった | かわいくなかったです |
 
-</center>
-
-<center>
-
-##### na-adjective/noun (might have to remove だ)
+Table: i-adjective (だ cannot be used)
 
 |              |      Casual      |        Polite        |
 | ------------ | :--------------: | :------------------: |
@@ -304,9 +290,11 @@ For any sentence that does not end in a ru-verb or u-verb, the only thing that n
 | **Past**     |    静かだった    |     ※静かでした      |
 | **Past-Neg** | 静かじゃなかった | 静かじゃなかったです |
 
-※ Notice in the case of noun/na-adjective only, the past tense becomes ""でした"". A very common mistake is to do the same for i-adjectives. Remember ""かわいいでした"" is wrong!
+Table: na-adjective/noun (might have to remove だ)
 
-</center>
+> [!Caution]
+>
+> Notice in the case of noun/na-adjective only, the past tense becomes ""でした"". A very common mistake is to do the same for i-adjectives. Remember ""かわいいでした"" is wrong!
 
 ### Examples
 
@@ -325,10 +313,6 @@ I have heard on a number of occasions that the negative non-past conjugation as 
 
 The reality of today’s Japanese is that what’s supposed to be the “official” conjugation sounds rather stiff and formal. In normal everyday conversations, the conjugation presented here will be used almost every time. While you should use the more formal conjugations for written works using the polite form, you’ll rarely hear it in actual speech. In conclusion, I recommend studying and becoming familiar with both types of conjugations.
 
-<center>
-
-##### A more formal negative conjugation
-
 |              |      Casual      |          Polite          |
 | ------------ | :--------------: | :----------------------: |
 | **Negative** |   かわいくない   |    かわいくありません    |
@@ -336,7 +320,7 @@ The reality of today’s Japanese is that what’s supposed to be the “officia
 | **Negative** |   静かじゃない   |    静かじゃありません    |
 | **Past-Neg** | 静かじゃなかった | 静かじゃありませんでした |
 
-</center>
+Table: A more formal negative conjugation
 
 ### Examples
 

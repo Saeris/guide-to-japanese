@@ -4,8 +4,6 @@ chapter: The Writing System
 part: 0
 ---
 
-# Chapter Overview
-
 ## The Scripts
 
 Japanese consists of two scripts (referred to as kana) called Hiragana and Katakana, which are two versions of the same set of sounds in the language. Hiragana and Katakana consist of a little less than 50 “letters”, which are actually simplified Chinese characters adopted to form a phonetic script.

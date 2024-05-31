@@ -4,8 +4,6 @@ chapter: Basic Grammar
 part: 6
 ---
 
-# Noun-related Particles
-
 ## The last three particles (Not!)
 
 We have already gone over very powerful constructs that can express almost anything we want. We will see the ""の"" particle will give us even more power by allowing us to define a generic, abstract noun. We will also learn how to modify nouns directly with nouns. The three particles we will cover can group nouns together in different ways.
@@ -368,10 +366,6 @@ In actuality, while this type of explanatory tone is used all the time, ""のだ
 
 There’s really nothing new here. The first chart is just adding ""んだ"" (or "なんだ") to a conjugated verb, noun, or adjective. The second chart adds ""んだ"" (or "なんだ") to a non-conjugated verb, noun, adjective and then conjugates the ""だ"" part of ""んだ"" just like a regular state-of-being for nouns and na-adjectives. Just don’t forget to attach the ""な"" for nouns as well as na-adjectives.
 
-<center>
-
-##### ""んだ"" attached to different conjugations (Substitute ""の"" or ""のだ"" for ""んだ"")
-
 |              |       Noun/Na-Adj        |      Verb/I-Adj      |
 | ------------ | :----------------------: | :------------------: |
 | **Plain**    |      学生==なんだ==      |     飲む==んだ==     |
@@ -379,11 +373,7 @@ There’s really nothing new here. The first chart is just adding ""んだ"" (or
 | **Past**     |    学生だった==んだ==    |    飲んだ==んだ==    |
 | **Past-Neg** | 学生じゃなかった==んだ== | 飲まなかった==んだ== |
 
-</center>
-
-<center>
-
-##### ""んだ"" is conjugated (Substitute ""の"" for ""ん"" and ""の"" or ""のだ"" for ""んだ"")
+Table: ""んだ"" attached to different conjugations (Substitute ""の"" or ""のだ"" for ""んだ"")
 
 |              |       Noun/Na-Adj        |       Verb/I-Adj       |
 | ------------ | :----------------------: | :--------------------: |
@@ -392,7 +382,7 @@ There’s really nothing new here. The first chart is just adding ""んだ"" (or
 | **Past**     |    学生==なんだった==    |    飲む==んだった==    |
 | **Past-Neg** | 学生==なんじゃなかった== | 飲む==んじゃなかった== |
 
-</center>
+Table: ""んだ"" is conjugated (Substitute ""の"" for ""ん"" and ""の"" or ""のだ"" for ""んだ"")
 
 I would say that the past and past-negative forms for noun/na-adjective in the second chart are almost never used (especially with ""の"") but they are presented for completeness.
 

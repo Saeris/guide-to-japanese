@@ -4,8 +4,6 @@ chapter: Basic Grammar
 part: 1
 ---
 
-# Expressing State-of-Being
-
 ## Declaring something is so and so using ""だ""
 
 ### Vocabulary
@@ -143,13 +141,9 @@ In order to say the negative past (was not), conjugate the negative to the negat
 
 We’ve now learned how to express state-of-being in all four tenses. Next we will learn some particles, which will allow us assign roles to words. Here is a summary chart of the conjugations we learned in this section.
 
-<center>
-
-##### Summary of state-of-being
-
 |              | Positive                         | Negative                                |
 | ------------ | -------------------------------- | --------------------------------------- |
 | **Non-Past** | 学生（だ）\*\* <br /> Is student | 学生じゃない <br /> Is not student      |
 | **Past**     | 学生だった <br /> Was student    | 学生じゃなかった <br /> Was not student |
 
-</center>
+Table: Summary of state-of-being

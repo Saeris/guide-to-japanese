@@ -1,6 +1,9 @@
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
+import { rehypeHeadingIds } from "@astrojs/markdown-remark";
+import rehypeSlug from "rehype-slug";
 import rehypeRewrite from "rehype-rewrite";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import remarkRuby from "remark-denden-ruby";
 import {
   remarkDefinitionList,
@@ -13,6 +16,8 @@ import remarkSqueezeParagraphs from "remark-squeeze-paragraphs";
 import remarkFlexibleMarkers from "remark-flexible-markers";
 import remarkEmbedder from "@remark-embedder/core";
 import oembedTransformer from "@remark-embedder/transformer-oembed";
+import remarkSectionize from "remark-sectionize";
+import remarkCaptions from "remark-captions";
 import {
   remarkExtendedTable,
   extendedTableHandlers,
@@ -31,6 +36,8 @@ export default defineConfig({
       remarkRuby,
       remarkSqueezeParagraphs,
       remarkExtendedTable,
+      remarkSectionize,
+      remarkCaptions,
       [
         // @ts-expect-error
         remarkEmbedder.default,
@@ -41,6 +48,9 @@ export default defineConfig({
       ],
     ],
     rehypePlugins: [
+      rehypeHeadingIds,
+      rehypeSlug,
+      [rehypeAutolinkHeadings, { behavior: "wrap" }],
       [
         rehypeRewrite,
         {

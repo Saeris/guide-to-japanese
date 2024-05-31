@@ -4,8 +4,6 @@ chapter: Basic Grammar
 part: 8
 ---
 
-# Verb Basics
-
 ## Role of Verbs
 
 ### Vocabulary
@@ -112,10 +110,6 @@ All ru-verbs end in ""る"" while u-verbs can end in a number of u-vowel sounds 
 
 If you’re unsure which category a verb falls in, you can verify which kind it is with most dictionaries. There are only two exception verbs that are neither ru-verbs nor u-verbs as shown in the table below.
 
-<center>
-
-##### Examples of different verb types
-
 | ru-verb | u-verb | exception |
 | :-----: | :----: | :-------: |
 |  見る   |  話す  |   する    |
@@ -128,7 +122,7 @@ If you’re unsure which category a verb falls in, you can verify which kind it 
 |  いる   |  ある  |           |
 |  着る   |  死ぬ  |           |
 
-</center>
+Table: Examples of different verb types
 
 #### Examples
 
@@ -229,10 +223,6 @@ Here are some example sentences using ru-verbs, u-verbs, and exception verbs.
 
 Below is a list of u-verbs with a preceding vowel sound of _/i/_ or _/e/_ (“iru” or “eru” sound endings). The list is not comprehensive but it does include many of the more common verbs categorized roughly into three levels.
 
-<center>
-
-##### iru/eru u-verbs grouped (roughly) by level
-
 |  Basic   | Intermediate | Advanced |
 | :------: | :----------: | :------: |
 |   要る   |     焦る     |   嘲る   |
@@ -244,4 +234,4 @@ Below is a list of u-verbs with a preceding vowel sound of _/i/_ or _/e/_ (“ir
 |   走る   |     参る     |  滅入る  |
 |   減る   |    交じる    |   蘇る   |
 
-</center>
+Table: iru/eru u-verbs grouped (roughly) by level

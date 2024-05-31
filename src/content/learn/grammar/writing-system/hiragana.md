@@ -4,17 +4,11 @@ chapter: The Writing System
 part: 1
 ---
 
-# Hiragana
-
 https://www.youtube.com/watch?v=t1hs-l68lOU
 
 Hiragana is the basic Japanese phonetic script. It represents every sound in the Japanese language. Therefore, you can theoretically write everything in Hiragana. However, because Japanese is written with no spaces, this will create nearly indecipherable text.
 
 Here is a table of Hiragana and similar-sounding English consonant-vowel pronunciations. It is read up to down and right to left, which is how most Japanese books are written. In Japanese, writing the strokes in the correct order and direction is important, especially for Kanji. Because handwritten letters look slightly different from typed letters (just like how ‘a’ looks totally different when typed), you will want to use a resource that uses handwritten style fonts to show you how to write the characters (see below for links). I must also stress the importance of correctly learning how to pronounce each sound. Since every word in Japanese is composed of these sounds, learning an incorrect pronunciation for a letter can severely damage the very foundation on which your pronunciation lies.
-
-<center>
-
-##### Hiragana
 
 |      n       |      w       |  r  |  y  |  m  |       h       |  n  |       t        |       s        |  k  |     |       |
 | :----------: | :----------: | :-: | :-: | :-: | :-----------: | :-: | :------------: | :------------: | :-: | :-: | :---: |
@@ -24,9 +18,9 @@ Here is a table of Hiragana and similar-sounding English consonant-vowel pronunc
 |              |     ゑ\*     | れ  |     | め  |      へ       | ね  |       て       |       せ       | け  | え  | **e** |
 |              | を <br/> (o) | ろ  | よ  | も  |      ほ       | の  |       と       |       そ       | こ  | お  | **o** |
 
-<small>\* = no longer used</small>
+Table: Hiragana
 
-</center>
+<small>\* = no longer used</small>
 
 You can listen to the pronunciation for each character by clicking on it in chart. If your browser doesn’t support audio, you can also download them at http://www.guidetojapanese.org/audio/basic_sounds.zip. There are also other free resources with audio samples.
 
@@ -62,10 +56,6 @@ Once you memorize all the characters in Hiragana, there are still some additiona
 
 All the voiced consonant sounds are shown in the table below.
 
-<center>
-
-##### Voiced Hiragana
-
 |  p  |  b  |       d        |       z       |  g  |     |
 | :-: | :-: | :------------: | :-----------: | :-: | :-: |
 | ぱ  | ば  |       だ       |      ざ       | が  |  a  |
@@ -74,7 +64,7 @@ All the voiced consonant sounds are shown in the table below.
 | ぺ  | べ  |       で       |      ぜ       | げ  |  e  |
 | ぽ  | ぼ  |       ど       |      ぞ       | ご  |  o  |
 
-</center>
+Table: Voiced Hiragana
 
 > [!Note]
 >
@@ -86,17 +76,13 @@ https://www.youtube.com/watch?v=gjh8rHqLrfk
 
 You can also combine a consonant with a _/ya/_ _/yu/_ _/yo/_ sound by attaching a small ""や""、""ゆ""、or ""よ"" to the _/i/_ vowel character of each consonant.
 
-<center>
-
-##### All small や、ゆ、and よ combinations in Hiragana
-
 |  p   |  b   |  j   |  g   |  r   |  m   |  h   |  n   |  c   |  s   |  k   |     |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :-: |
 | ぴゃ | びゃ | じゃ | ぎゃ | りゃ | みゃ | ひゃ | にゃ | ちゃ | しゃ | きゃ | ya  |
 | ぴゅ | びゅ | じゅ | ぎゅ | りゅ | みゅ | ひゅ | にゅ | ちゅ | しゅ | きゅ | yu  |
 | ぴょ | びょ | じょ | ぎょ | りょ | みょ | ひょ | にょ | ちょ | しょ | きょ | yo  |
 
-</center>
+Table: All small ""や""、""ゆ""、and ""よ"" combinations in Hiragana
 
 > [!Note] Notes
 >
@@ -124,17 +110,13 @@ https://www.youtube.com/watch?v=SLP1BxU6AR4
 
 Whew! You’re almost done. In this last portion, we will go over the long vowel sound which is simply extending the duration of a vowel sound. You can extend the vowel sound of a character by adding either ""あ""、""い""、or ""う"" depending on the vowel in accordance to the following chart.
 
-<center>
-
-##### Extending Vowel Sounds
-
 | Vowel Sound | Extended by |
 | :---------: | :---------: |
-|    / a /    |     あ      |
-|  / i / e /  |     い      |
-|  / u / o /  |     う      |
+|    _/a/_    |     あ      |
+| _/i/_ _/e/_ |     い      |
+| _/u/_ _/o/_ |     う      |
 
-</center>
+Table: Extending Vowel Sounds
 
 For example, if you wanted to create an extended vowel sound from ""か"", you would add ""あ"" to create ""かあ"". Other examples would include: ""き → きい"", ""く → くう"", ""け → けい"", ""こ → こう"", ""さ → さあ"" and so on. The reasoning for this is quite simple. Try saying ""か"" and ""あ"" separately. Then say them in succession as fast as you can. You’ll notice that soon enough, it sounds like you’re dragging out the _/ka/_ for a longer duration than just saying _/ka/_ by itself. When pronouncing long vowel sounds, try to remember that they are really two sounds merged together.
 
