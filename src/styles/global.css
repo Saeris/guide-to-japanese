@@ -34,22 +34,6 @@ header {
   }
 }
 
-aside {
-  display: grid;
-  grid-auto-rows: min-content;
-  align-items: start;
-  padding: 3rem 2rem;
-
-  @media screen and (min-width: 60rem) {
-    grid-column: 1 / 2;
-    grid-row: 2 / 3;
-    grid-template-rows: 1fr min-content;
-    height: fit-content;
-    min-height: 100dvh;
-    padding: 2rem;
-  }
-}
-
 main {
   display: grid;
   height: 100%;
@@ -58,7 +42,7 @@ main {
   @media screen and (min-width: 60rem) {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
-    grid-template-columns: minmax(0px, 1fr) 320px;
+    grid-template-columns: minmax(0px, 1fr) 300px;
     gap: 4rem;
     padding: 2rem;
   }
@@ -101,6 +85,7 @@ h6 {
   margin-block: calc(var(--fs-heading) / 1.125) calc(var(--fs-heading) * 0.25);
 
   a {
+    color: var(--color-text);
     text-decoration: none;
 
     &:hover {

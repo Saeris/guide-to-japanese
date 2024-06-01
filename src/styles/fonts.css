@@ -1,6 +1,7 @@
 @font-face {
   font-family: "Mona Sans";
-  src: url("/fonts/Mona-Sans.woff2") format("woff2 supports variations"),
+  src:
+    url("/fonts/Mona-Sans.woff2") format("woff2 supports variations"),
     url("/fonts/Mona-Sans.woff2") format("woff2-variations");
   font-weight: 200 900;
   font-stretch: 75% 125%;
@@ -10,7 +11,9 @@
   font-family: "UDDigiKyokasho StdN";
   font-weight: normal;
   font-style: normal;
-  src: local("UD Digi Kyokasho NK-R"), local("UDDigiKyokashoStdN-Regular"),
+  src:
+    local("UD Digi Kyokasho NK-R"),
+    local("UDDigiKyokashoStdN-Regular"),
     url("/fonts/UDDigiKyokashoStdN-Regular.otf") format("opentype");
 }
 
@@ -18,7 +21,9 @@
   font-family: "UDDigiKyokasho StdN";
   font-weight: bold;
   font-style: normal;
-  src: local("UD Digi Kyokasho NK-B"), local("UDDigiKyokashoStdN-Bold"),
+  src:
+    local("UD Digi Kyokasho NK-B"),
+    local("UDDigiKyokashoStdN-Bold"),
     url("/fonts/UDDigiKyokashoStdN-Bold.otf") format("opentype");
 }
 

@@ -1,7 +1,8 @@
 ---
 title: Adverbs and Sentence-ending particles
+chapterNumber: 3
 chapter: Basic Grammar
-part: 6
+part: 12
 ---
 
 ## Properties of Adverbs

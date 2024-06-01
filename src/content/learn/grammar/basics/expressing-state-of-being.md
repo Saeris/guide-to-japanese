@@ -1,7 +1,8 @@
 ---
 title: Expressing State-of-Being
+chapterNumber: 3
 chapter: Basic Grammar
-part: 1
+part: 2
 ---
 
 ## Declaring something is so and so using ""だ""

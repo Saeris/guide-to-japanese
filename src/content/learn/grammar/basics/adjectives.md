@@ -1,7 +1,8 @@
 ---
 title: Adjectives
+chapterNumber: 3
 chapter: Basic Grammar
-part: 6
+part: 4
 ---
 
 https://www.youtube.com/watch?v=LGXVzWwz0Oc

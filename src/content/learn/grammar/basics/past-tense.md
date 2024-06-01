@@ -1,7 +1,8 @@
 ---
 title: Past Tense
+chapterNumber: 3
 chapter: Basic Grammar
-part: 0
+part: 7
 ---
 
 We will finish defining all the basic properties of verbs by learning how to express the past and past-negative tense of actions. I will warn you in advance that the conjugation rules in this section will be the most complex rules you will learn in all of Japanese. On the one hand, once you have this section nailed, all other rules of conjugation will seem simple. On the other hand, you might need to refer back to this section many times before you finally get all the rules. You will probably need a great deal of practice until you can become familiar with all the different conjugations.

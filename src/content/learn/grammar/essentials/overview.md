@@ -1,7 +1,8 @@
 ---
-title: Essential Grammar Chapter Overview
+title: Overview
+chapterNumber: 4
 chapter: Essential Grammar
-part: 0
+part: 1
 ---
 
 We have learned the basic foundation of the Japanese language. Now that we have a general knowledge of how Japanese works, we can now extend that by learning specific grammar for various situations. This section will go over what is considered to be essential grammar for basic practical Japanese. You will begin to see fewer literal translations in order to emphasize the new grammar now that you (should) have a good understanding of the basic fundamental grammar. For example, in sentences where the subject has not been specified, I might simply specify the subject in the translation as ‘he’ even though it may very well be “we” or “them” depending on the context.

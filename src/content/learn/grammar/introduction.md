@@ -1,7 +1,8 @@
 ---
 title: Introduction
+chapterNumber: 1
 chapter: Before You Start
-part: 0
+part: 1
 ---
 
 This guide was created as a resource for those who want to learn Japanese grammar in a rational, intuitive way that makes sense in Japanese. The explanations are focused on how to make sense of the grammar not from English but from a Japanese point of view.

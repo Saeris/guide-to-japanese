@@ -7,7 +7,7 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import remarkRuby from "remark-denden-ruby";
 import {
   remarkDefinitionList,
-  defListHastHandlers,
+  defListHastHandlers
 } from "remark-definition-list";
 //import { remarkAlert } from "remark-github-blockquote-alert";
 import remarkAlerts from "remark-alerts";
@@ -20,7 +20,7 @@ import remarkSectionize from "remark-sectionize";
 import remarkCaptions from "remark-captions";
 import {
   remarkExtendedTable,
-  extendedTableHandlers,
+  extendedTableHandlers
 } from "remark-extended-table";
 import remarkQuotation from "./src/quotation";
 
@@ -43,40 +43,40 @@ export default defineConfig({
         remarkEmbedder.default,
         {
           // @ts-expect-error
-          transformers: [oembedTransformer.default],
-        },
-      ],
+          transformers: [oembedTransformer.default]
+        }
+      ]
     ],
     rehypePlugins: [
       rehypeHeadingIds,
       rehypeSlug,
-      [rehypeAutolinkHeadings, { behavior: "wrap" }],
+      [rehypeAutolinkHeadings, { behavior: `wrap` }],
       [
         rehypeRewrite,
         {
-          rewrite: (node) => {
-            if (node.type == "element" && node.tagName == "ruby") {
-              node.properties = { ...node.properties, lang: "ja" };
+          rewrite: (node): void => {
+            if (node.type === `element` && node.tagName === `ruby`) {
+              node.properties = { ...node.properties, lang: `ja` };
             }
-          },
-        },
-      ],
+          }
+        }
+      ]
     ],
     remarkRehype: {
       handlers: {
         ...defListHastHandlers,
-        ...extendedTableHandlers,
-      },
-    },
+        ...extendedTableHandlers
+      }
+    }
   },
   integrations: [mdx({})],
   // Process images with sharp: https://docs.astro.build/en/guides/assets/#using-sharp
   image: {
     service: {
-      entrypoint: "astro/assets/services/sharp",
-    },
+      entrypoint: `astro/assets/services/sharp`
+    }
   },
   devToolbar: {
-    enabled: false,
-  },
+    enabled: false
+  }
 });

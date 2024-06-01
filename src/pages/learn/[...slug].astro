@@ -2,21 +2,19 @@
 import Layout from "../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 
-export async function getStaticPaths() {
-  const paths = await getCollection("learn");
-  return paths.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
+export const getStaticPaths = async () =>
+  (await getCollection("learn")).map((page) => ({
+    params: { slug: page.slug },
+    props: { page }
   }));
-}
 
-const { entry } = Astro.props;
-const { Content, headings } = await entry.render();
+const { page } = Astro.props;
+const { Content, headings } = await page.render();
 ---
 
-<Layout title={entry.data.title} headings={headings}>
+<Layout title={page.data.title} headings={headings}>
   <article>
-    <h1>{entry.data.title}</h1>
+    <h1>{page.data.title}</h1>
     <Content />
   </article>
 </Layout>

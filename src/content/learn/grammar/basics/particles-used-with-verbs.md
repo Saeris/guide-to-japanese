@@ -1,7 +1,8 @@
 ---
 title: Particles used with verbs
+chapterNumber: 3
 chapter: Basic Grammar
-part: 0
+part: 8
 ---
 
 In this section, we will learn some new particles essential for using verbs. We will learn how to specify the direct object of a verb and the location where a verb takes place whether it’s physical or abstract.

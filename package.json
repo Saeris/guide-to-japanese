@@ -19,11 +19,21 @@
   "devDependencies": {
     "@remark-embedder/core": "^3.0.3",
     "@remark-embedder/transformer-oembed": "^5.0.0",
-    "astro": "^4.8.6",
+    "@saeris/eslint-config": "^2.6.0",
+    "@types/node": "20.13.0",
+    "@typescript-eslint/eslint-plugin": "^7.11.0",
+    "@typescript-eslint/parser": "^7.11.0",
+    "astro": "^4.9.2",
+    "eslint": "8.57.0",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-astro": "^1.2.0",
+    "eslint-plugin-import": "^2.29.1",
     "postcss": "^8.4.38",
-    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-load-config": "^5.1.0",
     "postcss-nested": "^6.0.1",
-    "postcss-preset-env": "^9.5.13",
+    "postcss-preset-env": "^9.5.14",
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.14.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-rewrite": "^4.0.2",
     "rehype-slug": "^6.0.0",
@@ -36,6 +46,88 @@
     "remark-ins": "^1.1.0",
     "remark-sectionize": "^2.0.0",
     "remark-squeeze-paragraphs": "^6.0.0",
-    "sharp": "^0.33.4"
+    "sharp": "^0.33.4",
+    "typescript": "5.4.5",
+    "typescript-plugin-css-modules": "^5.1.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:astro/recommended",
+      "@saeris/eslint-config/base",
+      "@saeris/eslint-config/typescript",
+      "@saeris/eslint-config/type-aware"
+    ],
+    "parserOptions": {
+      "project": "./tsconfig.json"
+    },
+    "settings": {
+      "import/resolver": {
+        "typescript": true,
+        "node": true
+      }
+    },
+    "ignorePatterns": [
+      ".astro/**/*",
+      "*.js",
+      "*.cjs",
+      "*.mjs",
+      "*.d.ts"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "*.astro"
+        ],
+        "parser": "astro-eslint-parser",
+        "parserOptions": {
+          "parser": "@typescript-eslint/parser",
+          "extraFileExtensions": [
+            ".astro"
+          ]
+        }
+      }
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "ssr": [
+      "last 4 node major versions"
+    ]
+  },
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-astro"
+    ],
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false
+  },
+  "postcss": {
+    "plugins": {
+      "postcss-nested": {},
+      "postcss-preset-env": {
+        "autoprefixer": {
+          "flexbox": "no-2009"
+        },
+        "stage": 3,
+        "features": {
+          "custom-properties": false
+        }
+      }
+    }
   }
 }

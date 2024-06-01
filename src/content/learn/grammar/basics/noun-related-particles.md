@@ -1,7 +1,8 @@
 ---
 title: Noun-related Particles
+chapterNumber: 3
 chapter: Basic Grammar
-part: 6
+part: 11
 ---
 
 ## The last three particles (Not!)

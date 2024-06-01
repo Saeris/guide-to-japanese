@@ -1,7 +1,8 @@
 ---
-title: Writing System Chapter Overview
+title: Overview
+chapterNumber: 2
 chapter: The Writing System
-part: 0
+part: 1
 ---
 
 ## The Scripts

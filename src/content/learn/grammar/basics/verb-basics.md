@@ -1,7 +1,8 @@
 ---
 title: Verb Basics
+chapterNumber: 3
 chapter: Basic Grammar
-part: 8
+part: 5
 ---
 
 ## Role of Verbs

@@ -1,7 +1,8 @@
 ---
 title: Polite Form and Verb Stems
+chapterNumber: 4
 chapter: Essential Grammar
-part: 1
+part: 2
 ---
 
 ## Not being rude in Japan

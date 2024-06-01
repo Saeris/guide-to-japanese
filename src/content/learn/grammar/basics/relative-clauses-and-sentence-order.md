@@ -1,7 +1,8 @@
 ---
 title: Relative Clauses and Sentence Order
+chapterNumber: 3
 chapter: Basic Grammar
-part: 0
+part: 10
 ---
 
 ## Treating verbs and state-of-being like adjectives

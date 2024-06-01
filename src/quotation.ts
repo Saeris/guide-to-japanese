@@ -8,7 +8,7 @@ import { findAllAfter } from "unist-util-find-all-after";
 import { findAfter } from "unist-util-find-after";
 import { u } from "unist-builder";
 
-interface QuotationData extends Data {}
+type QuotationData = Data;
 
 interface Quotation extends Parent {
   /**
@@ -35,69 +35,61 @@ declare module "mdast" {
   }
 }
 
-export const REGEX = /\"\"(?![\s+])([\s\S]*?)(?<![\s+])\"\"/;
-export const REGEX_GLOBAL = /\"\"(?![\s+])([\s\S]*?)(?<![\s+])\"\"/g;
+export const REGEX = /""(?![\s+])([\s\S]*?)(?<![\s+])""/;
+export const REGEX_GLOBAL = /""(?![\s+])([\s\S]*?)(?<![\s+])""/g;
 
-export const REGEX_STARTING = /\"\"(?![\s]|\""\s)/;
-export const REGEX_STARTING_GLOBAL = /\"\"(?![\s]|\""\s)/g;
+export const REGEX_STARTING = /""(?![\s]|""\s)/;
+export const REGEX_STARTING_GLOBAL = /""(?![\s]|""\s)/g;
 
-export const REGEX_ENDING = /(?<!\s|\s\+|\s\+|\s\+|\s\+)\"\"/;
-export const REGEX_ENDING_GLOBAL = /(?<!\s|\s\+|\s\+|\s\+|\s\+)\"\"/g;
+export const REGEX_ENDING = /(?<!\s|\s\+|\s\+|\s\+|\s\+)""/;
+export const REGEX_ENDING_GLOBAL = /(?<!\s|\s\+|\s\+|\s\+|\s\+)""/g;
 
-export const REGEX_EMPTY = /\"\"\s*\"\"/;
-export const REGEX_EMPTY_GLOBAL = /\"\"\s*\"\"/g;
+export const REGEX_EMPTY = /""\s*""/;
+export const REGEX_EMPTY_GLOBAL = /""\s*""/g;
 
 /**
- *
  * This plugin turns ""text"" into a <q>text</q>
  *
  * for example:
  *
  * Here is ""inserted text""
- *
  */
 export const plugin: Plugin<void[], Root> = () => {
   /**
-   *
    * constructs a custom <q> node
-   *
    */
   const constructQuotationNode = (children: PhrasingContent[]): Quotation => ({
-    type: "quotation",
+    type: `quotation`,
     children,
     data: {
-      hName: "q",
-    },
+      hName: `q`
+    }
   });
 
   /**
-   *
    * visits the Text nodes to match with the ins syntax (++inserted text++)
-   *
    */
-  const visitorFirst: Visitor<Text, Parent> = function (
+  const visitorFirst: Visitor<Text, Parent> = (
     node,
     index,
     parent
-  ): VisitorResult {
+  ): VisitorResult => {
     /* istanbul ignore next */
-    if (!parent || typeof index === "undefined") return;
+    if (!parent || typeof index === `undefined`) return;
 
     if (!REGEX.test(node.value)) return;
 
-    const children: Array<PhrasingContent> = [];
+    const children: PhrasingContent[] = [];
     const value = node.value;
-    let tempValue = "";
+    let tempValue = ``;
     let prevMatchIndex = 0;
     let prevMatchLength = 0;
 
     const matches = Array.from(value.matchAll(REGEX_GLOBAL));
 
-    for (let index = 0; index < matches.length; index++) {
-      const match = matches[index];
-
+    for (const match of matches) {
       const [matched, insertedText] = match;
-      const mIndex = match.index!;
+      const mIndex = match.index;
       const mLength = matched.length;
 
       // could be a text part before each matched part
@@ -110,12 +102,12 @@ export const plugin: Plugin<void[], Root> = () => {
       if (mIndex > textPartIndex) {
         const textValue = value.substring(textPartIndex, mIndex);
 
-        const textNode = u("text", textValue);
+        const textNode = u(`text`, textValue);
         children.push(textNode);
       }
 
       const insertNode = constructQuotationNode([
-        { type: "text", value: insertedText.trim() },
+        { type: `text`, value: insertedText.trim() }
       ]);
 
       children.push(insertNode);
@@ -126,7 +118,7 @@ export const plugin: Plugin<void[], Root> = () => {
 
     // if there is still text after the last match
     if (tempValue) {
-      const textNode = u("text", tempValue);
+      const textNode = u(`text`, tempValue);
       children.push(textNode);
     }
 
@@ -134,18 +126,16 @@ export const plugin: Plugin<void[], Root> = () => {
   };
 
   /**
-   *
    * visits the Text nodes to find the ins syntax (++inserted **bold** text++)
    * if parent contains other content phrases
-   *
    */
-  const visitorSecond: Visitor<Text, Parent> = function (
+  const visitorSecond: Visitor<Text, Parent> = (
     node,
     index,
     parent
-  ): VisitorResult {
+  ): VisitorResult => {
     /* istanbul ignore next */
-    if (!parent || typeof index === "undefined") return;
+    if (!parent || typeof index === `undefined`) return;
 
     // control if the Text node matches with "starting ins regex"
     if (!REGEX_STARTING.test(node.value)) return;
@@ -153,9 +143,11 @@ export const plugin: Plugin<void[], Root> = () => {
     const openingNode = node;
 
     // control if any next child Text node of the parent has "ending ins regex"
-    const closingNode = findAfter(parent, openingNode, function (node) {
-      return node.type === "text" && REGEX_ENDING.test((node as Text).value);
-    });
+    const closingNode = findAfter(
+      parent,
+      openingNode,
+      (n) => n.type === `text` && REGEX_ENDING.test((n as Text).value)
+    );
 
     if (!closingNode) return;
 
@@ -184,13 +176,13 @@ export const plugin: Plugin<void[], Root> = () => {
 
     const [matched] = match;
     const mLength = matched.length;
-    const mIndex = match.index!;
+    const mIndex = match.index;
 
     // if there is a text part before
     if (mIndex > 0) {
       const textValue = value.substring(0, mIndex);
 
-      const textNode = u("text", textValue);
+      const textNode = u(`text`, textValue);
       beforeChildren.push(textNode);
     }
 
@@ -198,7 +190,7 @@ export const plugin: Plugin<void[], Root> = () => {
     if (value.length > mIndex + mLength) {
       const textValue = value.slice(mIndex + mLength);
 
-      const textNode = u("text", textValue);
+      const textNode = u(`text`, textValue);
       mainChildren.unshift(textNode);
     }
 
@@ -211,13 +203,13 @@ export const plugin: Plugin<void[], Root> = () => {
 
     const [matched_] = match_;
     const mLength_ = matched_.length;
-    const mIndex_ = match_.index!;
+    const mIndex_ = match_.index;
 
     // if there is a text part before
     if (mIndex_ > 0) {
       const textValue = value_.substring(0, mIndex_);
 
-      const textNode = u("text", textValue);
+      const textNode = u(`text`, textValue);
       mainChildren.push(textNode);
     }
 
@@ -225,7 +217,7 @@ export const plugin: Plugin<void[], Root> = () => {
     if (value_.length > mIndex_ + mLength_) {
       const textValue = value_.slice(mIndex_ + mLength_);
 
-      const textNode = u("text", textValue);
+      const textNode = u(`text`, textValue);
       afterChildren.unshift(textNode);
     }
 
@@ -238,33 +230,29 @@ export const plugin: Plugin<void[], Root> = () => {
   };
 
   /**
-   *
    * visits the Text nodes to find empty markers (==== or == ==)
-   *
    */
-  const visitorThird: Visitor<Text, Parent> = function (
+  const visitorThird: Visitor<Text, Parent> = (
     node,
     index,
     parent
-  ): VisitorResult {
+  ): VisitorResult => {
     /* istanbul ignore next */
-    if (!parent || typeof index === "undefined") return;
+    if (!parent || typeof index === `undefined`) return;
 
     if (!REGEX_EMPTY.test(node.value)) return;
 
-    const children: Array<PhrasingContent> = [];
+    const children: PhrasingContent[] = [];
     const value = node.value;
-    let tempValue = "";
+    let tempValue = ``;
     let prevMatchIndex = 0;
     let prevMatchLength = 0;
 
     const matches = Array.from(value.matchAll(REGEX_EMPTY_GLOBAL));
 
-    for (let index = 0; index < matches.length; index++) {
-      const match = matches[index];
-
+    for (const match of matches) {
       const [matched] = match;
-      const mIndex = match.index!;
+      const mIndex = match.index;
       const mLength = matched.length;
 
       // could be a text part before each matched part
@@ -277,7 +265,7 @@ export const plugin: Plugin<void[], Root> = () => {
       if (mIndex > textPartIndex) {
         const textValue = value.substring(textPartIndex, mIndex);
 
-        const textNode = u("text", textValue);
+        const textNode = u(`text`, textValue);
         children.push(textNode);
       }
 
@@ -292,7 +280,7 @@ export const plugin: Plugin<void[], Root> = () => {
 
     // if there is still text after the last match
     if (tempValue) {
-      const textNode = u("text", tempValue);
+      const textNode = u(`text`, tempValue);
       children.push(textNode);
     }
 
@@ -301,13 +289,13 @@ export const plugin: Plugin<void[], Root> = () => {
 
   const transformer: Transformer<Root> = (tree) => {
     // to find insert syntax in a Text node
-    visit(tree, "text", visitorFirst);
+    visit(tree, `text`, visitorFirst);
 
     // to find insert syntax if the parent contains other content phrases
-    visit(tree, "text", visitorSecond);
+    visit(tree, `text`, visitorSecond);
 
     // to find empty ins (++++ or ++ ++)
-    visit(tree, "text", visitorThird);
+    visit(tree, `text`, visitorThird);
   };
 
   return transformer;

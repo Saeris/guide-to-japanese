@@ -1,5 +1,6 @@
 ---
 title: Katakana
+chapterNumber: 2
 chapter: The Writing System
 part: 3
 ---

@@ -1,7 +1,8 @@
 ---
 title: Hiragana
+chapterNumber: 2
 chapter: The Writing System
-part: 1
+part: 2
 ---
 
 https://www.youtube.com/watch?v=t1hs-l68lOU

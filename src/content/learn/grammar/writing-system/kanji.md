@@ -1,7 +1,8 @@
 ---
 title: Kanji
+chapterNumber: 2
 chapter: The Writing System
-part: 5
+part: 4
 ---
 
 https://www.youtube.com/watch?v=_aorJUkr06c
