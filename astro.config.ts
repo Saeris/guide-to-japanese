@@ -51,13 +51,21 @@ export default defineConfig({
     rehypePlugins: [
       rehypeHeadingIds,
       rehypeSlug,
-      [rehypeAutolinkHeadings, { behavior: `wrap` }],
+      [
+        rehypeAutolinkHeadings,
+        {
+          behavior: `wrap`
+        }
+      ],
       [
         rehypeRewrite,
         {
           rewrite: (node): void => {
             if (node.type === `element` && node.tagName === `ruby`) {
-              node.properties = { ...node.properties, lang: `ja` };
+              node.properties = {
+                ...node.properties,
+                lang: `ja`
+              };
             }
           }
         }
