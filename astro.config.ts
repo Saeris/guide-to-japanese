@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import { rehypeHeadingIds } from "@astrojs/markdown-remark";
+import vercel from "@astrojs/vercel/serverless";
 import rehypeSlug from "rehype-slug";
 import rehypeRewrite from "rehype-rewrite";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
@@ -78,5 +79,9 @@ export default defineConfig({
   },
   devToolbar: {
     enabled: false
-  }
+  },
+  output: `server`,
+  adapter: vercel({
+    webAnalytics: { enabled: true }
+  })
 });
