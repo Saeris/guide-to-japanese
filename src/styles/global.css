@@ -7,13 +7,14 @@ body {
   --fs-body: var(--bs);
   --fs-label: var(--ls);
 
-  background-color: var(--bg);
-  color: var(--color-text);
-  quotes: "「" "」";
   display: grid;
-  width: 100%;
-  margin: 0px auto;
   flex: 1 1 0%;
+  width: 100%;
+  background-color: var(--bg);
+  margin: 0px auto;
+  color: var(--color-text);
+  font: normal var(--fs-body) / 1.7 var(--family-body);
+  quotes: "「" "」";
 
   @media screen and (min-width: 60rem) {
     grid-template-columns: auto minmax(0px, 1fr);
@@ -72,6 +73,33 @@ nav {
   }
 }
 
+footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  padding-block: 24px 48px;
+  padding-inline: 48px;
+
+  a {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: stretch;
+
+    &.next {
+      align-items: flex-end;
+    }
+
+    > div {
+      font-size: var(--ll);
+    }
+
+    > span {
+      font-size: var(--lm);
+    }
+  }
+}
+
 h1,
 h2,
 h3,
@@ -123,8 +151,7 @@ h6 {
 p,
 ul,
 ol,
-dl {
-  font: normal var(--fs-body) / 1.7 var(--family-body);
+.columns {
   margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);
 }
 
@@ -133,9 +160,10 @@ small {
 }
 
 .columns {
-  width: 100%;
+  --fs-body: var(--bm);
   column-width: 340px;
   column-gap: 12px;
+  font-size: var(--fs-body);
 }
 
 dl {
@@ -145,7 +173,6 @@ dl {
   row-gap: 12px;
   width: 100%;
   margin: unset;
-  font-size: var(--fs-600);
 
   dt {
     justify-self: end;
