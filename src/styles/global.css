@@ -210,22 +210,22 @@ a {
 }
 
 cite {
-  color: oklch(33.85% 0.1638 258.7 / 0.714);
+  color: var(--indigo-a600);
   font-style: unset;
 }
 
 .github-markdown-body mark,
 mark {
   background-color: unset;
-  color: oklch(65.52% 0.1783 58.44 / 0.75);
+  color: var(--orange-a600);
 }
 
 del {
-  color: oklch(57.48% 0.2644 29 / 0.475);
+  color: var(--red-a600);
 }
 
 ins {
-  color: oklch(59.81% 0.1808 127.2 / 0.702);
+  color: var(--emerald-a600);
   text-decoration: none;
 }
 
