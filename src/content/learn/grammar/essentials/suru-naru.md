@@ -5,7 +5,7 @@ chapter: Essential Grammar
 part: 8
 ---
 
-We can use the verbs ""する"" and ""なる"" in conjunction with the ""に"" particle to make various useful expressions. We are used to using the object particle with ""する"" because something is usually done to something else. We will see how the meaning changes when we change the particle to ""に"". As for ""なる"", it is always used with the ""に"" particle because “becoming” is not an action done to something else but rather a target of change. The only grammatical point of interest here is using ""なる"" with i-adjectives and verbs.
+We can use the verbs ""する"" and ""なる"" in conjunction with the ""に"" particle to make various useful expressions. We are used to using the object particle with ""する"" because something is usually done <u>to</u> something else. We will see how the meaning changes when we change the particle to ""に"". As for ""なる"", it is always used with the ""に"" particle because “becoming” is not an action done to something else but rather a target of change. The only grammatical point of interest here is using ""なる"" with i-adjectives and verbs.
 
 ## Using ""なる"" and ""する"" for nouns and na-adjectives
 
