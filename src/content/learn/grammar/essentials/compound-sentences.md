@@ -155,8 +155,8 @@ In a similar fashion, you can express multiple actions. It is usually interprete
 >
 > Examples
 >
-> 1. 学生で~~す → 学生++でし++~~た~~ → 学生でし++て++
-> 1. 買いま~~す~~ → 買い++まし++~~た~~ → 買いまし++て++
+> 1. 学生で~~す~~ → 学生==でし==~~た~~ → 学生でし++て++
+> 1. 買いま~~す~~ → 買い==まし==~~た~~ → 買いまし++て++
 
 | Past Tense |  Te-form   |   Negative   |    Te-form     |
 | :--------: | :--------: | :----------: | :------------: |
