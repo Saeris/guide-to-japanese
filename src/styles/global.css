@@ -328,13 +328,18 @@ figure {
   margin: unset;
 
   figcaption {
+    --fs-label: var(--ll);
     grid-area: bottom;
     width: fit-content;
-    font-weight: 700;
+    color: var(--cn-900);
+    font-size: var(--fs-label);
+    font-weight: 500;
+    margin-block: calc(var(--fs-label) / 1.125) calc(var(--fs-label) * 0.25);
   }
 
   table + figcaption {
     order: -1;
+    font-weight: 700;
     margin-block: calc(var(--fs-heading) / 1.125) calc(var(--fs-heading) * 0.25);
   }
 }
