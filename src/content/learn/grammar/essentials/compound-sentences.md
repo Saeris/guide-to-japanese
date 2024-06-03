@@ -540,7 +540,7 @@ Notice that ""優しくて、かっこよくて、面白いから。"" could als
 ++{簡単|かん・たん}++
 : simple <sup>(na-adj)</sup>
 
-++{難しい|むずか・しい}++ (i-adj)
+++{難しい|むずか・しい}++
 : difficult <sup>(i-adj)</sup>
 
 ++{映画|えい・が}++
