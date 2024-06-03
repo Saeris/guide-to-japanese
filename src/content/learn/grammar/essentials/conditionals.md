@@ -81,7 +81,7 @@ We’ll first cover the simplest type of “if” which is the natural consequen
 
 These examples are designed to show how ""と"" is used to express natural consequence. However, even if the statement isn’t a natural consequence in itself, the ""と"" will tell the audience that it is nevertheless expected to be a natural consequence.
 
-1. 学校に行かない==と==友達と会えないよ。
+1. 学校に行かない==と==友達と会えないよ。  
    If you don’t go to school, you can’t meet your friends.
 
 1. たくさん食べる==と==太るよ。  
@@ -101,7 +101,7 @@ The “for sure” part is the implied meaning supplied by the ""と"". The spea
 ++{皆|みんな}++
 : everybody
 
-++{行く|い・く}
+++{行く|い・く}++
 : to go <sup>(u-verb)</sup>
 
 ++{私|わたし}++
@@ -313,7 +313,7 @@ The next type of conditional just expresses a regular “if” condition without
 : good <sup>(i-adj)</sup>
 
 ++{家|1) うち; 2) いえ}++
-: 1) one’s own home; 2) house
+: one’s own home; house
 
 ++{帰る|かえ・る}++
 : to go home <sup>(u-verb)</sup>
@@ -360,7 +360,7 @@ For i-adjectives and verbs, it is very difficult to differentiate between the tw
 
 Let’s compare the difference in nuance.
 
-### Dialog Example 1
+### Example 1
 
 > <cite>Ａ：</cite> 友達に会えれ==ば==、買い物に行きます。  
 > <cite>A:</cite> We will go shopping, ==if== I can meet with my friend.
@@ -368,7 +368,7 @@ Let’s compare the difference in nuance.
 > <cite>Ｂ：</cite> 友達に会え==たら==、買い物に行きます。  
 > <cite>B:</cite> If I can meet with my friend, ==we will go shopping==.
 
-### Dialog Example 2
+### Example 2
 
 > <cite>Ａ：</cite> お金があれ==ば==いいね。  
 > <cite>A:</cite> It would be good, ==if== I had money, huh?

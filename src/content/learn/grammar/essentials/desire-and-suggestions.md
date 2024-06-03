@@ -233,7 +233,7 @@ The term volitional here means a will to do something. In other words, the volit
 
 To conjugate verbs into the volitional form for casual speech, there are two different rules for ru-verbs and u-verbs. For ru-verbs, you simply remove the ""る"" and add ""よう"". For u-verbs, you replace the _/u/_ vowel sound with the _/o/_ vowel sound and add ""う"".
 
-> [!Note] Conjugations rules for the casual volitional form
+> [!Note] Conjugation rules for the casual volitional form
 >
 > **For ru-verbs:** Remove the ""る"" and add ""よう""
 >
@@ -352,7 +352,7 @@ Remember, since you’re setting out to do something, it doesn’t make sense to
 
 The conjugation for the polite form is even simpler. All you have to do is add ""～ましょう"" to the stem of the verb. Similar to the masu-form, verbs in this form must always come at the end of the sentence. In fact, all polite endings must always come at the end and nowhere else as we’ve already seen.
 
-> [!Note] Conjugations rules for the polite volitional form
+> [!Note] Conjugation rules for the polite volitional form
 >
 > **For all verbs:** Add ""～ましょう"" to the stem of the verb
 >
