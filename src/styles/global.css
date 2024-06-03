@@ -143,6 +143,7 @@ ul,
 ol,
 .columns {
   margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);
+  text-wrap: pretty;
 }
 
 small {
