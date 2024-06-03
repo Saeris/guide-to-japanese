@@ -313,7 +313,8 @@ The next type of conditional just expresses a regular “if” condition without
 : good <sup>(i-adj)</sup>
 
 ++{家|1) うち; 2) いえ}++
-: one’s own home; house
+: one’s own home
+: house
 
 ++{帰る|かえ・る}++
 : to go home <sup>(u-verb)</sup>

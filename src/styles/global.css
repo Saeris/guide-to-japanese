@@ -165,12 +165,14 @@ dl {
   margin: unset;
 
   dt {
+    grid-column: 1;
     justify-self: end;
     break-after: avoid;
     white-space: nowrap;
   }
 
   dd {
+    grid-column: 2;
     margin: unset;
     padding-inline: 8px;
     break-inside: avoid;

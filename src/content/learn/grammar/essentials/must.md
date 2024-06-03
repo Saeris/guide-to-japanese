@@ -30,7 +30,7 @@ In life, there are things that we must or must not do whether it’s taking out 
 ++{食べる|たべ・る}++
 : to eat <sup>(ru-verb)</sup>
 
-++{夜|よる}+
+++{夜|よる}++
 : evening
 
 ++{遅い|おそ・い}++
