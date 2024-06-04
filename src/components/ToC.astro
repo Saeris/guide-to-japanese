@@ -102,16 +102,18 @@ const { headings } = Astro.props;
 </style>
 
 <nav class="toc">
-  <div>
-    <h2>On this page</h2>
-    <ul>
-      {
-        headings.map((heading) => (
-          <li style={{ "--depth": heading.depth }}>
-            <a href={"#" + heading.slug}>{heading.text}</a>
-          </li>
-        ))
-      }
-    </ul>
-  </div>
+  {
+    headings.length ? (
+      <div>
+        <h2>On this page</h2>
+        <ul>
+          {headings.map((heading) => (
+            <li style={{ "--depth": heading.depth }}>
+              <a href={"#" + heading.slug}>{heading.text}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ) : null
+  }
 </nav>

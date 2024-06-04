@@ -13,7 +13,7 @@ interface Chapter {
   pages: typeof pages;
 }
 
-const chapters = Object.values(
+const chapters = Object.values<Chapter>(
   pages.reduce(
     (hash, page) =>
       Object.assign(hash, {
@@ -30,14 +30,17 @@ const chapters = Object.values(
       }),
     {} as Record<string, Chapter>
   )
-).sort((a, b) => a.number - b.number);
+).toSorted((a, b) => a.number - b.number);
 ---
 
 <script>
-  const link = document.querySelector(
-    `.subnav a[href="${new URL(location.href).pathname}"]`
-  );
+  const activeLink = `a[href="${new URL(location.href).pathname}"]`;
+  const chapter = document.querySelector(`.subnav details:has(${activeLink})`);
+  const link = document.querySelector(`.subnav ${activeLink}`);
 
+  if (chapter && chapter.tagName.toLowerCase() === "details") {
+    (chapter as HTMLDetailsElement).open = true;
+  }
   if (link) {
     link.classList.add("active");
   }
@@ -45,25 +48,71 @@ const chapters = Object.values(
 
 <style is:global>
   .subnav {
-    display: grid;
-    grid-auto-rows: min-content;
-    align-items: start;
-    padding: 3rem 2rem;
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    min-height: 100dvh;
+    height: fit-content;
+    padding: 2rem;
+    box-sizing: border-box;
 
-    @media screen and (min-width: 60rem) {
-      grid-column: 1 / 2;
-      grid-row: 2 / 3;
-      grid-template-rows: 1fr min-content;
-      height: fit-content;
-      min-height: 100dvh;
-      max-width: var(--nav-width);
-      padding: 2rem;
+    details {
+      --outline: transparent;
+      --shadow: transparent;
+      display: flex;
+      width: 100%;
+
+      & summary:focus-visible {
+        --outline: var(--cp-500);
+        --shadow: var(--cp-a200);
+      }
+
+      &[open] > summary:first-of-type::before {
+        content: "-";
+      }
+
+      > summary:first-of-type {
+        --text: var(--cn-950);
+        position: relative;
+        border-radius: 4px;
+        border: 1px solid var(--outline);
+        padding-block: 2px;
+        padding-inline: 4px;
+        color: var(--text);
+        box-shadow: 0 0 0 1.5px var(--shadow);
+        cursor: pointer;
+        list-style-type: none;
+
+        &:before {
+          content: "+";
+          position: absolute;
+          top: 0.25em;
+          right: 0.25em;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 1em;
+          height: 1em;
+          line-height: 1em;
+        }
+
+        &:hover {
+          --text: var(--cp-900);
+        }
+
+        &:focus-visible {
+          outline: none;
+        }
+      }
     }
 
     nav {
       display: flex;
       flex-direction: column;
-      grid-area: 1 / 1;
+      width: 100%;
+      padding-top: 24px;
 
       ul {
         display: flex;
@@ -76,7 +125,12 @@ const chapters = Object.values(
           --outline: transparent;
           --shadow: transparent;
           --text: var(--cn-700);
+          border-radius: 4px;
+          border: 1px solid var(--outline);
           padding-block: 2px;
+          padding-inline: 4px;
+          text-wrap: balance;
+          box-shadow: 0 0 0 1.5px var(--shadow);
 
           &:hover {
             --text: var(--cn-900);
@@ -86,20 +140,18 @@ const chapters = Object.values(
             --text: var(--cp-700);
           }
 
-          & a:focus-visible {
+          &:focus-within {
             --outline: var(--cp-500);
             --shadow: var(--cp-a200);
           }
 
           a {
-            border-radius: 4px;
-            border: 1px solid var(--outline);
-            padding-inline: 4px;
+            display: block;
+            width: stretch;
             color: var(--text);
             text-decoration: none;
 
             &:focus-visible {
-              box-shadow: 0 0 0 1.5px var(--shadow);
               outline: none;
             }
           }
@@ -112,9 +164,9 @@ const chapters = Object.values(
 <aside class="subnav">
   <nav>
     {
-      Object.values(chapters).map((chapter) => (
-        <>
-          <h2>{chapter.title}</h2>
+      chapters.map((chapter) => (
+        <details name="chapter">
+          <summary>{chapter.title}</summary>
           <ul>
             {chapter.pages
               .sort((a, b) => a.part - b.part)
@@ -124,7 +176,7 @@ const chapters = Object.values(
                 </li>
               ))}
           </ul>
-        </>
+        </details>
       ))
     }
   </nav>
