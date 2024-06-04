@@ -265,7 +265,7 @@ There is a shorter version of the causative conjugation, which I will go over fo
 
 The key difference in this version is that all verbs become an u-verbs with a ""す"" ending. Therefore, the resulting verb would conjugate just like any other u-verb ending in ""す"" such as ""話す"" or ""指す"". The first part of the conjugation is the same as the original causative form. However, for ru-verbs, instead of attaching ""させる"", you attach ""さす"" and for u-verbs, you attach ""す"" instead of ""せる"". As a result, all the verbs become an u-verb ending in ""す"".
 
-> {!Note] Shortened Causative Form
+> [!Note] Shortened Causative Form
 >
 > This form is rarely used so you may just want to stick with the more traditional version of the causative form.
 >
