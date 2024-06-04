@@ -245,6 +245,7 @@ iframe {
 }
 
 .markdown-alert {
+  margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);
   padding-inline: 24px;
 
   & .markdown-alert-title {
