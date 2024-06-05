@@ -50,16 +50,21 @@ main {
 }
 
 nav {
-  font: 500 var(--fs-body) / 1.3 var(--family-display);
+  font-family: var(--family-display);
+  line-height: 1.3;
 
-  h2 {
+  h2,
+  summary {
     --fs-heading: var(--bs);
+    font-size: var(--fs-heading);
+    font-weight: 500;
   }
 
   ul {
     --fs-body: var(--bt);
     padding: 0;
     margin: 0;
+    font-size: var(--fs-body);
     list-style: none;
   }
 }
