@@ -11,28 +11,26 @@ In Japanese there are many different ways to express likeness or similarity depe
 
 ## Vocabulary
 
-<div class="columns">
-
 ++ここ++
 : here
 
 ++{誰|だれ}++
 : who
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++{映画|えい・が}++
 : movie
 
-++{観る|み・る}++
-: to watch <sup>(ru-verb)</sup>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to watch
 
 ++{学生|がく・せい}++
 : student
 
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
 ++あの++
 : that (over there) (abbr. of あれの)
@@ -40,14 +38,14 @@ In Japanese there are many different ways to express likeness or similarity depe
 ++{人|ひと}++
 : person
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{気|き}++
 : mood; intent
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -58,22 +56,20 @@ In Japanese there are many different ways to express likeness or similarity depe
 ++ちょっと++
 : a little
 
-++{怒る|おこ・る}++
-: to get angry <sup>(u-verb)</sup>
+++{怒る|おこ・る}++ <abbr title="う verb">u-verb</abbr>
+: to get angry
 
-++{聞こえる|き・こえる}++
-: to be audible <sup>(ru-verb)</sup>
+++{聞こえる|き・こえる}++ <abbr title="る verb">ru-verb</abbr>
+: to be audible
 
 ++{何|なに／なん}++
 : what
 
-++{起こる|おこ・る}++
-: to happen <sup>(u-verb)</sup>
+++{起こる|おこ・る}++ <abbr title="う verb">u-verb</abbr>
+: to happen
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
-
-</div>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 We’ve already briefly gone over ""よう"" and learned that ""よう"" means an appearance or manner. We can use this definition to say that something has an appearance or manner of a certain state. This word can be used in many ways to express similarity. The simplest example is by directly modifying the relative clause. When the sentence ends in ""よう"", you must explicitly express the state-of-being by adding ""だ"", ""です"", or ""でございます"".
 
@@ -113,10 +109,8 @@ Finally, we can attach the target particle to say things like, “I heard it lik
 
 ### Vocabulary
 
-<div class="columns">
-
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{犬|いぬ}++
 : dog
@@ -130,8 +124,8 @@ Finally, we can attach the target particle to say things like, “I heard it lik
 ++{制服|せい・ふく}++
 : uniform
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
 ++{姿|すがた}++
 : figure
@@ -148,10 +142,8 @@ Finally, we can attach the target particle to say things like, “I heard it lik
 ++{お好み焼き|お・この・み・や・き}++
 : okonomiyaki (Japanese-style pancake)
 
-++{見える|み・える}++
-: to be visible <sup>(ru-verb)</sup>
-
-</div>
+++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>
+: to be visible
 
 Another way to express similarity which is considered more casual is by using ""みたい"". Do not confuse this with the ""たい"" conjugation of ""見る"". The main difference is that this ""みたい"" can be attached directly to nouns, adjectives, and verbs just like particles which i-adjectives like ""～たい"" obviously can’t do.
 
@@ -196,22 +188,20 @@ Don’t forget that ""みたい"" does not conjugate like the ""～たい"" form
 
 ### Vocabulary
 
-<div class="columns">
-
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{バランス|ba ra n su}++
 : balance
 
-++{崩れる|くず・れる}++
-: to collapse; to crumble <sup>(ru-verb)</sup>
+++{崩れる|くず・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to collapse; to crumble
 
 ++{一瞬|いっ・しゅん}++
 : an instant
 
-++{倒れる|たお・れる}++
-: to collapse; to fall <sup>(ru-verb)</sup>
+++{倒れる|たお・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to collapse; to fall
 
 ++この++
 : this (abbr. of これの)
@@ -219,14 +209,14 @@ Don’t forget that ""みたい"" does not conjugate like the ""～たい"" form
 ++{辺り|あた・り}++
 : vicinity
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{漬物|つけ・もの}++
 : pickled vegetable
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
 ++これ++
 : this
@@ -237,8 +227,8 @@ Don’t forget that ""みたい"" does not conjugate like the ""～たい"" form
 ++やはり／やっぱり++
 : as I thought
 
-++{高い|たか・い}++
-: high; tall; expensive <sup>(i-adj)</sup>
+++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>
+: high; tall; expensive
 
 ++{お前|お・まえ}++
 : you (casual)
@@ -249,8 +239,8 @@ Don’t forget that ""みたい"" does not conjugate like the ""～たい"" form
 ++{女|おんな}++
 : woman; girl
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
 ++もう++
 : already
@@ -258,11 +248,11 @@ Don’t forget that ""みたい"" does not conjugate like the ""～たい"" form
 ++{～時|～じ}++
 : counter for hours
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++ただ++
 : free of charge; only
@@ -279,16 +269,14 @@ Don’t forget that ""みたい"" does not conjugate like the ""～たい"" form
 ++{学生|がく・せい}++
 : student
 
-++かわいい++
-: cute <sup>(i-adj)</sup>
+++かわいい++ <abbr title="い adjective">i-adj</abbr>
+: cute
 
-++かわいそう++
-: pitiable <sup>(i-adj)</sup>
+++かわいそう++ <abbr title="い adjective">i-adj</abbr>
+: pitiable
 
 ++{犬|いぬ}++
 : dog
-
-</div>
 
 The problem with English is that the expression, “seems like” has too many meanings. It can mean similarity in appearance, similarity in behavior or even that current evidence points to a likely outcome. We will now learn how to say the third meaning: how to indicate a likely outcome given the situation.
 
@@ -369,8 +357,6 @@ Be careful never to use ""かわいい"" with this grammar. ""かわいそう"" 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{明日|あした}++
 : tomorrow
 
@@ -383,11 +369,11 @@ Be careful never to use ""かわいい"" with this grammar. ""かわいそう"" 
 ++{毎日|まい・にち}++
 : everyday
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -401,10 +387,8 @@ Be careful never to use ""かわいい"" with this grammar. ""かわいそう"" 
 ++{田中|た・なか}++
 : Tanaka (last name)
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
-
-</div>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 The reason that there are so many annoying rules to using ""～そう"" is to distinguish it from this next grammar we will learn. This is a useful grammar for talking about things you heard that doesn’t necessary have anything to do with how you yourself, think or feel.
 
@@ -433,16 +417,14 @@ When starting the sentence with this grammar, you also need to add ""だ"" just 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{今日|きょう}++
 : today
 
 ++{田中|た・なか}++
 : Tanaka (last name)
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++あの++
 : that (over there) (abbr. of あれの)
@@ -468,16 +450,14 @@ When starting the sentence with this grammar, you also need to add ""だ"" just 
 ++{大人|おとな}++
 : adult
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++つもり++
 : intention, plan
 
 ++{大騒ぎ|おお・さわ・ぎ}++
 : big commotion
-
-</div>
 
 ""らしい"" can be directly attached to nouns, adjectives, or verbs to show that things appear to be a certain way due to what you’ve heard. This is different from ""～そうだ""because ""～そうだ"" indicates something you heard about specifically while ""らしい"" means things seem to be a certain way based on some things you heard about the subject. ""らしい"" conjugates like a normal i-adjective.
 
@@ -509,8 +489,6 @@ Another way to use ""らしい"" is to indicate that a person seems to be a cert
 
 ### Vocabulary
 
-<div class="columns">
-
 ++あの++
 : that (over there) (abbr. of あれの)
 
@@ -529,8 +507,8 @@ Another way to use ""らしい"" is to indicate that a person seems to be a cert
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{恭子|きょう・こ}++
 : Kyouko (first name)
@@ -540,8 +518,6 @@ Another way to use ""らしい"" is to indicate that a person seems to be a cert
 
 ++{女|おんな}++
 : woman; girl
-
-</div>
 
 A really casual way to express similarity is to attach ""っぽい"" to the word that reflects the resemblance. Because this is a very casual expression, you can use it as a casual version for all the different types of expression for similarity covered above.
 

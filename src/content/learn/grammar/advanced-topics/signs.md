@@ -11,31 +11,29 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{嫌|いや}++
-: disagreeable; unpleasant <sup>(na-adj)</sup>
+: disagreeable; unpleasant <abbr title="な adjective">na-adj</abbr>
 
-++{怖い|こわ・い}++
-: scary <sup>(i-adj)</sup>
+++{怖い|こわ・い}++ <abbr title="い adjective">i-adj</abbr>
+: scary
 
-++{嬉しい|うれ・しい}++
-: happy <sup>(i-adj)</sup>
+++{嬉しい|うれ・しい}++ <abbr title="い adjective">i-adj</abbr>
+: happy
 
-++{恥ずかしい|は・ずかしい}++
-: embarrassing <sup>(i-adj)</sup>
+++{恥ずかしい|は・ずかしい}++ <abbr title="い adjective">i-adj</abbr>
+: embarrassing
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{何|なに／なん}++
 : what
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++{彼女|かの・じょ}++
 : she; girlfriend
@@ -43,8 +41,8 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 ++{朝|あさ}++
 : morning
 
-++{起こす|お・こす}++
-: to cause, to wake someone <sup>(u-verb)</sup>
+++{起こす|お・こす}++ <abbr title="う verb">u-verb</abbr>
+: to cause, to wake someone
 
 ++{タイプ|ta i pu}++
 : type
@@ -58,30 +56,30 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 ++{プール|pu u ru}++
 : pool
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++{理由|り・ゆう}++
 : reason
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++{欲しい|ほ・しい}++
-: desirable <sup>(i-adj)</sup>
+++{欲しい|ほ・しい}++ <abbr title="い adjective">i-adj</abbr>
+: desirable
 
 ++{カレー|ka re e}++
 : curry
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{家|1) うち; 2) いえ}++
 : one’s own home
 : house
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++すぐ++
 : soon
@@ -89,8 +87,8 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 ++{パソコン|pa so ko n}++
 : computer, PC
 
-++{使う|つか・う}++
-: to use <sup>(u-verb)</sup>
+++{使う|つか・う}++ <abbr title="う verb">u-verb</abbr>
+: to use
 
 ++{皆|みんな}++
 : everybody
@@ -98,8 +96,8 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 ++{イタリア|i ta ri a}++
 : Italy
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{私|わたし}++
 : me, myself, I
@@ -113,8 +111,8 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 ++とても++
 : very
 
-++{怪しい|あや・しい}++
-: suspicious; dubious; doubtful <sup>(i-adj)</sup>
+++{怪しい|あや・しい}++ <abbr title="い adjective">i-adj</abbr>
+: suspicious; dubious; doubtful
 
 ++{妻|つま}++
 : wife
@@ -128,8 +126,8 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 ++もん++
 : object （short for もの）
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{訳|わけ}++
 : meaning; reason; can be deduced
@@ -146,13 +144,11 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 ++{ミネソタ|mi ne so ta}++
 : Minnesota
 
-++{暮らす|く・らす}++
-: to live <sup>(u-verb)</sup>
+++{暮らす|く・らす}++ <abbr title="う verb">u-verb</abbr>
+: to live
 
-++{辛い|つら・い}++
-: harsh <sup>(i-adj)</sup>
-
-</div>
+++{辛い|つら・い}++ <abbr title="い adjective">i-adj</abbr>
+: harsh
 
 The ""～がる"" grammar is used when you want to make an observation about how someone is feeling. This is simply an observation based on some type of sign(s). Therefore, you would not use it for your own emotions since guessing about your own emotions is not necessary. This grammar can only be used with adjectives so you can use this grammar to say, “He is acting scared,” but you cannot say “He acted surprised,” because “to be surprised” is a verb in Japanese and not an adjective. This grammar is also commonly used with a certain set of adjectives related to emotions such as: ""嫌""、""怖い""、""嬉しい""、or ""恥ずかしい"".
 
@@ -210,10 +206,8 @@ This grammar is also used to observe very frankly on what you think someone othe
 
 ### Vocabulary
 
-<div class="columns">
-
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{ボール|ba a ru}++
 : ball
@@ -221,11 +215,11 @@ This grammar is also used to observe very frankly on what you think someone othe
 ++{爆発|ばく・はつ}++
 : explosion
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{膨らむ|ふく・らむ}++
-: to expand; to swell <sup>(u-verb)</sup>
+++{膨らむ|ふく・らむ}++ <abbr title="う verb">u-verb</abbr>
+: to expand; to swell
 
 ++あんた++
 : you (slang)
@@ -233,8 +227,8 @@ This grammar is also used to observe very frankly on what you think someone othe
 ++{関係|かん・けい}++
 : relation, relationship
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{彼女|かの・じょ}++
 : she; girlfriend
@@ -255,12 +249,10 @@ This grammar is also used to observe very frankly on what you think someone othe
 : what
 
 ++{平気|へい・き}++
-: coolness; calmness <sup>(na-adj)</sup>
+: coolness; calmness <abbr title="な adjective">na-adj</abbr>
 
 ++{顔|かお}++
 : face
-
-</div>
 
 We just learned how to observe the emotions and feelings of other by using ""～がる"" with adjectives. But what about verbs? Indeed, there is a separate grammar used to express the fact that someone else looks like they are about to do something but actually does not. Similar to the ""～がる"" grammar, this is usually not used in normal everyday conversations. I have seen it several times in books and novels but have yet to hear this grammar in a conversation.
 
@@ -304,8 +296,6 @@ This grammar is completely different from the ""ばかり"" used to express amou
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{謎|なぞ}++
 : puzzle
 
@@ -318,8 +308,8 @@ This grammar is completely different from the ""ばかり"" used to express amou
 ++{紅葉|こう・よう}++
 : leaves changing color
 
-++{始まる|はじ・まる}++
-: to begin <sup>(u-verb)</sup>
+++{始まる|はじ・まる}++ <abbr title="う verb">u-verb</abbr>
+: to begin
 
 ++すっかり++
 : completely
@@ -330,8 +320,8 @@ This grammar is completely different from the ""ばかり"" used to express amou
 ++{空気|くう・き}++
 : air; atmosphere
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++そんな++
 : that sort of
@@ -339,23 +329,23 @@ This grammar is completely different from the ""ばかり"" used to express amou
 ++{顔|かお}++
 : face
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++うまい++
-: skillful; delicious <sup>(i-adj)</sup>
+++うまい++ <abbr title="い adjective">i-adj</abbr>
+: skillful; delicious
 
 ++{説明|せつ・めい}++
 : explanation
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 ++いつも++
 : always
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{～方|～かた}++
 : way of doing ～
@@ -364,9 +354,7 @@ This grammar is completely different from the ""ばかり"" used to express amou
 : everybody
 
 ++{嫌|いや}++
-: disagreeable; unpleasant <sup>(na-adj)</sup>
-
-</div>
+: disagreeable; unpleasant <abbr title="な adjective">na-adj</abbr>
 
 By now, you’re probably thinking, “Ok, we’ve done adjectives and verbs. What about nouns?” As a matter of fact, there is a similar grammar that is used usually for nouns and na-adjectives. It is used to indicate that something is showing the signs of a certain state. Unlike the ""～がる"" grammar, there is no action that indicates anything; merely the atmosphere gives off the impression of the state. Just like the previous grammar we learned in this section, this grammar has a list of commonly used nouns such as ""謎""、""秘密""、or ""皮肉"". This grammar is used by simply attaching ""めく"" to the noun or na-adjective. The result then becomes a regular u-verb.
 

@@ -13,84 +13,80 @@ In Japanese, the ability to do a certain action is expressed by conjugating the 
 
 ### Vocabulary
 
-<div class="columns">
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>
+: to believe
 
-++{信じる|しん・じる}++
-: to believe <sup>(ru-verb)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{起きる|お・きる}++ <abbr title="る verb">ru-verb</abbr>
+: to wake; to occur
 
-++{起きる|お・きる}++
-: to wake; to occur <sup>(ru-verb)</sup>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+: to come out
 
-++{出る|で・る}++
-: to come out <sup>(ru-verb)</sup>
+++{掛ける|か・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to hang
 
-++{掛ける|か・ける}++
-: to hang <sup>(ru-verb)</sup>
+++{調べる|しら・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to investigate
 
-++{調べる|しら・べる}++
-: to investigate <sup>(ru-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{取る|と・る}++ <abbr title="う verb">u-verb</abbr>
+: to take
 
-++{取る|と・る}++
-: to take <sup>(u-verb)</sup>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+: to die
 
-++{死ぬ|し・ぬ}++
-: to die <sup>(u-verb)</sup>
-
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{漢字|かん・じ}++
 : Kanji
 
-++{残念|ざん・ねん}++
-: unfortunate <sup>(na-adj)</sup>
+++{残念|ざん・ねん}++ <abbr title="な adjective">na-adj</abbr>
+: unfortunate
 
 ++{今週末|こん・しゅう・まつ}++
 : this weekend
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++もう++
 : already
-
-</div>
 
 Once again, the conjugation rules can be split into three major groups: ru-verbs, u-verbs, and exception verbs. However, the potential form of the verb ""する"" (meaning “to do”) is a special exception because it becomes a completely different verb: ""できる"" （出来る）
 
@@ -169,24 +165,20 @@ It is also possible to just add ""れる"" instead of the full ""られる"" for
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{富士山|ふ・じ・さん}++
 : Mt. Fuji
 
-++{登る|のぼ・る}++
-: to climb <sup>(u-verb)</sup>
+++{登る|のぼ・る}++ <abbr title="う verb">u-verb</abbr>
+: to climb
 
-++{重い|おも・い}++
-: heavy <sup>(i-adj)</sup>
+++{重い|おも・い}++ <abbr title="い adjective">i-adj</abbr>
+: heavy
 
 ++{荷物|に・もつ}++
 : baggage
 
-++{持つ|も・つ}++
-: to hold <sup>(u-verb)</sup>
-
-</div>
+++{持つ|も・つ}++ <abbr title="う verb">u-verb</abbr>
+: to hold
 
 The potential form indicates that something is possible but no actual action is actually taken. While the potential form is still a verb, because it is describing the state of feasibility, in general, you don’t want to use the direct object ""を"" as you would with the non-potential form of the verb. For example the following sentences sound unnatural.
 
@@ -206,19 +198,17 @@ Here are the versions using either ""が"" or ""は"" instead:
 
 ### Vocabulary
 
-<div class="columns">
+++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>
+: to be visible
 
-++{見える|み・える}++
-: to be visible <sup>(ru-verb)</sup>
-
-++{聞こえる|き・こえる}++
-: to be audible <sup>(ru-verb)</sup>
+++{聞こえる|き・こえる}++ <abbr title="る verb">ru-verb</abbr>
+: to be audible
 
 ++{今日|きょう}++
 : today
 
-++{晴れる|は・れる}++
-: to be sunny <sup>(ru-verb)</sup>
+++{晴れる|は・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to be sunny
 
 ++{富士山|ふ・じ・さん}++
 : Mt. Fuji
@@ -235,14 +225,14 @@ Here are the versions using either ""が"" or ""は"" instead:
 ++ただ++
 : free of charge; only
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++こと++
 : event, matter
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 ++{久しぶり|ひさ・しぶり}++
 : after a long time
@@ -253,22 +243,20 @@ Here are the versions using either ""が"" or ""は"" instead:
 ++{声|こえ}++
 : voice
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
 ++{周り|まわ・り}++
 : surroundings
 
-++うるさい++
-: noisy <sup>(i-adj)</sup>
+++うるさい++ <abbr title="い adjective">i-adj</abbr>
+: noisy
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++あまり／あんまり++
 : not very (when used with negative)
-
-</div>
 
 There are two verbs ""見える"" and ""聞こえる"" that mean that something is visible and audible, respectively. When you want to say that you can see or hear something, you’ll want to use these verbs. If however, you wanted to say that you were given the opportunity to see or hear something, you would use the regular potential form. However, in this case, it is more common to use the type of expression as seen in example 3.
 
@@ -299,16 +287,14 @@ Here’s some more examples using ""聞く"", can you tell the difference? Notic
 
 ### Vocabulary
 
-<div class="columns">
-
 ++そんな++
 : that sort of
 
 ++こと++
 : event, matter
 
-++{有り得る|あ・り・え・る／あ・り・う・る}++
-: to possibly exist <sup>(ru-verb)</sup>
+++{有り得る|あ・り・え・る／あ・り・う・る}++ <abbr title="る verb">ru-verb</abbr>
+: to possibly exist
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -316,16 +302,14 @@ Here’s some more examples using ""聞く"", can you tell the difference? Notic
 ++{寝坊|ね・ぼう}++
 : oversleep
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++それ++
 : that
 
 ++{話|はなし}++
 : story
-
-</div>
 
 You can say that something has a possibility of existing by combining ""ある"" and the verb ""得る"" to produce ""あり得る"". This essentially means ""あることができる"" except that nobody actually says that, they just use ""あり得る"". This verb is very curious in that it can be read as either ""ありうる"" or ""ありえる"", however; all the other conjugations such as ""ありえない""、""ありえた""、and ""ありえなかった"" only have one possible reading using ""え"".
 

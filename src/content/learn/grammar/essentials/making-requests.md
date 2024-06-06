@@ -13,46 +13,44 @@ Similar to asking for favors, which we learned in the last lesson, there are als
 
 ### Vocabulary
 
-<div class="columns">
-
 ++それ++
 : that
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
 ++{漢字|かん・じ}++
 : Kanji
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
 ++ここ++
 : here
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{日本語|に・ほん・ご}++
 : Japanese (language)
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
 ++{消しゴム|け・し・ごむ}++
 : eraser
 
-++{貸す|か・す}++
-: lend <sup>(u-verb)</sup>
+++{貸す|か・す}++ <abbr title="う verb">u-verb</abbr>
+: lend
 
-++{遠い|とお・い}++
-: far <sup>(i-adj)</sup>
+++{遠い|とお・い}++ <abbr title="い adjective">i-adj</abbr>
+: far
 
 ++{所|ところ}++
 : place
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{お父さん|お・とう・さん}++
 : father (polite)
@@ -60,13 +58,11 @@ Similar to asking for favors, which we learned in the last lesson, there are als
 ++{時計|と・けい}++
 : watch; clock
 
-++{壊れる|こわ・れる}++
-: to break <sup>(ru-verb)</sup>
+++{壊れる|こわ・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to break
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
-
-</div>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ""ください"" is a special conjugation of ""くださる"", which is the honorific form of ""くれる"". We will learn more about honorific and humble forms in the beginning of the next major section. We are going over ""ください"" here because it has a slight difference in meaning from the normal ""くれる"" and the honorific ""くださる"". ""ください"" is different from ""くれる"" in the following fashion:
 
@@ -127,13 +123,11 @@ Of course, since direct quotes is merely repeating something someone said in ver
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{頂戴|ちょうだい}++
 : receiving (humble)
 
-++{致す|いたす}++
-: to do (humble) <sup>(u-verb)</sup>
+++{致す|いたす}++ <abbr title="う verb">u-verb</abbr>
+: to do (humble)
 
 ++{スプーン|su pu u n}++
 : spoon
@@ -144,10 +138,8 @@ Of course, since direct quotes is merely repeating something someone said in ver
 ++{名前|な・まえ}++
 : name
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
-
-</div>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
 A casual alternative of ""ください"" is ""ちょうだい"". While it can be used by anyone, it has a slightly feminine and childish nuance and is always written in Hiragana. Written in Kanji, it is usually used in a very formal expression such as ""頂戴致します"". Grammatically, it’s used exactly the same way as ""ください"".
 
@@ -163,28 +155,26 @@ A casual alternative of ""ください"" is ""ちょうだい"". While it can be
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|たべ・る}++
-: to eat <sup>(ru-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
-++いい++
-: good <sup>(i-adj)</sup>
-
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
 ++ここ++
 : here
 
-++{座る|すわ・る}++
-: to sit <sup>(ru-verb)</sup>
+++{座る|すわ・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sit
 
 ++まだ++
 : yet
@@ -192,8 +182,8 @@ A casual alternative of ""ください"" is ""ちょうだい"". While it can be
 ++いっぱい++
 : full
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++たくさん++
 : a lot (amount)
@@ -201,13 +191,11 @@ A casual alternative of ""ください"" is ""ちょうだい"". While it can be
 ++それ++
 : that
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++そう++
 : (things are) that way
-
-</div>
 
 ""なさい"" is a special honorific conjugation of ""する"". It is a soft yet firm way of issuing a command. It is used, for example, when a mother is scolding her child or when a teacher wants a delinquent student to pay attention. Unlike ""ください"", ""なさい"" only applies to positive verbs and uses the stem of the verb instead of the te-form. It also cannot be used by itself but must be attached to another verb.
 
@@ -241,84 +229,80 @@ You can also drop ""さい"" portion of the ""なさい"" to make a casual versi
 
 ### Vocabulary
 
-<div class="columns">
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+: to die
 
-++{死ぬ|し・ぬ}++
-: to die <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>
+: to believe
 
-++{信じる|しん・じる}++
-: to believe <sup>(ru-verb)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{起きる|お・きる}++ <abbr title="る verb">ru-verb</abbr>
+: to wake; to occur
 
-++{起きる|お・きる}++
-: to wake; to occur <sup>(ru-verb)</sup>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+: to come out
 
-++{出る|で・る}++
-: to come out <sup>(ru-verb)</sup>
+++{掛ける|か・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to hang
 
-++{掛ける|か・ける}++
-: to hang <sup>(ru-verb)</sup>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+: to throw away
 
-++{捨てる|す・てる}++
-: to throw away <sup>(ru-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{直る|なお・る}++ <abbr title="う verb">u-verb</abbr>
+: to be fixed
 
-++{直る|なお・る}++
-: to be fixed <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
-
-++{好き|す・き}++
-: likable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable
 
 ++あっち++
 : that way (over there) （abbr of あちら）
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
 ++{酒|さけ}++
 : alcohol
 
-++{持つ|も・つ}++
-: to hold <sup>(u-verb)</sup>
-
-</div>
+++{持つ|も・つ}++ <abbr title="う verb">u-verb</abbr>
+: to hold
 
 We will go over the command form in the interest of covering all the possible verb conjugations. In reality, the command form is rarely used as Japanese people tend to be too polite to use imperatives. Also, this coarse type of speech is rarely, if indeed at all, used by females who tend to use ""なさい"" or an exasperated ""くれる"" when angry or irritated. This form is only really useful for reading or watching fictional works. You may often see or hear ""死ね！"" (“Die!”) in fiction which, of course, you’ll never hear in real life. (I hope!)
 
@@ -393,30 +377,26 @@ Table: Exception Verbs
 
 ### Vocabulary
 
-<div class="columns">
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
-
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++それ++
 : that
 
-++{食べる|た・べる}++
-: to eat <sup>(u-verb)</sup>
+++{食べる|た・べる}++ <abbr title="う verb">u-verb</abbr>
+: to eat
 
-++{変|へん}++
-: strange <sup>(na-adj)</sup>
+++{変|へん}++ <abbr title="な adjective">na-adj</abbr>
+: strange
 
 ++こと++
 : event, matter
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
-
-</div>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 The negative command form is very simple: simply attach ""な"" to either ru-verbs or u-verbs. Don’t confuse this with the ""な"" sentence-ending particle we will be learning at the end of this section. The intonation is totally different.
 

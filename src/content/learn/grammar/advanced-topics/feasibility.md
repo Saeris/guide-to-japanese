@@ -11,25 +11,23 @@ We learned how to express feasibility in the section on the potential form quite
 
 ### Vocabulary
 
-<div class="columns">
-
-++{得る|え・る}++
-: to obtain <sup>(ru-verb)</sup>
+++{得る|え・る}++ <abbr title="る verb">ru-verb</abbr>
+: to obtain
 
 ++{意図|い・と}++
 : intention; aim; design
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++この++
 : this （abbr. of これの）
@@ -43,14 +41,14 @@ We learned how to express feasibility in the section on the potential form quite
 ++{以上|い・じょう}++
 : greater or equal
 
-++{壊れる|こわ・れる}++
-: to break <sup>(ru-verb)</sup>
+++{壊れる|こわ・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to break
 
-++{新しい|あたら・しい}++
-: new <sup>(i-adj)</sup>
+++{新しい|あたら・しい}++ <abbr title="い adjective">i-adj</abbr>
+: new
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++ずっと++
 : the whole time, all along
@@ -70,16 +68,14 @@ We learned how to express feasibility in the section on the potential form quite
 ++{話|はなし}++
 : story
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
 ++どうしても++
 : by any means, no matter what
 
 ++{海外|かい・がい}++
 : overseas
-
-</div>
 
 This grammar is used when there’s something that just can’t be helped and must be done. It is the negative version of the grammar we previously covered for something that has to be done. It uses the negative of the verb ""得る"" or “obtain”, to roughly mean that “one cannot obtain not doing of an action”. This means that you can’t not do something even if you wanted to. As a result of the use of double negatives, this grammar carries a slight suggestion that you really don’t want to do it, but you have to because it can’t be helped. Really, the negative connotation is the only difference between this grammar and the grammar we covered in this “have to” section. That, and the fact that this grammar is fancier and more advanced.
 
@@ -114,22 +110,20 @@ This grammar uses an archaic negative form of verbs that ends in ""～ざる"". 
 
 ### Vocabulary
 
-<div class="columns">
-
-++{止む|や・む}++
-: to stop <sup>(u-verb)</sup>
+++{止む|や・む}++ <abbr title="う verb">u-verb</abbr>
+: to stop
 
 ++{仕方|し・かた}++
 : way, method
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++しょうがない++
 : it can’t be helped, nothing can be done
 
-++{得る|え・る}++
-: to obtain <sup>(ru-verb)</sup>
+++{得る|え・る}++ <abbr title="る verb">ru-verb</abbr>
+: to obtain
 
 ++{事由|じ・ゆう}++
 : reason; cause
@@ -137,8 +131,8 @@ This grammar uses an archaic negative form of verbs that ends in ""～ざる"". 
 ++{手続|て・つづき}++
 : procedure, paperwork
 
-++{遅れる|おく・れる}++
-: to be late <sup>(ru-verb)</sup>
+++{遅れる|おく・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to be late
 
 ++{必ず|かなら・ず}++
 : without exception, without fail
@@ -152,8 +146,8 @@ This grammar uses an archaic negative form of verbs that ends in ""～ざる"". 
 ++{仕事|し・ごと}++
 : job
 
-++{厳しい|きび・しい}++
-: strict <sup>(i-adj)</sup>
+++{厳しい|きび・しい}++ <abbr title="い adjective">i-adj</abbr>
+: strict
 
 ++{最近|さい・きん}++
 : recent; lately
@@ -161,16 +155,14 @@ This grammar uses an archaic negative form of verbs that ends in ""～ざる"". 
 ++{不景気|ふ・けい・き}++
 : recession, depression
 
-++{新しい|あたら・しい}++
-: new <sup>(i-adj)</sup>
+++{新しい|あたら・しい}++ <abbr title="い adjective">i-adj</abbr>
+: new
 
-++{見つかる|み・つかる}++
-: to be found <sup>(u-verb)</sup>
+++{見つかる|み・つかる}++ <abbr title="う verb">u-verb</abbr>
+: to be found
 
 ++{状態|じょう・たい}++
 : situation
-
-</div>
 
 This grammar is very similar to the one we just learned above except that it uses the verb ""止む"" to say that one cannot obtain the stopping of something. Remember that we normally can’t just attach the ""を"" direct object particle to verbs, so this is really a set expression. Just like the previous grammar we learned, it is used to describe something that one is forced to do due to some circumstances. The difference here is that this is a complete phrase, which can be used for a general situation that doesn’t involve any specific action. In other words, you’re not actually forced to do something; rather it describes a situation that cannot be helped. If you have already learned ""仕方がない"" or ""しょうがない"", this grammar means pretty much the same thing. The difference lies in whether you want to say, “Looks like we’re stuck” vs “Due to circumstances beyond our control…”
 
@@ -188,19 +180,17 @@ Since this is a set expression, there are really no grammar points to discuss. Y
 
 ### Vocabulary
 
-<div class="columns">
+++かねる++ <abbr title="る verb">ru-verb</abbr>
+: to be unable to; to find difficult (unpleasant, awkward, painful) to do;
 
-++かねる++
-: to be unable to; to find difficult (unpleasant, awkward, painful) to do; <sup>(ru-verb)</sup>
+++{決める|き・める}++ <abbr title="る verb">ru-verb</abbr>
+: to decide
 
-++{決める|き・める}++
-: to decide <sup>(ru-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
-
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++この++
 : this （abbr. of これの）
@@ -220,8 +210,8 @@ Since this is a set expression, there are really no grammar points to discuss. Y
 ++{会議|かい・ぎ}++
 : meeting
 
-++{設ける|もう・ける}++
-: to establish <sup>(ru-verb)</sup>
+++{設ける|もう・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to establish
 
 ++{個人|こ・じん}++
 : personal
@@ -232,19 +222,17 @@ Since this is a set expression, there are really no grammar points to discuss. Y
 ++{漏洩|ろう・えい}++
 : disclosure; leakage
 
-++{速やか|すみ・やか}++
-: speedy; prompt <sup>(na-adj)</sup>
+++{速やか|すみ・やか}++ <abbr title="な adjective">na-adj</abbr>
+: speedy; prompt
 
 ++{対応|たい・おう}++
 : dealing with; support
 
-++{願う|ねが・う}++
-: to wish; to request <sup>(u-verb)</sup>
+++{願う|ねが・う}++ <abbr title="う verb">u-verb</abbr>
+: to wish; to request
 
-++{致す|いた・す}++
-: to do (humble) <sup>(u-verb)</sup>
-
-</div>
+++{致す|いた・す}++ <abbr title="う verb">u-verb</abbr>
+: to do (humble)
 
 The meaning and usage of ""かねる"" is covered pretty well in this [jeKai entry](http://www.jekai.org/entries/aa/00/np/aa00np03.htm) with plenty of examples. While much of this is a repetition of what’s written there, ""かねる"" is a ru-verb that is used as a suffix to other verbs to express a person’s inability, reluctance, or refusal to do something
 

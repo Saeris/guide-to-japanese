@@ -13,45 +13,41 @@ In life, there are things that we must or must not do whether it’s taking out 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{駄目|だめ}++
 : no good
 
 ++ここ++
 : here
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++それ++
 : that
 
-++{食べる|たべ・る}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{夜|よる}++
 : evening
 
-++{遅い|おそ・い}++
-: late <sup>(i-adj)</sup>
+++{遅い|おそ・い}++ <abbr title="い adjective">i-adj</abbr>
+: late
 
-++～まで++
-: until ～ <sup>(particle)</sup>
+++～まで++ <span>particle</span>
+: until ～
 
 ++{電話|でん・わ}++
 : phone
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
-
-</div>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
 If you’re not familiar with the word ""だめ""（駄目）, though it can be used in many different ways it essentially means “no good”. The other two key words in this section are ""いけない"" and ""ならない"" and they have essentially the same basic meaning as ""だめ"". However, while ""いけない"" can be used by itself, ""ならない"" must only be used in the grammar presented here. In addition, while ""いけない"" and ""ならない"" conjugate like i-adjectives they are not actual adjectives. Let’s learn how to use these words to express things that must not be done.
 
@@ -83,24 +79,20 @@ The difference between ""だめ""、""いけない""、and ""ならない"" is t
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{毎日|まい・にち}++
 : everyday
 
 ++{学校|がっ・こう}++
 : school
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{宿題|しゅく・だい}++
 : homework
 
-++する++
-: to do <sup>(exception)</sup>
-
-</div>
+++する++ <span>exception</span>
+: to do
 
 You may have predicted that the opposite of “You must not do” would use ""いける"" or ""なる"" because they look like the positive version of ""いけない"" and ""ならない"". However, ""いけない"" and ""ならない"" must always be negative, so this is not correct. In actuality, we still use the same ""だめ／いけない／ならない"" and use the opposite of the verb that goes in front of it instead. This double negative can be kind of confusing at first but you will get used to it with practice. There are three ways to conjugate the verb before adding ""だめ／いけない／ならない"" and two of them involve conditionals so aren’t you glad that you just learned conditionals in the previous section?
 
@@ -150,39 +142,35 @@ It may seem like I just breezed through a whole lot of material because there ar
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{勉強|べん・きょう}++
 : study
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{ご飯|ご・はん}++
 : rice; meal
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{学校|がっ・こう}++
 : school
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++ここ++
 : here
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++{駄目|だめ}++
 : no good
 
-++{死ぬ|し・ぬ}++
-: to die <sup>(u-verb)</sup>
-
-</div>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+: to die
 
 You may have been grumbling and complaining about how long most of the expressions are just to say you must do something. You can end up with up to eight additional syllables just to say “I have to…”!
 
@@ -227,31 +215,29 @@ On a final note, in general, ""ちゃ"" sounds a bit cutesy or girly. You’ve a
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{大丈夫|だい・じょう・ぶ}++
-: ok <sup>(na-adj)</sup>
+++{大丈夫|だい・じょう・ぶ}++ <abbr title="な adjective">na-adj</abbr>
+: ok
 
-++{構う|かま・う}++
-: to mind; to be concerned about <sup>(u-verb)</sup>
+++{構う|かま・う}++ <abbr title="う verb">u-verb</abbr>
+: to mind; to be concerned about
 
 ++もう++
 : already
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++これ++
 : this
@@ -259,10 +245,8 @@ On a final note, in general, ""ちゃ"" sounds a bit cutesy or girly. You’ve a
 ++ちょっと++
 : just a little
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
-
-</div>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 Now let’s learn how to say either that it’s ok to do or not do something. I decided to shove this section in here because in Japanese, this is essential how to say that you don’t have to something (by saying it’s ok to not do it). The grammar itself is also relatively easy to pick up and makes for a short section.
 

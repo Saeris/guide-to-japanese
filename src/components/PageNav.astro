@@ -1,0 +1,183 @@
+---
+import { getCollection } from "astro:content";
+import { GoArrowLeft } from "react-icons/go";
+import { GoArrowRight } from "react-icons/go";
+
+export interface Props {
+  id: string;
+}
+
+const { id } = Astro.props as Props;
+
+const pages = (await getCollection("learn"))
+  .map(({ id, data, slug, collection }) => ({
+    id,
+    title: data.title,
+    number: parseInt(`${data.chapterNumber}${data.part}`, 10),
+    slug: `/${collection}/${slug}`
+  }))
+  .sort((a, b) => a.number - b.number);
+
+const currentPage = pages.findIndex((page) => page.id === id);
+const prevPage = currentPage > 0 ? pages[currentPage - 1] : null;
+const nextPage = currentPage < pages.length - 1 ? pages[currentPage + 1] : null;
+---
+
+<style is:global>
+  footer {
+    padding-block: 24px 48px;
+    padding-inline: 24px;
+    font-family: var(--family-display);
+
+    nav {
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      width: stretch;
+    }
+
+    a {
+      --fill: transparent;
+      --stroke: var(--cn-a200);
+      --text: var(--cn-a700);
+      --shadow: transparent;
+
+      &:hover {
+        --fill: var(--cn-a25);
+        --stroke: var(--cn-a300);
+        --text: var(--cp-a800);
+      }
+
+      &:focus-visible {
+        --stroke: var(--cp-a500);
+        --shadow: var(--cp-a300);
+        outline: none;
+      }
+
+      &:visited {
+        color: var(--text);
+      }
+
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      width: -webkit-fill-available;
+      width: -moz-available;
+      width: stretch;
+      padding-block: 16px;
+      padding-inline: 24px;
+      background-color: var(--fill);
+      border: 1px solid var(--stroke);
+      border-radius: 8px;
+      color: var(--text);
+      box-shadow: 0px 0px 0px 2px var(--shadow);
+      text-decoration: none;
+
+      &.prev {
+        > div {
+          margin-left: calc(1em + 12px);
+
+          svg {
+            left: calc(-1em - 12px);
+          }
+        }
+      }
+
+      &.next {
+        align-items: flex-end;
+
+        > div {
+          margin-right: calc(1em + 12px);
+
+          svg {
+            right: calc(-1em - 12px);
+          }
+        }
+      }
+
+      > div {
+        position: relative;
+        font-size: var(--bt);
+        font-weight: 300;
+
+        svg {
+          position: absolute;
+          top: 0.13em;
+          width: 1em;
+          height: 1em;
+        }
+      }
+
+      > span {
+        display: flex;
+        align-items: center;
+        gap: 0.5em;
+        font-size: var(--lm);
+        font-weight: 200;
+      }
+    }
+  }
+
+  .kbd-group {
+    display: inline-flex;
+    gap: 0.25em;
+  }
+
+  kbd {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: -moz-fit-content;
+    width: fit-content;
+    min-width: 16px;
+    margin-bottom: 2px;
+    padding: 2px 6px;
+    background-color: var(--gray-a25);
+    border-radius: 8px;
+    border: 0.5px solid var(--gray-a300);
+    color: var(--gray-a800);
+    font: 600 var(--lt) / 18px var(--font-kbd);
+    box-shadow:
+      0px 2px 0px 0px var(--gray-a300),
+      0px 4px 4px 0px var(--gray-a50) inset;
+  }
+</style>
+
+<footer>
+  <nav>
+    {
+      prevPage && (
+        <a class="prev" href={prevPage.slug}>
+          <div>
+            <GoArrowLeft />
+            {prevPage.title}
+          </div>
+          <span>
+            {`Previous `}
+            <span class="kbd-group">
+              <kbd>shift</kbd>
+              <kbd>&lt;-</kbd>
+            </span>
+          </span>
+        </a>
+      )
+    }
+    {
+      nextPage && (
+        <a class="next" href={nextPage.slug}>
+          <div>
+            {nextPage.title}
+            <GoArrowRight />
+          </div>
+          <span>
+            {`Next `}
+            <span class="kbd-group">
+              <kbd>shift</kbd>
+              <kbd>-&gt;</kbd>
+            </span>
+          </span>
+        </a>
+      )
+    }
+  </nav>
+</footer>

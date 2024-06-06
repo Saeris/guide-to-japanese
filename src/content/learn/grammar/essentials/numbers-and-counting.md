@@ -69,8 +69,6 @@ Notice that it is customary to write large numbers only in numerals as even kanj
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{零|れい}++
 : zero
 
@@ -85,8 +83,6 @@ Notice that it is customary to write large numbers only in numerals as even kanj
 
 ++{マイナス|ma i na su}++
 : minus
-
-</div>
 
 Zero in Japanese is ""零"" but ""ゼロ"" or ""マル"" is more common in modern Japanese. There is no special method for reading decimals, you simply say ""点"" for the dot and read each individual number after the decimal point. Here’s an example:
 
@@ -104,8 +100,6 @@ Ah, and now we come to the fun part. In Japanese, when you are simply counting n
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{平成|へい・せい}++
 : Heisei era
 
@@ -117,8 +111,6 @@ Ah, and now we come to the fun part. In Japanese, when you are simply counting n
 
 ++{一日|いち・にち}++
 : one day
-
-</div>
 
 The year is very easy. All you have to do is say the number and add ""年"" which is pronounced here as ""ねん"". For example, Year 2003 becomes 2003年 (にせんさんねん). The catch is that there is another calendar which starts over every time a new emperor ascends the throne. The year is preceded by the era, for example the year 2000 is: 平成12年. My birthday, 1981 is 昭和56年 (The Showa era lasted from 1926 to 1989). You may think that you don’t need to know this but if you’re going to be filling out forms in Japan, they often ask you for your birthday or the current date in the Japanese calendar (和暦). So here’s a [neat converter](http://www.japan-guide.com/e/e2272.html) you can use to convert to the Japanese calendar.
 

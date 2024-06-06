@@ -11,13 +11,11 @@ In this lesson, we will go over various types of grammar that deal with tendenci
 
 ### Vocabulary
 
-<div class="columns">
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
-
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{病気|びょう・き}++
 : disease; sickness
@@ -31,8 +29,8 @@ In this lesson, we will go over various types of grammar that deal with tendenci
 ++{確定申告|かく・てい・しん・こく}++
 : final income tax return
 
-++{忘れる|わす・れる}++
-: to forget <sup>(ru-verb)</sup>
+++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to forget
 
 ++{手続|て・つづき}++
 : procedure, paperwork
@@ -61,10 +59,8 @@ In this lesson, we will go over various types of grammar that deal with tendenci
 ++{心配|しん・ぱい}++
 : worry; concern
 
-++する++
-: to do <sup>(exception)</sup>
-
-</div>
+++する++ <span>exception</span>
+: to do
 
 This is arguably the most useful grammar in this lesson in terms of practically. By that, I mean that it’s the only grammar here that you might actually hear in a regular conversation though again, it is far more common in a written context.
 
@@ -111,46 +107,44 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{テレビ|te re bi}++
 : TV, television
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{二日酔い|ふつ・か・よい}++
 : hangover
 
-++{痛む|いた・む}++
-: to feel pain <sup>(u-verb)</sup>
+++{痛む|いた・む}++ <abbr title="う verb">u-verb</abbr>
+: to feel pain
 
 ++{頭|あたま}++
 : head
 
-++{押さえる|おさ・える}++
-: to hold something down; to grasp <sup>(ru-verb)</sup>
+++{押さえる|おさ・える}++ <abbr title="る verb">ru-verb</abbr>
+: to hold something down; to grasp
 
 ++{トイレ|to i re}++
 : bathroom; toilet
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++{体|からだ}++
 : body
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{最近|さい・きん}++
 : recent; lately
@@ -161,8 +155,8 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 ++{運動|うん・どう}++
 : exercise
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{電気|でん・き}++
 : electricity; (electric) light
@@ -173,8 +167,8 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 ++{発展|はっ・てん}++
 : development; growth; advancement
 
-++つれる++
-: to lead <sup>(ru-verb)</sup>
+++つれる++ <abbr title="る verb">ru-verb</abbr>
+: to lead
 
 ++{ハードディスク|ha a do di i su ku}++
 : hard disk
@@ -185,11 +179,11 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 ++ますます++
 : increasingly
 
-++{大きい|おお・きい}++
-: big <sup>(i-adj)</sup>
+++{大きい|おお・きい}++ <abbr title="い adjective">i-adj</abbr>
+: big
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{今|いま}++
 : now
@@ -212,16 +206,14 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 ++{年功序列|ねん・こう・じょ・れつ}++
 : seniority system
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{慣行|かん・こう}++
 : customary practice
 
-++{崩れる|くず・れる}++
-: to collapse; to crumble <sup>(ru-verb)</sup>
-
-</div>
+++{崩れる|くず・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to collapse; to crumble
 
 ""つつ"" is a verb modifier that can be attached to the stem of verbs to express an ongoing occurrence. Though the meaning stays essentially the same, there are essentially two ways to use this grammar. The first is almost identical to the ""～ながら"" grammar. You can use ""つつ"" to describe an action that is taking place while another action is ongoing. However, there are several major differences between ""つつ"" and ""～ながら"". First, the tone of ""つつ"" is very different from that of ""～ながら"" and you would rarely, if ever, use it for regular everyday occurrences. To go along with this, ""つつ"" is more appropriate for more literary or abstract actions such as those involving emotions or thoughts. Second, ""～ながら"" is used to describe an auxiliary action that takes place while the main action is going on. However, with ""つつ"", both actions have equal weight.
 
@@ -270,19 +262,17 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 
 ### Vocabulary
 
-<div class="columns">
-
-++{嫌い|きら・い}++
-: distasteful, hateful <sup>(na-adj)</sup>
+++{嫌い|きら・い}++ <abbr title="な adjective">na-adj</abbr>
+: distasteful, hateful
 
 ++{依存症|い・ぞん・しょう}++
 : dependence; addiction
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++{多い|おお・い}++
-: numerous <sup>(i-adj)</sup>
+++{多い|おお・い}++ <abbr title="い adjective">i-adj</abbr>
+: numerous
 
 ++{大学生|だい・がく・せい}++
 : college student
@@ -296,14 +286,14 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 ++{宿題|しゅく・だい}++
 : homework
 
-++やる++
-: to do <sup>(u-verb)</sup>
+++やる++ <abbr title="う verb">u-verb</abbr>
+: to do
 
 ++{コーディング|ko o di i n gu}++
 : coding
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
 ++{開発者|かい・はつ・しゃ}++
 : developer
@@ -311,8 +301,8 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 ++ちゃんと++
 : properly
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{ドキュメント|do kyu me n to}++
 : document
@@ -326,10 +316,8 @@ For more examples, check out the [WWWJDIC examples](http://www.csse.monash.edu.a
 ++{テスト|te su to}++
 : test
 
-++{怠る|おこた・る}++
-: to shirk <sup>(u-verb)</sup>
-
-</div>
+++{怠る|おこた・る}++ <abbr title="う verb">u-verb</abbr>
+: to shirk
 
 ""きらいがある"" is a fixed expression used to describe a bad tendency or habit. I suspect that ""きらい"" here might have something to do with the word for hateful: ""嫌い"". However, unlike ""嫌い"", which is a na-adjective, the ""きらい"" in this grammar functions as a noun. This is made plain by the fact that the ""が"" particle comes right after ""きらい"", which is not allowed for adjectives. The rest of the phrase is simply expressing the fact that the negative tendency exists.
 

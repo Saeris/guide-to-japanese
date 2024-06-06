@@ -30,7 +30,8 @@
 :root {
   --family-body: "Nunito Variable", "UDDigiKyokasho StdN";
   --family-display: "Mona Sans";
-  --font-base: 20px;
+  --font-kbd: "Inter Variable", sans-serif;
+  --font-base: 24px;
   --scale: 1.125;
 
   --fs-25: calc(var(--fs-50) / var(--scale));

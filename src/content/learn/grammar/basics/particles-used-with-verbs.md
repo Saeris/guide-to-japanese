@@ -16,14 +16,14 @@ In this section, we will learn some new particles essential for using verbs. We 
 ++{魚|さかな}++
 : fish
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{ジュース|jyu u su}++
 : juice
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 ++{街|まち}++
 : town
@@ -31,8 +31,8 @@ In this section, we will learn some new particles essential for using verbs. We 
 ++ぶらぶら++
 : wandering; aimlessly
 
-++{歩く|ある・く}++
-: to walk <sup>(u-verb)</sup>
+++{歩く|ある・く}++ <abbr title="う verb">u-verb</abbr>
+: to walk
 
 ++{高速|こう・そく}++
 : high-speed
@@ -40,8 +40,8 @@ In this section, we will learn some new particles essential for using verbs. We 
 ++{道路|どう・ろ}++
 : route
 
-++{走る|はし・る}++
-: to run <sup>(u-verb)</sup>
+++{走る|はし・る}++ <abbr title="う verb">u-verb</abbr>
+: to run
 
 ++{毎日|まい・にち}++
 : everyday
@@ -52,8 +52,8 @@ In this section, we will learn some new particles essential for using verbs. We 
 ++{勉強|べん・きょう}++
 : study
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{メールアドレス|me e ru a do re su}++
 : email address
@@ -69,6 +69,7 @@ The first particle we will learn is the object particle because it is a very str
 
 1. {魚|さかな}==を=={食べる|た・べる}。  
    Eat fish.
+
 1. {ジュース|jyu u su}==を=={飲|の}んだ。  
    Drank juice.
 
@@ -76,6 +77,7 @@ Unlike the direct object we’re familiar with in English, places can also be th
 
 1. {街|まち}==を==ぶらぶら{歩く|ある・く}。  
    Aimlessly walk through town. (Lit: Aimlessly walk town)
+
 1. {高速|こう・そく}{道路|どう・ろ}==を=={走る|はし・る}。  
    Run through expressway. (Lit: Run expressway)
 
@@ -83,6 +85,7 @@ When you use ""する"" with a noun, the ""を"" particle is optional and you ca
 
 1. {毎日|まい・にち}、{日本語|に・ほん・ご}を=={勉強|べん・きょう}する==。  
    Study Japanese everyday.
+
 1. {メールアドレス|me e ru a do re su}を=={登録|とう・ろく}した==。  
    Registered email address.
 
@@ -95,22 +98,22 @@ When you use ""する"" with a noun, the ""を"" particle is optional and you ca
 ++{日本|に・ほん}++
 : Japan
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{家|1) うち; 2) いえ}++
 : 1. one’s own home
 
 1. house
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{部屋|へ・や}++
 : room
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{アメリカ|a me ri ka}++
 : America
@@ -127,8 +130,8 @@ When you use ""する"" with a noun, the ""を"" particle is optional and you ca
 ++{猫|ねこ}++
 : cat
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++いす++
 : chair
@@ -136,23 +139,23 @@ When you use ""する"" with a noun, the ""を"" particle is optional and you ca
 ++{台所|だい・どころ}++
 : kitchen
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{友達|とも・だち}++
 : friend
 
-++{会う|あう}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あう}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 ++{医者|い・しゃ}++
 : doctor
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{先週|せん・しゅう}++
 : last week
@@ -171,8 +174,10 @@ The ""に"" particle can specify a target of a verb. This is different from the 
 
 1. {ボブ|bo bu}は{日本|に・ほん}==に=={行|いき}った。  
    Bob went to Japan.
+
 1. {家|うち}==に=={帰|かえ}らない。  
    Not go back home.
+
 1. {部屋|へ・や}==に==くる。  
    Come to room.
 
@@ -180,6 +185,7 @@ As you can see in the last example, the target particle always targets “to” 
 
 1. {アリス|a ri su}は、{アメリカ|a me ri ka}==から==きた。  
    Alice came from America.
+
 1. {宿題|しゅく・だい}を{今日|きょう}==から=={明日|あした}==まで==する。  
    Will do homework from today to tomorrow.
 
@@ -187,12 +193,16 @@ The idea of a target in Japanese is very general and is not restricted to motion
 
 1. {猫|ねこ}は{部屋|へ・や}==に==いる。  
    Cat is in room.
+
 1. いすが{台所|だい・どころ}==に==あった。  
    Chair was in the kitchen.
+
 1. いい{友達|とも・だち}==に=={会|あ}った。  
    Met good friend.
+
 1. {ジム|ji mu}は{医者|い・しゃ}==に==なる。  
    Jim will become doctor.
+
 1. {先週|せん・しゅう}==に=={図書館|と・しょ・かん}==に=={行|いき}った。  
    Went to library last week.
 
@@ -202,6 +212,7 @@ While the ""に"" particle is not always required to indicate time, there is a s
 
 1. {友達|とも・だち}は、{来年|らい・ねん}、{日本|に・ほん}に{行く|い・く}。  
    Next year, friend go to Japan.
+
 1. {友達|とも・だち}は、{来年|らい・ねん}==に=={日本|に・ほん}に{行く|い・く}。  
    Friend go to Japan next year.
 
@@ -214,34 +225,34 @@ While the ""に"" particle is not always required to indicate time, there is a s
 ++{日本|に・ほん}++
 : Japan
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{家|1) うち; 2) いえ}++
 : 1. one’s own home
 
 1. house
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{部屋|へ・や}++
 : room
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{医者|い・しゃ}++
 : doctor
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{勝ち|か・ち}++
 : victory
 
-++{向かう|むか・う}++
-: to face; to go towards <sup>(u-verb)</sup>
+++{向かう|むか・う}++ <abbr title="う verb">u-verb</abbr>
+: to face; to go towards
 
 </div>
 
@@ -251,8 +262,10 @@ While ""へ"" is normally pronounced _/he/_, when it is being used as a particle
 
 1. {ボブ|bo bu}は{日本|に・ほん}==へ=={行|いき}った。  
    Bob ==headed towards== Japan.
+
 1. {家|うち}==へ=={帰|かえ}らない。  
    Not go home ==toward== house.
+
 1. {部屋|へ・や}==へ==くる。  
    Come ==towards== room.
 
@@ -275,14 +288,14 @@ This does not mean to say that ""へ"" cannot set out towards an abstract concep
 ++{映画館|えい・が・かん}++
 : movie theatre
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{バス|ba su}++
 : bus
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{レストラン|re su to ra n}++
 : restaurant
@@ -290,8 +303,8 @@ This does not mean to say that ""へ"" cannot set out towards an abstract concep
 ++{昼ご飯|ひる・ご・はん}++
 : lunch
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{何|なに／なん}++
 : what
@@ -307,8 +320,10 @@ The ""で"" particle will allow us to specify the context in which the action is
 
 1. {映画館{映画館|えい・が・かん}}==で=={見|み}た。  
    Saw at movie theater.
+
 1. {バス|ba su}==で=={帰る|かえ・る}。  
    Go home by bus.
+
 1. {レストラン|re su to ra n}==で=={昼ご飯|ひる・ご・はん}を{食|た}べた。  
    Ate lunch at restaurant.
 
@@ -320,6 +335,7 @@ The word for “what” （{何|なに}） is quite annoying because while it’
 
 1. {何|なに}==で==きた？  
    Came by the way of what?
+
 1. {バス|ba su}==で==きた。  
    Came by the way of bus.
 
@@ -327,6 +343,7 @@ Here’s the confusing part. There is a colloquial version of the word “why”
 
 1. =={何|なん}で==きた？  
    Why did you come?
+
 1. {暇|ひま}だから。  
    Because I am free (as in have nothing to do).
 
@@ -341,8 +358,8 @@ The ""から"" here meaning “because” is different from the ""から"" we ju
 ++{学校|がっ・こう}++
 : school
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{図書館|と・しょ・かん}++
 : library
@@ -398,8 +415,8 @@ Bob asks, “Where shall we eat?” and Alice suggests an Italian restaurant. A 
 ++{日本語|に・ほん・ご}++
 : Japanese (language)
 
-++{習う|なら・う}++
-: to learn <sup>(u-verb)</sup>
+++{習う|なら・う}++ <abbr title="う verb">u-verb</abbr>
+: to learn
 
 </div>
 
@@ -409,6 +426,7 @@ The direct object particle is different from particles related to location in th
 
 1. {日本語|に・ほん・ご}==を=={習う|なら・う}。  
    Learn Japanese.
+
 1. {日本語|に・ほん・ご}==は==、{習う|なら・う}。  
    About Japanese, (will) learn it.
 

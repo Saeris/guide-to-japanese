@@ -26,8 +26,8 @@ This is the last lesson that will be specifically focused on particles but that 
 ++{ステーキ|su te e ki}++
 : steak
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{本|ほん}++
 : book
@@ -38,20 +38,20 @@ This is the last lesson that will be specifically focused on particles but that 
 ++{葉書|はがき}++
 : postcard
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{友達|とも・だち}++
 : friend
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
 ++{先生|せん・せい}++
 : teacher
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 </div>
 
@@ -84,8 +84,8 @@ Another similar use of the ""と"" particle is to show an action that was done t
 ++{ナプキン|na pu ki n}++
 : napkin
 
-++いる++
-: to need <sup>(u-verb)</sup>
+++いる++ <abbr title="う verb">u-verb</abbr>
+: to need
 
 ++{靴|くつ}++
 : shoes
@@ -93,8 +93,8 @@ Another similar use of the ""と"" particle is to show an action that was done t
 ++{シャツ|shya tsu}++
 : shirt
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 </div>
 
@@ -154,20 +154,20 @@ The ""や"" particle, just like the ""と"" particle, is used to list one or mor
 ++あの++
 : abbreviation of ""あれの""
 
-++{白い|し・ろい}++
-: white <sup>(i-adj)</sup>
+++{白い|し・ろい}++ <abbr title="い adjective">i-adj</abbr>
+: white
 
-++かわいい++
-: cute <sup>(i-adj)</sup>
+++かわいい++ <abbr title="い adjective">i-adj</abbr>
+: cute
 
 ++{授業|じゅ・ぎょう}++
 : class
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{忘れる|わす・れる}++
-: to forget <sup>(ru-verb)</sup>
+++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to forget
 
 ++こと++
 : event, matter
@@ -178,11 +178,11 @@ The ""や"" particle, just like the ""と"" particle, is used to list one or mor
 ++{勉強|べん・きょう}++
 : study
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{大変|たい・へん}++
-: tough, hard time <sup>(na-adj)</sup>
+++{大変|たい・へん}++ <abbr title="な adjective">na-adj</abbr>
+: tough, hard time
 
 ++{同じ|おな・じ}++
 : same
@@ -190,14 +190,14 @@ The ""や"" particle, just like the ""と"" particle, is used to list one or mor
 ++{物|もの}++
 : object
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{面白い|おも・し・ろい}++
-: interesting <sup>(i-adj)</sup>
+++{面白い|おも・し・ろい}++ <abbr title="い adjective">i-adj</abbr>
+: interesting
 
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
 ++{部屋|へ・や}++
 : room
@@ -290,8 +290,8 @@ https://www.youtube.com/watch?v=obOAAmHHHVI
 ++{今|いま}++
 : now
 
-++{忙しい|いそが・しい}++
-: busy <sup>(i-adj)</sup>
+++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>
+: busy
 
 ++{学生|がく・せい}++
 : student
@@ -302,14 +302,14 @@ https://www.youtube.com/watch?v=obOAAmHHHVI
 ++どこ++
 : where
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{授業|じゅ・ぎょう}++
 : class
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++ううん++
 : casual word for “no” (nah, uh-uh)
@@ -320,8 +320,8 @@ https://www.youtube.com/watch?v=obOAAmHHHVI
 ++{人|ひと}++
 : person
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{先生|せん・せい}++
 : teacher
@@ -329,8 +329,8 @@ https://www.youtube.com/watch?v=obOAAmHHHVI
 ++{朝ご飯|あさ・ご・はん}++
 : breakfast
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++どうして++
 : why

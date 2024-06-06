@@ -13,43 +13,41 @@ This whole section is dedicated to learning how to say “if” in Japanese. Oh,
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{ボール|ba a ru}++
 : ball
 
-++{落とす|お・とす}++
-: to drop <sup>(u-verb)</sup>
+++{落とす|お・とす}++ <abbr title="う verb">u-verb</abbr>
+: to drop
 
-++{落ちる|お・ちる}++
-: to fall <sup>(ru-verb)</sup>
+++{落ちる|お・ちる}++ <abbr title="る verb">ru-verb</abbr>
+: to fall
 
 ++{電気|でん・き}++
 : electricity; (electric) light
 
-++{消す|け・す}++
-: to erase <sup>(u-verb)</sup>
+++{消す|け・す}++ <abbr title="う verb">u-verb</abbr>
+: to erase
 
-++{暗い|くら・い}++
-: dark <sup>(i-adj)</sup>
+++{暗い|くら・い}++ <abbr title="い adjective">i-adj</abbr>
+: dark
 
 ++{学校|がっ・こう}++
 : school
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{友達|とも・だち}++
 : friend
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 ++たくさん++
 : a lot (amount)
 
-++{太る|ふと・る}++
-: to become fatter <sup>(u-verb)</sup>
+++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>
+: to become fatter
 
 ++{先生|せん・せい}++
 : teacher
@@ -59,8 +57,6 @@ This whole section is dedicated to learning how to say “if” in Japanese. Oh,
 
 ++{年上|とし・うえ}++
 : older
-
-</div>
 
 We’ll first cover the simplest type of “if” which is the natural consequence conditional. This means that if [X] happens, [Y] will happen as a natural consequence. No question about it. If I drop a ball, it will fall to the ground. If I turn off the lights at night, it will get dark. We can express this type of condition in the following format.
 
@@ -96,33 +92,29 @@ The “for sure” part is the implied meaning supplied by the ""と"". The spea
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{皆|みんな}++
 : everybody
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{私|わたし}++
 : me, myself, I
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{問題|もん・だい}++
 : problem
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{図書館|と・しょ・かん}++
 : library
 
 ++あそこ++
 : over there
-
-</div>
 
 Another relatively easy to understand type of “if” is the contextual conditional. You can use this particle to express what will happen given a certain context. For example, if you wanted to say, “Well, if everybody’s going, I’m going too” you would use the ""なら"" conditional because you are saying that you will go in the context of everybody else going. The contextual conditional always requires a context in which the conditional occurs. For instance, you would use it for saying things like, “If that’s what you are talking about…” or “If that’s the case, then…”
 
@@ -164,19 +156,17 @@ You can also decide to use ""なら==ば=="" instead of just ""なら"". This me
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++おかしい++ <abbr title="い adjective">i-adj</abbr>
+: funny
 
-++おかしい++
-: funny <sup>(i-adj)</sup>
-
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{学生|がく・せい}++
 : student
@@ -187,23 +177,23 @@ You can also decide to use ""なら==ば=="" instead of just ""なら"". This me
 ++{友達|とも・だち}++
 : friend
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 ++{買い物|か・い・もの}++
 : shopping
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{お金|お・かね}++
 : money
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
-++{楽しい|たの・しい}++
-: fun <sup>(i-adj)</sup>
+++{楽しい|たの・しい}++ <abbr title="い adjective">i-adj</abbr>
+: fun
 
 ++{私|わたし}++
 : me; myself; I
@@ -211,10 +201,8 @@ You can also decide to use ""なら==ば=="" instead of just ""なら"". This me
 ++{病気|びょう・き}++
 : disease; sickness
 
-++なる++
-: to become <sup>(u-verb)</sup>
-
-</div>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 The next type of conditional just expresses a regular “if” condition without any assumptions or embedded meanings. The conjugation rules for the ""ば"" conditional is below. Note, the conjugation rule for nouns and na-adjectives is actually using the verb ""ある"" in ""である"", a formal expression we’ll learn much later.
 
@@ -262,28 +250,26 @@ The next type of conditional just expresses a regular “if” condition without
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{自動|じ・どう}++
 : automatic
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
-++{読む|よ・む}++
-: to read <sup>(u-verb)</sup>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+: to read
 
-++{忙しい|いそが・しい}++
-: busy <sup>(i-adj)</sup>
+++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>
+: busy
 
 ++{暇|ひま}++
 : free　(as in not busy)
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{学生|がく・せい}++
 : student
@@ -291,14 +277,14 @@ The next type of conditional just expresses a regular “if” condition without
 ++{割引|わり・びき}++
 : discount
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{友達|とも・だち}++
 : friend
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 ++{買い物|か・い・もの}++
 : shopping
@@ -306,24 +292,24 @@ The next type of conditional just expresses a regular “if” condition without
 ++{お金|お・かね}++
 : money
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{家|1) うち; 2) いえ}++
 : one’s own home
 : house
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++誰|だれ++
 : who
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++{アメリカ|a me ri ka}++
 : America
@@ -331,10 +317,8 @@ The next type of conditional just expresses a regular “if” condition without
 ++たくさん++
 : a lot (amount)
 
-++{太る|ふと・る}++
-: to become fatter <sup>(u-verb)</sup>
-
-</div>
+++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>
+: to become fatter
 
 I call this next conditional the past conditional because it is produced by taking the past tense and just adding ""ら"". It is commonly called the ""たら"" conditional because all past-tense ends with ""た／だ"" and so it always becomes ""たら／だら"". Like the ""ば"" conditional, it is also a general conditional.
 
@@ -393,33 +377,29 @@ You can also use ""たら==ば=="" instead of ""たら"". Similar to ""ならば
 
 ### Vocabulary
 
-<div class="columns">
-
 ++もし++
 : if by any chance
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{映画|えい・が}++
 : movie
 
-++{観る|み・る}++
-: to watch <sup>(ru-verb)</sup>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to watch
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{明日|あした}++
 : tomorrow
-
-</div>
 
 Some of you may be aware of the word ""もし"" which means “if” and may be wondering how it fits into all of this. Well, if you want to say a conditional, you need to use one of the conditionals discussed above. ""もし"" is really a supplement to add a sense of uncertainty on whether the condition is true. For instance, you might use it when you want to make an invitation and you don’t want to presume like the following example.
 

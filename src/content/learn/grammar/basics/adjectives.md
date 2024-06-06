@@ -15,28 +15,26 @@ Now that we can connect two nouns together in various ways using particles, we w
 
 ### Vocabulary
 
-<div class="columns">
-
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
 ++{人|ひと}++
 : person
 
-++きれい++
-: pretty; clean <sup>(na-adj)</sup>
+++きれい++ <abbr title="な adjective">na-adj</abbr>
+: pretty; clean
 
 ++{友達|とも・だち}++
 : friend
 
-++{親切|しん・せつ}++
-: kind <sup>(na-adj)</sup>
+++{親切|しん・せつ}++ <abbr title="な adjective">na-adj</abbr>
+: kind
 
 ++{魚|さかな}++
 : fish
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
 ++{肉|にく}++
 : meat
@@ -44,14 +42,13 @@ Now that we can connect two nouns together in various ways using particles, we w
 ++{野菜|や・さい}++
 : vegetables
 
-</div>
-
 The na-adjective is very simple to learn because it acts essentially like a noun. All the conjugation rules for both nouns and na-adjectives are the same. One main difference is that a na-adjective can directly modify a noun following it by sticking ""な"" between the adjective and noun. (Hence the name, na-adjective.)
 
 #### Examples
 
 1. {静か|しず・か}==な=={人|ひと}。  
    Quiet person.
+
 1. きれい==な=={人|ひと}。  
    Pretty person.
 
@@ -61,6 +58,7 @@ You can also use adjectives with particles just like we did in the last lesson w
 
 1. {友達|とも・だち}は{親切|しん・せつ}。  
    Friend is kind.
+
 1. {友達|とも・だち}は{親切|しん・せつ}な{人|ひと}だ。  
    Friend is kind person.
 
@@ -70,10 +68,13 @@ As shown by the following examples, the conjugation rules for na-adjectives are 
 
 1. {ボブ|bo bu}は{魚|さかな}が=={好き|す・き}==だ。  
    Bob likes fish.
+
 1. {ボブ|bo bu}は{魚|さかな}が=={好き|す・き}じゃない==。  
    Bob does not like fish.
+
 1. {ボブ|bo bu}は{魚|さかな}が=={好き|す・き}だった==。  
    Bob liked fish.
+
 1. {ボブ|bo bu}は{魚|さかな}が=={好き|す・き}じゃなかった==。  
    Bob did not like fish.
 
@@ -85,10 +86,13 @@ You can also use the last three conjugations to directly modify the noun. (Remem
 
 1. {魚|さかな}が=={好き|す・き}な=={人|ひと}。  
    Person that likes fish.
+
 1. {魚|さかな}が=={好き|す・き}じゃない=={人|ひと}。  
    Person that does not like fish.
+
 1. {魚|さかな}が=={好き|す・き}だった=={人|ひと}。  
    Person that liked fish.
+
 1. {魚|さかな}が=={好き|す・き}じゃなかった=={人|ひと}。  
    Person that did not like fish.
 
@@ -100,6 +104,7 @@ We can even treat the whole descriptive noun clause as we would a single noun. F
 
 1. =={魚|さかな}が{好き|す・き}じゃない{人|ひと}==は、{肉|にく}が{好き|す・き}だ。  
    Person who does not like fish like meat.
+
 1. =={魚|さかな}が{好き|す・き}な{人|ひと}==は、{野菜|や・さい}も{好き|す・き}だ。  
    Person who likes fish also likes vegetables.
 
@@ -107,19 +112,17 @@ We can even treat the whole descriptive noun clause as we would a single noun. F
 
 ### Vocabulary
 
-<div class="columns">
-
-++{嫌い|きら・い}++
-: distasteful, hateful <sup>(na-adj)</sup>
+++{嫌い|きら・い}++ <abbr title="な adjective">na-adj</abbr>
+: distasteful, hateful
 
 ++{食べ物|た・べ・もの}++
 : food
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
-++{高い|たか・い}++
-: high; tall; expensive <sup>(i-adj)</sup>
+++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>
+: high; tall; expensive
 
 ++{ビル|bi ru}++
 : building
@@ -130,16 +133,14 @@ We can even treat the whole descriptive noun clause as we would a single noun. F
 ++{レストラン|re su to ra n}++
 : restaurant
 
-++あまり++／++あんまり++
-: not very (when used with negative)
+++あまり++ ++あんまり++
+: not very when used with negative
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
-++いい++
-: good <sup>(i-adj)</sup>
-
-</div>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 All i-adjectives always end in the Hiragana character: ""い"". However, you may have noticed that some na-adjectives also end in ""い"" such as ""きれい（な）"". So how can you tell the difference? There are actually very few na-adjectives that end with ""い"" that is usually not written in Kanji. Two of the most common include: ""きれい"" and ""{嫌い|きら・い}"". Almost all other na-adjectives that end in ""い"" are usually written in Kanji and so you can easily tell that it’s not an i-adjective. For instance, ""きれい"" written in Kanji looks like ""{綺麗|き・れい}"" or ""{奇麗|き・れい}"". Since the ""い"" part of ""{麗|れい}"" is part of a Kanji character, you know that it can’t be an i-adjective. That’s because the whole point of the ""い"" in i-adjectives is to allow conjugation without changing the Kanji. In fact, ""{嫌い|きら・い}"" is one of the rare na-adjectives that ends in ""い"" without a Kanji. This has to do with the fact that ""{嫌い|きら・い}"" is actually derived from the verb ""{嫌う|きら・う}"".
 
@@ -149,6 +150,7 @@ Unlike na-adjectives, you do not need to add ""な"" to directly modify a noun w
 
 1. {嫌い|きら・い}な{食べ物|た・べ・もの}。  
    Hated food.
+
 1. おいしい{食べ物|た・べ・もの}。  
    Tasty food.
 
@@ -160,7 +162,7 @@ Remember how the negative state-of-being for nouns also ended in ""い"" （じ�
 
 Now that we got that matter cleared up, below are the rules for conjugating i-adjectives. Notice that the rule for conjugating to negative past tense is the same as the rule for the past tense.
 
-> [!Tip] Conjugation rules for i-adjectives
+> [!Tip++ Conjugation rules for i-adjectives
 >
 > **Negative:** First remove the trailing ""い"" from the i-adjective and then attach ""くない""
 >
@@ -186,10 +188,13 @@ Now that we got that matter cleared up, below are the rules for conjugating i-ad
 
 1. =={高い|たか・い}=={ビル|bi ru}。  
    Tall building.
+
 1. =={高|たか}くない=={ビル|bi ru}。  
    Not tall building.
+
 1. =={高|たか}かった=={ビル|bi ru}。  
    Building that was tall.
+
 1. =={高|たか}くなかった=={ビル|bi ru}。  
    Building that was not tall.
 
@@ -206,24 +211,20 @@ In this example, the descriptive clause ""{値段|ね・だん}が{高い|たか
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{値段|ね・だん}++
 : price
 
-++あまり++／++あんまり++
+++あまり++ ++あんまり++
 : not very (when used with negative)
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{彼|かれ}++
 : he; boyfriend
 
-++かっこいい++
-: cool; handsome <sup>(i-adj)</sup>
-
-</div>
+++かっこいい++ <abbr title="い adjective">i-adj</abbr>
+: cool; handsome
 
 There is one i-adjective meaning “good” that acts slightly differently from all other i-adjectives. This is a classic case of how learning Japanese is harder for beginners because the most common and useful words also have the most exceptions. The word for “good” was originally ""よい（{良い|よい}）"". However, with time, it soon became ""いい"". When it is written in Kanji, it is usually read as ""よい"" so ""いい"" is almost always Hiragana. That’s all fine and good. Unfortunately, all the conjugations are still derived from ""よい"" and not ""いい"". This is shown in the next table.
 
@@ -249,5 +250,6 @@ Take care to make all the conjugations from ""よい"" not ""いい"".
 
 1. {値段|ね・だん}があんまり==よくない==。  
    Price isn’t very good.
+
 1. {彼|かれ}は==かっこよかった==！  
    He looked really cool!

@@ -48,7 +48,9 @@ Long vowels have been radically simplified in Katakana. Instead of having to muc
 ### Examples
 
 1. ツア==ー== (tsu-==a==) – tour
+
 1. メ==ー==ル (m==e==-ru) – email
+
 1. ケ==ー==キ (k==e==-ki) – cake
 
 > [!Note] Summary

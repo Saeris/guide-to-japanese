@@ -45,26 +45,26 @@ Have you noticed how, many forms of verbs and the state-of-being conjugate in a 
 ++{学校|がっ・こう}++
 : school
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{子供|こ・ども}++
 : child
 
-++{立派|りっ・ぱ}++
-: fine, elegant <sup>(na-adj)</sup>
+++{立派|りっ・ぱ}++ <abbr title="な adjective">na-adj</abbr>
+: fine, elegant
 
 ++{大人|おとな}++
 : adult
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{友達|とも・だち}++
 : friend
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{先週|せん・しゅう}++
 : last week
@@ -75,8 +75,8 @@ Have you noticed how, many forms of verbs and the state-of-being conjugate in a 
 ++{仕事|し・ごと}++
 : job
 
-++{辞める|や・める}++
-: to quit <sup>(ru-verb)</sup>
+++{辞める|や・める}++ <abbr title="る verb">ru-verb</abbr>
+: to quit
 
 </div>
 
@@ -95,10 +95,13 @@ Here are some examples of direct noun modifications with a conjugated noun claus
 
 1. =={学生|がく・せい}じゃない=={人|ひと}は、{学校|がっ・こう}に{行|い}かない。  
    Person who is not student do not go to school.
+
 1. =={子供|こ・ども}だった=={アリス|a ri su}が{立派|りっ・ぱ}な{大人|おとな}になった。  
    The Alice that was a child became a fine adult.
+
 1. =={友達|とも・だち}じゃなかった=={アリス|a ri su}は、いい{友達|とも・だち}になった。  
    Alice who was not a friend, became a good friend.
+
 1. =={先週|せん・しゅう}{医者|い・しゃ}だった=={ボブ|bo bu}は、{仕事|し・ごと}を{辞|や}めた。  
    Bob who was a doctor last week quit his job.
 
@@ -114,8 +117,8 @@ Here are some examples of direct noun modifications with a conjugated noun claus
 ++{映画|えい・が}++
 : movie
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{人|ひと}++
 : person
@@ -129,17 +132,17 @@ Here are some examples of direct noun modifications with a conjugated noun claus
 ++{勉強|べん・きょう}++
 : study
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{赤い|あか・い}++
-: red <sup>(i-adj)</sup>
+++{赤い|あか・い}++ <abbr title="い adjective">i-adj</abbr>
+: red
 
 ++{ズボン|zu bo n}++
 : pants
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{友達|とも・だち}++
 : friend
@@ -147,8 +150,8 @@ Here are some examples of direct noun modifications with a conjugated noun claus
 ++{晩ご飯|ばん・ご・はん}++
 : dinner
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{銀行|ぎん・こう}++
 : bank
@@ -161,10 +164,13 @@ Verbs clauses can also be used just like adjectives to modify nouns. The followi
 
 1. =={先週|せん・しゅう}に{映画|えい・が}を{見|み}た=={人|ひと}は{誰|だれ}？  
    Who is person who watched movie last week?
+
 1. {ボブ|bo bu}は、==いつも{勉強|べん・きょう}する=={人|ひと}だ。  
    Bob is a person who always studies.
+
 1. =={赤い|あか・い}{ズボン|zu bo n}を{買う|か・う}=={友達|とも・だち}は{ボブ|bo bu}だ。  
    Friend who buy red pants is Bob.
+
 1. =={晩ご飯|ばん・ご・はん}を{食|た}べなかった=={人|ひと}は、=={映画|えい・が}で{見|み}た=={銀行|ぎん・こう}に{行|いき}った。  
    Person who did not eat dinner went to the bank she saw at movie.
 
@@ -183,14 +189,14 @@ Verbs clauses can also be used just like adjectives to modify nouns. The followi
 ++{お弁当|お・べん・とう}++
 : box lunch
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{学生|がく・せい}++
 : student
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 </div>
 
@@ -203,9 +209,13 @@ Japanese students will tell you that Japanese, on the other hand, while frothing
 ### Grammatically complete and correctly ordered sentences
 
 1. {私|わたし}は{公園|こう・えん}で{お弁当|お・べん・とう}を=={食べる|た・べる}==。
+
 1. {公園|こう・えん}で{私|わたし}は{お弁当|お・べん・とう}を=={食べる|た・べる}==。
+
 1. {お弁当|お・べん・とう}を{私|わたし}は{公園|こう・えん}で=={食べる|た・べる}==。
+
 1. {弁当|べん・とう}を=={食べる|た・べる}==。
+
 1. =={食べる|た・べる}==。
 
 So don’t sweat over whether your sentence is in the correct order. Just remember the following rules.

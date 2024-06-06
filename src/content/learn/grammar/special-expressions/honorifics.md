@@ -11,19 +11,17 @@ Japanese can be roughly separated into three levels of politeness: casual, polit
 
 ## Vocabulary
 
-<div class="columns">
-
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++なさる++
 : to do (honorific)
 
-++{致す|いた・す}++
-: to do (humble) <sup>(u-verb)</sup>
+++{致す|いた・す}++ <abbr title="う verb">u-verb</abbr>
+: to do (humble)
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++いらっしゃる++
 : to be; to go; to come (honorific)
@@ -31,17 +29,17 @@ Japanese can be roughly separated into three levels of politeness: casual, polit
 ++おいでになる++
 : to be; to go; to come (honorific)
 
-++{参る|まい・る}++
-: to go; to come (humble) <sup>(u-verb)</sup>
+++{参る|まい・る}++ <abbr title="う verb">u-verb</abbr>
+: to go; to come (humble)
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
-++おる++
-: to exist (animate) (humble) <sup>(ru-verb)</sup>
+++おる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate) (humble)
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{ご覧になる|ご・らん・になる}++
 : to see (honorific)
@@ -49,59 +47,59 @@ Japanese can be roughly separated into three levels of politeness: casual, polit
 ++{拝見する|はい・けん・する}++
 : to see (humble)
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++{伺う|うかが・う}++
-: to ask; to listen (humble) <sup>(u-verb)</sup>
+++{伺う|うかが・う}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen (humble)
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++おっしゃる++
 : to say (honorific)
 
-++{申す|もう・す}++
-: to say (humble) <sup>(u-verb)</sup>
+++{申す|もう・す}++ <abbr title="う verb">u-verb</abbr>
+: to say (humble)
 
-++{申し上げる|もう・し・あ・げる}++
-: to say (humble) <sup>(u-verb)</sup>
+++{申し上げる|もう・し・あ・げる}++ <abbr title="う verb">u-verb</abbr>
+: to say (humble)
 
-++あげる++
-: to give; to raise <sup>(u-verb)</sup>
+++あげる++ <abbr title="う verb">u-verb</abbr>
+: to give; to raise
 
-++{差し上げる|さ・し・あ・げる}++
-: to give; to raise (humble) <sup>(ru-verb)</sup>
+++{差し上げる|さ・し・あ・げる}++ <abbr title="る verb">ru-verb</abbr>
+: to give; to raise (humble)
 
-++くれる++
-: to give <sup>(u-verb)</sup>
+++くれる++ <abbr title="う verb">u-verb</abbr>
+: to give
 
 ++{下さる|くだ・さる}++
 : to give (honorific)
 
-++もらう++
-: to receive <sup>(u-verb)</sup>
+++もらう++ <abbr title="う verb">u-verb</abbr>
+: to receive
 
-++いただく++
-: to receive; to eat; to drink (humble) <sup>(u-verb)</sup>
+++いただく++ <abbr title="う verb">u-verb</abbr>
+: to receive; to eat; to drink (humble)
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{召し上がる|め・し・あ・がる}++
-: to eat; to drink (honorific) <sup>(u-verb)</sup>
+++{召し上がる|め・し・あ・がる}++ <abbr title="う verb">u-verb</abbr>
+: to eat; to drink (honorific)
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
 ++{ご存じ|ご・ぞん・じ}++
 : knowing (honorific)
 
-++{存じる|ぞん・じる}++
-: to know (humble) <sup>(ru-verb)</sup>
+++{存じる|ぞん・じる}++ <abbr title="る verb">ru-verb</abbr>
+: to know (humble)
 
 ++ござる++
 : to be (formal)
@@ -118,8 +116,8 @@ Japanese can be roughly separated into three levels of politeness: casual, polit
 ++{推薦状|すい・せん・じょう}++
 : letter of recommendation
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
 ++どちら++
 : which way
@@ -135,8 +133,6 @@ Japanese can be roughly separated into three levels of politeness: casual, polit
 
 ++{失礼|しつ・れい}++
 : discourtesy
-
-</div>
 
 The difficult part of learning honorific and humble language is that there are a number of words that have separate verbs for honorific and humble forms. Anything that does not have its own special expression fall under the general rules of humble and honorific conjugations that we will cover next.
 
@@ -208,8 +204,6 @@ The following examples are all actions done by the speaker so they all use the h
 
 ### Vocabulary
 
-<div class="columns">
-
 ++こちら++
 : this way
 
@@ -234,14 +228,14 @@ The following examples are all actions done by the speaker so they all use the h
 ++{～階|～かい}++
 : counter for story/floor
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
-++よろしい++
-: good (formal) <sup>(i-adj)</sup>
+++よろしい++ <abbr title="い adjective">i-adj</abbr>
+: good (formal)
 
-++{悪い|わる・い}++
-: bad <sup>(i-adj)</sup>
+++{悪い|わる・い}++ <abbr title="い adjective">i-adj</abbr>
+: bad
 
 ++すいません++
 : sorry (polite)
@@ -278,8 +272,6 @@ The following examples are all actions done by the speaker so they all use the h
 
 ++{神様|かみ・さま}++
 : god (formal)
-
-</div>
 
 In addition to these set expressions, there are some words that also have more polite counterparts. Probably the most important is the politer version of ""ある"", which is ""ござる"". This verb can be used for both inanimate and animate objects. It is neither honorific nor humble but it is a step above ""ある"" in politeness. However, unless you want to sound like a samurai, ""ござる"" is always used in the polite form: ""ございます"".
 
@@ -321,8 +313,6 @@ In addition, the politest suffix for names is ""様"", one level above ""さん"
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{お酒|お・さけ}++
 : alcohol
 
@@ -359,23 +349,23 @@ In addition, the politest suffix for names is ""様"", one level above ""さん"
 ++{先生|せん・せい}++
 : teacher
 
-++{見える|み・える}++
-: to be visible <sup>(ru-verb)</sup>
+++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>
+: to be visible
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++もう++
 : already
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{店内|てん・ない}++
 : store interior
 
-++{召し上がる|め・し・あ・がる}++
-: to eat; to drink (honorific) <sup>(ru-verb)</sup>
+++{召し上がる|め・し・あ・がる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat; to drink (honorific)
 
 ++{二重敬語|に・じゅう・けい・ご}++
 : redundant honorific
@@ -386,8 +376,8 @@ In addition, the politest suffix for names is ""様"", one level above ""さん"
 ++{少々|しょう・しょう}++
 : just a minute; small quantity;
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
 ++こちら++
 : this way
@@ -395,8 +385,8 @@ In addition, the politest suffix for names is ""様"", one level above ""さん"
 ++{ご覧下さい|ご・らん・くだ・さい}++
 : please look (honorific)
 
-++{閉まる|し・まる}++
-: to close <sup>(u-verb)</sup>
+++{閉まる|し・まる}++ <abbr title="う verb">u-verb</abbr>
+: to close
 
 ++{ドア|do a}++
 : door
@@ -404,23 +394,23 @@ In addition, the politest suffix for names is ""様"", one level above ""さん"
 ++{注意|ちゅう・い}++
 : caution
 
-++よろしい++
-: good (formal) <sup>(i-adj)</sup>
+++よろしい++ <abbr title="い adjective">i-adj</abbr>
+: good (formal)
 
-++{願う|ねが・う}++
-: to wish; to request <sup>(u-verb)</sup>
+++{願う|ねが・う}++ <abbr title="う verb">u-verb</abbr>
+: to wish; to request
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
 ++こと++
 : event, matter
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++すみません++
 : sorry (polite)
@@ -431,10 +421,8 @@ In addition, the politest suffix for names is ""様"", one level above ""さん"
 ++{預かる|あず・かる}++
 : to look after; to hold on to;
 
-++{致す|いた・す}++
-: to do (humble) <sup>(u-verb)</sup>
-
-</div>
+++{致す|いた・す}++ <abbr title="う verb">u-verb</abbr>
+: to do (humble)
 
 For all other verbs without set expressions, there are conjugation rules to change them into honorific and humble forms. They both involve a common practice of attaching a polite prefix ""御"". In Japanese, there is an practice of attaching an honorific prefix ""御"" to certain (not all) nouns to show politeness. In fact, some words like ""お酒""、 ""お茶""、or ""お金"" come with this prefix so often that it’s become practically the word itself. In general, ""御"" is written in hiragana as either ""ご"" for words read as 音読み （e.g. ご意見、ご飯） or ""お"" for words read as 訓読み （e.g. お金、 お仕事）. In fact, you may have been using this prefix already without realizing it like ""お好み焼き"" or ""お土産"". There are some exceptions to this rule such as ""お返事"". Luckily since ""御"" is rarely written in kanji, identifying the exceptions should not really be a problem.
 
@@ -504,8 +492,6 @@ You’ll hear something like example 4 when, for example, you need to get change
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{下さる|くだ・さる}++
 : to give (honorific)
 
@@ -518,8 +504,8 @@ You’ll hear something like example 4 when, for example, you need to get change
 ++おっしゃる++
 : to say (honorific)
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++いらっしゃいませ++
 : please come in (formal)
@@ -541,8 +527,6 @@ You’ll hear something like example 4 when, for example, you need to get change
 
 ++ゆっくり++
 : slowly
-
-</div>
 
 We learned how to make polite requests using ""～ください"" in a previous section and we just looked at how to use honorific verbs with requests as well. However, there is yet another way to make requests using honorific verbs. This grammar only applies to the honorific verbs with special ""～ます"" conjugations that we just covered. This includes ""下さる""、""いらっしゃる""、""なさる""、and ""おっしゃる"". I’ve never actually seen this used with ""おっしゃる"", but it is grammatically possible.
 

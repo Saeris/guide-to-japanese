@@ -9,8 +9,6 @@ part: 2
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{丁寧語|てい・ねい・ご}++
 : polite language
 
@@ -26,8 +24,6 @@ part: 2
 ++いいえ++
 : no (polite)
 
-</div>
-
 The Japanese we have learned so far is all well and good if you’re 5-years old. Unfortunately, adults are expected to use a politer version of the language (called {丁寧語|てい・ねい・ご}) when addressing certain people. People you will probably use {丁寧語|てい・ねい・ご} with are: 1) people of higher social rank, and 2) people you are not familiar with. Deciding when to use which language is pretty much a matter of “feel”. However, it is a good idea to stick with one form for each person.
 
 Later (probably much later), we will learn an even politer version of the language called honorific （{尊敬語|そん・けい・ご}） and humble （{謙譲語|けん・じょう・ご}） form. It will be more useful than you may think because store clerks, receptionists, and such will speak to you in those forms. But for now, let’s concentrate on just {丁寧語|てい・ねい・ご}, which is the base for {尊敬語|そん・けい・ご} and {謙譲語|けん・じょう・ご}.
@@ -38,22 +34,20 @@ Fortunately, it is not difficult to change casual speech to polite speech. There
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{泳ぐ|およ・ぐ}++ <abbr title="う verb">u-verb</abbr>
+: to swim
 
-++{泳ぐ|およ・ぐ}++
-: to swim <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
-
-++{怒る|おこ・る}++
-: to get angry <sup>(u-verb)</sup>
+++{怒る|おこ・る}++ <abbr title="う verb">u-verb</abbr>
+: to get angry
 
 ++{鉄拳|てっ・けん}++
 : fist
@@ -61,8 +55,8 @@ Fortunately, it is not difficult to change casual speech to polite speech. There
 ++{休み|やす・み}++
 : rest; vacation
 
-++{飲む|の・む}++
-: to drink <sup>(ru-verb)</sup>
+++{飲む|の・む}++ <abbr title="る verb">ru-verb</abbr>
+: to drink
 
 ++{明日|あした}++
 : tomorrow
@@ -70,55 +64,53 @@ Fortunately, it is not difficult to change casual speech to polite speech. There
 ++{映画|えい・が}++
 : movie
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{友達|とも・だち}++
 : friend
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{楽しむ|たの・しむ}++
-: to enjoy <sup>(u-verb)</sup>
+++{楽しむ|たの・しむ}++ <abbr title="う verb">u-verb</abbr>
+: to enjoy
 
-++{出す|だ・す}++
-: to bring out <sup>(u-verb)</sup>
+++{出す|だ・す}++ <abbr title="う verb">u-verb</abbr>
+: to bring out
 
-++{走る|はし・る}++
-: to run <sup>(u-verb)</sup>
+++{走る|はし・る}++ <abbr title="う verb">u-verb</abbr>
+: to run
 
-++{走り出す|はし・り・だ・す}++
-: to break into a run <sup>(u-verb)</sup>
+++{走り出す|はし・り・だ・す}++ <abbr title="う verb">u-verb</abbr>
+: to break into a run
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
-++{替える|か・える}++
-: to switch <sup>(ru-verb)</sup>
+++{替える|か・える}++ <abbr title="る verb">ru-verb</abbr>
+: to switch
 
-++{着替える|き・が・える}++
-: to change (clothes) <sup>(ru-verb)</sup>
+++{着替える|き・が・える}++ <abbr title="る verb">ru-verb</abbr>
+: to change (clothes)
 
-++{付ける|つ・ける}++
-: to attach <sup>(ru-verb)</sup>
+++{付ける|つ・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to attach
 
-++{加える|くわ・える}++
-: to add <sup>(ru-verb)</sup>
+++{加える|くわ・える}++ <abbr title="る verb">ru-verb</abbr>
+: to add
 
-++{付け加える|つ・け・くわ・える}++
-: to add one thing to another <sup>(ru-verb)</sup>
+++{付け加える|つ・け・くわ・える}++ <abbr title="る verb">ru-verb</abbr>
+: to add one thing to another
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
-++{言い出す|い・い・だ・す}++
-: to start talking <sup>(u-verb)</sup>
-
-</div>
+++{言い出す|い・い・だ・す}++ <abbr title="う verb">u-verb</abbr>
+: to start talking
 
 In order to conjugate all u-verbs and ru-verbs into their respective polite forms, we will first learn about the stem of verbs. This is often called the masu-stem in Japanese textbooks but we will call it just the stem because it is used in many more conjugations than just its masu-form. The stem is really great because it’s very easy to produce and is useful in many different types of grammar.
 
@@ -165,39 +157,35 @@ Things that are written in a formal context such as newspaper articles also use 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{明日|あした}++
 : tomorrow
 
 ++{大学|だい・がく}++
 : college
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{先週|せん・しゅう}++
 : last week
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 ++{晩ご飯|ばん・ご・はん}++
 : dinner
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{面白い|おも・しろ・い}++
-: interesting <sup>(i-adj)</sup>
+++{面白い|おも・しろ・い}++ <abbr title="い adjective">i-adj</abbr>
+: interesting
 
 ++{映画|えい・が}++
 : movie
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
-
-</div>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 Of course, the reason I introduced the verb stem is to learn how to conjugate verbs into their polite form… the masu-form! The masu-form must always come at the end of a complete sentence and never inside a modifying relative clause. When we learn compound sentences, we will see that each sub-sentence of the compound sentence can end in masu-form as well.
 
@@ -227,13 +215,11 @@ Table: A conjugation chart with sample stem ""遊び""
 
 ### Vocabulary
 
-<div class="columns">
+++かわいい++ <abbr title="い adjective">i-adj</abbr>
+: cute
 
-++かわいい++
-: cute <sup>(i-adj)</sup>
-
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
 ++{子犬|こ・いぬ}++
 : puppy
@@ -241,8 +227,8 @@ Table: A conjugation chart with sample stem ""遊び""
 ++とても++
 : very
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
 ++{昨日|きのう}++
 : yesterday
@@ -250,8 +236,8 @@ Table: A conjugation chart with sample stem ""遊び""
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++その++
 : that （abbr of ""それの""）
@@ -262,16 +248,14 @@ Table: A conjugation chart with sample stem ""遊び""
 ++{先週|せん・しゅう}++
 : last week
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{映画|えい・が}++
 : movie
 
-++{面白い|おも・しろ・い}++
-: interesting <sup>(i-adj)</sup>
-
-</div>
+++{面白い|おも・しろ・い}++ <abbr title="い adjective">i-adj</abbr>
+: interesting
 
 For any sentence that does not end in a ru-verb or u-verb, the only thing that needs to be done is to add ""です"" or ""でした"". You can also do this for substituted nouns (both ""の"" and ""ん"") by just treating them like regular nouns. Another important thing to remember is that if there is a declarative ""だ"", it must be removed. In being polite, I guess you can’t be so bold as to forwardly declare things the way ""だ"" does. Just like the masu-form, this must also go at the end of a complete sentence. Here is a chart illustrating the conjugations.
 
@@ -334,21 +318,17 @@ Table: A more formal negative conjugation
 
 ### Vocabulary
 
-<div class="columns">
-
 ++そう++
 : so
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++はい++
 : yes (polite)
 
-++{答える|こた・える}++
-: to answer <sup>(ru-verb)</sup>
-
-</div>
+++{答える|こた・える}++ <abbr title="る verb">ru-verb</abbr>
+: to answer
 
 Many of you who have taken Japanese classes have probably been taught that ""です"" is the polite version of ""だ"". However, I want to point some several key differences here and the reasons why they are in fact completely different things. It is impossible to fully explain the reasons why they are fundamentally different without discussing grammar that have yet to be covered so I would like to target this toward those who have already started learning Japanese and have been incorrectly misinformed that ""だ"" is the casual version of ""です"". For the rest of you new to this, you can easily skip this part.
 

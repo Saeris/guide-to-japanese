@@ -11,8 +11,6 @@ This is a short lesson to cover several specialized expressions that describe th
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{間違い|ま・ちが・い}++
 : mistake
 
@@ -31,8 +29,8 @@ This is a short lesson to cover several specialized expressions that describe th
 ++{全然|ぜん・ぜん}++
 : not at all (when used with negative)
 
-++{役に立つ|やく・に・たつ}++
-: to be useful <sup>(u-verb)</sup>
+++{役に立つ|やく・に・たつ}++ <abbr title="う verb">u-verb</abbr>
+: to be useful
 
 ++{携帯|けい・たい}++
 : handheld (phone)
@@ -40,14 +38,14 @@ This is a short lesson to cover several specialized expressions that describe th
 ++{～年|～ねん}++
 : counter for year
 
-++{使う|つか・う}++
-: to use <sup>(u-verb)</sup>
+++{使う|つか・う}++ <abbr title="う verb">u-verb</abbr>
+: to use
 
 ++{傷|き・ず}++
 : injury; scratch; scrape
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{テレビ|te re bi}++
 : TV, television
@@ -55,13 +53,11 @@ This is a short lesson to cover several specialized expressions that describe th
 ++ちゃんと++
 : properly
 
-++{拭く|ふ・く}++
-: to wipe; to dry <sup>(u-verb)</sup>
+++{拭く|ふ・く}++ <abbr title="う verb">u-verb</abbr>
+: to wipe; to dry
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
-
-</div>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
 ""だらけ"" is usually used when something is riddled everywhere. It generally carries a negative connotation. As a result, you’ll often see ""だらけ"" used with expressions like ""間違いだらけ"", ""ゴミだらけ"", or ""埃だらけ"". There is no conjugation rule to cover here, all you need to do is attach ""だらけ"" to the noun that is just all over the place. You should treat the result just like you would a regular noun.
 
@@ -95,8 +91,6 @@ This is a short lesson to cover several specialized expressions that describe th
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{間違い|ま・ちが・い}++
 : mistake
 
@@ -112,8 +106,8 @@ This is a short lesson to cover several specialized expressions that describe th
 ++{彼|かれ}++
 : he; boyfriend
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{車|くるま}++
 : car
@@ -121,8 +115,8 @@ This is a short lesson to cover several specialized expressions that describe th
 ++{修理|しゅう・り}++
 : repair
 
-++{頑張る|がん・ば・る}++
-: to try one’s best <sup>(u-verb)</sup>
+++{頑張る|がん・ば・る}++ <abbr title="う verb">u-verb</abbr>
+: to try one’s best
 
 ++たった++
 : only, merely
@@ -130,16 +124,14 @@ This is a short lesson to cover several specialized expressions that describe th
 ++{キロ|ki ro}++
 : kilo
 
-++{走る|はし・る}++
-: to run <sup>(u-verb)</sup>
+++{走る|はし・る}++ <abbr title="う verb">u-verb</abbr>
+: to run
 
 ++{汗|あせ}++
 : sweat
 
-++{情けない|なさ・けない}++
-: shameful; deplorable <sup>(i-adj)</sup>
-
-</div>
+++{情けない|なさ・けない}++ <abbr title="い adjective">i-adj</abbr>
+: shameful; deplorable
 
 ""まみれ"" may seem very similar to ""だらけ"" but there are some very important subtle differences. First, it’s only used for actually physical objects so you can’t say things like ""間違いまみれ"" like you can with ""だらけ"". Plus, you can only use it for things that literally cover the object. In other words, you can’t use it to mean “littered” or “riddled” like we have done with ""だらけ"" So you can use it for things like liquids and dust, but you can’t use it for things like scratches and garbage.
 
@@ -177,16 +169,14 @@ The grammatical rules are the same as ""だらけ"".
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{黒|くろ}++
 : black
 
 ++{白|しろ}++
 : white
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++こと++
 : event, matter
@@ -200,8 +190,8 @@ The grammatical rules are the same as ""だらけ"".
 ++ニュース++
 : news
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++この++
 : this （abbr. of これの）
@@ -209,8 +199,8 @@ The grammatical rules are the same as ""だらけ"".
 ++シェーク++
 : shake
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
 ++{栄養|えい・よう}++
 : nutrition
@@ -220,8 +210,6 @@ The grammatical rules are the same as ""だらけ"".
 
 ++{体|からだ}++
 : body
-
-</div>
 
 The ""大辞林"" dictionary describes exactly what ""ずくめ"" means very well.
 

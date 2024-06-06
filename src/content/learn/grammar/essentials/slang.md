@@ -27,13 +27,11 @@ Let’s see some more examples of words that get shortened or slurred. Try sayin
 
 ### Vocabulary
 
-<div class="columns">
-
 ++ここ++
 : here
 
-++つまらない++
-: boring <sup>(i-adj)</sup>
+++つまらない++ <abbr title="い adjective">i-adj</abbr>
+: boring
 
 ++{私|わたし}++
 : me; myself; I
@@ -42,8 +40,8 @@ Let’s see some more examples of words that get shortened or slurred. Try sayin
 : one’s own home
 : house
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++まったく++
 : entirely; indeed; good grief (expression of exasperation)
@@ -60,10 +58,8 @@ Let’s see some more examples of words that get shortened or slurred. Try sayin
 ++ぐずぐず++
 : tardily; hesitatingly
 
-++する++
-: to do <sup>(exception)</sup>
-
-</div>
+++する++ <span>exception</span>
+: to do
 
 A. ここはつまらないから私の家に行こう。
 
@@ -79,16 +75,14 @@ You’ll see that a great deal of slang in Japanese stems from this single princ
 
 ### Vocabulary
 
-<div class="columns">
-
 ++それ++
 : that
 
 ++{何|なに／なん}++
 : what
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++あの++
 : that (over there) （abbr. of あれの）
@@ -99,19 +93,17 @@ You’ll see that a great deal of slang in Japanese stems from this single princ
 ++もう++
 : already
 
-++{食べる|たべ・る}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{昨日|きのう}++
 : yesterday
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{アイス|a i su}++
 : ice (short for ice cream)
-
-</div>
 
 While written Japanese already has fairly loose rules regarding sentence order, casual spoken Japanese takes it one step further. A complete sentence requires a verb at the end of the sentence to complete the thought. However, we’ll see how this rule is bent in casual conversations.
 
@@ -139,8 +131,6 @@ Sometimes, the first thing that pops into your head might be main verb. But if t
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{サラリーマン|sa ra ri i ma n}++
 : office worker (salary man)
 
@@ -150,14 +140,14 @@ Sometimes, the first thing that pops into your head might be main verb. But if t
 ++たくさん++
 : a lot (amount)
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++まあ++
 : well
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++ほら++
 : look
@@ -165,8 +155,8 @@ Sometimes, the first thing that pops into your head might be main verb. But if t
 ++{レポート|re po o to}++
 : report
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
 ++{駄目|だめ}++
 : no good
@@ -174,35 +164,35 @@ Sometimes, the first thing that pops into your head might be main verb. But if t
 ++{誰|だれ}++
 : who
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++ここ++
 : here
 
-++{着替える|きが・える}++
-: to change clothes <sup>(ru-verb)</sup>
+++{着替える|きが・える}++ <abbr title="る verb">ru-verb</abbr>
+: to change clothes
 
 ++{～君|～くん}++
 : name suffix
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
-++やはり<br/>やっぱり<br/>やっぱ++
+++やはり++ ++やっぱり++ ++やっぱ++
 : as I thought
 
 ++{駅|えき}++
 : station
 
-++{近い|ちか・い}++
-: close, near <sup>(i-adj)</sup>
+++{近い|ちか・い}++ <abbr title="い adjective">i-adj</abbr>
+: close, near
 
 ++{カラオケ|ka ra o ke}++
 : karaoke
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++うん++
 : yes (casual)
@@ -215,8 +205,6 @@ Sometimes, the first thing that pops into your head might be main verb. But if t
 
 ++{隣|となり}++
 : next to
-
-</div>
 
 ""じゃん"" is an abbreviation of ""じゃない"", the negative conjugation for nouns and na-adjectives. However, this only applies to ""じゃない"" used in the following fashion.
 
@@ -275,10 +263,8 @@ There’s also another variation, which attaches the question marker as well. Th
 
 ### Vocabulary
 
-<div class="columns">
-
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{何で|なん・で}++
 : why; how
@@ -289,8 +275,8 @@ There’s also another variation, which attaches the question marker as well. Th
 ++ここ++
 : here
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++{宿題|しゅく・だい}++
 : homework
@@ -298,20 +284,20 @@ There’s also another variation, which attaches the question marker as well. Th
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{デート|de e to}++
 : date
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
 ++{明日|あした}++
 : tomorrow
@@ -322,10 +308,8 @@ There’s also another variation, which attaches the question marker as well. Th
 ++{勉強|べん・きょう}++
 : study
 
-++{違う|ちが・う}++
-: to be different <sup>(u-verb)</sup>
-
-</div>
+++{違う|ちが・う}++ <abbr title="う verb">u-verb</abbr>
+: to be different
 
 As we learned in the defining and describing section, ""いう"" serves many more functions than the equivalent English verb, “to say”. It is used all the time and therefore, it’s not too surprising that a number of variations and slang have developed. Here’s one more that I felt was too “slangy” to cover so early at that point of the guide.
 
@@ -356,13 +340,11 @@ If you want even more emphasis, you can even add a small ""つ"". This usually m
 
 ### Vocabulary
 
-<div class="columns">
-
 ++もう++
 : already
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++あなた++
 : you
@@ -370,10 +352,8 @@ If you want even more emphasis, you can even add a small ""つ"". This usually m
 ++いつも++
 : always
 
-++{忘れる|わす・れる}++
-: to forget <sup>(ru-verb)</sup>
-
-</div>
+++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to forget
 
 ""ってば"" and ""ったら"" is yet another type of abbreviation for ""という"" similar to ""って"" as discussed in the defining and describing section. In this case, it’s an abbreviation of the conditional form of ""という"", which is ""といえば"" and ""といったら"". By using this abbreviation, you are essentially saying something along the lines of, “If I told you once, I told you a million times!” You can use this expression when you tired of repeating yourself or when you are exasperated with somebody for not listening to you.
 
@@ -389,19 +369,17 @@ If you want even more emphasis, you can even add a small ""つ"". This usually m
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{何|なに／なん}++
 : what
 
-++{食べる|たべ・る}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{今日|きょう}++
 : today
 
-++{忙しい|いそが・しい}++
-: busy <sup>(i-adj)</sup>
+++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>
+: busy
 
 ++{風呂|ふ・ろ}++
 : bath
@@ -412,8 +390,8 @@ If you want even more emphasis, you can even add a small ""つ"". This usually m
 ++{気持ち|き・も・ち}++
 : feeling
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{お母さん|お・かあ・さん}++
 : mother (polite)
@@ -421,8 +399,8 @@ If you want even more emphasis, you can even add a small ""つ"". This usually m
 ++{明日|あした}++
 : tomorrow
 
-++{戻る|もど・る}++
-: to return <sup>(u-verb)</sup>
+++{戻る|もど・る}++ <abbr title="う verb">u-verb</abbr>
+: to return
 
 ++{私|わたし}++
 : me; myself; I
@@ -433,10 +411,8 @@ If you want even more emphasis, you can even add a small ""つ"". This usually m
 ++{本当|ほん・とう}++
 : real
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
-
-</div>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
 By now, you’re probably aware that ""何"" can be either read as ""なに"" or ""なん"" depending on what comes after it such as ""何色""（なにいろ） versus ""何人""（なんにん）. In the case of ""何か"", while ""なにか"" is the correct reading, it is often contracted to just ""なんか"" in casual speech.
 
@@ -473,25 +449,23 @@ Let’s take a look at a few more examples.
 
 ### Vocabulary
 
-<div class="columns">
-
 ++あんな++
 : that sort of
 
 ++{奴|やつ}++
 : guy (derogatory)
 
-++{負ける|ま・ける}++
-: to lose <sup>(ru-verb)</sup>
+++{負ける|ま・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to lose
 
 ++どう++
 : how
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++やる++
-: to do <sup>(u-verb)</sup>
+++やる++ <abbr title="う verb">u-verb</abbr>
+: to do
 
 ++{気|き}++
 : mood; intent
@@ -499,10 +473,8 @@ Let’s take a look at a few more examples.
 ++さっさと++
 : quickly
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
-
-</div>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ""やがる"" is a verb suffix used to indicate hatred or contempt for the person doing the action. Unlike the rest of the slang covered here, this extremely strong language is **not** used in normal, everyday conversations. You will probably never hear this expression outside of movies, comic books, games, and the like. However, it is covered here so that you can understand when it is used in those mediums.
 

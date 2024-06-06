@@ -11,28 +11,26 @@ Hopefully, you’ve managed to get a good grasp of how grammar works in Japanese
 
 ### Vocabulary
 
-<div class="columns">
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
-
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{昼間|ひる・ま}++
 : daytime
 
-++{絶対|ぜっ・たい}++
-: absolutely, unconditionally <sup>(na-adj)</sup>
+++{絶対|ぜっ・たい}++ <abbr title="な adjective">na-adj</abbr>
+: absolutely, unconditionally
 
-++{込む|こ・む}++
-: to become crowded <sup>(u-verb)</sup>
+++{込む|こ・む}++ <abbr title="う verb">u-verb</abbr>
+: to become crowded
 
 ++{一人|ひとり}++
 : 1 person; alone
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++この++
 : this （abbr. of これの）
@@ -40,8 +38,8 @@ Hopefully, you’ve managed to get a good grasp of how grammar works in Japanese
 ++{レストラン|re su to ra n}++
 : restaurant
 
-++{安い|やす・い}++
-: cheap <sup>(i-adj)</sup>
+++{安い|やす・い}++ <abbr title="い adjective">i-adj</abbr>
+: cheap
 
 ++{会計|かい・けい}++
 : accountant; bill
@@ -51,8 +49,6 @@ Hopefully, you’ve managed to get a good grasp of how grammar works in Japanese
 
 ++{以上|い・じょう}++
 : greater or equal
-
-</div>
 
 This is a grammar I learned out of a book and was surprised to actually hear it used in real life on a number of occasions. You use this grammar when you think one thing, but much to your astonishment, things actually turn out to be very different. You use it in the same way as you would express any thoughts, by using the quotation ""と"" and ""思う"". The only difference is that you use ""思いきや"" instead of ""思う"". There is no tense in ""思いきや"", or rather, since the results already went against your expectations, the original thought is implicitly understood to be past tense.
 
@@ -76,36 +72,32 @@ This is a grammar I learned out of a book and was surprised to actually hear it 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{散歩|さん・ぽ}++
 : walk, stroll
 
-++{作る|つく・る}++
-: to make <sup>(u-verb)</sup>
+++{作る|つく・る}++ <abbr title="う verb">u-verb</abbr>
+: to make
 
 ++{タバコ|ta ba ko}++
 : tobacco; cigarettes
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{博物館|はく・ぶつ・かん}++
 : museum
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{お土産|お・みやげ}++
 : souvenir
 
 ++つもり++
 : intention, plan
-
-</div>
 
 This rather formal and seldom-used grammar is used to indicate that two actions were done at the same time. The nuance is a bit difference from ""ながら"" in that some or all of the time spent on doing one action was also used to do another action as an aside. Remember, ""ながら"" is used to describe two exactly concurrent actions.
 
@@ -132,16 +124,14 @@ The interesting thing about this grammar is that no verb is required. You can ju
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{挙句|あげ・く}++
 : in the end (after a long process); at last
 
 ++{喧嘩|けん・か}++
 : quarrel
 
-++{考える|かんが・える}++
-: to think <sup>(ru-verb)</sup>
+++{考える|かんが・える}++ <abbr title="る verb">ru-verb</abbr>
+: to think
 
 ++{事情|じ・じょう}++
 : circumstances
@@ -149,20 +139,20 @@ The interesting thing about this grammar is that no verb is required. You can ju
 ++{～時間|～じ・かん}++
 : counter for span of hours
 
-++{掛ける|か・ける}++
-: to hang; to take (time, money) <sup>(ru-verb)</sup>
+++{掛ける|か・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to hang; to take (time, money)
 
 ++{説明|せつ・めい}++
 : explanation
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{納得|なっ・とく}++
 : understanding; agreement
 
-++もらう++
-: to receive <sup>(u-verb)</sup>
+++もらう++ <abbr title="う verb">u-verb</abbr>
+: to receive
 
 ++{先生|せん・せい}++
 : teacher
@@ -175,8 +165,6 @@ The interesting thing about this grammar is that no verb is required. You can ju
 
 ++こと++
 : event, matter
-
-</div>
 
 ""あげく"" is a grammar used to describe a result, usually negative, that came about after a great deal of effort. The rule for this grammar is very simple. You modify the verb or noun that was carried out with ""あげく"" and then describe the final result that came about from that verb or noun. Because this grammar is used to describe a result from an action already completed, it is used with the past tense of the verb. ""あげく"" is essentially treated the same as any noun. In other words, you would need the ""の"" particle to modify another noun.
 

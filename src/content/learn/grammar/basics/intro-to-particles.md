@@ -15,8 +15,6 @@ https://www.youtube.com/watch?v=uZb5IOXBByQ
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{学生|がく・せい}++
 : student
 
@@ -34,8 +32,6 @@ https://www.youtube.com/watch?v=uZb5IOXBByQ
 
 ++{試験|しけん}++
 : exam
-
-</div>
 
 The first particle we will learn is the topic particle. The topic particle identifies what it is that you’re talking about, essentially the topic of your sentence. Let’s say a person says, “Not student.” This is a perfectly valid sentence in Japanese but it doesn’t tell us much without knowing what the person is talking about. The topic particle will allow us to express what our sentences are about. The topic particle is the character ""は"". Now, while this character is normally pronounced as _/ha/_, it is pronounced _/wa/_ only when it is being used as the topic particle.
 
@@ -78,8 +74,6 @@ We’ll see a more specific particle that ties more closely into the sentence at
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{学生|がく・せい}++
 : student
 
@@ -91,8 +85,6 @@ We’ll see a more specific particle that ties more closely into the sentence at
 
 ++ううん++
 : no (casual)
-
-</div>
 
 Another particle that is very similar to the topic particle is the inclusive topic particle. It is essentially the topic particle with the additional meaning of “also”. Basically, it can introduce another topic in addition to the current topic. The inclusive topic particle is the ""も"" character and its use is best explained by an example.
 
@@ -128,8 +120,6 @@ Below is an example of inclusion with the negative.
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{誰|だれ}++
 : who
 
@@ -138,8 +128,6 @@ Below is an example of inclusion with the negative.
 
 ++{私|わたし}++
 : me; myself; I
-
-</div>
 
 Ok, so we can make a topic using the ""は"" and ""も"" particle. But what if we don’t know what the topic is? What if I wanted to ask, “Who is the student?” What I need is some kind of identifier because I don’t know who the student is. If I use the topic particle, the question would become, “Is who the student?” and that doesn’t make any sense because “who” is not an actual person.
 

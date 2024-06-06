@@ -13,12 +13,8 @@ Not only is it important to use the right type of language with the right people
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{名前|な・まえ}++
 : name
-
-</div>
 
 There are many ways to say “I” in Japanese. Some of these words are not as common and others are hopelessly outdated. We will go over the most common ones that are in use today. The usages of all the different words for “I” is separated into two categories: gender and politeness. In other words, there are words that are usually used by males and words that are usually only used by females and they all depend on the social context.
 
@@ -51,8 +47,6 @@ Let’s see how different types of sentences use the appropriate version of “I
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{社長|しゃ・ちょう}++
 : company president
 
@@ -64,8 +58,6 @@ Let’s see how different types of sentences use the appropriate version of “I
 
 ++{田中|た・なか}++
 : Tanaka (last name)
-
-</div>
 
 Japanese does not require the use of “you” nearly as much as English does. I hope that the examples with Bob, Alice, and Jim have shown that people refer to other people by their names even when they are directly addressing that person. Another common way to address people is by their title such as ""{社長|しゃ・ちょう}"、""{課長|か・ちょう}"、""{先生|せん・せい}", etc. The word ""{先生|せん・せい}" is used to generally mean any person who has significant knowledge and expertise in something. For example, people usually use ""{先生|せん・せい}" when directly addressing doctors or teachers (obviously). You can also include the person’s last name such as ""{田中|た・なか}{先生|せん・せい}" (teacher Tanaka). In the case where your relationship with the person doesn’t involve any title, you can use their name (usually their last name) attached with ""さん" to show politeness. If calling them by their last name seems a little too polite and distant, the practice of attaching ""さん" to their first name also exists. More endearing and colloquial versions of ""さん" include ""くん" and ""ちゃん". ""くん" is usually attached to the name of males who are of equal or lower social position. (For example, my boss sometimes calls me ""{キム|ki mu}くん"). ""ちゃん" is a very endearing way to refer to usually females of equal or lower social position.
 
@@ -88,8 +80,6 @@ Here is a list of some words meaning “you” in English. You will rarely need 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{彼|かれ}++
 : he; boyfriend
 
@@ -102,15 +92,11 @@ Here is a list of some words meaning “you” in English. You will rarely need 
 ++{ボーイフレンド|boo i fu re n do}++
 : boyfriend
 
-</div>
-
 You can use ""{彼|かれ}" and ""{彼女|かの・じょ}" for “he” and “she” respectively. Notice that ""{彼|かれ}" and ""{彼女|かの・じょ}" can also mean “boyfriend” and “girlfriend”. So how can you tell which meaning is being used? Context, of course. For example, if someone asks, ""{彼女|かの・じょ}ですか？" the person is obviously asking if she is your girlfriend because the question, “Is she she?” doesn’t make any sense. Another less commonly used alternative is to say ""{ガールフレンド|gaa ru fu re n do}" and ""{ボーイフレンド|boo i fu re n do}" for, well, I’m sure you can guess what they mean.
 
 ## Referring to family members
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{両親|りょう・しん}++
 : parents
@@ -162,8 +148,6 @@ You can use ""{彼|かれ}" and ""{彼女|かの・じょ}" for “he” and “
 
 ++{娘|むすめ}++
 : daughter
-
-</div>
 
 Referring to family members is a little more complicated than English. (It could be worse, try learning Korean!) For the purpose of brevity, (since this is a grammar guide and not a vocabulary guide) we will only go over the immediate family. In Japanese, you refer to members of other people’s family more politely than your own. This is only when you are talking about members of your own family to others <u>outside the family</u>. For example, you would refer to your own mother as ""{母|はは}" to people outside your family but you might very well call her ""{お母さん|お・かあ・さん}" at home within your own family. There is also a distinction between older and younger siblings. The following chart list some of the most common terms for family members. There may also be other possibilities not covered in this chart.
 

@@ -9,8 +9,6 @@ part: 4
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{田中|た・なか}++
 : Tanaka (last name)
 
@@ -29,8 +27,8 @@ part: 4
 ++{買い物|か・い・もの}++
 : shopping
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{イタリア|i ta ri a}++
 : Italy
@@ -38,8 +36,8 @@ part: 4
 ++{料理|りょう・り}++
 : cooking; cuisine; dish
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++すみません++
 : sorry (polite)
@@ -58,8 +56,6 @@ part: 4
 
 ++ごめん++
 : sorry
-
-</div>
 
 The question marker is covered here because it is primarily used to clearly indicate a question in polite sentences. While it is entirely possible to express a question even in polite form using just intonation, the question marker is often attached to the very end of the sentence to indicate a question. The question marker is simply the hiragana character ""か"" and you don’t need to add a question mark. For previously explained reasons, you must not use the declarative ""だ"" with the question marker.
 
@@ -85,24 +81,20 @@ Here the question is actually being used as an invitation just like how in Engli
 
 ### Vocabulary
 
-<div class="columns">
-
 ++こんな++
 : this sort of
 
 ++{本当|ほん・とう}++
 : real
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++そんな++
 : that sort of
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
-
-</div>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 It makes sense to conclude that the question marker would work in exactly the same way in casual speech as it does in polite speech. However, this is not the case. The question marker ""か"" is usually not used with casual speech to make actual questions. It is often used to consider whether something is true or not. Depending on the context and intonation, it can also be used to make rhetorical questions or to express sarcasm. It can sound quite rough so you might want to be careful about using ""か"" for questions in the plain casual form.
 
@@ -124,28 +116,26 @@ Instead of ""か"", real questions in casual speech are usually asked with the e
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{昨日|きのう}++
 : yesterday
 
 ++{何|なに}++
 : what
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{忘れる|わす・れる}++
-: to forget <sup>(ru-verb)</sup>
+++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to forget
 
 ++{彼|かれ}++
 : he; boyfriend
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
 ++{先生|せん・せい}++
 : teacher
@@ -153,19 +143,17 @@ Instead of ""か"", real questions in casual speech are usually asked with the e
 ++{学校|がっ・こう}++
 : school
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{教える|おし・える}++
-: to teach; to inform <sup>(ru-verb)</sup>
+++{教える|おし・える}++ <abbr title="る verb">ru-verb</abbr>
+: to teach; to inform
 
 ++どう++
 : how
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
-
-</div>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
 Another use of the question marker is simply grammatical and has nothing to do with the politeness. A question marker attached to the end of a relative clause makes a mini-question inside a larger sentence. This allows the speaker to talk about the question. For example, you can talk about the question, “What did I eat today?” In the following examples, the question that is being considered is in red.
 
@@ -187,10 +175,8 @@ In sentences like example 3 where the question being considered has a yes/no ans
 
 ### Vocabulary
 
-<div class="columns">
-
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
 ++{クッキー|ku k ki i}++
 : cookie
@@ -198,23 +184,23 @@ In sentences like example 3 where the question being considered has a yes/no ans
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{誰|だれ}++
 : who
 
-++{盗む|ぬす・む}++
-: to steal <sup>(u-verb)</sup>
+++{盗む|ぬす・む}++ <abbr title="う verb">u-verb</abbr>
+: to steal
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
 ++{犯人|はん・にん}++
 : criminal
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++この++
 : this （abbr. of これの）
@@ -222,13 +208,11 @@ In sentences like example 3 where the question being considered has a yes/no ans
 ++{中|なか}++
 : inside
 
-++～から++
-: from ～ <sup>(particle)</sup>
+++～から++ <span>particle</span>
+: from ～
 
-++{選ぶ|えら・ぶ}++
-: to select <sup>(u-verb)</sup>
-
-</div>
+++{選ぶ|えら・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to select
 
 While we’re on the topic of questions, this is a good time to go over question words (where, who, what, etc.) and what they mean in various contexts. Take a look at what adding the question marker does to the meaning of the words.
 
@@ -259,8 +243,6 @@ As you can see by the following examples, you can treat these words just like an
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{全部|ぜん・ぶ}++
 : everything
 
@@ -279,34 +261,32 @@ As you can see by the following examples, you can treat these words just like an
 ++{答え|こた・え}++
 : answer
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
 ++{友達|とも・だち}++
 : friend
 
-++{遅れる|おく・れる}++
-: to be late <sup>(ru-verb)</sup>
+++{遅れる|おく・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to be late
 
 ++ここ++
 : here
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{レストラン|re su to ra n}++
 : restaurant
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
 ++{今週末|こん・しゅう・まつ}++
 : this weekend
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
-
-</div>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 The same question words in the chart above can be combined with ""も"" in a negative sentence to mean “nobody” （誰も）, “nothing” （何も）, “nowhere” （どこも）, etc.
 
@@ -341,8 +321,6 @@ Table: Inclusive Words
 
 ### Vocabulary
 
-<div class="columns">
-
 ++この++
 : this （abbr. of これの）
 
@@ -352,14 +330,14 @@ Table: Inclusive Words
 ++{答え|こた・え}++
 : answer
 
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
 ++{昼ご飯|ひる・ご・はん}++
 : lunch
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++あの++
 : that (over there) （abbr. of あれの）
@@ -370,10 +348,8 @@ Table: Inclusive Words
 ++{本当|ほん・とう}++
 : real
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
-
-</div>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 The same question words combined with ""でも"" can be used to mean “any”. One thing to be careful about is that ""何でも"" is read as ""なんでも"" and not ""なにでも""
 

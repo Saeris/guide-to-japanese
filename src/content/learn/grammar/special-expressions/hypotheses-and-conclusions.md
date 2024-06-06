@@ -11,8 +11,6 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{訳|わけ}++
 : meaning; reason; can be deduced
 
@@ -28,14 +26,14 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 ++{勉強|べん・きょう}++
 : study
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++うまい++
-: skillful; delicious <sup>(i-adj)</sup>
+++うまい++ <abbr title="い adjective">i-adj</abbr>
+: skillful; delicious
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++つまり++
 : in short
@@ -46,11 +44,11 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 ++{能力|のう・りょく}++
 : ability
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{失礼|しつ・れい}++
 : discourtesy
@@ -58,8 +56,8 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 ++{中国語|ちゅう・ごく・ご}++
 : Chinese language
 
-++{読む|よ・む}++
-: to read <sup>(u-verb)</sup>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+: to read
 
 ++{広子|ひろ・こ}++
 : Hiroko (first name)
@@ -68,8 +66,8 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 : one’s own home
 : house
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++こと++
 : event, matter
@@ -80,8 +78,8 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 ++{微積分|び・せき・ぶん}++
 : (differential and integral) calculus
 
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
 ++ここ++
 : here
@@ -95,16 +93,14 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 ++{今度|こん・ど}++
 : this time; another time
 
-++{負ける|ま・ける}++
-: to lose <sup>(ru-verb)</sup>
+++{負ける|ま・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to lose
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++あきらめる++
-: to give up <sup>(ru-verb)</sup>
-
-</div>
+++あきらめる++ <abbr title="る verb">ru-verb</abbr>
+: to give up
 
 The noun ""わけ"" (訳) is a bit difficult to describe but it’s defined as: “meaning; reason; can be deduced”. You can see how this word is used in the following mini-dialogue.
 
@@ -161,16 +157,14 @@ Finally, although not as common, ""わけ"" can also be used as a formal express
 
 ### Vocabulary
 
-<div class="columns">
-
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{明日|あした}++
 : tomorrow
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{今|いま}++
 : now
@@ -178,11 +172,11 @@ Finally, although not as common, ""わけ"" can also be used as a formal express
 ++{～時|～じ}++
 : counter for hours
 
-++{着く|つ・く}++
-: to arrive <sup>(u-verb)</sup>
+++{着く|つ・く}++ <abbr title="う verb">u-verb</abbr>
+: to arrive
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++{観客|かん・きゃく}++
 : spectator
@@ -199,14 +193,14 @@ Finally, although not as common, ""わけ"" can also be used as a formal express
 ++{非常|ひ・じょう}++
 : extreme
 
-++{幸い|さいわ・い}++
-: fortunate <sup>(na-adj</sup>
+++{幸い|さいわ・い}++ <abbr title="な adjective">na-adj</abbr>
+: fortunate
 
 ++{朝ご飯|あさ・ご・はん}++
 : breakfast
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++もう++
 : already
@@ -217,10 +211,8 @@ Finally, although not as common, ""わけ"" can also be used as a formal express
 ++{お腹|お・なか}++
 : stomach
 
-++{空く|す・く}++
-: to become empty <sup>(u-verb)</sup>
-
-</div>
+++{空く|す・く}++ <abbr title="う verb">u-verb</abbr>
+: to become empty
 
 While this next grammar doesn’t necessarily have anything directly related to the previous grammar, I thought it would fit nicely together. In a previous lesson, we learn how to combine the volitional form with ""とする"" to indicate an attempt to perform an action. We will now learn several other ways ""とする"" can be used. It may help to keep in mind that ""とする"" is really just a combination of the quotation particle ""と"" and the verb ""する"" meaning “to do”. Let’s say you have a sentence: [verb]とする. This means literally that you are doing like “[verb]” (in quotes). As you can see, when used with the volitional, it becomes: “Doing like making motion to do [verb]”. In other words, you are acting as if to make a motion to do [verb]. As we have already seen, this translates to “attempt to do [verb]”. Let’s see what happens when we use it on plain verbs.
 

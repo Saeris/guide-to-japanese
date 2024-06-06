@@ -69,33 +69,6 @@ nav {
   }
 }
 
-footer {
-  display: flex;
-  justify-content: space-between;
-  gap: 24px;
-  padding-block: 24px 48px;
-  padding-inline: 48px;
-
-  a {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    width: stretch;
-
-    &.next {
-      align-items: flex-end;
-    }
-
-    > div {
-      font-size: var(--ll);
-    }
-
-    > span {
-      font-size: var(--lm);
-    }
-  }
-}
-
 h1,
 h2,
 h3,
@@ -157,41 +130,70 @@ small {
   --fs-body: var(--fs-300);
 }
 
-.columns {
-  --fs-body: var(--bm);
-  column-width: 340px;
-  column-gap: 12px;
-  font-size: var(--fs-body);
-}
-
 dl {
   display: grid;
   align-items: baseline;
-  grid-template-columns: min-content 1fr;
-  row-gap: 12px;
+  grid-template-columns: repeat(
+    auto-fit,
+    [def-start] minmax(max-content, 2ch) [def-middle] minmax(max-content, 18ch)
+      [def-end]
+  );
+  gap: 12px;
   width: stretch;
   margin: unset;
 
   dt {
-    grid-column: 1;
+    display: flex;
+    flex-direction: column;
     justify-self: end;
-    break-after: avoid;
-    white-space: nowrap;
+    align-items: flex-end;
+    gap: 4px;
+    font-size: var(--bl);
+
+    span,
+    abbr {
+      display: block;
+      padding-inline: 0.5em;
+      border-radius: 1em;
+      background: var(--amber-500);
+      color: var(--cp-25);
+      font-size: var(--lt);
+      line-height: normal;
+      text-decoration: none;
+      user-select: none;
+
+      &[title="う verb"] {
+        background: var(--blue-500);
+      }
+
+      &[title="る verb"] {
+        background: var(--purple-500);
+      }
+
+      &[title="な adjective"] {
+        background: var(--cyan-500);
+      }
+
+      &[title="い adjective"] {
+        background: var(--pink-500);
+      }
+    }
   }
 
   dd {
-    grid-column: 2;
+    width: fit-content;
+    max-width: 18ch;
     margin: unset;
-    padding-inline: 8px;
-    break-inside: avoid;
+    font-size: var(--bt);
 
     rt {
       text-align: left;
     }
+  }
 
-    sup {
-      color: var(--cp-700);
-    }
+  /* hack to remove this element from the grid */
+  > msreadoutspan {
+    position: absolute;
   }
 }
 
@@ -228,9 +230,11 @@ del {
   color: var(--red-a600);
 }
 
-ins {
+ins,
+dt > dfn {
   color: var(--emerald-a600);
   text-decoration: none;
+  font-style: unset;
 }
 
 q {

@@ -11,10 +11,8 @@ We will now learn the last two major types of verb conjugations: causative and p
 
 ### Vocabulary
 
-<div class="columns">
-
-++あげる++
-: to give; to raise <sup>(ru-verb)</sup>
+++あげる++ <abbr title="る verb">ru-verb</abbr>
+: to give; to raise
 
 ++くれる++
 : to give <sup>(ur-verb)</sup>
@@ -22,65 +20,65 @@ We will now learn the last two major types of verb conjugations: causative and p
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
-++{信じる|しん・じる}++
-: to believe <sup>(ru-verb)</sup>
+++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>
+: to believe
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
-++{起きる|お・きる}++
-: to wake; to occur <sup>(ru-verb)</sup>
+++{起きる|お・きる}++ <abbr title="る verb">ru-verb</abbr>
+: to wake; to occur
 
-++{出る|で・る}++
-: to come out <sup>(ru-verb)</sup>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+: to come out
 
-++{掛ける|か・ける}++
-: to hang <sup>(ru-verb)</sup>
+++{掛ける|か・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to hang
 
-++{捨てる|す・てる}++
-: to throw away <sup>(ru-verb)</sup>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+: to throw away
 
-++{調べる|しら・べる}++
-: to investigate <sup>(ru-verb)</sup>
+++{調べる|しら・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to investigate
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++{泳ぐ|およ・ぐ}++
-: to swim <sup>(u-verb)</sup>
+++{泳ぐ|およ・ぐ}++ <abbr title="う verb">u-verb</abbr>
+: to swim
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{直る|なお・る}++
-: to be fixed <sup>(u-verb)</sup>
+++{直る|なお・る}++ <abbr title="う verb">u-verb</abbr>
+: to be fixed
 
-++{死ぬ|し・ぬ}++
-: to die <sup>(u-verb)</sup>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+: to die
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{先生|せん・せい}++
 : teacher
@@ -103,8 +101,8 @@ We will now learn the last two major types of verb conjugations: causative and p
 ++{仕事|し・ごと}++
 : job
 
-++{休む|やす・む}++
-: to rest <sup>(u-verb)</sup>
+++{休む|やす・む}++ <abbr title="う verb">u-verb</abbr>
+: to rest
 
 ++その++
 : abbreviation of ""それの""
@@ -112,22 +110,20 @@ We will now learn the last two major types of verb conjugations: causative and p
 ++{部長|ぶ・ちょう}++
 : section manager
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{長時間|ちょう・じ・かん}++
 : long period of time
 
-++{働く|はたら・く}++
-: to work <sup>(u-verb)</sup>
+++{働く|はたら・く}++ <abbr title="う verb">u-verb</abbr>
+: to work
 
 ++{トイレ|to i re}++
 : bathroom; toilet
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
-
-</div>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 Verbs conjugated into the causative form are used to indicate an action that someone makes happen. Like Captain Picard so succinctly puts it, the causative verb means to “make it so”. This verb is usually used in the context of making somebody do something. The really confusing thing about the causative verb is that it can also mean to let someone do something. Or maybe this is a different type of verb with the exact same conjugation rules. Whichever the case may be, a verb in the causative form can mean either making or letting someone do something. The only good news is that when the causative form is used with ""あげる"" and ""くれる"", it almost always means to “let someone do”. Once you get used to it, surprisingly, it becomes quite clear which meaning is being used when.
 
@@ -221,19 +217,17 @@ When asking for permission to let someone do something, it is more common to use
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
-
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{同じ|おな・じ}++
 : same
@@ -244,22 +238,20 @@ When asking for permission to let someone do something, it is more common to use
 ++{何回|なん・かい}++
 : how many times
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{お腹|お・なか}++
 : stomach
 
-++{空く|あ・く}++
-: to become empty <sup>(u-verb)</sup>
+++{空く|あ・く}++ <abbr title="う verb">u-verb</abbr>
+: to become empty
 
 ++{何|なに／なん}++
 : what
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
-
-</div>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
 There is a shorter version of the causative conjugation, which I will go over for completeness. However, since this version is mostly used in very rough slang, you are free to skip this section until you’ve had time to get used to the regular form. Also, textbooks usually don’t cover this version of the causative verb.
 
@@ -298,67 +290,65 @@ The key difference in this version is that all verbs become an u-verbs with a ""
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>
+: to believe
 
-++{信じる|しん・じる}++
-: to believe <sup>(ru-verb)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{起きる|お・きる}++ <abbr title="る verb">ru-verb</abbr>
+: to wake; to occur
 
-++{起きる|お・きる}++
-: to wake; to occur <sup>(ru-verb)</sup>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+: to come out
 
-++{出る|で・る}++
-: to come out <sup>(ru-verb)</sup>
+++{掛ける|か・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to hang
 
-++{掛ける|か・ける}++
-: to hang <sup>(ru-verb)</sup>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+: to throw away
 
-++{捨てる|す・てる}++
-: to throw away <sup>(ru-verb)</sup>
+++{調べる|しら・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to investigate
 
-++{調べる|しら・べる}++
-: to investigate <sup>(ru-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{泳ぐ|およ・ぐ}++ <abbr title="う verb">u-verb</abbr>
+: to swim
 
-++{泳ぐ|およ・ぐ}++
-: to swim <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{直る|なお・る}++ <abbr title="う verb">u-verb</abbr>
+: to be fixed
 
-++{直る|なお・る}++
-: to be fixed <sup>(u-verb)</sup>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+: to die
 
-++{死ぬ|し・ぬ}++
-: to die <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
-
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{ポリッジ|po ri j ju}++
 : porridge
@@ -369,26 +359,26 @@ The key difference in this version is that all verbs become an u-verbs with a ""
 ++{皆|みんな}++
 : everybody
 
-++{変|へん}++
-: strange <sup>(na-adj)</sup>
+++{変|へん}++ <abbr title="な adjective">na-adj</abbr>
+: strange
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{光|ひかり}++
 : light
 
-++{速い|はや・い}++
-: fast <sup>(i-adj)</sup>
+++{速い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast
 
-++{超える|こ・える}++
-: to exceed <sup>(ru-verb)</sup>
+++{超える|こ・える}++ <abbr title="る verb">ru-verb</abbr>
+: to exceed
 
 ++{不可能|ふ・か・のう}++
 : impossible
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++この++
 : this (abbr. of これの)
@@ -396,14 +386,14 @@ The key difference in this version is that all verbs become an u-verbs with a ""
 ++{教科書|きょう・か・しょ}++
 : textbook
 
-++{多い|おお・い}++
-: numerous <sup>(i-adj)</sup>
+++{多い|おお・い}++ <abbr title="い adjective">i-adj</abbr>
+: numerous
 
 ++{人|ひと}++
 : person
 
-++{読む|よ・む}++
-: to read <sup>(u-verb)</sup>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+: to read
 
 ++{外国人|がい・こく・じん}++
 : foreigner
@@ -411,8 +401,8 @@ The key difference in this version is that all verbs become an u-verbs with a ""
 ++{質問|しつ・もん}++
 : question
 
-++{答える|こた・える}++
-: to answer <sup>(ru-verb)</sup>
+++{答える|こた・える}++ <abbr title="る verb">ru-verb</abbr>
+: to answer
 
 ++{パッケージ|pa k ke e ji}++
 : package
@@ -420,10 +410,8 @@ The key difference in this version is that all verbs become an u-verbs with a ""
 ++あらゆる++
 : all
 
-++{含む|ふく・む}++
-: to include <sup>(u-verb)</sup>
-
-</div>
+++{含む|ふく・む}++ <abbr title="う verb">u-verb</abbr>
+: to include
 
 Passive verbs are verbs that are done to the (passive) subject. Unlike English style of writing which discourages the use of the passive form, passive verbs in Japanese are often used in essays and articles.
 
@@ -507,13 +495,11 @@ Table: Exception Verbs
 
 ### Vocabulary
 
-<div class="columns">
-
 ++どう++
 : how
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{領収証|りょう・しゅう・しょう}++
 : receipt
@@ -524,10 +510,8 @@ Table: Exception Verbs
 ++{会議|かい・ぎ}++
 : meeting
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
-
-</div>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 While we will go over various types of grammar that express a politeness level above the normal -masu/-desu forms in the next lesson, it is useful to know that using passive form is another more polite way to express an action. In Japanese, a sentence is usually more polite when it is less direct. For example, it is more polite to refer to someone by his or her name and not by the direct pronoun “you”. It is also more polite to ask a negative question than a positive one. (For example, ""しますか？"" vs. "" しませんか？"") In a similar sense, using the passive form makes the sentence less direct because the subject does not directly perform the action. This makes it sound more polite. Here is the same sentence in increasing degrees of politeness.
 
@@ -560,13 +544,11 @@ Notice how the same sentence grows longer and longer as you get more and more in
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
-
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{朝ご飯|あさ・ご・はん}++
 : breakfast
@@ -577,14 +559,14 @@ Notice how the same sentence grows longer and longer as you get more and more in
 ++{お酒|お・さけ}++
 : alcohol
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 ++こと++
 : event, matter
 
-++{多い|おお・い}++
-: numerous <sup>(i-adj)</sup>
+++{多い|おお・い}++ <abbr title="い adjective">i-adj</abbr>
+: numerous
 
 ++あいつ++
 : that guy (derogatory)
@@ -592,8 +574,8 @@ Notice how the same sentence grows longer and longer as you get more and more in
 ++{～時間|～じ・かん}++
 : counter for span of hour(s)
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
 ++{親|おや}++
 : parent
@@ -601,10 +583,8 @@ Notice how the same sentence grows longer and longer as you get more and more in
 ++{宿題|しゅく・だい}++
 : homework
 
-++する++
-: to do <sup>(exception)</sup>
-
-</div>
+++する++ <span>exception</span>
+: to do
 
 The causative-passive form is simply the combination of causative and passive conjugations to mean that the action of making someone do something was done to that person. This would effectively translate into, “[someone] is made to do [something]”. The important thing to remember is the order of conjugation. The verb is first conjugated to the causative and then passive, never the other way around.
 
@@ -635,19 +615,17 @@ The causative-passive form is simply the combination of causative and passive co
 
 ### Vocabulary
 
-<div class="columns">
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{立つ|た・つ}++ <abbr title="う verb">u-verb</abbr>
+: to stand
 
-++{立つ|た・つ}++
-: to stand <sup>(u-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
-
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
 ++{学生|がく・せい}++
 : student
@@ -661,14 +639,14 @@ The causative-passive form is simply the combination of causative and passive co
 ++{お酒|お・さけ}++
 : alcohol
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 ++こと++
 : event, matter
 
-++{多い|おお・い}++
-: numerous <sup>(i-adj)</sup>
+++{多い|おお・い}++ <abbr title="い adjective">i-adj</abbr>
+: numerous
 
 ++あいつ++
 : that guy (derogatory)
@@ -676,10 +654,8 @@ The causative-passive form is simply the combination of causative and passive co
 ++{～時間|～じ・かん}++
 : counter for span of hour(s)
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
-
-</div>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
 Going along with the shorter causative alternative, you can also use the same conjugation for the causative-passive form. I won’t cover it in too much detail because the usefulness of this form is rather limited just like the shorter causative form itself. The idea is to simply used the shortened causative form instead of using the regular causative conjugation. The rest is the same as before.
 

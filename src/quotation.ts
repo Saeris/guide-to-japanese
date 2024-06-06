@@ -35,14 +35,14 @@ declare module "mdast" {
   }
 }
 
-export const REGEX = /""(?![\s+])([\s\S]*?)(?<![\s+])""/;
-export const REGEX_GLOBAL = /""(?![\s+])([\s\S]*?)(?<![\s+])""/g;
+export const REGEX = /""(?![\s"])([\s\S]*?)(?<![\s"])""/;
+export const REGEX_GLOBAL = /""(?![\s"])([\s\S]*?)(?<![\s"])""/g;
 
 export const REGEX_STARTING = /""(?![\s]|""\s)/;
 export const REGEX_STARTING_GLOBAL = /""(?![\s]|""\s)/g;
 
-export const REGEX_ENDING = /(?<!\s|\s\+|\s\+|\s\+|\s\+)""/;
-export const REGEX_ENDING_GLOBAL = /(?<!\s|\s\+|\s\+|\s\+|\s\+)""/g;
+export const REGEX_ENDING = /(?<!\s|\s"|\s"|\s"|\s")""/;
+export const REGEX_ENDING_GLOBAL = /(?<!\s|\s"|\s"|\s"|\s")""/g;
 
 export const REGEX_EMPTY = /""\s*""/;
 export const REGEX_EMPTY_GLOBAL = /""\s*""/g;

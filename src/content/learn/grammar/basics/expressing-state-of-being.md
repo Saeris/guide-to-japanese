@@ -9,8 +9,6 @@ part: 2
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{人|ひと}++
 : person
 
@@ -19,8 +17,6 @@ part: 2
 
 ++{元気|げん・き}++
 : healthy; lively (Used as a greeting to indicate whether one is well)
-
-</div>
 
 One of the trickiest part of Japanese is that there is no verb for the state-of-being like the verb “to be” in English. You can, however, declare what something is by attaching the Hiragana character ""だ"" to a noun or na-adjective only. (We will learn about na-adjectives in the section on adjectives later.)
 
@@ -64,8 +60,6 @@ The declarative ""だ"" is also needed in various grammatical structures where a
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{学生|がく・せい}++
 : student
 
@@ -74,8 +68,6 @@ The declarative ""だ"" is also needed in various grammatical structures where a
 
 ++{元気|げん・き}++
 : healthy; lively (Used as a greeting to indicate whether one is well)
-
-</div>
 
 In Japanese, negative and past tense are all expressed by conjugation. We can conjugate a noun or adjective to either its negative or past tense to say that something is not [X] or that something was [X]. This may be a bit hard to grasp at first but none of these state-of-being conjugations make anything declarative like ""だ"" does. We’ll learn how to make these tenses declarative by attaching ""だ"" to the end of the sentence in a later lesson.
 
@@ -102,8 +94,6 @@ First, for the negative, attach ""じゃない"" to the noun or na-adjective.
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{学生|がく・せい}++
 : student
 
@@ -112,8 +102,6 @@ First, for the negative, attach ""じゃない"" to the noun or na-adjective.
 
 ++{元気|げん・き}++
 : healthy; lively (Used as a greeting to indicate whether one is well)
-
-</div>
 
 We will now learn the past tense of the state-of-being. To say something was something, attach ""だった"" to the noun or na-adjective.
 
@@ -133,8 +121,10 @@ In order to say the negative past (was not), conjugate the negative to the negat
 
 1. {学生|がく・せい}_だった_。  
    Was student.
+
 1. {友達|とも・だち}_じゃなかった_。  
    Was not friend.
+
 1. {元気|げん・き}_じゃなかった_。  
    Was not well.
 

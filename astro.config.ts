@@ -2,6 +2,7 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import { rehypeHeadingIds } from "@astrojs/markdown-remark";
 import vercel from "@astrojs/vercel/serverless";
+import react from "@astrojs/react";
 import rehypeSlug from "rehype-slug";
 import rehypeRewrite from "rehype-rewrite";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
@@ -10,7 +11,6 @@ import {
   remarkDefinitionList,
   defListHastHandlers
 } from "remark-definition-list";
-//import { remarkAlert } from "remark-github-blockquote-alert";
 import remarkAlerts from "remark-alerts";
 import remarkIns from "remark-ins";
 import remarkSqueezeParagraphs from "remark-squeeze-paragraphs";
@@ -19,6 +19,7 @@ import remarkEmbedder from "@remark-embedder/core";
 import oembedTransformer from "@remark-embedder/transformer-oembed";
 import remarkSectionize from "remark-sectionize";
 import remarkCaptions from "remark-captions";
+import remarkDirective from "remark-directive";
 import {
   remarkExtendedTable,
   extendedTableHandlers
@@ -29,12 +30,13 @@ import remarkQuotation from "./src/quotation";
 export default defineConfig({
   markdown: {
     remarkPlugins: [
+      remarkRuby,
+      remarkDirective,
       remarkAlerts,
       remarkDefinitionList,
       remarkFlexibleMarkers,
       remarkIns,
       remarkQuotation,
-      remarkRuby,
       remarkSqueezeParagraphs,
       remarkExtendedTable,
       remarkSectionize,
@@ -78,7 +80,7 @@ export default defineConfig({
       }
     }
   },
-  integrations: [mdx({})],
+  integrations: [mdx({}), react()],
   // Process images with sharp: https://docs.astro.build/en/guides/assets/#using-sharp
   image: {
     service: {
@@ -90,6 +92,8 @@ export default defineConfig({
   },
   output: `server`,
   adapter: vercel({
-    webAnalytics: { enabled: true }
+    webAnalytics: {
+      enabled: true
+    }
   })
 });

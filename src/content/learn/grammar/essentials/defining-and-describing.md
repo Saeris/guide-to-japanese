@@ -13,10 +13,8 @@ In the previous lesson, we learned how to quote a relative clause by encasing it
 
 ### Vocabulary
 
-<div class="columns">
-
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++これ++
 : this
@@ -39,11 +37,11 @@ In the previous lesson, we learned how to quote a relative clause by encasing it
 ++どこ++
 : where
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
 ++{友達|とも・だち}++
 : friend
@@ -53,8 +51,6 @@ In the previous lesson, we learned how to quote a relative clause by encasing it
 
 ++{意味|い・み}++
 : meaning
-
-</div>
 
 In the last lesson, we briefly looked at how to introduce ourselves by using ""と"" and ""いう"". For instance, we had the following example, which Alice used to introduce herself.
 
@@ -83,8 +79,6 @@ This idea of describing what a person is known or referred to as can also be ext
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{主人公|しゅ・じん・こう}++
 : main character
 
@@ -94,8 +88,8 @@ This idea of describing what a person is known or referred to as can also be ext
 ++{一番|いち・ばん}++
 : best; first
 
-++{面白い|おも・しろ・い}++
-: interesting <sup>(i-adj)</sup>
+++{面白い|おも・しろ・い}++ <abbr title="い adjective">i-adj</abbr>
+: interesting
 
 ++{日本人|に・ほん・じん}++
 : Japanese person
@@ -103,11 +97,11 @@ This idea of describing what a person is known or referred to as can also be ext
 ++{お酒|お・さけ}++
 : alcohol
 
-++{弱い|よわ・い}++
-: weak <sup>(i-adj)</sup>
+++{弱い|よわ・い}++ <abbr title="い adjective">i-adj</abbr>
+: weak
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{本当|ほん・とう}++
 : real
@@ -148,11 +142,11 @@ This idea of describing what a person is known or referred to as can also be ext
 ++{時|とき}++
 : time
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{困る|こま・る}++
-: to be bothered, troubled <sup>(u-verb)</sup>
+++{困る|こま・る}++ <abbr title="う verb">u-verb</abbr>
+: to be bothered, troubled
 
 ++{人|ひと}++
 : person
@@ -160,28 +154,26 @@ This idea of describing what a person is known or referred to as can also be ext
 ++{結婚|けっ・こん}++
 : marriage
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 ++{幸せ|しあわ・せ}++
 : happiness
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++{大学|だい・がく}++
 : college
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{意味|い・み}++
 : meaning
-
-</div>
 
 We learned how to use ""という"" to describe what something is known or referred to as. However, we can take this idea even further by attaching two relative clauses. At this point, ""いう"" is so abstract that it doesn’t even really have a meaning. When a relative clause is encapsulated with ""と"", you must have a verb to go along with it and ""いう"" is simply being used as a generic verb to enable us to talk about any relative clause. This allows us to describe and explain just about anything ranging from a single word to complete sentences. As you can imagine, this construction is quite useful and employed quite often in Japanese.
 
@@ -219,8 +211,6 @@ We can abstract it even further by replacing the relative clause with a generic 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++あんた++
 : you (slang)
 
@@ -230,8 +220,8 @@ We can abstract it even further by replacing the relative clause with a generic 
 ++{友達|とも・だち}++
 : friend
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{何|なに／なん}++
 : what
@@ -239,23 +229,23 @@ We can abstract it even further by replacing the relative clause with a generic 
 ++{お酒|お・さけ}++
 : alcohol
 
-++{好き|す・き}++
-: likable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++{生きる|い・きる}++
-: to live <sup>(ru-verb)</sup>
+++{生きる|い・きる}++ <abbr title="る verb">ru-verb</abbr>
+: to live
 
 ++{多分|た・ぶん}++
 : maybe
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++{お金|お・かね}++
 : money
@@ -263,8 +253,8 @@ We can abstract it even further by replacing the relative clause with a generic 
 ++もう++
 : already
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{駄目|だめ}++
 : no good
@@ -272,8 +262,8 @@ We can abstract it even further by replacing the relative clause with a generic 
 ++{洋介|よう・すけ}++
 : Yousuke (first name)
 
-++{別れる|わか・れる}++
-: to separate; to break up <sup>(ru-verb)</sup>
+++{別れる|わか・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to separate; to break up
 
 ++こと++
 : event, matter
@@ -284,13 +274,11 @@ We can abstract it even further by replacing the relative clause with a generic 
 ++{彼氏|かれ・し}++
 : boyfriend
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++そう++
 : (things are) that way
-
-</div>
 
 We can attach the question marker ""か"" to ""という"" in order to add a questioning element. This construction is used when you want to rephrase or redefine something such as the following dialogue.
 
@@ -332,19 +320,17 @@ Rather than using ""か"" to rephrase a conclusion, we can also simply use ""こ
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{来年|らい・ねん}++
 : next year
 
 ++{留学|りゅう・がく}++
 : study abroad
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{智子|とも・こ}++
 : Tomoko (first name)
@@ -358,17 +344,17 @@ Rather than using ""か"" to rephrase a conclusion, we can also simply use ""こ
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{皆|みんな}++
 : everybody
@@ -382,16 +368,14 @@ Rather than using ""か"" to rephrase a conclusion, we can also simply use ""こ
 ++{彼氏|かれ・し}++
 : boyfriend
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++もう++
 : already
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
-
-</div>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 As mentioned in the previous lesson, ""って"" is very often used in causal slang in place of ""と"", because it allows us to leave out the rest of the sentence and assume context (or just plain assumption) will take care of the rest. We already saw that we can use ""って"" to replace ""という"" as well. However, since we just learned how to use ""という"" to do much more than just simply say something, there is a limit to just how much you can leave out. In any case, ""って"" will allow us to leave out not only ""いう"" but also any accompanying particles as you can see in the following example.
 
@@ -443,21 +427,17 @@ Since slang tends to be used in whichever way the person feels like, there are n
 
 ### Vocabulary
 
-<civ class="columns">
-
 ++もう++
 : already
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++そう++
 : (things are) that way
 
 ++こと++
 : event, matter
-
-</div>
 
 Because the ""という""construction is used so often, there are a lot of different variations and slang based on it. While I do not plan on covering all of them here, you can check out casual patterns and slang in the miscellaneous section for yet even more slang derived from ""という"".
 

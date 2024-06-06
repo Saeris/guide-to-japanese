@@ -1,5 +1,6 @@
 ---
 import "@fontsource-variable/nunito";
+import "@fontsource-variable/inter";
 import "remark-alerts/styles/github-colors-light.css";
 import "remark-alerts/styles/github-colors-dark-media.css";
 import "remark-alerts/styles/github-base.css";
@@ -7,13 +8,15 @@ import "../styles/global.css";
 import type { MarkdownHeading } from "astro";
 import SubNav from "../components/SubNav.astro";
 import ToC from "../components/ToC.astro";
+import PageNav from "../components/PageNav.astro";
 
 export interface Props {
+  id: string;
   title: string;
   headings: MarkdownHeading[];
 }
 
-const { headings, title } = Astro.props as Props;
+const { id, title, headings } = Astro.props as Props;
 ---
 
 <!doctype html>
@@ -31,6 +34,7 @@ const { headings, title } = Astro.props as Props;
     <main>
       <ToC headings={headings} />
       <slot />
+      <PageNav id={id} />
     </main>
   </body>
 </html>

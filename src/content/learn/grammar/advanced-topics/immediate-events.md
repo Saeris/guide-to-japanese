@@ -11,13 +11,11 @@ In this section, we will be covering some advanced grammar that describe an acti
 
 ### Vocabulary
 
-<div class="columns">
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
-
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{彼女|かの・じょ}++
 : she; girlfriend
@@ -28,17 +26,17 @@ In this section, we will be covering some advanced grammar that describe an acti
 ++{姿|すがた}++
 : figure
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{教室|きょう・しつ}++
 : classroom
 
-++{逃げ出す|に・げ・だ・す}++
-: to run away <sup>(u-verb)</sup>
+++{逃げ出す|に・げ・だ・す}++ <abbr title="う verb">u-verb</abbr>
+: to run away
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{口|くち}++
 : mouth
@@ -46,10 +44,8 @@ In this section, we will be covering some advanced grammar that describe an acti
 ++{中|なか}++
 : inside
 
-++{放り込む|ほう・り・こ・む}++
-: to throw into <sup>(u-verb)</sup>
-
-</div>
+++{放り込む|ほう・り・こ・む}++ <abbr title="う verb">u-verb</abbr>
+: to throw into
 
 The phrase ""が早いか"" is used to describe something that happened the instant something else occurred.
 
@@ -84,16 +80,14 @@ To use this grammar, you attach ""が早いか"" to the first verb, then you des
 
 ### Vocabulary
 
-<div class="columns">
-
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
 ++{否定|ひ・てい}++
 : denial
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{私|わたし}++
 : me, myself, I
@@ -104,11 +98,11 @@ To use this grammar, you attach ""が早いか"" to the first verb, then you des
 ++{何|なに／なん}++
 : what
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{搭乗|とう・じょう}++
 : boarding
@@ -116,8 +110,8 @@ To use this grammar, you attach ""が早いか"" to the first verb, then you des
 ++{アナウンス|a na u n su}++
 : announcement
 
-++{聞こえる|き・こえる}++
-: to be audible <sup>(ru-verb)</sup>
+++{聞こえる|き・こえる}++ <abbr title="る verb">ru-verb</abbr>
+: to be audible
 
 ++{皆|みんな}++
 : everybody
@@ -128,10 +122,8 @@ To use this grammar, you attach ""が早いか"" to the first verb, then you des
 ++{方|ほう}++
 : direction, way
 
-++{走り出す|はし・り・だ・す}++
-: to break into a run <sup>(u-verb)</sup>
-
-</div>
+++{走り出す|はし・り・だ・す}++ <abbr title="う verb">u-verb</abbr>
+: to break into a run
 
 The ""や"" or ""や否や"" (やいなや) phrase, when appended to a verb, is used to described something that happened right after that verb. Its meaning is essential the same as ""が早いか"". It is also another type of grammar that is not really used in regular conversational Japanese.
 
@@ -163,16 +155,14 @@ You can use this grammar by attaching ""や"" or ""や否や"" to the dictionary
 
 ### Vocabulary
 
-<div class="columns">
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+: to read
 
-++{読む|よ・む}++
-: to read <sup>(u-verb)</sup>
-
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{子供|こ・ども}++
 : child
@@ -180,31 +170,29 @@ You can use this grammar by attaching ""や"" or ""や否や"" to the dictionary
 ++{掃除|そう・じ}++
 : cleaning
 
-++{散らかす|ち・らかす}++
-: to scatter around; to leave untidy <sup>(u-verb)</sup>
+++{散らかす|ち・らかす}++ <abbr title="う verb">u-verb</abbr>
+: to scatter around; to leave untidy
 
 ++もう++
 : already
 
-++あきらめる++
-: to give up <sup>(ru-verb)</sup>
+++あきらめる++ <abbr title="る verb">ru-verb</abbr>
+: to give up
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{教科書|きょう・か・しょ}++
 : textbook
 
-++{忘れる|わす・れる}++
-: to forget <sup>(ru-verb)</sup>
+++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to forget
 
 ++{勉強|べん・きょう}++
 : study
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
-
-</div>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 ""そばから"" is yet another grammar that describes an event that happens right after another. However, unlike the expressions we have covered so far, ""そばから"" implies that the events are a recurring pattern. For example, you would use this grammar to express the fact that you just clean and clean your room only for it to get dirty again soon after.
 

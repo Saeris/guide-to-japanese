@@ -11,19 +11,17 @@ We can use the verbs ""する"" and ""なる"" in conjunction with the ""に"" p
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{彼|かれ}++
 : he; boyfriend
 
 ++{日本語|に・ほん・ご}++
 : Japanese (language)
 
-++{上手|じょう・ず}++
-: skillful <sup>(na-adj)</sup>
+++{上手|じょう・ず}++ <abbr title="な adjective">na-adj</abbr>
+: skillful
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{私|わたし}++
 : me, myself, I
@@ -31,8 +29,8 @@ We can use the verbs ""する"" and ""なる"" in conjunction with the ""に"" p
 ++{医者|い・しゃ}++
 : doctor
 
-++{有名|ゆう・めい}++
-: famous <sup>(na-adj)</sup>
+++{有名|ゆう・めい}++ <abbr title="な adjective">na-adj</abbr>
+: famous
 
 ++{人|ひと}++
 : person
@@ -43,14 +41,14 @@ We can use the verbs ""する"" and ""なる"" in conjunction with the ""に"" p
 ++{サラダ|sa ra da}++
 : salad
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{他|ほか}++
 : other
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{物|もの}++
 : object
@@ -58,16 +56,14 @@ We can use the verbs ""する"" and ""なる"" in conjunction with the ""に"" p
 ++たくさん++
 : a lot (amount)
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++やはり／やっぱり++
 : as I thought
 
 ++これ++
 : this
-
-</div>
 
 As already explained, using ""なる"" with nouns and na-adjectives presents nothing new and acts pretty much the way you’d expect.
 
@@ -94,34 +90,32 @@ If you think this expression is strange, think about the English expression, “
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{去年|きょ・ねん}++
 : last year
 
-++～から++
-: from ～ <sup>(particle)</sup>
+++～から++ <span>particle</span>
+: from ～
 
 ++{背|せ}++
 : height
 
-++{高い|たか・い}++
-: high; tall; expensive <sup>(i-adj)</sup>
+++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>
+: high; tall; expensive
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{運動|うん・どう}++
 : exercise
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++～から++
-: ～ so <sup>(particle)</sup>
+++～から++ <span>particle</span>
+: ～ so
 
-++{強い|つよ・い}++
-: strong <sup>(i-adj)</sup>
+++{強い|つよ・い}++ <abbr title="い adjective">i-adj</abbr>
+: strong
 
 ++{勉強|べん・きょう}++
 : study
@@ -132,10 +126,8 @@ If you think this expression is strange, think about the English expression, “
 ++{頭|あたま}++
 : head
 
-++いい++
-: good <sup>(i-adj)</sup>
-
-</div>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 Because the ""に"" particle is a target particle that is used for nouns and by extension na-adjectives, we need to use something else to show that something is becoming an i-adjective. Since “becoming” expresses a change in state, it makes sense to describe this process using an adverb. In fact, you’ll notice that we were already using adverbs (of a sort) in the previous section by using ""に"" with na-adjectives.
 
@@ -152,19 +144,17 @@ Because the ""に"" particle is a target particle that is used for nouns and by 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{海外|かい・がい}++
 : overseas
 
-++{行く|い・く}+
-: to go <sup>(u-verb)</sup>
+++{行く <abbr title="う verb">u-verb</abbr>|い・く}+
+: to go
 
 ++こと++
 : event, matter
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{毎日|まい・にち}++
 : everyday
@@ -172,17 +162,17 @@ Because the ""に"" particle is a target particle that is used for nouns and by 
 ++{肉|にく}++
 : meat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{日本|に・ほん}++
 : Japan
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{寿司|すし}+
 : sushi
@@ -196,22 +186,20 @@ Because the ""に"" particle is a target particle that is used for nouns and by 
 ++{ピアノ|pi a no}++
 : piano
 
-++{弾く|ひ・く}++
-: to play (piano, guitar) <sup>(u-verb)</sup>
+++{弾く|ひ・く}++ <abbr title="う verb">u-verb</abbr>
+: to play (piano, guitar)
 
 ++{地下|ち・か}++
 : underground
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|は <abbr title="う verb">u-verb</abbr>い・る}++
+: to enter
 
 ++{富士山|ふ・じ・さん}++
 : Mt. Fuji
 
-++{見える|み・える}++
-: to be visible <sup>(ru-verb)</sup>
-
-</div>
+++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>
+: to be visible
 
 You may be wondering how to use ""なる"" and ""する"" with verbs since there’s no way to directly modify a verb with another verb. The simple solution is to add a generic noun such as a generic event: こと (事) or an appearance/manner: よう (様). These nouns don’t refer to anything specific and are used to describe something else. In this case, they allow us to describe verbs in the same manner as nouns. Here are some examples of how to use these generic nouns with ""する"" and ""なる"".
 

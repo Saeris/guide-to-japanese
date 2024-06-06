@@ -14,7 +14,7 @@
     "allowImportingTsExtensions": true,
     "lib": ["ESNext", "DOM"],
     "allowJs": true,
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "declaration": true,
     "strict": false,
     "strictNullChecks": true,
@@ -35,6 +35,7 @@
       {
         "name": "typescript-plugin-css-modules"
       }
-    ]
+    ],
+    "jsxImportSource": "react"
   }
 }

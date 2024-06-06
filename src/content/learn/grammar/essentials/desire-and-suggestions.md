@@ -13,16 +13,14 @@ We will now learn how to say what you want either by just coming out and saying 
 
 ### Vocabulary
 
-<div class="columns">
-
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{何|なに}++
 : what
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{温泉|おん・せん}++
 : hotspring
@@ -30,8 +28,8 @@ We will now learn how to say what you want either by just coming out and saying 
 ++{ケーキ|ke e ki}++
 : cake
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++ずっと++
 : long; far
@@ -39,16 +37,14 @@ We will now learn how to say what you want either by just coming out and saying 
 ++{一緒|いっ・しょ}++
 : together
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++{犬|いぬ}++
 : dog
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
-
-</div>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
 You can express verbs that you want to perform with the ""たい"" form. All you need to do is add ""たい"" to the stem of the verb. However, unlike most conjugations we learned where the verb turns into a ru-verb, this form actually transforms the verb into an i-adjective (notice how ""たい"" conveniently ends in ""い""). This makes sense because the conjugated form is a description of something that you want to do. Once you have the ""たい"" form, you can then conjugate it the same as you would any other i-adjective. However, the ""たい"" form is different from regular i-adjectives because it is derived from a verb. Particles we normally associate with verbs such as ""を""、""に""、""へ""、or ""で"" can all be used with the ""たい"" form in addition to the particles commonly used with regular adjectives such as ""は"" and ""が"".
 
@@ -89,16 +85,14 @@ Also, you can only use the ""たい"" form for the first-person because you cann
 
 ### Vocabulary
 
-<div class="columns">
+++{欲しい|ほ・しい}++ <abbr title="い adjective">i-adj</abbr>
+: wanted; desirable
 
-++{欲しい|ほ・しい}++
-: wanted; desirable <sup>(i-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
-
-++{大きい|おお・きい}++
-: big <sup>(i-adj)</sup>
+++{大きい|おお・きい}++ <abbr title="い adjective">i-adj</abbr>
+: big
 
 ++{縫いぐるみ|ぬ・いぐるみ}++
 : stuffed doll
@@ -106,16 +100,14 @@ Also, you can only use the ""たい"" form for the first-person because you cann
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{部屋|へ・や}++
 : room
 
-++きれい++
-: pretty; clean <sup>(na-adj)</sup>
-
-</div>
+++きれい++ <abbr title="な adjective">na-adj</abbr>
+: pretty; clean
 
 In English, we employ a verb to say that we want something. In Japanese, “to want” is actually an i-adjective and not a verb. We saw something similar with ""好き"" which is an adjective while “to like” in English is a verb. While I didn’t get too much into the workings of ""好き"", I have dedicated a whole section to ""欲しい"" because it means, “to want something done” when combined with the te-form of a verb. We will learn a more polite and appropriate way to make requests in the “Making Requests” lesson instead of saying, “I want this done.”
 
@@ -138,76 +130,74 @@ Like I mentioned, there are more appropriate ways to ask for things which we won
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>
+: to believe
 
-++{信じる|しん・じる}++
-: to believe <sup>(ru-verb)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{起きる|お・きる}++ <abbr title="る verb">ru-verb</abbr>
+: to wake; to occur
 
-++{起きる|お・きる}++
-: to wake; to occur <sup>(ru-verb)</sup>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+: to come out
 
-++{出る|で・る}++
-: to come out <sup>(ru-verb)</sup>
+++{掛ける|か・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to hang
 
-++{掛ける|か・ける}++
-: to hang <sup>(ru-verb)</sup>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+: to throw away
 
-++{捨てる|す・てる}++
-: to throw away <sup>(ru-verb)</sup>
+++{調べる|しら・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to investigate
 
-++{調べる|しら・べる}++
-: to investigate <sup>(ru-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+: to wait
 
-++{待つ|ま・つ}++
-: to wait <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{取る|と・る}++ <abbr title="う verb">u-verb</abbr>
+: to take
 
-++{取る|と・る}++
-: to take <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{泳ぐ|およ・ぐ}++ <abbr title="う verb">u-verb</abbr>
+: to swim
 
-++{泳ぐ|およ・ぐ}++
-: to swim <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{直る|なお・る}++ <abbr title="う verb">u-verb</abbr>
+: to be fixed
 
-++{直る|なお・る}++
-: to be fixed <sup>(u-verb)</sup>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+: to die
 
-++{死ぬ|し・ぬ}++
-: to die <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
-
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{今日|きょう}++
 : today
@@ -218,16 +208,14 @@ Like I mentioned, there are more appropriate ways to ask for things which we won
 ++{テーマパーク|te e mu pa a ku}++
 : theme park
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{明日|あした}++
 : tomorrow
 
 ++{カレー|ka re e}++
 : curry
-
-</div>
 
 The term volitional here means a will to do something. In other words, the volitional form indicates that someone is setting out to do something. In the most common example, this simply translates into the English “let’s” or “shall we?” but we’ll also see how this form can be used to express an effort to do something in a lesson further along.
 
@@ -310,28 +298,26 @@ Remember, since you’re setting out to do something, it doesn’t make sense to
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
-
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
 ++{今日|きょう}++
 : today
@@ -347,8 +333,6 @@ Remember, since you’re setting out to do something, it doesn’t make sense to
 
 ++{カレー|ka re e}++
 : curry
-
-</div>
 
 The conjugation for the polite form is even simpler. All you have to do is add ""～ましょう"" to the stem of the verb. Similar to the masu-form, verbs in this form must always come at the end of the sentence. In fact, all polite endings must always come at the end and nowhere else as we’ve already seen.
 
@@ -389,13 +373,11 @@ Again, there’s nothing new here, just the polite version of the volitional for
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{銀行|ぎん・こう}++
 : bank
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++たまに++
 : once in a while
@@ -403,10 +385,8 @@ Again, there’s nothing new here, just the polite version of the volitional for
 ++{両親|りょう・しん}++
 : parents
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
-
-</div>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
 You can make suggestions by using the ""ば"" or ""たら"" conditional and adding ""どう"". This literally means, “If you do [X], how is it?” In English, this would become, “How about doing [X]?” Grammatically, there’s nothing new here but it is a commonly used set phrase.
 

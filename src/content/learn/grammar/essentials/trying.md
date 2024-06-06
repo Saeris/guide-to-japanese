@@ -13,13 +13,11 @@ In English, we use the word, “try” to mean both “to try something out” a
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{見る|み・る}++
 : to see; to watch
 
-++{切る|き・る}++
-: to cut <sup>(u-verb)</sup>
+++{切る|き・る}++ <abbr title="う verb">u-verb</abbr>
+: to cut
 
 ++{お好み焼き|お・この・み・や・き}++
 : okonomiyaki (Japanese-style pancake)
@@ -27,43 +25,41 @@ In English, we use the word, “try” to mean both “to try something out” a
 ++{初めて|はじ・めて}++
 : for the first time
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++とても++
 : very
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
 ++{お酒|お・さけ}++
 : alcohol
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 ++すごい++
 : to a great extent
 
-++{眠い|ねむ・い}++
-: sleepy <sup>(i-adj)</sup>
+++{眠い|ねむ・い}++ <abbr title="い adjective">i-adj</abbr>
+: sleepy
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
-++{新しい|あたら・しい}++
-: new <sup>(i-adj)</sup>
+++{新しい|あたら・しい}++ <abbr title="い adjective">i-adj</abbr>
+: new
 
 ++{デパート|de pa a to}++
 : department store
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{広島|ひろ・しま}++
 : Hiroshima
-
-</div>
 
 To try something out, you simply need to change the verb to the te-form and add ""みる"". If it helps you to remember, you can think of it as a sequence of an action and then seeing the result. In fact ""みる"" conjugates just like ""見る"". However, just like the ""～てほしい"" grammar we learned, this is a set phrase and ""みる"" is usually written in hiragana.
 
@@ -95,25 +91,23 @@ To try something out, you simply need to change the verb to the te-form and add 
 
 ### Vocabulary
 
-<div class="columns">
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{考える|かんが・える}++ <abbr title="る verb">ru-verb</abbr>
+: to think
 
-++{考える|かんが・える}++
-: to think <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
-
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{毎日|まい・にち}++
 : everyday
@@ -121,8 +115,8 @@ To try something out, you simply need to change the verb to the te-form and add 
 ++{勉強|べん・きょう}++
 : study
 
-++{避ける|さ・ける}++
-: to avoid <sup>(ru-verb)</sup>
+++{避ける|さ・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to avoid
 
 ++{無理矢理|む・り・や・り}++
 : forcibly
@@ -130,14 +124,14 @@ To try something out, you simply need to change the verb to the te-form and add 
 ++{部屋|へ・や}++
 : room
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{寝る|ね・る}++
-: to sleep <sup>(ru-verb)</sup>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+: to sleep
 
 ++{結局|けっ・きょく}++
 : eventually
@@ -148,14 +142,14 @@ To try something out, you simply need to change the verb to the te-form and add 
 ++{お酒|お・さけ}++
 : alcohol
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 ++{奥さん【おく・さん}++
 : wife (polite)
 
-++{止める|と・める}++
-: to stop <sup>(ru-verb)</sup>
+++{止める|と・める}++ <abbr title="る verb">ru-verb</abbr>
+: to stop
 
 ++なるべく++
 : as much as possible
@@ -163,10 +157,8 @@ To try something out, you simply need to change the verb to the te-form and add 
 ++{ジム|ji mu}++
 : gym
 
-++{決める|き・める}++
-: to decide <sup>(ru-verb)</sup>
-
-</div>
+++{決める|き・める}++ <abbr title="る verb">ru-verb</abbr>
+: to decide
 
 We already learned that the volitional form was used to indicate a will to set out to do something. If you guessed that this next grammar for attempting to do something would involve the volitional form, you were right. To say that you tried (as in attempted) to do something, you need to conjugate the verb into the volitional, enclose it in a quotation (so that we can perform an action on the clause) and finally add the verb ""する"". Or put more simply, you just add ""とする"" to the volitional form of the verb. This is simply an extension of the quoted relative clause from the last section. Instead of saying the quote （言う） or treating it as a thought （思う、考える）, we are simply doing it with ""する"".
 

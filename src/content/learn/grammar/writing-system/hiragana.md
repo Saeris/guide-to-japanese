@@ -31,20 +31,17 @@ When practicing writing Hiragana by hand, the important thing to remember is tha
 
 japanese-lesson.com
 
-※ As an aside, an old Japanese poem called ""いろは"" was often used as the base for ordering of Hiragana until recent times. The poem contains every single Hiragana character except for ""ん"" which probably did not exist at the time it was written. You can check out this poem for yourself in this [wikipedia article](http://en.wikipedia.org/wiki/Iroha). As the article mentions, this order is still sometimes used in ordering lists so you may want to spend some time checking it out.
+> [!Tip]
+>
+> As an aside, an old Japanese poem called ""いろは"" was often used as the base for ordering of Hiragana until recent times. The poem contains every single Hiragana character except for ""ん"" which probably did not exist at the time it was written. You can check out this poem for yourself in this [wikipedia article](http://en.wikipedia.org/wiki/Iroha). As the article mentions, this order is still sometimes used in ordering lists so you may want to spend some time checking it out.
 
 > [!Note] Notes
 >
 > 1. Except for ""し""、""ち""、""つ""、and ""ん""、you can get a sense of how each letter is pronounced by matching the consonant on the top row to the vowel. For example, ""き"" would become _/ki/_ and ""ゆ"" would become _/yu/_ and so on.
->
 > 1. As you can see, not all sounds match the way our consonant system works. As written in the table, ""ち"" is pronounced “chi” and ""つ"" is pronounced “tsu”.
->
 > 1. The _/r/_ or _/l/_ sound in Japanese is quite different from any sound in English. It involves more of a roll and a clip by hitting the roof of your mouth with your tongue. Pay careful attention to that whole column.
->
 > 1. Pay careful attention to the difference between _/tsu/_ and _/su/_.
->
 > 1. The ""ん"" character is a special character because it is rarely used by itself and does not have a vowel sound. It is attached to another character to add a _/n/_ sound. For example, ""かん"" becomes ‘kan’ instead of ‘ka’, ""まん"" becomes ‘man’ instead of ‘ma’, and so on and so forth.
->
 > 1. <u>You must learn the correct stroke order and direction!</u> Use the following pdf practice sheets.
 >
 > japanese-lesson.com
@@ -98,6 +95,7 @@ A small ""つ"" is inserted between two characters to carry the consonant sound 
 ### Examples
 
 1. ざ==っ==し (za==s==-shi) – magazine
+
 1. か==っ==ぷ (ka==p==-pu) – cup
 
 > [!Note] Notes
@@ -126,9 +124,13 @@ It’s important to make sure you hold the vowel sound long enough because you c
 ## Examples
 
 1. がくせ==い== (ga-ku-s==e==) – student
+
 1. せんせ==い== (sen-s==e==) – teacher
+
 1. きょ==う== (ky==o==) – today
+
 1. おはよ==う== (o-ha-y==o==) – good morning
+
 1. おか==あ==さん (o-k==a==-san) – mother
 
 There are rare exceptions where an _/e/_ vowel sound is extended by adding ""え"" or an _/o/_ vowel sound is extended by ""お"". Some examples of this include ""おねえさん""、""おおい""、and ""おおきい"". Pay careful attention to these exceptions but don’t worry, there aren’t too many of them.

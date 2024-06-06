@@ -11,22 +11,20 @@ In this lesson, we’ll learn how to express the way things are supposed dependi
 
 ## Vocabulary
 
-<div class="columns">
-
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{日曜日|にち・よう・び}++
 : Sunday
 
-++{可能|か・のう}++
-: possible <sup>(na-adj)</sup>
+++{可能|か・のう}++ <abbr title="な adjective">na-adj</abbr>
+: possible
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -49,8 +47,8 @@ In this lesson, we’ll learn how to express the way things are supposed dependi
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{読む|よ・む}++
-: to read <sup>(u-verb)</sup>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+: to read
 
 ++この++
 : this （abbr. of これの）
@@ -58,26 +56,26 @@ In this lesson, we’ll learn how to express the way things are supposed dependi
 ++{料理|りょう・り}++
 : cooking; cuisine; dish
 
-++{焦げる|こ・げる}++
-: to burn, to be burned <sup>(ru-verb)</sup>
+++{焦げる|こ・げる}++ <abbr title="る verb">ru-verb</abbr>
+: to burn, to be burned
 
-++まずい++
-: unpleasant <sup>(i-adj)</sup>
+++まずい++ <abbr title="い adjective">i-adj</abbr>
+: unpleasant
 
-++{色々|いろ・いろ}++
-: various <sup>(na-adj)</sup>
+++{色々|いろ・いろ}++ <abbr title="な adjective">na-adj</abbr>
+: various
 
 ++{予定|よ・てい}++
 : plans, arrangement
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{今年|こ・とし}++
 : this year
 
-++{楽しい|たの・しい}++
-: fun <sup>(i-adj)</sup>
+++{楽しい|たの・しい}++ <abbr title="い adjective">i-adj</abbr>
+: fun
 
 ++{クリスマス|ku ri su ma su}++
 : Christmas
@@ -85,11 +83,11 @@ In this lesson, we’ll learn how to express the way things are supposed dependi
 ++そう++
 : (things are) that way
 
-++{簡単|かん・たん}++
-: simple <sup>(na-adj)</sup>
+++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>
+: simple
 
-++{直す|なお・す}++
-: to correct, to fix <sup>(u-verb)</sup>
+++{直す|なお・す}++ <abbr title="う verb">u-verb</abbr>
+: to correct, to fix
 
 ++{打合せ|うち・あわ・せ}++
 : meeting
@@ -100,10 +98,8 @@ In this lesson, we’ll learn how to express the way things are supposed dependi
 ++{～時|～じ}++
 : counter for hours
 
-++{始まる|はじ・まる}++
-: to begin <sup>(u-verb)</sup>
-
-</div>
+++{始まる|はじ・まる}++ <abbr title="う verb">u-verb</abbr>
+: to begin
 
 The first grammar we will learn is ""はず"", which is used to express something that was or is supposed to be. You can treat ""はず"" just like a regular noun as it is usually attached to the adjective or verb that is supposed to be or supposed to happen.
 
@@ -149,34 +145,32 @@ Here are [more examples](http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjd
 
 ### Vocabulary
 
-<div class="columns">
+++{絶対|ぜっ・たい}++ <abbr title="な adjective">na-adj</abbr>
+: absolutely, unconditionally
 
-++{絶対|ぜっ・たい}++
-: absolutely, unconditionally <sup>(na-adj)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
-
-++{強い|つよ・い}++
-: strong <sup>(i-adj)</sup>
+++{強い|つよ・い}++ <abbr title="い adjective">i-adj</abbr>
+: strong
 
 ++{推奨|すい・しょう}++
 : recommendation
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{擦る|す・る}++
-: to rub <sup>(u-verb)</sup>
+++{擦る|す・る}++ <abbr title="う verb">u-verb</abbr>
+: to rub
 
-++{行う|おこな・う}++
-: to conduct, to carry out <sup>(u-verb)</sup>
+++{行う|おこな・う}++ <abbr title="う verb">u-verb</abbr>
+: to conduct, to carry out
 
 ++{何|なに／なん}++
 : what
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{前|まえ}++
 : front; before
@@ -190,11 +184,11 @@ Here are [more examples](http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjd
 ++どう++
 : how
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
-++{考える|かんが・える}++
-: to think <sup>(ru-verb)</sup>
+++{考える|かんが・える}++ <abbr title="る verb">ru-verb</abbr>
+: to think
 
 ++{例え|たと・え}++
 : example
@@ -205,11 +199,11 @@ Here are [more examples](http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjd
 ++{国民|こく・みん}++
 : people, citizen
 
-++{騙す|だま・す}++
-: to trick, to cheat, to deceive <sup>(u-verb)</sup>
+++{騙す|だま・す}++ <abbr title="う verb">u-verb</abbr>
+: to trick, to cheat, to deceive
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++{預金者|よ・きん・しゃ}++
 : depositor
@@ -223,20 +217,20 @@ Here are [more examples](http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjd
 ++{相手|あい・て}++
 : other party
 
-++{取る|と・る}++
-: to take <sup>(u-verb)</sup>
+++{取る|と・る}++ <abbr title="う verb">u-verb</abbr>
+: to take
 
 ++{訴訟|そ・しょう}++
 : litigation, lawsuit
 
-++{起こす|お・こす}++
-: to cause, to wake someone <sup>(u-verb)</sup>
+++{起こす|お・こす}++ <abbr title="う verb">u-verb</abbr>
+: to cause, to wake someone
 
 ++{ケース|ke e su}++
 : case
 
-++{出る|で・る}++
-: to come out <sup>(ru-verb)</sup>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+: to come out
 
 ++{金融庁|きん・ゆう・ちょう}++
 : Financial Services Agency
@@ -265,8 +259,8 @@ Here are [more examples](http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjd
 ++{強化|きょう・か}++
 : strengthen
 
-++{促す|うなが・す}++
-: to urge <sup>(u-verb)</sup>
+++{促す|うなが・す}++ <abbr title="う verb">u-verb</abbr>
+: to urge
 
 ++{判断|はん・だん}++
 : judgement, decision
@@ -276,8 +270,6 @@ Here are [more examples](http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjd
 
 ++{新聞|しん・ぶん}++
 : newspaper
-
-</div>
 
 ""べき"" is a verb suffix used to describe something that is supposed to be done. This suffix is commonly defined as “should”, however, one must realize that it cannot be used to make suggestions like the sentence, “You should go to the doctor.” If you use ""べき"", it sounds more like, “You are supposed to go to the doctor.” ""べき"" has a much stronger tone and makes you sound like a know-it-all telling people what to do. For making suggestions, it is customary to use the comparison ""方がいい"" grammar instead. For this reason, this grammar is almost never used to directly tell someone what to do. It is usually used in reference to oneself where you can be as bossy as you want or in a neutral context where circumstances dictate what is proper and what is not. One such example would be a sentence like, “We are supposed to raise our kids properly with a good education.”
 
@@ -315,34 +307,32 @@ There is very little of grammatical interest. ""べき"" works just like a regul
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{連用形|れん・よう・けい}++
 : conjunctive form
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{準備|じゅん・び}++
 : preparations
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{始める|はじ・める}++
-: to begin <sup>(ru-verb)</sup>
+++{始める|はじ・める}++ <abbr title="る verb">ru-verb</abbr>
+: to begin
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
-++{行う|おこな・う}++
-: to conduct, to carry out <sup>(u-verb)</sup>
+++{行う|おこな・う}++ <abbr title="う verb">u-verb</abbr>
+: to conduct, to carry out
 
 ++{試験|し・けん}++
 : exam
@@ -377,16 +367,14 @@ There is very little of grammatical interest. ""べき"" works just like a regul
 ++{充実|じゅう・じつ}++
 : fulfilled
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{努力|ど・りょく}++
 : effort
 
-++{参る|まい・る}++
-: to go; to come (humble) <sup>(u-verb)</sup>
-
-</div>
+++{参る|まい・る}++ <abbr title="う verb">u-verb</abbr>
+: to go; to come (humble)
 
 Grammatically, ""べく"" is really a conjunctive form （連用形） of ""べき"", similar to what the te-form does to connect another phrase. However, what needs mentioning here is that by changing it into a conjunctive and adding a predicate, the meaning of ""べく"" changes from the ordinary meaning of ""べき"". While ""べき"" describes a strong suggestion, changing it to ""べく"" allows you to describe what one did in order to carry out that suggestion. Take a look that the following examples to see how the meaning changes.
 
@@ -425,22 +413,20 @@ As we can see in this example, adding the ""準備をし始めた"" tells us wha
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{未然形|み・ぜん・けい}++
 : imperfective form
 
-++{行う|おこな・う}++
-: to conduct, to carry out <sup>(u-verb)</sup>
+++{行う|おこな・う}++ <abbr title="う verb">u-verb</abbr>
+: to conduct, to carry out
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{ゴミ|go mi}++
 : garbage
 
-++{捨てる|す・てる}++
-: to throw away <sup>(ru-verb)</sup>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+: to throw away
 
 ++{安全|あん・ぜん}++
 : safety
@@ -448,10 +434,8 @@ As we can see in this example, adding the ""準備をし始めた"" tells us wha
 ++{措置|そ・ち}++
 : measures
 
-++{忘れる|わす・れる}++
-: to forget <sup>(ru-verb)</sup>
-
-</div>
+++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to forget
 
 Moving on to yet another from of ""べき"" is ""べからず"". This is undoubtedly related to the ""ず"" negative ending we learned in a previous section. However, it seems to be a conjugation of an old 未然形 of ""べから"". I have no idea what that means and you don’t have to either. The only thing we need to take away from this is that ""べからず"" expresses the opposite meaning of ""べき"" as an action that one must **not** do. I suppose the short and abrupt ending of the ""ず"" form makes this more useful for laying out rules. In fact, searching around on google comes up with a bunch of ""べし･ベからず"" or “do’s and don’ts”. （べし is an older form of べき, which I doubt you’ll ever need.)
 

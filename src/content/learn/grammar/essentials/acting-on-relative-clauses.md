@@ -13,25 +13,23 @@ While in English, you can just add quotes and a comma to make a quotation, Japan
 
 ### Vocabulary
 
-<div class="columns">
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{叫ぶ|さけ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to scream
 
-++{叫ぶ|さけ・ぶ}++
-: to scream <sup>(u-verb)</sup>
+++{呼ぶ|よ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to call
 
-++{呼ぶ|よ・ぶ}++
-: to call <sup>(u-verb)</sup>
+++{呟く|つぶや・く}++ <abbr title="う verb">u-verb</abbr>
+: to mutter
 
-++{呟く|つぶや・く}++
-: to mutter <sup>(u-verb)</sup>
-
-++{寒い|さむ・い}++
-: cold <sup>(i-adj)</sup>
+++{寒い|さむ・い}++ <abbr title="い adjective">i-adj</abbr>
+: cold
 
 ++{今日|きょう}++
 : today
@@ -44,8 +42,6 @@ While in English, you can just add quotes and a comma to make a quotation, Japan
 
 ++{田中|た・なか}++
 : Tanaka (last name)
-
-</div>
 
 We’ll learn the simplest type of quoted phrase, which is the direct quote. Basically, you are directly quoting something that was said. This is done by simply enclosing the statement in quotes, adding ""と"" and then inserting the appropriate verb. The most common verbs associated with a direct quote would be ""言う"" and ""聞く"" but you may use any verbs related to direct quotation such as: ""叫ぶ"", ""呼ぶ"", ""呟く"", etc. This type of quotation is often used for dialogue in novels and other narrative works.
 
@@ -66,8 +62,6 @@ The verb does not need to be directly connected to the relative clause. As long 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{先生|せん・せい}++
 : teacher
 
@@ -77,8 +71,8 @@ The verb does not need to be directly connected to the relative clause. As long 
 ++{授業|じゅ・ぎょう}++
 : class
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
 ++これ++
 : this
@@ -89,8 +83,8 @@ The verb does not need to be directly connected to the relative clause. As long 
 ++{何|なに／なん}++
 : what
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{私|わたし}++
 : me; myself; I
@@ -98,11 +92,11 @@ The verb does not need to be directly connected to the relative clause. As long 
 ++{カレー|ka re e}++
 : curry
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++{時間|じ・かん}++
 : time
@@ -113,11 +107,11 @@ The verb does not need to be directly connected to the relative clause. As long 
 ++どこ++
 : where
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{考える|かんが・える}++
-: to think <sup>(ru-verb)</sup>
+++{考える|かんが・える}++ <abbr title="る verb">ru-verb</abbr>
+: to think
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -125,10 +119,8 @@ The verb does not need to be directly connected to the relative clause. As long 
 ++{高校生|こう・こう・せい}++
 : high school student
 
-++{信じる|しん・じる}++
-: to believe <sup>(ru-verb)</sup>
-
-</div>
+++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>
+: to believe
 
 The second type of quote is the quote along the lines of what someone actually said. It’s not a word-for-word quote. Since this is not a direct quote, no quotations are needed. You can also express thoughts as an interpreted quote as well. By using this and the verb ""思う"" you can say you think that something is so-and-so. You will hear Japanese people use this all the time. You can also use the verb ""考える"" when you are considering something.
 
@@ -173,8 +165,6 @@ Notice how ""だ"" was added to explicitly declare the state-of-being that is hi
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{智子|とも・こ}++
 : Tomoko (first name)
 
@@ -190,8 +180,8 @@ Notice how ""だ"" was added to explicitly declare the state-of-being that is hi
 ++{お金|お・かね}++
 : money
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{本当|ほん・とう}++
 : real
@@ -202,19 +192,17 @@ Notice how ""だ"" was added to explicitly declare the state-of-being that is hi
 ++{雨|あめ}++
 : rain
 
-++{降る|ふ・る}++
-: to precipitate <sup>(u-verb)</sup>
+++{降る|ふ・る}++ <abbr title="う verb">u-verb</abbr>
+: to precipitate
 
-++すごい++
-: to a great extent <sup>(i-adj)</sup>
+++すごい++ <abbr title="い adjective">i-adj</abbr>
+: to a great extent
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{人|ひと}++
 : person
-
-</div>
 
 You may be surprised to hear that there is a shorter and casual version of the quoted relative clause since it’s already only one hiragana character, ""と"". However, the important point here is that by using this casual shortcut, you can drop the rest of the sentence and hope your audience can understand everything from context.
 

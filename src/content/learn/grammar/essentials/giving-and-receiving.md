@@ -9,24 +9,20 @@ part: 15
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{お歳暮|お・せい・ぼ}++
 : year-end presents
 
 ++{お中元|お・ちゅう・げん}++
 : Bon festival gifts
 
-++あげる++
-: to give; to raise <sup>(ru-verb)</sup>
+++あげる++ <abbr title="る verb">ru-verb</abbr>
+: to give; to raise
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
-++もらう++
-: to receive <sup>(u-verb)</sup>
-
-</div>
+++もらう++ <abbr title="う verb">u-verb</abbr>
+: to receive
 
 One thing about Japanese culture is that they’re big on giving gifts. There are many different customs involving giving and receiving gifts (お歳暮、お中元、etc.) and when Japanese people go traveling, you can be sure that they’re going to be picking up souvenirs to take back as gifts. Even when attending marriages or funerals, people are expected to give a certain amount of money as a gift to help fund the ceremony. You can see why properly learning how to express the giving and receiving of favors and items is a very important and useful skill. For some reason, the proper use of ""あげる""、""くれる""、and ""もらう"" has always haunted people studying Japanese as being horribly complex and intractable. I hope to prove in this section that it is conceptually quite straightforward and simple.
 
@@ -34,10 +30,8 @@ One thing about Japanese culture is that they’re big on giving gifts. There ar
 
 ### Vocabulary
 
-<div class="columns">
-
-++あげる++
-: to give; to raise <sup>(ru-verb)</sup>
+++あげる++ <abbr title="る verb">ru-verb</abbr>
+: to give; to raise
 
 ++{私|わたし}++
 : me; myself; I
@@ -57,14 +51,14 @@ One thing about Japanese culture is that they’re big on giving gifts. There ar
 ++{車|くるま}++
 : car
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{代わり|か・わり}++
 : substitute
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{学生|がく・せい}++
 : student
@@ -72,16 +66,14 @@ One thing about Japanese culture is that they’re big on giving gifts. There ar
 ++{父|ちち}++
 : father
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++こと++
 : event, matter
 
-++{教える|おし・える}++
-: to teach; to inform <sup>(ru-verb)</sup>
-
-</div>
+++{教える|おし・える}++ <abbr title="る verb">ru-verb</abbr>
+: to teach; to inform
 
 ""あげる"" is the Japanese word for “to give” seen from the speaker’s point of view. You must use this verb when you are giving something or doing something for someone else.
 
@@ -113,18 +105,14 @@ For third-person, this verb is used when the speaker is looking at it from the g
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{犬|いぬ}++
 : dog
 
 ++{餌|えさ}++
 : food for animals
 
-++やる++
-: to do <sup>(u-verb)</sup>
-
-</div>
+++やる++ <abbr title="う verb">u-verb</abbr>
+: to do
 
 Usually used for pets, animals, and such, you can substitute ""やる"", which normally means “to do”, for ""あげる"". You shouldn’t use this type of ""やる"" for people because it is used when looking down on someone and can be offensive.
 
@@ -137,10 +125,8 @@ Here, ""やる"" does not mean “to do” but “to give”. You can tell becau
 
 ### Vocabulary
 
-<div class="columns">
-
-++くれる++
-: to give <sup>(ru-verb)</sup>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
 ++{友達|とも・だち}++
 : friend
@@ -160,14 +146,14 @@ Here, ""やる"" does not mean “to do” but “to give”. You can tell becau
 ++{車|くるま}++
 : car
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{代わり|か・わり}++
 : substitute
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{学生|がく・せい}++
 : student
@@ -175,25 +161,23 @@ Here, ""やる"" does not mean “to do” but “to give”. You can tell becau
 ++{父|ちち}++
 : father
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++こと++
 : event, matter
 
-++{教える|おし・える}++
-: to teach; to inform <sup>(ru-verb)</sup>
+++{教える|おし・える}++ <abbr title="る verb">ru-verb</abbr>
+: to teach; to inform
 
-++あげる++
-: to give; to raise <sup>(ru-verb)</sup>
+++あげる++ <abbr title="る verb">ru-verb</abbr>
+: to give; to raise
 
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
-
-</div>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ""くれる"" is also a verb meaning “to give” but unlike ""あげる"", it is from the receiver’s point of view. You must use this verb when someone else is giving something or doing something for you (effectively the opposite of ""あげる"").
 
@@ -254,8 +238,6 @@ Let’s see some mistakes to watch out for.
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{私|わたし}++
 : me; myself; I
 
@@ -265,14 +247,14 @@ Let’s see some mistakes to watch out for.
 ++{プレゼント|pu re ze n to}++
 : present
 
-++もらう++
-: to receive <sup>(u-verb)</sup>
+++もらう++ <abbr title="う verb">u-verb</abbr>
+: to receive
 
 ++これ++
 : this
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{宿題|しゅく・だい}++
 : homework
@@ -280,14 +262,14 @@ Let’s see some mistakes to watch out for.
 ++{チェック|che k ku}++
 : check
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{無理|む・り}++
 : impossible
@@ -297,8 +279,6 @@ Let’s see some mistakes to watch out for.
 
 ++{時計|と・けい}++
 : watch; clock
-
-</div>
 
 ""もらう"" meaning, “to receive” has only one version unlike ""あげる／くれる"" so there’s very little to explain. One thing to point out is that since you receive from someone, ""から"" is also appropriate in addition to the ""に"" target particle.
 
@@ -325,22 +305,20 @@ Let’s see some mistakes to watch out for.
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{千円|せん・えん}++
 : 1,000 yen
 
-++{貸す|か・す}++
-: lend <sup>(u-verb)</sup>
+++{貸す|か・す}++ <abbr title="う verb">u-verb</abbr>
+: lend
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
-++もらう++
-: to receive <sup>(u-verb)</sup>
+++もらう++ <abbr title="う verb">u-verb</abbr>
+: to receive
 
 ++あなた++
 : you
@@ -351,16 +329,14 @@ Let’s see some mistakes to watch out for.
 ++ちょっと++
 : a little
 
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
 ++{漢字|かん・じ}++
 : Kanji
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
-
-</div>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
 You can make requests by using ""くれる"" and the potential form of ""もらう"" (can I receive the favor of…). We’ve already seen an example of this in example 4 of the ""くれる"" section. Because requests are favors done for the speaker, you cannot use ""あげる"" in this situation.
 
@@ -394,27 +370,23 @@ You can use the negative to make the request a little softer. You’ll see that 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
-++{高い|たか・い}++
-: high; tall; expensive <sup>(i-adj)</sup>
+++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>
+: high; tall; expensive
 
 ++{物|もの}++
 : object
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
-
-</div>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 In order to request that someone not do something, you simply attach ""で"" to the negative form of the verb and proceed as before.
 

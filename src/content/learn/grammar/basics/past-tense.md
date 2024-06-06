@@ -13,17 +13,17 @@ We will finish defining all the basic properties of verbs by learning how to exp
 
 <div class="columns">
 
-++{出る|で・る}++
-: to come out <sup>(ru-verb)</sup>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+: to come out
 
-++{捨てる|す・てる}++
-: to throw away <sup>(ru-verb)</sup>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+: to throw away
 
 ++{ご飯|ご・はん}++
 : rice; meal
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{映画|えい・が}++
 : movie
@@ -31,8 +31,8 @@ We will finish defining all the basic properties of verbs by learning how to exp
 ++{全部|ぜん・ぶ}++
 : everything
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 </div>
 
@@ -51,6 +51,7 @@ We will start off with the easy ru-verb category. To change a ru-verb from the d
 
 1. {ご飯|ご・はん}は、=={食|た}べた==。  
    As for meal, ate.
+
 1. {映画|えい・が}は、{全部|ぜん・ぶ}=={見|み}た==。  
    As for movie, saw them all.
 
@@ -60,47 +61,47 @@ We will start off with the easy ru-verb category. To change a ru-verb from the d
 
 <div class="columns">
 
-++{話す|はな・す}++
-: to speak <sup>(u-verb)</sup>
+++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+: to speak
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
-++{泳ぐ|およ・ぐ}++
-: to swim <sup>(u-verb)</sup>
+++{泳ぐ|およ・ぐ}++ <abbr title="う verb">u-verb</abbr>
+: to swim
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{死ぬ|し・ぬ}++
-: to die <sup>(u-verb)</sup>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+: to die
 
-++{切る|き・る}++
-: to cut <sup>(u-verb)</sup>
+++{切る|き・る}++ <abbr title="う verb">u-verb</abbr>
+: to cut
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
-++{持つ|も・つ}++
-: to hold <sup>(u-verb)</sup>
+++{持つ|も・つ}++ <abbr title="う verb">u-verb</abbr>
+: to hold
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{今日|きょう}++
 : today
 
-++{走る|はし・る}++
-: to run <sup>(u-verb)</sup>
+++{走る|はし・る}++ <abbr title="う verb">u-verb</abbr>
+: to run
 
 ++{友達|とも・だち}++
 : friend
@@ -167,35 +168,35 @@ Table: Exceptions
 
 <div class="columns">
 
-++{捨てる|す・てる}++
-: to throw away <sup>(ru-verb)</sup>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+: to throw away
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{食べる|たべ・る}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{お金|お・かね}++
 : money
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{私|わたし}++
 : me, myself, I
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{猫|ねこ}++
 : cat
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 </div>
 
@@ -214,13 +215,18 @@ The conjugation rules for the past-negative tense are the same for all verbs. Yo
 
 1. {アリス|a ri su}は{食|た}べな==かった==。  
    As for Alice, did not eat.
+
 1. {ジム|ji mu}がしな==かった==。  
    Jim is the one that did not do.
+
 1. {ボブ|bo bu}も{行|い}かな==かった==。  
    Bob also did not go.
+
 1. {お金|お・かね}が==なかった==。  
    There was no money. (lit: As for money, did not exist.)
+
 1. {私|わたし}は=={買|か}わなかった==。  
    As for me, did not buy.
+
 1. {猫|ねこ}は==いなかった==。  
    There was no cat. (lit: As for cat, did not exist.)

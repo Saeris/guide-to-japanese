@@ -11,8 +11,6 @@ We are coming to the end of the fourth major section of the guide. Do you feel l
 
 ### Vocabulary
 
-<div class="columns">
-
 ++あのう／あの++
 : say; well; errr
 
@@ -28,20 +26,20 @@ We are coming to the end of the fourth major section of the guide. Do you feel l
 ++{ディズニーランド|Di i zu ni i ra n do}++
 : Disney Land
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++すごい++
-: to a great extent <sup>(i-adj)</sup>
+++すごい++ <abbr title="い adjective">i-adj</abbr>
+: to a great extent
 
-++{込む|こ・む}++
-: to become crowded <sup>(u-verb)</sup>
+++{込む|こ・む}++ <abbr title="う verb">u-verb</abbr>
+: to become crowded
 
 ++{何|なに／なん}++
 : what
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 ++{今|いま}++
 : now
@@ -61,8 +59,8 @@ We are coming to the end of the fourth major section of the guide. Do you feel l
 ++{勉強|べん・きょう}++
 : study
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++まだ++
 : yet
@@ -70,17 +68,17 @@ We are coming to the end of the fourth major section of the guide. Do you feel l
 ++{全然|ぜん・ぜん}++
 : not at all (when used with negative)
 
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
-++{大丈夫|だい・じょう・ぶ}++
-: ok <sup>(u-verb)</sup>
+++{大丈夫|だい・じょう・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: ok
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{今日|きょう}++
 : today
@@ -88,13 +86,11 @@ We are coming to the end of the fourth major section of the guide. Do you feel l
 ++{雨|あめ}++
 : rain
 
-++{降る|ふ・る}++
-: to precipitate <sup>(u-verb)</sup>
+++{降る|ふ・る}++ <abbr title="う verb">u-verb</abbr>
+: to precipitate
 
 ++{大学|だい・がく}++
 : college
-
-</div>
 
 After the ""よ"" and ""ね"", ""さ"" and ""な"" are the next most commonly used sentence-ending particles.
 
@@ -156,22 +152,20 @@ The ""な"" sentence-ending particle is often used with the question marker ""�
 
 ### Vocabulary
 
-<div class="columns">
-
 ++おい++
 : hey
 
 ++どこ++
 : where
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{呼ぶ|よ・ぶ}++
-: to call <sup>(u-verb)</sup>
+++{呼ぶ|よ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to call
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{一体|いったい}++
 : forms an emphatic question (e.g. “why on earth?”)
@@ -179,8 +173,8 @@ The ""な"" sentence-ending particle is often used with the question marker ""�
 ++{何時|なん・じ}++
 : what time
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++つもり++
 : intention, plan
@@ -194,13 +188,11 @@ The ""な"" sentence-ending particle is often used with the question marker ""�
 ++{映画|えい・が}++
 : movie
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{一緒|いっ・しょ}++
 : together
-
-</div>
 
 ""かい"" and ""だい"" are strongly masculine sentence endings for asking questions. ""かい"" is used for yes/no questions while ""だい"" is used for open-ended questions.
 
@@ -222,22 +214,20 @@ The ""な"" sentence-ending particle is often used with the question marker ""�
 
 ### Vocabulary
 
-<div class="columns">
-
 ++もう++
 : already
 
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++おい++
 : hey
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++これ++
 : this
@@ -245,16 +235,14 @@ The ""な"" sentence-ending particle is often used with the question marker ""�
 ++{終わり|お・わり}++
 : end
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{大学|だい・がく}++
 : college
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
-
-</div>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 These sentence-ending particles are primarily used just to emphasize something and doesn’t really have a meaning per se. However, they can make your statements sound much stronger and/or very gender-specific. Using ""わ"" is just like ""よ"" except it will make you sound very feminine (this is a different sound from the ""わ"" used in Kansai dialect). ""かしら"" is also a very feminine version of ""かな"", which we just went over. ""ぞ"" and ""ぜ"" are identical to ""よ"" except that it makes you sound “cool” and manly, or at least, that is the intent. These examples may not be very helpful without actually hearing what they sound like.
 
@@ -276,8 +264,6 @@ These sentence-ending particles are primarily used just to emphasize something a
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{加賀|か・が}++
 : Kaga (last name)
 
@@ -290,11 +276,11 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++{質問|しつ・もん}++
 : question
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++はい++
 : yes (polite)
@@ -305,8 +291,8 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++{何|なに／なん}++
 : what
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++そう++
 : (things are) that way
@@ -317,14 +303,14 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++こんにちは++
 : good day
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++ただし++
 : however
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
 ++{時|とき}++
 : time
@@ -335,14 +321,14 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++{表現|ひょう・げん}++
 : expression
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++これ++
 : this
 
-++{覚える|おぼ・える}++
-: to memorize <sup>(ru-verb)</sup>
+++{覚える|おぼ・える}++ <abbr title="る verb">ru-verb</abbr>
+: to memorize
 
 ++{朝|あさ}++
 : morning
@@ -362,17 +348,17 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++おはよう<br/>ございます++
 : good morning (polite)
 
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
-++{間違える|ま・ちが・える}++
-: to make a mistake <sup>(ru-verb)</sup>
+++{間違える|ま・ちが・える}++ <abbr title="る verb">ru-verb</abbr>
+: to make a mistake
 
 ++{勉強|べん・きょう}++
 : study
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{洋介|よう・すけ}++
 : Yousuke (first name)
@@ -383,11 +369,11 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++{英語|えい・ご}++
 : English (language)
 
-++{教える|おし・える}++
-: to teach; to inform <sup>(ru-verb)</sup>
+++{教える|おし・える}++ <abbr title="る verb">ru-verb</abbr>
+: to teach; to inform
 
-++もらう++
-: to receive <sup>(u-verb)</sup>
+++もらう++ <abbr title="う verb">u-verb</abbr>
+: to receive
 
 ++もし++
 : if by any chance
@@ -404,26 +390,26 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++{留学|りゅう・がく}++
 : study abroad
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{去年|きょ・ねん}++
 : last year
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{お金|お・かね}++
 : money
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++いつ++
 : when
 
-++{欲しい|ほ・しい}++
-: wanted; desirable <sup>(i-adj)</sup>
+++{欲しい|ほ・しい}++ <abbr title="い adjective">i-adj</abbr>
+: wanted; desirable
 
 ++{来週|らい・しゅう}++
 : next week
@@ -434,19 +420,17 @@ These sentence-ending particles are primarily used just to emphasize something a
 ++ありがとう++
 : thank you
 
-++{怠ける|なま・ける}++
-: to neglect, to be lazy about <sup>(ru-verb)</sup>
+++{怠ける|なま・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to neglect, to be lazy about
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く <span>exception</span>・る}++
+: to come
 
 ++そんな++
 : that sort of
 
 ++こと++
 : event, matter
-
-</div>
 
 We learned quite a lot of things in this section. Let’s try to put it all together by seeing how different kinds of conjugations are used in different combinations. This is of course by no means an exhaustive list but merely an illustration of how we can use what we learned in various combinations to create a lot of useful expressions.
 

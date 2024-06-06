@@ -13,8 +13,6 @@ So far we have learned casual, polite, and honorific/humble types of languages. 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{我輩|わが・はい}++
 : I; we
 
@@ -45,16 +43,14 @@ So far we have learned casual, polite, and honorific/humble types of languages. 
 ++{純物質|じゅん・ぶっ・しつ}++
 : pure material
 
-++{混じりあう|ま・じりあう}++
-: to mix together <sup>(u-verb)</sup>
+++{混じりあう|ま・じりあう}++ <abbr title="う verb">u-verb</abbr>
+: to mix together
 
 ++{物質|ぶっ・しつ}++
 : pure material
 
 ++{何|なに／なん}++
 : what
-
-</div>
 
 We have already learned how to speak with your friends in casual speech, your superiors in polite speech, and your customers in honorific / humble speech. We’ve learned ""だ""、""です""、and ""でございます"" to express a state-of-being for these different levels of politeness. There is one more type of state-of-being that is primarily used to state facts in a neutral, official sounding manner - ""である"". Just like the others, you tack ""である"" on to the adjective or noun
 that represents the state.
@@ -87,10 +83,8 @@ To give you an idea of how changing the ""である"" changes the tone, I’ve i
 
 ### Vocabulary
 
-<div class="columns">
-
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++それ++
 : that
@@ -101,25 +95,23 @@ To give you an idea of how changing the ""である"" changes the tone, I’ve i
 ++{言語|げん・ご}++
 : language
 
-++{簡単|かん・たん}++
-: simple <sup>(na-adj)</sup>
+++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>
+: simple
 
 ++{マスター|ma su ta a}++
 : master
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++こと++
 : event, matter
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 ++{学生|がく・せい}++
 : student
-
-</div>
 
 Because the negative of ""ある"" is ""ない"", you might expect the opposite of ""である"" to be ""でない"". However, for some reason I’m not aware of, you need to insert the topic particle before ""ない"" to get ""ではない"".
 
@@ -158,8 +150,6 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{花火|はな・び}++
 : fireworks
 
@@ -172,8 +162,8 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{粉末|ふん・まつ}++
 : fine powder
 
-++{混ぜる|ま・ぜる}++
-: to mix <sup>(ru-verb)</sup>
+++{混ぜる|ま・ぜる}++ <abbr title="る verb">ru-verb</abbr>
+: to mix
 
 ++{物|もの}++
 : object
@@ -181,8 +171,8 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{火|ひ}++
 : flame, light
 
-++{付ける|つ・ける}++
-: to attach <sup>(ru-verb)</sup>
+++{付ける|つ・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to attach
 
 ++{燃焼時|ねん・しょう・じ}++
 : at time of combustion
@@ -190,8 +180,8 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{火花|ひ・ばな}++
 : spark
 
-++{楽しむ|たの・しむ}++
-: to enjoy <sup>(u-verb)</sup>
+++{楽しむ|たの・しむ}++ <abbr title="う verb">u-verb</abbr>
+: to enjoy
 
 ++ため++
 : for the sake/benefit of
@@ -208,8 +198,8 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{利用|り・よう}++
 : usage
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -217,14 +207,14 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{行方|ゆく・え}++
 : whereabouts
 
-++{調べる|しら・べる}++
-: to investigate <sup>(ru-verb)</sup>
+++{調べる|しら・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to investigate
 
 ++こと++
 : event, matter
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 ++{封筒|ふう・とう}++
 : envelope
@@ -235,14 +225,14 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{数枚|すう・まい}++
 : several sheets (flat objects)
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++{手紙|て・がみ}++
 : letter
 
-++{添える|そ・える}++
-: to garnish; to accompany (as a card does a gift) <sup>(ru-verb)</sup>
+++{添える|そ・える}++ <abbr title="る verb">ru-verb</abbr>
+: to garnish; to accompany (as a card does a gift)
 
 ++この++
 : this （abbr. of これの）
@@ -256,8 +246,8 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{設定|せっ・てい}++
 : setting
 
-++{開く|ひら・く}++
-: to open <sup>(u-verb)</sup>
+++{開く|ひら・く}++ <abbr title="う verb">u-verb</abbr>
+: to open
 
 ++{～際|～さい}++
 : on the occasion of
@@ -271,10 +261,8 @@ Because the negative of ""ある"" is ""ない"", you might expect the opposite 
 ++{必要|ひつ・よう}++
 : necessity
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
-
-</div>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 In the Compound Sentence lesson, we learned how to use the te-form of verbs to express multiples sequential actions in one sentence. This practice, however, is used only in regular everyday speech. Formal speeches, narration, and written publications employ the verb stem instead of the te-form to describe sequential actions. Particularly, newspaper articles, in the interest of brevity, always prefer verb stems to the te-form.
 

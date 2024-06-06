@@ -11,22 +11,20 @@ We learned in a previous lesson that the volitional form is used when one is set
 
 ### Vocabulary
 
-<div class="columns">
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
-
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{相手|あい・て}++
 : other party
@@ -40,11 +38,11 @@ We learned in a previous lesson that the volitional form is used when one is set
 ++そう++
 : (things are) that way
 
-++{簡単|かん・たん}++
-: simple <sup>(na-adj)</sup>
+++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>
+: simple
 
-++{勝つ|か・つ}++
-: to win <sup>(u-verb)</sup>
+++{勝つ|か・つ}++ <abbr title="う verb">u-verb</abbr>
+: to win
 
 ++そんな++
 : that sort of
@@ -55,8 +53,8 @@ We learned in a previous lesson that the volitional form is used when one is set
 ++{手段|しゅ・だん}++
 : method
 
-++{認める|みと・める}++
-: to recognize, to acknowledge <sup>(ru-verb)</sup>
+++{認める|みと・める}++ <abbr title="る verb">ru-verb</abbr>
+: to recognize, to acknowledge
 
 ++その++
 : that （abbr. of それの）
@@ -70,14 +68,14 @@ We learned in a previous lesson that the volitional form is used when one is set
 ++{彼|かれ}++
 : he; boyfriend
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 ++{心|こころ}++
 : heart; mind
 
-++{決める|き・める}++
-: to decide <sup>(ru-verb)</sup>
+++{決める|き・める}++ <abbr title="る verb">ru-verb</abbr>
+: to decide
 
 ++あの++
 : that (over there) （abbr. of あれの）
@@ -91,25 +89,23 @@ We learned in a previous lesson that the volitional form is used when one is set
 ++{嘘|うそ}++
 : lie
 
-++つく++
-: to be attached <sup>(u-verb)</sup>
+++つく++ <abbr title="う verb">u-verb</abbr>
+: to be attached
 
-++{誓う|ちか・う}++
-: to swear, to pledge <sup>(u-verb)</sup>
+++{誓う|ちか・う}++ <abbr title="う verb">u-verb</abbr>
+: to swear, to pledge
 
 ++{明日|あした}++
 : tomorrow
 
-++やめる++
-: to stop; to quit <sup>(ru-verb)</sup>
+++やめる++ <abbr title="る verb">ru-verb</abbr>
+: to stop; to quit
 
 ++{肉|にく}++
 : meat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
-
-</div>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 You may have seen the negative volitional form in a verb conjugation table and wondered, “What the heck is that used for?” Well the answer is not much, or to put it more accurately, there are various ways it can be used but almost all of them are extremely stiff and formal. In fact, it’s so rare that I only found [one explanation](http://www.csse.monash.edu.au/~jwb/wwwverbinf.html) in English on the web or anywhere else. (I also found this [one](http://www.geocities.jp/niwasaburoo/32kanyuuisi.html#32.10) in Japanese.)
 
@@ -171,13 +167,11 @@ In order to express “let’s not”, you can use the verb, ""やめる"" with 
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
-
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++あいつ++
 : that guy (derogatory)
@@ -185,8 +179,8 @@ In order to express “let’s not”, you can use the verb, ""やめる"" with 
 ++{大学|だい・がく}++
 : college
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++{俺|おれ}++
 : me; myself; I (masculine)
@@ -194,14 +188,14 @@ In order to express “let’s not”, you can use the verb, ""やめる"" with 
 ++{関係|かん・けい}++
 : relation, relationship
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{時間|じ・かん}++
 : time
 
-++{合う|あ・う}++
-: to match <sup>(u-verb)</sup>
+++{合う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to match
 
 ++{間に合う|ま・に・あ・う}++
 : to be in time
@@ -212,8 +206,8 @@ In order to express “let’s not”, you can use the verb, ""やめる"" with 
 ++{ウィルス|u i ri su}++
 : virus
 
-++{強力|きょう・りょく}++
-: powerful, strong <sup>(na-adj)</sup>
+++{強力|きょう・りょく}++ <abbr title="な adjective">na-adj</abbr>
+: powerful, strong
 
 ++{プログラム|pu ro gu ra mu}++
 : program
@@ -221,19 +215,17 @@ In order to express “let’s not”, you can use the verb, ""やめる"" with 
 ++{実行|じっ・こう}++
 : execute
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{ページ|pe e ji}++
 : page
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{感染|かん・せん}++
 : infection
-
-</div>
 
 We will now learn a grammar that’s actually practical for everyday use using the negative volitional grammar. Basically, we can use both volitional and negative volitional forms to say it doesn’t matter whether something is going to happen or not. This is done by attaching ""が"" to both the volitional and the negative volitional form of the verb that doesn’t matter.
 
@@ -261,16 +253,14 @@ We will now learn a grammar that’s actually practical for everyday use using t
 
 ### Vocabulary
 
-<div class="columns">
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++{困難|こん・なん}++ <abbr title="な adjective">na-adj</abbr>
+: difficulty, distress
 
-++{困難|こん・なん}++
-: difficulty, distress <sup>(na-adj)</sup>
-
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{今後|こん・ご}++
 : hereafter
@@ -290,8 +280,8 @@ We will now learn a grammar that’s actually practical for everyday use using t
 ++{正面|しょう・めん}++
 : front; facade
 
-++{向き合う|む・き・あ・う}++
-: to face each other <sup>(u-verb)</sup>
+++{向き合う|む・き・あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to face each other
 
 ++{自ら|みずか・ら}++
 : for one’s self
@@ -299,8 +289,8 @@ We will now learn a grammar that’s actually practical for everyday use using t
 ++{解決|かい・けつ}++
 : resolution
 
-++はかる++
-: to plan, to devise <sup>(u-verb)</sup>
+++はかる++ <abbr title="う verb">u-verb</abbr>
+: to plan, to devise
 
 ++その++
 : that （abbr. of それの）
@@ -314,14 +304,14 @@ We will now learn a grammar that’s actually practical for everyday use using t
 ++{産業|さん・ぎょう}++
 : industry
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 ++{シナリオ|shi ne ri o}++
 : scenario
 
-++{考える|かんが・える}++
-: to think <sup>(ru-verb)</sup>
+++{考える|かんが・える}++ <abbr title="る verb">ru-verb</abbr>
+: to think
 
 ++もちろん++
 : of course
@@ -359,16 +349,14 @@ We will now learn a grammar that’s actually practical for everyday use using t
 ++{時代|じ・だい}++
 : period, era
 
-++{合う|あ・う}++
-: to match <sup>(u-verb)</sup>
+++{合う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to match
 
 ++{変革|へん・かく}++
 : reform
 
-++{求める|もと・める}++
-: to request; to seek <sup>(ru-verb)</sup>
-
-</div>
+++{求める|もと・める}++ <abbr title="る verb">ru-verb</abbr>
+: to request; to seek
 
 We already found out that the negative volitional can be used as kind of a formal version of ""でしょう"" and ""だろう"". You may wonder, how would you do the same thing for the volitional? The answer is to conjugate the verb ""ある"" from the formal state-of-being ""である"" to the volitional to produce ""であろう"". Remember ""でしょう"" can already be used as a polite form, so this form is even a step above that in formality. We’ll see what kind of language uses this form in the examples.
 
@@ -393,13 +381,11 @@ We already found out that the negative volitional can be used as kind of a forma
 
 ### Vocabulary
 
-<div class="columns">
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
-
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
 ++どんな++
 : what kind of
@@ -416,11 +402,11 @@ We already found out that the negative volitional can be used as kind of a forma
 ++{売上|うり・あげ}++
 : amount sold, sales
 
-++{伸びる|の・びる}++
-: to extend, to lengthen <sup>(ru-verb)</sup>
+++{伸びる|の・びる}++ <abbr title="る verb">ru-verb</abbr>
+: to extend, to lengthen
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{物|もの}++
 : object
@@ -428,20 +414,20 @@ We already found out that the negative volitional can be used as kind of a forma
 ++{運動|うん・どう}++
 : exercise
 
-++{始める|はじ・める}++
-: to begin <sup>(ru-verb)</sup>
+++{始める|はじ・める}++ <abbr title="る verb">ru-verb</abbr>
+: to begin
 
-++{遅い|おそ・い}++
-: late <sup>(i-adj)</sup>
+++{遅い|おそ・い}++ <abbr title="い adjective">i-adj</abbr>
+: late
 
 ++{健康|けん・こう}++
 : health
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
-++{変わる|か・わる}++
-: to change <sup>(u-verb)</sup>
+++{変わる|か・わる}++ <abbr title="う verb">u-verb</abbr>
+: to change
 
 ++{休日|きゅう・じつ}++
 : holiday, day off
@@ -451,8 +437,6 @@ We already found out that the negative volitional can be used as kind of a forma
 
 ++{関係|かん・けい}++
 : relation, relationship
-
-</div>
 
 We learned in the lesson about formal grammar that ""ではない"" was the negative of ""である"". So how would we say something like ""であろう"" but for the negative? The answer is to use yet another type of volitional for negatives and i-adjectives used only in formal and literary contexts. You can think of this grammar as a very old-fashioned version for i-adjectives and negative ""い"" endings.
 

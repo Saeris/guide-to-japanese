@@ -16,10 +16,8 @@ In this lesson, we will go over various ways to express actions that take place 
 
 ### Vocabulary
 
-<div class="columns">
-
-++{食べる|たべ・る}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++すみません++
 : sorry (polite)
@@ -36,20 +34,21 @@ In this lesson, we will go over various ways to express actions that take place 
 ++{キロ|ki ro}++
 : kilo
 
-++{走る|はし・る}++
-: to run <sup>(u-verb)</sup>
+++{走る|はし・る}++ <abbr title="う verb">u-verb</abbr>
+: to run
 
-++{凄い|すご・い}++
-: to a great extent <sup>(i-adj)</sup>
+++{凄い|すご・い}++ <abbr title="い adjective">i-adj</abbr>
+: to a great extent
 
-++{疲れる|つか・れる}++
-: to get tired <sup>(ru-verb)</sup>
+++{疲れる|つか・れる}++ <abbr title="る verb">ru-verb</abbr>
+: to get tired
 
 ++{家|1) うち; 2) いえ}++
-: 1) one’s own home; 2) house
+: one’s own home
+: house
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{昼ご飯|ひる・ご・はん}++
 : lunch
@@ -57,16 +56,14 @@ In this lesson, we will go over various ways to express actions that take place 
 ++もう++
 : already
 
-++{空く|す・く}++
-: to become empty <sup>(u-verb)</sup>
+++{空く|す・く}++ <abbr title="う verb">u-verb</abbr>
+: to become empty
 
 ++まさか++
 : no way, you can’t mean to say
 
-++{起きる|お・きる}++
-: to wake; to occur <sup>(ru-verb)</sup>
-
-</div>
+++{起きる|お・きる}++ <abbr title="る verb">ru-verb</abbr>
+: to wake; to occur
 
 This is a very useful grammar that is used to indicate that one has just finished doing something. For instance, the first time I really wished I knew how to say something like this was when I wanted to politely decline an invitation to eat because I had just eaten. To do this, take the past tense of verb that you want to indicate as just being completed and add ""ばかり"". This is used with only the past tense of verbs and is not to be confused with the ""ばかり"" used with nouns to express amounts.
 
@@ -115,13 +112,11 @@ Here are some examples of the abbreviated version.
 
 ### Vocabulary
 
-<div class="columns">
+++{開ける|あ・ける}++ <abbr title="る verb">ru-verb</abbr>
+: to open
 
-++{開ける|あ・ける}++
-: to open <sup>(ru-verb)</sup>
-
-++{取る|と・る}++
-: to take <sup>(u-verb)</sup>
+++{取る|と・る}++ <abbr title="う verb">u-verb</abbr>
+: to take
 
 ++{窓|まど}++
 : window
@@ -129,28 +124,26 @@ Here are some examples of the abbreviated version.
 ++{猫|ねこ}++
 : cat
 
-++{跳ぶ|と・ぶ}++
-: to jump <sup>(u-verb)</sup>
+++{跳ぶ|と・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to jump
 
 ++{映画|えい・が}++
 : movie
 
-++{観る|み・る}++
-: to watch <sup>(ru-verb)</sup>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to watch
 
 ++{トイレ|to i re}++
 : bathroom; toilet
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{眠い|ねむ・い}(i-adj)++
 : sleepy
 
-++なる++
-: to become <sup>(u-verb)</sup>
-
-</div>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
 Kind of as a supplement to ""ばかり"", we will cover one way to say something happened as soon as something else occurs. To use this grammar, add ""とたん"" to the past tense of the first action that happened. It is also common to add the ""に"" target particle to indicate that specific point in time.
 
@@ -184,37 +177,35 @@ An important thing to realize is that you can only use this grammar for things t
 
 ### Vocabulary
 
-<div class="columns">
-
-++{走る|はし・る}++
-: to run <sup>(u-verb)</sup>
+++{走る|はし・る}++ <abbr title="う verb">u-verb</abbr>
+: to run
 
 ++{テレビ|te re bi}++
 : TV, television
 
-++{観る|み・る}++
-: to watch <sup>(ru-verb)</sup>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to watch
 
 ++{宿題|しゅく・だい}++
 : homework
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{音楽|おん・がく}++
 : music
 
-++{聴く|き・く}++
-: to listen (e.g. to music); <sup>(u-verb)</sup>
+++{聴く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to listen (e.g. to music);
 
 ++{学校|がっ・こう}++
 : school
 
-++{歩く|ある・く}++
-: to walk <sup>(u-verb)</sup>
+++{歩く|ある・く}++ <abbr title="う verb">u-verb</abbr>
+: to walk
 
-++{好き|す・き}++
-: likable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable
 
 ++{相手|あい・て}++
 : other party
@@ -222,8 +213,8 @@ An important thing to realize is that you can only use this grammar for things t
 ++{何|なに／なん}++
 : what
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{自分|じ・ぶん}++
 : oneself
@@ -231,26 +222,26 @@ An important thing to realize is that you can only use this grammar for things t
 ++{気持ち|き・も・ち}++
 : feeling
 
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
-++{欲しい|ほ・しい}++
-: desirable <sup>(i-adj)</sup>
+++{欲しい|ほ・しい}++ <abbr title="い adjective">i-adj</abbr>
+: desirable
 
 ++{単なる|たん・なる}++
 : simply
 
-++わがまま++
-: selfish <sup>(na-adj)</sup>
+++わがまま++ <abbr title="な adjective">na-adj</abbr>
+: selfish
 
-++{思う|おも・う}++
-: to think <sup>(u-verb)</sup>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+: to think
 
 ++{ポップコーン|po p pu ko o n}++
 : popcorn
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{映画|えい・が}++
 : movie
@@ -261,10 +252,8 @@ An important thing to realize is that you can only use this grammar for things t
 ++{手紙|て・がみ}++
 : letter
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
-
-</div>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
 You can use ""ながら"" to express that one action is taking place in conjunction with another action. To use ""ながら"", you must change the first verb to the stem and append ""ながら"". Though probably rare, you can also attach ""ながら"" to the negative of the verb to express the negative. This grammar has no tense since it is determined by the second verb.
 
@@ -310,11 +299,11 @@ The tense is controlled by the main verb so the verb used with ""ながら"" can
 
 ### Vocabulary
 
-++{残念|ざん・ねん}++
-: unfortunate <sup>(na-adj)</sup>
+++{残念|ざん・ねん}++ <abbr title="な adjective">na-adj</abbr>
+: unfortunate
 
-++{貧乏|びん・ぼう}++
-: poor <sup>(na-adj)</sup>
+++{貧乏|びん・ぼう}++ <abbr title="な adjective">na-adj</abbr>
+: poor
 
 ++{仕事|し・ごと}++
 : job
@@ -322,26 +311,26 @@ The tense is controlled by the main verb so the verb used with ""ながら"" can
 ++いっぱい++
 : full
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++{今日|きょう}++
 : today
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
-++{高級|こう・きゅう}++
-: high class, high grade <sup>(na-adj)</sup>
+++{高級|こう・きゅう}++ <abbr title="な adjective">na-adj</abbr>
+: high class, high grade
 
 ++{バッグ|ba g gu}++
 : bag
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -357,8 +346,6 @@ The tense is controlled by the main verb so the verb used with ""ながら"" can
 
 ++{同じ|おな・じ}++
 : same
-
-</div>
 
 A more advanced use of ""ながら"" is to use it with the implied state-of-being. In other words, you can use it with nouns or adjectives to talk about what something is while something else. The implied state-of-being means that you must not use the declarative ""だ"", you just attach ""ながら"" to the noun or adjective. For example, a common way this grammar is used is to say, “While it’s unfortunate, something something…” In Japanese, this would become ""残念==ながら==・・・""
 
@@ -393,16 +380,14 @@ You can also attach the inclusive ""も"" particle to ""ながら"" to get ""な
 
 ### Vocabulary
 
-<div class="columns">
-
-++やる++
-: to do <sup>(u-verb)</sup>
+++やる++ <abbr title="う verb">u-verb</abbr>
+: to do
 
 ++{ゲーム|ge e mu}++
 : game
 
-++はまる++
-: to get hooked <sup>(u-verb)</sup>
+++はまる++ <abbr title="う verb">u-verb</abbr>
+: to get hooked
 
 ++{最近|さい・きん}++
 : recent; lately
@@ -410,14 +395,14 @@ You can also attach the inclusive ""も"" particle to ""ながら"" to get ""な
 ++{パソコン|pa so ko n}++
 : computer, PC
 
-++{使う|つか・う}++
-: to use <sup>(u-verb)</sup>
+++{使う|つか・う}++ <abbr title="う verb">u-verb</abbr>
+: to use
 
 ++{アメリカ|a me ri ka}++
 : America
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++{時|とき}++
 : time
@@ -425,10 +410,8 @@ You can also attach the inclusive ""も"" particle to ""ながら"" to get ""な
 ++{コーラ|ko o ra}++
 : cola
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
-
-</div>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 The WWWJDIC very succinctly defines the definition of this verb as a “verb suffix to indicate reckless abandon to the activity”. Unfortunately, it doesn’t go on to tell you exactly how it’s actually used. Actually, there’s not much to explain. You take the stem of the verb and simply attach ""まくる"". However, since this is a continuing activity, it is an enduring state unless you’re going to do it in the future. This is a very casual expression.
 

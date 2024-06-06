@@ -11,8 +11,6 @@ If you were wondering how to make comparison in Japanese, well wonder no more. W
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{方|1) ほう; 2) かた}++
 : direction; side
 : person; way of doing
@@ -20,35 +18,35 @@ If you were wondering how to make comparison in Japanese, well wonder no more. W
 ++{ご飯|ご・はん}++
 : rice; meal
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
 ++{鈴木|すず・き}++
 : Suzuki (last name)
 
-++{若い|わか・い}++
-: young <sup>(i-adj)</sup>
+++{若い|わか・い}++ <abbr title="い adjective">i-adj</abbr>
+: young
 
 ++{学生|がく・せい}++
 : student
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{赤ちゃん|あか・ちゃん}++
 : baby
 
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
 ++ゆっくり++
 : slowly
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{健康|けん・こう}++
 : health
@@ -56,28 +54,26 @@ If you were wondering how to make comparison in Japanese, well wonder no more. W
 ++こちら++
 : this way
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{怖い|こわ・い}++
-: scary <sup>(i-adj)</sup>
+++{怖い|こわ・い}++ <abbr title="い adjective">i-adj</abbr>
+: scary
 
 ++{映画|えい・が}++
 : movie
 
-++{観る|み・る}++
-: to watch <sup>(ru-verb)</sup>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to watch
 
 ++そんな++
 : that sort of
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
-
-</div>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 The noun ""方"" is read as ""ほう"" when it is used to mean a direction or orientation. As an aside, it can also be read as ""かた"" when it is used as a politer version of ""人"".
 
@@ -123,8 +119,6 @@ The negative verb is only in the past tense when the comparison is of something 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{方|1) ほう; 2) かた}++
 : direction; side
 : person; way of doing
@@ -141,11 +135,11 @@ The negative verb is only in the past tense when the comparison is of something 
 ++{パン|pa n}++
 : bread
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
-++{若い|わか・い}++
-: young <sup>(i-adj)</sup>
+++{若い|わか・い}++ <abbr title="い adjective">i-adj</abbr>
+: young
 
 ++{鈴木|すず・き}++
 : Suzuki (last name)
@@ -156,11 +150,11 @@ The negative verb is only in the past tense when the comparison is of something 
 ++{仕事|し・ごと}++
 : job
 
-++{嫌|いや}++
+++{嫌|いや}++ <abbr title="な adjective">na-adj</abbr>
 : disagreeable; unpleasant
 
-++ある++ <sup>(na-adj)</sup>
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++まし++
 : not as bad
@@ -168,16 +162,14 @@ The negative verb is only in the past tense when the comparison is of something 
 ++ゆっくり++
 : slowly
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++いい++
-: good <sup>(i-adj)</sup>
-
-</div>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 You can think of ""より"" as being the opposite of ""方"". It means, “rather than” or “as opposed to”. It attaches directly to the back of any word. It is usually used in conjunction with ""方"" to say something like, “This way is better as opposed to that way.”
 
@@ -211,8 +203,6 @@ Words associated with ""より"" do not need any tense. Notice in the following 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{誰|だれ}++
 : who
 
@@ -228,11 +218,11 @@ Words associated with ""より"" do not need any tense. Notice in the following 
 ++{品質|ひん・しつ}++
 : quality of a good
 
-++{大切|たい・せつ}++
-: important <sup>(na-adj)</sup>
+++{大切|たい・せつ}++ <abbr title="な adjective">na-adj</abbr>
+: important
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++この++
 : this （abbr. of これの）
@@ -240,13 +230,11 @@ Words associated with ""より"" do not need any tense. Notice in the following 
 ++{仕事|し・ごと}++
 : job
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{出来る|で・き・る}++
-: to be able to do <sup>(ru-verb)</sup>
-
-</div>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to be able to do
 
 You can also use ""より"" with question words such as ""誰""、""何""、or ""どこ"" to make a superlative by comparing with everything or everybody else. In this case, though not required, it is common to include the ""も"" particle.
 
@@ -262,61 +250,57 @@ You can also use ""より"" with question words such as ""誰""、""何""、or "
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{方|1) ほう; 2) かた}++
 : direction; side
 : person; way of doing
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{新宿|しん・じゅく}++
 : Shinjuku
 
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
 ++そう++
 : (things are) that way
 
-++{言う|い・う}++
-: to say <sup>(u-verb)</sup>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+: to say
 
 ++{体|からだ}++
 : body
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{漢字|かん・じ}++
 : Kanji
 
-++{書く|か・く}++
-: to write <sup>(u-verb)</sup>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+: to write
 
-++{教える|おし・える}++
-: to teach; to inform <sup>(ru-verb)</sup>
+++{教える|おし・える}++ <abbr title="る verb">ru-verb</abbr>
+: to teach; to inform
 
-++くれる++
-: to give <sup>(ru-verb)</sup>
+++くれる++ <abbr title="る verb">ru-verb</abbr>
+: to give
 
 ++{パソコン|pa so ko n}++
 : computer, PC
 
-++{使う|つか・う}++
-: to use <sup>(u-verb)</sup>
+++{使う|つか・う}++ <abbr title="う verb">u-verb</abbr>
+: to use
 
 ++{皆|みんな}++
 : everybody
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
-
-</div>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
 You can also attach ""方"" to the stem of verbs to express a way to do that verb. In this usage, ""方"" is read as ""かた"" and the result becomes a noun. For example, ""行き方""（いきかた） means, “the way to go” or ""食べ方""（たべかた）means, “the way to eat”. This expression is probably what you want to use when you want to ask how to do something.
 
@@ -340,16 +324,14 @@ When verbs are transformed to this form, the result becomes a noun clause. Somet
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{人|ひと}++
 : person
 
 ++{話|はなし}++
 : story
 
-++{違う|ちが・う}++
-: to be different <sup>(u-verb)</sup>
+++{違う|ちが・う}++ <abbr title="う verb">u-verb</abbr>
+: to be different
 
 ++{季節|き・せつ}++
 : season
@@ -357,14 +339,14 @@ When verbs are transformed to this form, the result becomes a noun clause. Somet
 ++{果物|くだ・もの}++
 : fruit
 
-++おいしい++
-: tasty <sup>(i-adj)</sup>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>
+: tasty
 
-++なる++
-: to become <sup>(u-verb)</sup>
+++なる++ <abbr title="う verb">u-verb</abbr>
+: to become
 
-++まずい++
-: unpleasant <sup>(i-adj)</sup>
+++まずい++ <abbr title="い adjective">i-adj</abbr>
+: unpleasant
 
 ++{和子|かず・こ}++
 : Kazuko (first name)
@@ -372,11 +354,11 @@ When verbs are transformed to this form, the result becomes a noun clause. Somet
 ++{今日|きょう}++
 : today
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{大樹|だい・き}++
 : Daiki (first name)
@@ -386,8 +368,6 @@ When verbs are transformed to this form, the result becomes a noun clause. Somet
 
 ++{裕子|ゆう・こ}++
 : Yuuko (first name)
-
-</div>
 
 When you want to say, “depending on [X]”, you can do this in Japanese by simply attaching ""によって"" to [X].
 
@@ -410,8 +390,6 @@ This is simply the te-form of ""よる"" as seen by the following simple exchang
 ## Indicating a source of information using ""によると""
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{天気|てん・き}++
 : weather
@@ -440,10 +418,8 @@ This is simply the te-form of ""よる"" as seen by the following simple exchang
 ++ボーイフレンド++
 : boyfriend
 
-++{見つける|み・つける}++
-: to find <sup>(ru-verb)</sup>
-
-</div>
+++{見つける|み・つける}++ <abbr title="る verb">ru-verb</abbr>
+: to find
 
 Another expression using ""よる"" is by using it with the target and the decided conditional ""と"" to indicate a source of information. In English, this would translate to “according to [X]” where ""によると"" is attached to [X].
 

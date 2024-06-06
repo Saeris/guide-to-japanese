@@ -11,22 +11,20 @@ In this section, we will learn various ways to combine multiple simple sentences
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{一般的|いっ・ぱん・てき}++
 : in general
 
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
-++{狭い|せま・い}++
-: narrow <sup>(i-adj)</sup>
+++{狭い|せま・い}++ <abbr title="い adjective">i-adj</abbr>
+: narrow
 
 ++{彼女|かの・じょ}++
 : she; girlfriend
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{私|わたし}++
 : me; myself; I
@@ -34,14 +32,14 @@ In this section, we will learn various ways to combine multiple simple sentences
 ++{部屋|へ・や}++
 : room
 
-++きれい++
-: pretty; clean <sup>(na-adj)</sup>
+++きれい++ <abbr title="な adjective">na-adj</abbr>
+: pretty; clean
 
 ++とても++
 : very
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
 ++{学生|がく・せい}++
 : student
@@ -55,13 +53,11 @@ In this section, we will learn various ways to combine multiple simple sentences
 ++{お金持ち|お・かね・も・ち}++
 : rich
 
-++かっこいい++
-: cool; handsome <sup>(i-adj)</sup>
+++かっこいい++ <abbr title="い adjective">i-adj</abbr>
+: cool; handsome
 
 ++{魅力的|み・りょく・てき}++
 : charming
-
-</div>
 
 It is very easy to combine a chain of nouns and adjectives to describe a person or object. For example, in English if we wanted to say, “He is X. He is Y. He is Z.” since all three sentences have the same noun, we would usually say, “He is X, Y, and Z.” In Japanese, we can do the same thing by conjugating the noun or adjective. The last noun or adjective remains the same as before.
 
@@ -88,8 +84,10 @@ It is very easy to combine a chain of nouns and adjectives to describe a person 
 
 1. 私の部屋は、きれい==で==、静か==で==、とても好き。  
    My room is clean, quiet, and I like it a lot.
+
 1. 彼女は、学生じゃな==くて==、先生だ。  
    She is not a student, she is a teacher.
+
 1. 田中さんは、お金持ち==で==、かっこ==よくて==、魅力的ですね。  
    Tanaka-san is rich, handsome, and charming, isn’t he?
 
@@ -99,28 +97,26 @@ As you can see, the ""で"" attached to ""お金持ち"" obviously cannot be the
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{学生|がく・せい}++
 : student
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++{遊ぶ|あそ・ぶ}++
-: to play <sup>(u-verb)</sup>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+: to play
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
 ++{食堂|しょく・どう}++
 : cafeteria
@@ -134,16 +130,14 @@ As you can see, the ""で"" attached to ""お金持ち"" obviously cannot be the
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{映画|えい・が}++
 : movie
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
-
-</div>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 In a similar fashion, you can express multiple actions. It is usually interpreted as a sequence of event. (I did [X], then I did [Y], then I finally did [Z].) There are two forms: positive and negative. The tense of all the actions is determined by the tense of the last verb.
 
@@ -172,8 +166,10 @@ Table: Sample conjugations
 
 1. 食堂に==行って==、昼ご飯を==食べて==、昼寝をする。  
    I will go to cafeteria, eat lunch, and take a nap.
+
 1. 食堂に==行って==、昼ご飯を==食べて==、昼寝をした。  
    I went to cafeteria, ate lunch, and took a nap.
+
 1. 時間が==ありまして==、映画を見ました。  
    There was time and I watched a movie.
 
@@ -181,19 +177,17 @@ Table: Sample conjugations
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{パーティー|pa a ti i}++
 : party
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{友達|とも・だち}++
 : friend
@@ -201,8 +195,8 @@ Table: Sample conjugations
 ++{プレゼント|pu re ze n to}++
 : present
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{田中|た・なか}++
 : Tanaka (last name)
@@ -222,8 +216,8 @@ Table: Sample conjugations
 ++ちょっと++
 : a little
 
-++{忙しい|いそが・しい}++
-: busy <sup>(i-adj)</sup>
+++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>
+: busy
 
 ++そろそろ++
 : gradually; soon
@@ -231,8 +225,8 @@ Table: Sample conjugations
 ++{失礼|しつ・れい}++
 : discourtesy
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{学生|がく・せい}++
 : student
@@ -243,19 +237,17 @@ Table: Sample conjugations
 ++ここ++
 : here
 
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
 ++とても++
 : very
 
-++{穏やか|おだ・やか}++
-: calm, peaceful <sup>(na-adj)</sup>
+++{穏やか|おだ・やか}++ <abbr title="な adjective">na-adj</abbr>
+: calm, peaceful
 
-++{会う|あ・う}++
-: to meet <sup>(u-verb)</sup>
-
-</div>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to meet
 
 You can connect two complete sentences using ""から"" to indicate a reason for something. The two sentences are always ordered [reason] から [result]. When the reason is a non-conjugated noun or na-adjective, you ==must== add ""だ"" to explicitly declare the reason in the form of ""(noun/na-adjective)==だ==から"". If you forget to add the declarative ""だ"" to ""から"", it will end up sounding like the ""から"" meaning “from” which was first introduced in the section on particles, earlier.
 
@@ -263,8 +255,10 @@ You can connect two complete sentences using ""から"" to indicate a reason for
 
 1. 時間がなかった==から==パーティーに行きませんでした。  
    There was no time so didn’t go to party.
+
 1. 友達==から==プレゼントが来た。  
    Present came ==from== friend.
+
 1. 友達==だから==プレゼントが来た。  
    Present came ==because== (the person is) friend. (This sentence sounds a bit odd.)
 
@@ -313,8 +307,10 @@ This is something I call causation where [X] happened, therefore [Y] happened. T
 
 1. 私は学生==な==ので、お金がないんです。  
    Because I’m a student, I have no money (lit: there is no money).
+
 1. ここは静か==な==ので、とても穏やかです。  
    It is very calm here because it is quiet.
+
 1. ==な==ので、友達に会う時間がない。  
    That’s why there’s no time to meet friend.
 
@@ -322,8 +318,10 @@ Just like how the explanatory ""の"" can be shortened to ""ん"", in speech, th
 
 1. 時間がなかった==んで==パーティーに行かなかった。  
    Didn’t go to the party because there was no time.
+
 1. ここは静かな==んで==、とても穏やかです。  
    It is very calm here because it is quiet.
+
 1. ==なんで==、友達に会う時間がない。  
    That’s why there’s no time to meet friend.
 
@@ -331,22 +329,20 @@ Just like how the explanatory ""の"" can be shortened to ""ん"", in speech, th
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{毎日|まい・にち}++
 : everyday
 
 ++{運動|うん・どう}++
 : exercise
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{全然|ぜん・ぜん}++
 : not at all (when used with negative)
 
-++{痩せる|や・せる}++
-: to become thin <sup>(ru-verb)</sup>
+++{痩せる|や・せる}++ <abbr title="る verb">ru-verb</abbr>
+: to become thin
 
 ++{学生|がく・せい}++
 : student
@@ -357,14 +353,13 @@ Just like how the explanatory ""の"" can be shortened to ""ん"", in speech, th
 ++{勉強|べん・きょう}++
 : study
 
-</div>
-
 Grammatically, ""のに"" is used exactly the same way as ""ので"". When used to combine two simple sentences together, it means “[Sentence 1] despite the fact that [Sentence 2].” However the order is reversed: [Sentence 2]のに[Sentence 1].
 
 ### Examples
 
 1. 毎日運動した==のに==、全然痩せなかった。  
    Despite exercising every day, I didn’t get thinner.
+
 1. 学生な==のに==、彼女は勉強しない。  
    Despite being a student, she does not study.
 
@@ -372,13 +367,11 @@ Grammatically, ""のに"" is used exactly the same way as ""ので"". When used 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{デパート|de pa a to}++
 : department store
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{何|なに／なん}++
 : what
@@ -386,17 +379,17 @@ Grammatically, ""のに"" is used exactly the same way as ""ので"". When used 
 ++{全然|ぜん・ぜん}++
 : not at all (when used with negative)
 
-++{欲しい|ほ・しい}++
-: desirable <sup>(i-adj)</sup>
+++{欲しい|ほ・しい}++ <abbr title="い adjective">i-adj</abbr>
+: desirable
 
 ++{友達|とも・だち}++
 : friend
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
 ++{今日|きょう}++
 : today
@@ -407,8 +400,8 @@ Grammatically, ""のに"" is used exactly the same way as ""ので"". When used 
 ++{明日|あした}++
 : tomorrow
 
-++{忙しい|いそが・しい}++
-: busy <sup>(i-adj)</sup>
+++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>
+: busy
 
 ++{彼|かれ}++
 : he; boyfriend
@@ -416,11 +409,11 @@ Grammatically, ""のに"" is used exactly the same way as ""ので"". When used 
 ++まだ++
 : yet
 
-++{好き|す・き}++
-: likable; desirable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable; desirable
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{物|もの}++
 : object
@@ -431,13 +424,11 @@ Grammatically, ""のに"" is used exactly the same way as ""ので"". When used 
 ++ある++
 : to exist (inanimate)
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
-++{面白い|おも・しろ・い}++
-: interesting <sup>(i-adj)</sup>
-
-</div>
+++{面白い|おも・しろ・い}++ <abbr title="い adjective">i-adj</abbr>
+: interesting
 
 Used in the same manner as ""から"" and ""ので"", ""が"" and ""けど"" also connect two sentences together but this time to express a contradiction. Just like ""から"" the declarative ""だ"" is required for nouns and na-adjectives. And just like ""から"" and ""ので"", either part of the contradiction can be left out.
 
@@ -445,10 +436,13 @@ Used in the same manner as ""から"" and ""ので"", ""が"" and ""けど"" als
 
 1. デパートに行きました==が==、何も欲しくなかったです。  
    I went to department store but there was nothing I wanted.
+
 1. 友達に聞いた==けど==、知らなかった。  
    I asked (or heard from) a friend but he (or I) didn’t know.
+
 1. 今日は暇==だけど==、明日は忙しい。  
    I’m free today but I will be busy tomorrow.
+
 1. ==だけど==、彼がまだ好きなの。  
    That may be so, but it is that I still like him. [explanation, feminine tone]
 
@@ -464,14 +458,13 @@ For example, in the following sentences, there is no actual contradiction but ""
 
 1. デパートに行きました==が==、いい物がたくさんありました。  
    I went to the department store and there was a lot of good stuff.
+
 1. マトリックスを見た==けど==、面白かった。  
    I watched the “Matrix” and it was interesting.
 
 ## Expressing multiple reasons using ""し""
 
 ### Vocabulary
-
-<div class="columns">
 
 ++どうして++
 : why
@@ -488,19 +481,17 @@ For example, in the following sentences, there is no actual contradiction but ""
 ++{彼|かれ}++
 : he; boyfriend
 
-++{好き|す・き}++
-: likable <sup>(na-adj)</sup>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable
 
-++{優しい|やさ・しい}++
-: gentle; kind <sup>(i-adj)</sup>
+++{優しい|やさ・しい}++ <abbr title="い adjective">i-adj</abbr>
+: gentle; kind
 
-++かっこいい++
-: cool; handsome <sup>(i-adj)</sup>
+++かっこいい++ <abbr title="い adjective">i-adj</abbr>
+: cool; handsome
 
-++{面白い|おも・し・ろい}++
-: interesting <sup>(i-adj)</sup>
-
-</div>
+++{面白い|おも・し・ろい}++ <abbr title="い adjective">i-adj</abbr>
+: interesting
 
 When you want to list reasons for multiple states or actions you can do so by adding ""し"" to the end of each relative clause. It is very similar to the ""や"" particle except that it lists reasons for verbs and state-of-being. Again, for states of being, ""だ"" must be used to explicitly declare the state-of-being for any non-conjugated noun or na-adjective. Let’s look at some examples.
 
@@ -526,34 +517,32 @@ Notice that ""優しくて、かっこよくて、面白いから。"" could als
 
 ### Vocabulary
 
-<div class="columns">
+++する++ <span>exception</span>
+: to do
 
-++する++
-: to do <sup>(exception)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+: to drink
 
-++{飲む|の・む}++
-: to drink <sup>(u-verb)</sup>
+++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>
+: simple
 
-++{簡単|かん・たん}++
-: simple <sup>(na-adj)</sup>
-
-++{難しい|むずか・しい}++
-: difficult <sup>(i-adj)</sup>
+++{難しい|むずか・しい}++ <abbr title="い adjective">i-adj</abbr>
+: difficult
 
 ++{映画|えい・が}++
 : movie
 
-++{見る|み・る}++
-: to see <sup>(ru-verb)</sup>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+: to see
 
 ++{本|ほん}++
 : book
 
-++{読む|よ・む}++
-: to read <sup>(u-verb)</sup>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+: to read
 
 ++{昼寝|ひる・ね}++
 : afternoon nap
@@ -566,8 +555,6 @@ Notice that ""優しくて、かっこよくて、面白いから。"" could als
 
 ++{授業|じゅ・ぎょう}++
 : class
-
-</div>
 
 This is the verb version of the ""や"" particle. You can make an example list of verbs among a possible larger list by conjugating each verb into the past tense and adding ""り"". At the end, you need to attach the verb ""する"". Just like the ""や"" particle, the tense is determined by the last verb, which in this case will always be ""する"" (since you have to attach it at the end). You can also use this with the state-of-being to say that you are a number of things at various random times among a larger list. Similar to regular verbs, you just take the noun or adjective for each state-of-being and conjugate it to the past state-of-being and then attach ""り"". Then finally, attach ""する"" at the end.
 
@@ -587,6 +574,7 @@ This is the verb version of the ""や"" particle. You can make an example list o
 
 1. 映画を==見たり==、本を==読んだり==、==昼寝したり==する。  
    I do things like (among other things) watch movies, read books, and take naps.
+
 1. この大学の授業は簡単==だったり==、==難しかったり==する。  
    Class of this college is sometimes easy, sometimes difficult (and other times something else maybe).
 
@@ -594,7 +582,9 @@ As you can see, the tense and negative/positive state is controlled by the last 
 
 1. 映画を見たり、本を読んだり==した==。  
    I ==did== things like (among other things) watch movies, and read books.
+
 1. 映画を見たり、本を読んだり==しない==。  
    I ==don’t do== things like (among other things) watch movies, and read books.
+
 1. 映画を見たり、本を読んだり==しなかった==。  
    I ==didn’t do== things like (among other things) watch movies, and read books.

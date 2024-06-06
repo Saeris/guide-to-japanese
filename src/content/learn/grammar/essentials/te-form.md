@@ -11,13 +11,11 @@ The te-form is incredibly useful as it is used widely in many different types of
 
 ### Vocabulary
 
-<div class="columns">
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
-
-++{読む|よ・む}++
-: to read <sup>(u-verb)</sup>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+: to read
 
 ++{友達|とも・だち}++
 : friend
@@ -25,8 +23,8 @@ The te-form is incredibly useful as it is used widely in many different types of
 ++{何|なに}++
 : what
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{昼ご飯|ひる・ご・はん}++
 : lunch
@@ -37,13 +35,11 @@ The te-form is incredibly useful as it is used widely in many different types of
 ++{話|はなし}++
 : story
 
-++{聞く|き・く}++
-: to ask; to listen <sup>(u-verb)</sup>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+: to ask; to listen
 
 ++ううん++
 : casual word for “no” (nah, uh-uh)
-
-</div>
 
 We already know how to express a state-of-being using ""です"", ""だ"", etc. However, it only indicates a one-time thing; you are something or not. This grammar, however, describes a continuing state of an action verb. This usually translates to the progressive form in English except for a few exceptions, which we will examine later. We can make good use of the te-form we learned in the last section because the only thing left to do is add ""いる""! You can then treat the result as a regular ru-verb.
 
@@ -134,13 +130,11 @@ For example:
 
 ### Vocabulary
 
-<div class="columns">
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+: to know
 
-++{知る|し・る}++
-: to know <sup>(u-verb)</sup>
-
-++{分かる|わ・かる}++
-: to understand <sup>(u-verb)</sup>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+: to understand
 
 ++{今日|きょう}++
 : today
@@ -156,8 +150,6 @@ For example:
 
 ++はい++
 : yes (polite)
-
-</div>
 
 There are certain cases where an enduring state doesn’t translate into the progressive form. In fact, there is an ambiguity in whether one is in a state of doing an action versus being in a state that resulted from some action. This is usually decided by context and common practices. For example, although ""結婚している"" can technically mean someone is in a chapel currently getting married, it is usually used to refer to someone who is already married and is currently in that married state. We’ll now discuss some common verbs that often cause this type of confusion for learners of Japanese.
 
@@ -187,8 +179,6 @@ There are certain cases where an enduring state doesn’t translate into the pro
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{鈴木|すず・き}++
 : Suzuki (last name)
 
@@ -201,22 +191,20 @@ There are certain cases where an enduring state doesn’t translate into the pro
 ++{家|1) うち; 2) いえ}++
 : 1) one’s own home; 2) house
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{先|さき}++
 : before
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{美恵|み・え}++
 : Mie (first name)
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
-
-</div>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 It is reasonable to assume the actions ""行っている"" and ""来ている"" would mean, “going” and “coming” respectively. But unfortunately, this is not the case. The ""～ている"" form of motion verbs is more like a sequence of actions we saw in the last section. You completed the motion, and now you exist in that state. (Remember, ""いる"" is the verb of existence of animate objects.) It might help to think of it as two separate and successive actions: ""行って""、and then ""いる"".
 
@@ -238,8 +226,6 @@ It is reasonable to assume the actions ""行っている"" and ""来ている"" 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{準備|じゅん・び}++
 : preparations
 
@@ -249,11 +235,11 @@ It is reasonable to assume the actions ""行っている"" and ""来ている"" 
 ++もう++
 : already
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
-++ある++
-: to exist (inanimate) <sup>(u-verb)</sup>
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
 ++{旅行|りょ・こう}++
 : travel
@@ -261,8 +247,8 @@ It is reasonable to assume the actions ""行っている"" and ""来ている"" 
 ++{計画|けい・かく}++
 : plans
 
-++{終わる|お・わる}++
-: to end <sup>(u-verb)</sup>
+++{終わる|お・わる}++ <abbr title="う verb">u-verb</abbr>
+: to end
 
 ++うん++
 : casual word for “yes” (yeah, uh-huh)
@@ -270,16 +256,14 @@ It is reasonable to assume the actions ""行っている"" and ""来ている"" 
 ++{切符|きっ・ぷ}++
 : ticket
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 ++{ホテル|ho te ru}++
 : hotel
 
 ++{予約|よ・やく}++
 : reservation
-
-</div>
 
 Appropriately enough, just like there is an ""ある"" to go with ""いる"", there is a ""～てある"" form that also has a special meaning. By replacing ""いる"" with ""ある"", instead of a continuing action, it becomes a resultant state after the action has already taken place. Usually, this expression is used to explain that something is in a state of completion. The completed action also carries a nuance of being completed in preparation for something else.
 
@@ -305,21 +289,17 @@ Since this grammar describes the state of a completed action, it is common to se
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{晩ご飯|ばん・ご・はん}++
 : dinner
 
-++{作る|つく・る}++
-: to make <sup>(u-verb)</sup>
+++{作る|つく・る}++ <abbr title="う verb">u-verb</abbr>
+: to make
 
 ++{電池|でん・ち}++
 : battery
 
-++{買う|か・う}++
-: to buy <sup>(u-verb)</sup>
-
-</div>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+: to buy
 
 While ""～てある"" carries a nuance of a completed action in preparation for something else, ""～ておく"" explicitly states that the action is done (or will be done) with the future in mind. Imagine this: you have made a delicious pie and you’re going to place it on the window sill for it to cool so that you can eat it later. This image might help explain why the verb ""おく"" （置く）, meaning “to place”, can be used to describe a preparation for the future. (It’s just too bad that pies on window sills always seem to go through some kind of mishap especially in cartoons.) While ""置く"" by itself is written in kanji, it is customary to use hiragana when it comes attached to a conjugated verb (such as the te-form).
 
@@ -343,37 +323,35 @@ While ""～てある"" carries a nuance of a completed action in preparation for
 
 ### Vocabulary
 
-<div class="columns">
-
 ++えんぴつ++
 : pencil
 
-++{持つ|も・つ}++
-: to hold <sup>(u-verb)</sup>
+++{持つ|も・つ}++ <abbr title="う verb">u-verb</abbr>
+: to hold
 
-++いる++
-: to exist (animate) <sup>(ru-verb)</sup>
+++いる++ <abbr title="る verb">ru-verb</abbr>
+: to exist (animate)
 
 ++{学校|がっ・こう}++
 : school
 
-++{行く|い・く}++
-: to go <sup>(u-verb)</sup>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+: to go
 
 ++{家|1) うち; 2) いえ}++
 : 1) one’s own home; 2) house
 
-++{来る|く・る}++
-: to come <sup>(exception)</sup>
+++{来る|く・る}++ <span>exception</span>
+: to come
 
 ++{お父さん|お・とう・さん}++
 : father (polite)
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{帰る|かえ・る}++
-: to go home <sup>(u-verb)</sup>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+: to go home
 
 ++{駅|えき}++
 : station
@@ -381,47 +359,47 @@ While ""～てある"" carries a nuance of a completed action in preparation for
 ++{方|ほう}++
 : direction, way
 
-++{走る|はし・る}++
-: to run <sup>(u-verb)</sup>
+++{走る|はし・る}++ <abbr title="う verb">u-verb</abbr>
+: to run
 
 ++{冬|ふゆ}++
 : winter
 
-++{入る|はい・る}++
-: to enter <sup>(u-verb)</sup>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+: to enter
 
 ++{コート|ko o to}++
 : coat
 
-++{着る|き・る}++
-: to wear <sup>(ru-verb)</sup>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+: to wear
 
-++{増える|ふ・える}++
-: to increase <sup>(ru-verb)</sup>
+++{増える|ふ・える}++ <abbr title="る verb">ru-verb</abbr>
+: to increase
 
 ++{一生懸命|いっ・しょう・けん・めい}++
 : with all one’s might
 
-++{頑張る|がん・ば・る}++
-: to try one’s best <sup>(u-verb)</sup>
+++{頑張る|がん・ば・る}++ <abbr title="う verb">u-verb</abbr>
+: to try one’s best
 
-++{色々|いろ・いろ}++
-: various <sup>(na-adj)</sup>
+++{色々|いろ・いろ}++ <abbr title="な adjective">na-adj</abbr>
+: various
 
 ++{人|ひと}++
 : person
 
-++{付き合う|つ・き・あ・う}++
-: to go out with; to keep in company with <sup>(u-verb)</sup>
+++{付き合う|つ・き・あ・う}++ <abbr title="う verb">u-verb</abbr>
+: to go out with; to keep in company with
 
-++いい++
-: good <sup>(i-adj)</sup>
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++まだ++
 : yet
 
-++{見つかる|み・つかる}++
-: to be found <sup>(u-verb)</sup>
+++{見つかる|み・つかる}++ <abbr title="う verb">u-verb</abbr>
+: to be found
 
 ++{日本語|に・ほん・ご}++
 : Japanese (language)
@@ -435,16 +413,14 @@ While ""～てある"" carries a nuance of a completed action in preparation for
 ++{勉強|べん・きょう}++
 : study
 
-++する++
-: to do <sup>(exception)</sup>
+++する++ <span>exception</span>
+: to do
 
 ++{結局|けっ・きょく}++
 : eventually
 
-++やめる++
-: to stop; to quit <sup>(ru-verb)</sup>
-
-</div>
+++やめる++ <abbr title="る verb">ru-verb</abbr>
+: to stop; to quit
 
 You can also use the motion verbs “to go” ({行く|い・く})and “to come” ({来る|く・る}) with the te-form, to show that an action is oriented toward or from someplace. The most common and useful example of this is the verb ""{持つ|も・つ}"" (to hold). While ""持っている"" means you are in a state of holding something (in possession of), when the ""いる"" is replaced with ""いく"" or ""くる"", it means you are taking or bringing something. Of course, the conjugation is the same as the regular ""{行く|い・く}"" and ""{来る|く・る}"".
 

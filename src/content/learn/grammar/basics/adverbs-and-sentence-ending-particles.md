@@ -9,22 +9,20 @@ part: 12
 
 ### Vocabulary
 
-<div class="columns">
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
-++いい++
-: good <sup>(i-adj)</sup>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+: fast; early
 
-++{早い|はや・い}++
-: fast; early <sup>(i-adj)</sup>
-
-++きれい++
-: pretty; clean <sup>(na-adj)</sup>
+++きれい++ <abbr title="な adjective">na-adj</abbr>
+: pretty; clean
 
 ++{朝ご飯|あさ・ご・はん}++
 : breakfast
 
-++{食べる|た・べる}++
-: to eat <sup>(ru-verb)</sup>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+: to eat
 
 ++{自分|じ・ぶん}++
 : oneself
@@ -53,8 +51,8 @@ part: 12
 ++{結構|けっ・こう}++
 : fairly, reasonably
 
-++{大きい|おお・きい}++
-: big <sup>(i-adj)</sup>
+++{大きい|おお・きい}++ <abbr title="い adjective">i-adj</abbr>
+: big
 
 ++この++
 : this （abbr. of これの）
@@ -62,8 +60,8 @@ part: 12
 ++{町|まち}++
 : town
 
-++{変わる|か・わる}++
-: to change <sup>(u-verb)</sup>
+++{変わる|か・わる}++ <abbr title="う verb">u-verb</abbr>
+: to change
 
 ++{図書館|と・しょ・かん}++
 : library
@@ -71,10 +69,8 @@ part: 12
 ++{中|なか}++
 : inside
 
-++{静か|しず・か}++
-: quiet <sup>(na-adj)</sup>
-
-</div>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+: quiet
 
 Unlike English, changing adjectives to adverbs is a very simple and straightforward process. In addition, since the system of particles make sentence ordering flexible, adverbs can be placed anywhere in the clause that it applies to as long as it comes before the verb that it refers to. As usual, we have two separate rules: one for i-adjectives, and one for na-adjectives.
 
@@ -122,8 +118,8 @@ Here are some more examples of using adverbs.
 
 ### Vocabulary
 
-++いい++
-: {good|(i-adj)}
+++いい++ <abbr title="い adjective">i-adj</abbr>
+: good
 
 ++{天気|てん・き}++
 : weather
@@ -131,8 +127,8 @@ Here are some more examples of using adverbs.
 ++そう++
 : (things are) that way
 
-++{面白い|おも・しろ・い}++
-: {interesting|(i-adj)}
+++{面白い|おも・しろ・い}++ <abbr title="い adjective">i-adj</abbr>
+: interesting
 
 ++{映画|えい・が}++
 : movie
@@ -143,11 +139,11 @@ Here are some more examples of using adverbs.
 ++{時間|じ・かん}++
 : time
 
-++ある++
-: {to exist (inanimate)|(u-verb)}
+++ある++ <abbr title="う verb">u-verb</abbr>
+: to exist (inanimate)
 
-++{大丈夫|だい・じょう・ぶ}++
-: {ok|(na-adj)}
+++{大丈夫|だい・じょう・ぶ}++ <abbr title="な adjective">na-adj</abbr>
+: ok
 
 ++{今日|きょう}++
 : today
@@ -164,14 +160,14 @@ Here are some more examples of using adverbs.
 ++{雨|あめ}++
 : rain
 
-++{降る|ふ・る}++
-: {to precipitate|(u-verb)}
+++{降る|ふ・る}++ <abbr title="う verb">u-verb</abbr>
+: to precipitate
 
 ++{魚|さかな}++
 : fish
 
-++{好き|す・き}++
-: {likable|(na-adj)}
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+: likable
 
 Sentence-ending particles are particles that always come at the end of sentences to change the “tone” or “feel” of a sentence. In this section, we will cover the two most commonly used sentence-ending particles.
 

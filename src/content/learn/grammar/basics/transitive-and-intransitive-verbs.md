@@ -30,14 +30,19 @@ The important lesson to take away here is to learn how to use the correct partic
 
 1. 私が電気==を==つけた。  
    I am the one that turned on the lights.
+
 1. 電気==が==ついた。  
    The lights turned on.
+
 1. 電気==を==消す。  
    Turn off the lights.
+
 1. 電気==が==消える。  
    Lights turn off.
+
 1. 誰が窓==を==開けた？  
    Who opened the window?
+
 1. 窓==が==どうして開いた？  
    Why has the window opened?
 
@@ -45,8 +50,10 @@ The important thing to remember is that intransitive verbs cannot have a direct 
 
 1. 電気~~を~~ついた。  
    (""を"" should be replaced with ""が"" or ""は"")
+
 1. 電気~~を~~消える。  
    (""を"" should be replaced with ""が"" or ""は"")
+
 1. どうして窓~~を~~開いた？  
    (""を"" should be replaced with ""が"" or ""は"")
 
