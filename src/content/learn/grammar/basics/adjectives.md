@@ -44,7 +44,7 @@ Now that we can connect two nouns together in various ways using particles, we w
 
 The na-adjective is very simple to learn because it acts essentially like a noun. All the conjugation rules for both nouns and na-adjectives are the same. One main difference is that a na-adjective can directly modify a noun following it by sticking ""な"" between the adjective and noun. (Hence the name, na-adjective.)
 
-#### Examples
+### Example 1
 
 1. {静か|しず・か}==な=={人|ひと}。  
    Quiet person.
@@ -54,7 +54,7 @@ The na-adjective is very simple to learn because it acts essentially like a noun
 
 You can also use adjectives with particles just like we did in the last lesson with nouns.
 
-#### Examples
+### Example 2
 
 1. {友達|とも・だち}は{親切|しん・せつ}。  
    Friend is kind.
@@ -64,7 +64,7 @@ You can also use adjectives with particles just like we did in the last lesson w
 
 As shown by the following examples, the conjugation rules for na-adjectives are the same as nouns.
 
-#### Examples
+### Example 3
 
 1. {ボブ|bo bu}は{魚|さかな}が=={好き|す・き}==だ。  
    Bob likes fish.
@@ -82,7 +82,7 @@ If it bothers you that “like” is an adjective and not a verb in Japanese, yo
 
 You can also use the last three conjugations to directly modify the noun. (Remember to attach ""な"" for positive non-past tense.)
 
-#### Examples
+### Example 4
 
 1. {魚|さかな}が=={好き|す・き}な=={人|ひと}。  
    Person that likes fish.
@@ -100,7 +100,7 @@ Here, the entire clause ""{魚|さかな}が{好き|す・き}""、""{魚|さか
 
 We can even treat the whole descriptive noun clause as we would a single noun. For instance, we can make the whole clause a topic like the following example.
 
-#### Examples
+### Example 5
 
 1. =={魚|さかな}が{好き|す・き}じゃない{人|ひと}==は、{肉|にく}が{好き|す・き}だ。  
    Person who does not like fish like meat.
@@ -146,7 +146,7 @@ All i-adjectives always end in the Hiragana character: ""い"". However, you may
 
 Unlike na-adjectives, you do not need to add ""な"" to directly modify a noun with an i-adjective.
 
-#### Examples
+### Example 1
 
 1. {嫌い|きら・い}な{食べ物|た・べ・もの}。  
    Hated food.
@@ -162,7 +162,7 @@ Remember how the negative state-of-being for nouns also ended in ""い"" （じ�
 
 Now that we got that matter cleared up, below are the rules for conjugating i-adjectives. Notice that the rule for conjugating to negative past tense is the same as the rule for the past tense.
 
-> [!Tip++ Conjugation rules for i-adjectives
+> [!Tip] Conjugation rules for i-adjectives
 >
 > **Negative:** First remove the trailing ""い"" from the i-adjective and then attach ""くない""
 >
@@ -184,7 +184,7 @@ Now that we got that matter cleared up, below are the rules for conjugating i-ad
 >
 > Table: Summary of i-adjective conjugations
 
-#### Examples
+### Example 2
 
 1. =={高い|たか・い}=={ビル|bi ru}。  
    Tall building.
@@ -200,7 +200,7 @@ Now that we got that matter cleared up, below are the rules for conjugating i-ad
 
 Note that you can make the same type of descriptive noun clause as we have done with na-adjectives. The only difference is that we don’t need ""な"" to directly modify the noun.
 
-#### Example
+### Example 3
 
 1. =={値段|ね・だん}が{高い|たか・い}{レストラン|re su to ra n}==はあまり{好き|す・き}じゃない。  
    Don’t like high price restaurants very much.
@@ -246,7 +246,7 @@ Table: Conjugation for ""かっこいい""
 
 Take care to make all the conjugations from ""よい"" not ""いい"".
 
-#### Examples
+### Examples
 
 1. {値段|ね・だん}があんまり==よくない==。  
    Price isn’t very good.

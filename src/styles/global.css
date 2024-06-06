@@ -55,13 +55,13 @@ nav {
 
   h2,
   summary {
-    --fs-heading: var(--bs);
+    --fs-heading: var(--bt);
     font-size: var(--fs-heading);
     font-weight: 500;
   }
 
   ul {
-    --fs-body: var(--bt);
+    --fs-body: var(--bn);
     padding: 0;
     margin: 0;
     font-size: var(--fs-body);

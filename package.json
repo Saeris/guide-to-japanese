@@ -2,6 +2,11 @@
   "name": "guide-to-japanese",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://github.com/saeris/guide-to-japanese",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saeris/guide-to-japanese.git"
+  },
   "type": "module",
   "packageManager": "yarn@4.2.2",
   "scripts": {

@@ -32,7 +32,7 @@ const { id, title, headings } = Astro.props as Props;
     <header></header>
     <SubNav />
     <main>
-      <ToC headings={headings} />
+      <ToC id={id} headings={headings} />
       <slot />
       <PageNav id={id} />
     </main>
