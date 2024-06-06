@@ -23,6 +23,19 @@ const prevPage = currentPage > 0 ? pages[currentPage - 1] : null;
 const nextPage = currentPage < pages.length - 1 ? pages[currentPage + 1] : null;
 ---
 
+<script>
+  import { navigate } from "astro:transitions/client";
+
+  window.addEventListener("keydown", (event) => {
+    if (event.getModifierState("Shift")) {
+      const prevPage = document.querySelector(`a.prev`)?.getAttribute("href");
+      if (event.code === "ArrowLeft" && prevPage) navigate(prevPage);
+      const nextPage = document.querySelector(`a.next`)?.getAttribute("href");
+      if (event.code === "ArrowRight" && nextPage) navigate(nextPage);
+    }
+  });
+</script>
+
 <style is:global>
   footer {
     padding-block: 24px 48px;
