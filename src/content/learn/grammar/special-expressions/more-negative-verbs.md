@@ -11,98 +11,97 @@ We already learned the most common type of negative verbs; the ones that end in 
 
 ### Vocabulary
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to sleep
 
-++{何|なに／なん}++
+++{何|なに／なん}++  
 : what
 
-++{歯|は}++
+++{歯|は}++  
 : tooth
 
-++{磨く|みが・く}++ <abbr title="う verb">u-verb</abbr>
+++{磨く|みが・く}++ <abbr title="う verb">u-verb</abbr>  
 : to brush; to polish
 
-++{学校|がっ・こう}++
+++{学校|がっ・こう}++  
 : school
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++{宿題|しゅく・だい}++
+++{宿題|しゅく・だい}++  
 : homework
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{授業|じゅ・ぎょう}++
+++{授業|じゅ・ぎょう}++  
 : class
 
-++{止める|や・める}++ <abbr title="る verb">ru-verb</abbr>
+++{止める|や・める}++ <abbr title="る verb">ru-verb</abbr>  
 : to stop
 
-++{方|1) ほう; 2) かた}++
-: direction; side
-: person; way of doing
+++{方|1) ほう; 2) かた}++  
+: direction; side;<br/>person; way of doing
 
-++いい++ <abbr title="い adjective">i-adj</abbr>
+++いい++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
-++{先生|せん・せい}++
+++{先生|せん・せい}++  
 : teacher
 
-++{相談|そう・だん}++
+++{相談|そう・だん}++  
 : consultation
 
-++この++
+++この++  
 : this (abbr. of これの)
 
-++{取る|と・る}++ <abbr title="う verb">u-verb</abbr>
+++{取る|と・る}++ <abbr title="う verb">u-verb</abbr>  
 : to take
 
-++こと++
+++こと++  
 : event, matter
 
-++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to be able to do
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>  
 : to say
 
-++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to go home
 
-++そんな++
+++そんな++  
 : that sort of
 
-++{お酒|お・さけ}++
+++{お酒|お・さけ}++  
 : alcohol
 
-++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>  
 : to drink
 
-++{当然|とう・ぜん}++
+++{当然|とう・ぜん}++  
 : naturally
 
-++{酔っ払う|よ・っ・ぱ・らう}++ <abbr title="う verb">u-verb</abbr>
+++{酔っ払う|よ・っ・ぱ・らう}++ <abbr title="う verb">u-verb</abbr>  
 : to get drunk
 
-++{勉強|べん・きょう}++
+++{勉強|べん・きょう}++  
 : study
 
-++{東大|とう・だい}++
+++{東大|とう・だい}++  
 : Tokyo University (abbr. for ""東京大学"")
 
-++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>  
 : to enter
 
-++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>  
 : to think
 
 Way back when, we learned how to express a sequence of actions and this worked fine for both positive and negative verbs. For instance, the sentence “I didn’t eat, and then I went to sleep” would become ""食べなくて寝た。"" However, this sentence sounds a bit strange because eating doesn’t have much to do with sleeping. What we probably really want to say is that we went to sleep without eating. To express this, we need to use a more generalized form of the negative request we covered at the very end of the giving and receiving lesson. In other words, instead of substituting the last ""い"" with ""くて"", we need only append ""で"" instead.
@@ -160,43 +159,43 @@ Hopefully not too difficult. Another way to express the exact same thing is to r
 
 ### Vocabulary
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++すまん++
+++すまん++  
 : sorry (masculine)
 
-++すみません++
+++すみません++  
 : sorry (polite)
 
-++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>  
 : to know
 
-++{韓国人|かん・こく・じん}++
+++{韓国人|かん・こく・じん}++  
 : Korean person
 
-++{結婚|けっ・こん}++
+++{結婚|けっ・こん}++  
 : marriage
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++そんな++
+++そんな++  
 : that sort of
 
-++こと++
+++こと++  
 : event, matter
 
-++{皆|みんな}++
+++{皆|みんな}++  
 : everybody
 
-++{今日|きょう}++
+++{今日|きょう}++  
 : today
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
 Finally, we cover another type of negative that is used mostly by older men. Since ""ない"" is so long and difficult to say (sarcasm), you can shorten it to just ""ん"". However, you can’t directly modify other words in this form; in other words, you can’t make it a modifying relative clause. In the same manner as before, ""する"" becomes ""せん"" and ""くる"" becomes ""こん"" though I’ve never heard or seen ""こん"" actually being used. If you have ever heard ｢すまん"" and wondered what that meant, it’s actually an example of this grammar. Notice that ""すみません"" is actually in polite negative form. Well, the plain form would be ""すまない"", right? That further transforms to just ""すまん"". The word brings up an image of おじさん but that may be just me. Anyway, it’s a male expression.
@@ -234,49 +233,49 @@ You can even use this slang for past tense verbs by adding ""かった"".
 
 ### Vocabulary
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>  
 : to know
 
-++{韓国人|かん・こく・じん}++
+++{韓国人|かん・こく・じん}++  
 : Korean person
 
-++{結婚|けっ・こん}++
+++{結婚|けっ・こん}++  
 : marriage
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++{模擬|も・ぎ}++
+++{模擬|も・ぎ}++  
 : mock
 
-++{試験|し・けん}++
+++{試験|し・けん}++  
 : exam
 
-++{何回|なん・かい}++
+++{何回|なん・かい}++  
 : how many times
 
-++{失敗|しっ・ぱい}++
+++{失敗|しっ・ぱい}++  
 : failure
 
-++{実際|じっ・さい}++
+++{実際|じっ・さい}++  
 : actual
 
-++{受ける|う・ける}++ <abbr title="る verb">ru-verb</abbr>
+++{受ける|う・ける}++ <abbr title="る verb">ru-verb</abbr>  
 : to receive
 
-++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>  
 : to think
 
-++{結果|けっ・か}++
+++{結果|けっ・か}++  
 : result
 
-++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
+++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to come out
 
 There is yet another version of the negative verb conjugation and it uses ""ぬ"" instead of the ""ない"" that attaches to the end of the verb. While this version of the negative conjugation is old-fashioned and part of classical Japanese, you will still encounter it occasionally. In fact, I just saw this conjugation on a sign at the train station today, so it’s not too uncommon.

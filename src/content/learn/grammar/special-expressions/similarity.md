@@ -11,64 +11,64 @@ In Japanese there are many different ways to express likeness or similarity depe
 
 ## Vocabulary
 
-++ここ++
+++ここ++  
 : here
 
-++{誰|だれ}++
+++{誰|だれ}++  
 : who
 
-++いる++ <abbr title="る verb">ru-verb</abbr>
+++いる++ <abbr title="る verb">ru-verb</abbr>  
 : to exist (animate)
 
-++{映画|えい・が}++
+++{映画|えい・が}++  
 : movie
 
-++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to watch
 
-++{学生|がく・せい}++
+++{学生|がく・せい}++  
 : student
 
-++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>  
 : quiet
 
-++あの++
+++あの++  
 : that (over there) (abbr. of あれの)
 
-++{人|ひと}++
+++{人|ひと}++  
 : person
 
-++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to see
 
-++{気|き}++
+++{気|き}++  
 : mood; intent
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{雰囲気|ふん・い・き}++
+++{雰囲気|ふん・い・き}++  
 : atmosphere; mood
 
-++ちょっと++
+++ちょっと++  
 : a little
 
-++{怒る|おこ・る}++ <abbr title="う verb">u-verb</abbr>
+++{怒る|おこ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to get angry
 
-++{聞こえる|き・こえる}++ <abbr title="る verb">ru-verb</abbr>
+++{聞こえる|き・こえる}++ <abbr title="る verb">ru-verb</abbr>  
 : to be audible
 
-++{何|なに／なん}++
+++{何|なに／なん}++  
 : what
 
-++{起こる|おこ・る}++ <abbr title="う verb">u-verb</abbr>
+++{起こる|おこ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to happen
 
-++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>  
 : to say
 
 We’ve already briefly gone over ""よう"" and learned that ""よう"" means an appearance or manner. We can use this definition to say that something has an appearance or manner of a certain state. This word can be used in many ways to express similarity. The simplest example is by directly modifying the relative clause. When the sentence ends in ""よう"", you must explicitly express the state-of-being by adding ""だ"", ""です"", or ""でございます"".
@@ -109,40 +109,40 @@ Finally, we can attach the target particle to say things like, “I heard it lik
 
 ### Vocabulary
 
-++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to see
 
-++{犬|いぬ}++
+++{犬|いぬ}++  
 : dog
 
-++もう++
+++もう++  
 : already
 
-++{売り切れ|う・り・き・れ}++
+++{売り切れ|う・り・き・れ}++  
 : sold out
 
-++{制服|せい・ふく}++
+++{制服|せい・ふく}++  
 : uniform
 
-++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>
+++{着る|き・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to wear
 
-++{姿|すがた}++
+++{姿|すがた}++  
 : figure
 
-++{学生|がく・せい}++
+++{学生|がく・せい}++  
 : student
 
-++この++
+++この++  
 : this (abbr. of これの)
 
-++{ピザ|pi za}++
+++{ピザ|pi za}++  
 : pizza
 
-++{お好み焼き|お・この・み・や・き}++
+++{お好み焼き|お・この・み・や・き}++  
 : okonomiyaki (Japanese-style pancake)
 
-++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>
+++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>  
 : to be visible
 
 Another way to express similarity which is considered more casual is by using ""みたい"". Do not confuse this with the ""たい"" conjugation of ""見る"". The main difference is that this ""みたい"" can be attached directly to nouns, adjectives, and verbs just like particles which i-adjectives like ""～たい"" obviously can’t do.
@@ -188,94 +188,94 @@ Don’t forget that ""みたい"" does not conjugate like the ""～たい"" form
 
 ### Vocabulary
 
-++いい++ <abbr title="い adjective">i-adj</abbr>
+++いい++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
-++{バランス|ba ra n su}++
+++{バランス|ba ra n su}++  
 : balance
 
-++{崩れる|くず・れる}++ <abbr title="る verb">ru-verb</abbr>
+++{崩れる|くず・れる}++ <abbr title="る verb">ru-verb</abbr>  
 : to collapse; to crumble
 
-++{一瞬|いっ・しゅん}++
+++{一瞬|いっ・しゅん}++  
 : an instant
 
-++{倒れる|たお・れる}++ <abbr title="る verb">ru-verb</abbr>
+++{倒れる|たお・れる}++ <abbr title="る verb">ru-verb</abbr>  
 : to collapse; to fall
 
-++この++
+++この++  
 : this (abbr. of これの)
 
-++{辺り|あた・り}++
+++{辺り|あた・り}++  
 : vicinity
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++{漬物|つけ・もの}++
+++{漬物|つけ・もの}++  
 : pickled vegetable
 
-++おいしい++ <abbr title="い adjective">i-adj</abbr>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>  
 : tasty
 
-++これ++
+++これ++  
 : this
 
-++{結構|けっ・こう}++
+++{結構|けっ・こう}++  
 : fairly, reasonably
 
-++やはり／やっぱり++
+++やはり／やっぱり++  
 : as I thought
 
-++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>
+++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>  
 : high; tall; expensive
 
-++{お前|お・まえ}++
+++{お前|お・まえ}++  
 : you (casual)
 
-++{金髪|きん・ぱつ}++
+++{金髪|きん・ぱつ}++  
 : blond hair
 
-++{女|おんな}++
+++{女|おんな}++  
 : woman; girl
 
-++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>  
 : likable; desirable
 
-++もう++
+++もう++  
 : already
 
-++{～時|～じ}++
+++{～時|～じ}++  
 : counter for hours
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++ただ++
+++ただ++  
 : free of charge; only
 
-++{試合|し・あい}++
+++{試合|し・あい}++  
 : match, game
 
-++その++
+++その++  
 : that (abbr. of それの)
 
-++{人|ひと}++
+++{人|ひと}++  
 : person
 
-++{学生|がく・せい}++
+++{学生|がく・せい}++  
 : student
 
-++かわいい++ <abbr title="い adjective">i-adj</abbr>
+++かわいい++ <abbr title="い adjective">i-adj</abbr>  
 : cute
 
-++かわいそう++ <abbr title="い adjective">i-adj</abbr>
+++かわいそう++ <abbr title="い adjective">i-adj</abbr>  
 : pitiable
 
-++{犬|いぬ}++
+++{犬|いぬ}++  
 : dog
 
 The problem with English is that the expression, “seems like” has too many meanings. It can mean similarity in appearance, similarity in behavior or even that current evidence points to a likely outcome. We will now learn how to say the third meaning: how to indicate a likely outcome given the situation.
@@ -318,7 +318,7 @@ In the next example, the ""い"" has been dropped from ""おいしい"".
 
 Nothing needs to be done for na-adjectives.
 
-- お前なら、金髪の女が==好き==そうだな。
+- お前なら、金髪の女が==好き==そうだな。  
   Knowing you, I bet you like blond-haired girls.
 
 ### 4. For all negatives, the ""い"" must be replaced with ""さ"".
@@ -357,37 +357,37 @@ Be careful never to use ""かわいい"" with this grammar. ""かわいそう"" 
 
 ### Vocabulary
 
-++{明日|あした}++
+++{明日|あした}++  
 : tomorrow
 
-++{雨|あめ}++
+++{雨|あめ}++  
 : rain
 
-++{降る|ふ・る}(u-verb)++
+++{降る|ふ・る}(u-verb)++  
 : to precipitate
 
-++{毎日|まい・にち}++
+++{毎日|まい・にち}++  
 : everyday
 
-++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
+++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>  
 : to meet
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{高校生|こう・こう・せい}++
+++{高校生|こう・こう・せい}++  
 : high school student
 
-++{今日|きょう}++
+++{今日|きょう}++  
 : today
 
-++{田中|た・なか}++
+++{田中|た・なか}++  
 : Tanaka (last name)
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
 The reason that there are so many annoying rules to using ""～そう"" is to distinguish it from this next grammar we will learn. This is a useful grammar for talking about things you heard that doesn’t necessary have anything to do with how you yourself, think or feel.
@@ -402,16 +402,16 @@ Unlike the last grammar we learned, you can simply attach ""そうだ"" to verbs
 
 Don’t forget to add ""だ"" for nouns or na-adjectives.
 
-- 彼は、高校生==だ==そうです。
+- 彼は、高校生==だ==そうです。  
   I hear that he is a high school student.
 
 When starting the sentence with this grammar, you also need to add ""だ"" just like you do with ""だから""
 
-> Ａ
+> Ａ  
 > : 今日、田中さんはこないの？  
 > : Is Tanaka-san not coming today?
 >
-> Ｂ
+> Ｂ  
 > : だそうです。  
 > : So I hear.
 
@@ -419,67 +419,67 @@ When starting the sentence with this grammar, you also need to add ""だ"" just 
 
 ### Vocabulary
 
-++{今日|きょう}++
+++{今日|きょう}++  
 : today
 
-++{田中|た・なか}++
+++{田中|た・なか}++  
 : Tanaka (last name)
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++あの++
+++あの++  
 : that (over there) (abbr. of あれの)
 
-++{人|ひと}++
+++{人|ひと}++  
 : person
 
-++{何|なん}++
+++{何|なん}++  
 : what
 
-++{美由紀|み・ゆ・き}++
+++{美由紀|み・ゆ・き}++  
 : Miyuki (first name)
 
-++{友達|とも・だち}++
+++{友達|とも・だち}++  
 : friend
 
-++{子|こ}++
+++{子|こ}++  
 : child
 
-++{子供|こ・ども}++
+++{子供|こ・ども}++  
 : child
 
-++{大人|おとな}++
+++{大人|おとな}++  
 : adult
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++つもり++
+++つもり++  
 : intention, plan
 
-++{大騒ぎ|おお・さわ・ぎ}++
+++{大騒ぎ|おお・さわ・ぎ}++  
 : big commotion
 
 ""らしい"" can be directly attached to nouns, adjectives, or verbs to show that things appear to be a certain way due to what you’ve heard. This is different from ""～そうだ""because ""～そうだ"" indicates something you heard about specifically while ""らしい"" means things seem to be a certain way based on some things you heard about the subject. ""らしい"" conjugates like a normal i-adjective.
 
 ### Example 1
 
-> Ａ
+> Ａ  
 > : 今日、田中さんはこないの？  
 > : Is Tanaka-san not coming today?
 >
-> Ｂ
+> Ｂ  
 > : こない==らしい==。  
 > : Seems like it (based on what I heard).
 
 ### Example 2
 
-> Ａ
+> Ａ  
 > : あの人は何なの？  
 > : What is that person over there?
 >
-> Ｂ
+> Ｂ  
 > : 美由紀さんの友達==らしい==ですよ。  
 > : Seems to be Miyuki-san’s friend (based on what I heard).
 
@@ -495,34 +495,34 @@ Another way to use ""らしい"" is to indicate that a person seems to be a cert
 
 ### Vocabulary
 
-++あの++
+++あの++  
 : that (over there) (abbr. of あれの)
 
-++{人|ひと}++
+++{人|ひと}++  
 : person
 
-++{韓国人|かん・こく・じん}++
+++{韓国人|かん・こく・じん}++  
 : Korean person
 
-++{皆|みんな}++
+++{皆|みんな}++  
 : everybody
 
-++もう++
+++もう++  
 : already
 
-++{全部|ぜん・ぶ}++
+++{全部|ぜん・ぶ}++  
 : everything
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{恭子|きょう・こ}++
+++{恭子|きょう・こ}++  
 : Kyouko (first name)
 
-++{全然|ぜん・ぜん}++
+++{全然|ぜん・ぜん}++  
 : not at all (when used with negative)
 
-++{女|おんな}++
+++{女|おんな}++  
 : woman; girl
 
 A really casual way to express similarity is to attach ""っぽい"" to the word that reflects the resemblance. Because this is a very casual expression, you can use it as a casual version for all the different types of expression for similarity covered above.

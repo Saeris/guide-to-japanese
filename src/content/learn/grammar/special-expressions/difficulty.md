@@ -11,55 +11,55 @@ This is a short easy lesson on how to transform verbs into adjectives describing
 
 ### Vocabulary
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++しゃべる++ <abbr title="う verb">u-verb</abbr>
+++しゃべる++ <abbr title="う verb">u-verb</abbr>  
 : to talk
 
-++この++
+++この++  
 : this (abbr. of これの)
 
-++{字|じ}++
+++{字|じ}++  
 : character; hand-writing
 
-++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>  
 : to read
 
-++{カクテル|ka ku te ru}++
+++{カクテル|ka ku te ru}++  
 : cocktail
 
-++{ビール|bi i ru}++
+++{ビール|bi i ru}++  
 : beer
 
-++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>  
 : to drink
 
-++{部屋|へ・や}++
+++{部屋|へ・や}++  
 : room
 
-++{暗い|くら・い}++ <abbr title="い adjective">i-adj</abbr>
+++{暗い|くら・い}++ <abbr title="い adjective">i-adj</abbr>  
 : dark
 
-++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to see
 
-++{難しい|むずか・しい}++ <abbr title="い adjective">i-adj</abbr>
+++{難しい|むずか・しい}++ <abbr title="い adjective">i-adj</abbr>  
 : difficult
 
-++{易しい|やさ・しい}++ <abbr title="い adjective">i-adj</abbr>
+++{易しい|やさ・しい}++ <abbr title="い adjective">i-adj</abbr>  
 : easy
 
-++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>
+++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>  
 : simple
 
-++{容易|よう・い}++ <abbr title="な adjective">na-adj</abbr>
+++{容易|よう・い}++ <abbr title="な adjective">na-adj</abbr>  
 : simple
 
-++その++
+++その++  
 : that (abbr. of それの)
 
-++{肉|にく}++
+++{肉|にく}++  
 : meat
 
 > [!Note] Using ""～やすい、～にくい"" to describe easy and difficult actions
@@ -103,53 +103,52 @@ Of course, you can always use some other grammatical structure that we have alre
 
 ### Vocabulary
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>
+++{忘れる|わす・れる}++ <abbr title="る verb">ru-verb</abbr>  
 : to forget
 
-++{思い出|おも・い・で}++
+++{思い出|おも・い・で}++  
 : memories
 
-++{大切|たい・せつ}++ <abbr title="な adjective">na-adj</abbr>
+++{大切|たい・せつ}++ <abbr title="な adjective">na-adj</abbr>  
 : important
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++とても++
+++とても++  
 : very
 
-++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>
+++{信じる|しん・じる}++ <abbr title="る verb">ru-verb</abbr>  
 : to believe
 
-++{話|はなし}++
+++{話|はなし}++  
 : story
 
-++{本当|ほん・とう}++
+++{本当|ほん・とう}++  
 : real
 
-++{起こる|おこ・る}++ <abbr title="う verb">u-verb</abbr>
+++{起こる|おこ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to happen
 
 ++{辛い|1) から・い; 2) つら・い}++ <abbr title="い adjective">i-adj</abbr>
-: spicy <abbr title="い adjective">i-adj</abbr>
-: painful
+: spicy;<br/>painful
 
-++{日本語|に・ほん・ご}++
+++{日本語|に・ほん・ご}++  
 : Japanese (language)
 
-++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>  
 : to read
 
-++{待ち合わせ|ま・ち・あわ・せ}++
+++{待ち合わせ|ま・ち・あわ・せ}++  
 : meeting arrangement
 
-++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>  
 : to understand
 
-++{場所|ば・しょ}++
+++{場所|ば・しょ}++  
 : location
 
 The kanji for ""にくい"" actually comes from ""難い"" which can also be read as ""かたい"". As a result, you can also add a voiced version ""～がたい"" as a verb suffix to express the same thing as ""にくい"". ""にくい"" is more common for speaking while ""がたい"" is more suited for the written medium. ""にくい"" tends to be used for physical actions while ""がたい"" is usually reserved for less physical actions that don’t actually require movement. However, there seems to be no hard rule on which is more appropriate for a given verb so I suggest searching for both versions in google to ascertain the popularity of a given combination. You should also always write the suffix in hiragana to prevent ambiguities in the reading.

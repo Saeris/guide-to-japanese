@@ -11,61 +11,61 @@ We’ve already learned how to use generic nouns in order to modify nouns. Now w
 
 ### Vocabulary
 
-++こと++
+++こと++  
 : event, matter
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++{徹夜|てつ・や}++
+++{徹夜|てつ・や}++  
 : staying up all night
 
-++{宿題|しゅく・だい}++
+++{宿題|しゅく・だい}++  
 : homework
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{一人|ひとり}++
+++{一人|ひとり}++  
 : 1 person; alone
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++{パリ|pa ri}++
+++{パリ|pa ri}++  
 : Paris
 
-++{お寿司|お・す・し}++
+++{お寿司|お・す・し}++  
 : sushi
 
-++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{日本|に・ほん}++
+++{日本|に・ほん}++  
 : Japan
 
-++{映画|えい・が}++
+++{映画|えい・が}++  
 : movie
 
-++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to watch
 
-++{ヨーロッパ|yo o ro p po}++
+++{ヨーロッパ|yo o ro p po}++  
 : Europe
 
-++いい++ <abbr title="い adjective">i-adj</abbr>
+++いい++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
-++そう++
+++そう++  
 : (things are) that way
 
-++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>  
 : to say
 
-++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to see
 
-++{～度|～ど}++
+++{～度|～ど}++  
 : counter for number of times
 
 When you combine ""こと"", the generic word for an event with ""ある"", you can talk about whether an event exists or not.
@@ -104,46 +104,46 @@ Using the past tense of the verb with ""こと"", you can talk about whether an 
 
 ### Vocabulary
 
-++{所|ところ}++
+++{所|ところ}++  
 : place
 
-++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>
+++{早い|はや・い}++ <abbr title="い adjective">i-adj</abbr>  
 : fast; early
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++{映画|えい・が}++
+++{映画|えい・が}++  
 : movie
 
-++{今|いま}++
+++{今|いま}++  
 : now
 
-++ちょうど++
+++ちょうど++  
 : just right; exactly
 
-++いい++
+++いい++  
 : good
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{優しい|やさ・しい}++ <abbr title="い adjective">i-adj</abbr>
+++{優しい|やさ・しい}++ <abbr title="い adjective">i-adj</abbr>  
 : gentle; kind
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++{授業|じゅ・ぎょう}++
+++{授業|じゅ・ぎょう}++  
 : class
 
-++{終わる|お・わる}++ <abbr title="う verb">u-verb</abbr>
+++{終わる|お・わる}++ <abbr title="う verb">u-verb</abbr>  
 : to end
 
-++これ++
+++これ++  
 : this
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
 ""ところ""（所） is usually used to indicate a generic physical location. However, it can also hold a much broader meaning ranging from a characteristic to a place in time.
@@ -166,19 +166,19 @@ Using the past tense of the verb with ""こと"", you can talk about whether an 
 
 ### Vocabulary
 
-++{物|もの}++
+++{物|もの}++  
 : object
 
-++どうして++
+++どうして++  
 : why
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++{授業|じゅ・ぎょう}++
+++{授業|じゅ・ぎょう}++  
 : class
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
 The generic object noun ""もの"" can be used as a casual and feminine way of emphasizing something. This is identical to the explanatory feminine emphasis expressed by the ""の"" particle. Just like the explanatory ""の"" particle, the ""の"" is often changed into ""ん"" resulting in ""もん"". Using ""もん"" sounds very feminine and a little cheeky (in a cute way).

@@ -11,127 +11,127 @@ Japanese can be roughly separated into three levels of politeness: casual, polit
 
 ## Vocabulary
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++なさる++
+++なさる++  
 : to do (honorific)
 
-++{致す|いた・す}++ <abbr title="う verb">u-verb</abbr>
+++{致す|いた・す}++ <abbr title="う verb">u-verb</abbr>  
 : to do (humble)
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++いらっしゃる++
+++いらっしゃる++  
 : to be; to go; to come (honorific)
 
-++おいでになる++
+++おいでになる++  
 : to be; to go; to come (honorific)
 
-++{参る|まい・る}++ <abbr title="う verb">u-verb</abbr>
+++{参る|まい・る}++ <abbr title="う verb">u-verb</abbr>  
 : to go; to come (humble)
 
-++いる++ <abbr title="る verb">ru-verb</abbr>
+++いる++ <abbr title="る verb">ru-verb</abbr>  
 : to exist (animate)
 
-++おる++ <abbr title="る verb">ru-verb</abbr>
+++おる++ <abbr title="る verb">ru-verb</abbr>  
 : to exist (animate) (humble)
 
-++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to see
 
-++{ご覧になる|ご・らん・になる}++
+++{ご覧になる|ご・らん・になる}++  
 : to see (honorific)
 
-++{拝見する|はい・けん・する}++
+++{拝見する|はい・けん・する}++  
 : to see (humble)
 
-++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>  
 : to ask; to listen
 
-++{伺う|うかが・う}++ <abbr title="う verb">u-verb</abbr>
+++{伺う|うかが・う}++ <abbr title="う verb">u-verb</abbr>  
 : to ask; to listen (humble)
 
-++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>  
 : to say
 
-++おっしゃる++
+++おっしゃる++  
 : to say (honorific)
 
-++{申す|もう・す}++ <abbr title="う verb">u-verb</abbr>
+++{申す|もう・す}++ <abbr title="う verb">u-verb</abbr>  
 : to say (humble)
 
-++{申し上げる|もう・し・あ・げる}++ <abbr title="う verb">u-verb</abbr>
+++{申し上げる|もう・し・あ・げる}++ <abbr title="う verb">u-verb</abbr>  
 : to say (humble)
 
-++あげる++ <abbr title="う verb">u-verb</abbr>
+++あげる++ <abbr title="う verb">u-verb</abbr>  
 : to give; to raise
 
-++{差し上げる|さ・し・あ・げる}++ <abbr title="る verb">ru-verb</abbr>
+++{差し上げる|さ・し・あ・げる}++ <abbr title="る verb">ru-verb</abbr>  
 : to give; to raise (humble)
 
-++くれる++ <abbr title="う verb">u-verb</abbr>
+++くれる++ <abbr title="う verb">u-verb</abbr>  
 : to give
 
-++{下さる|くだ・さる}++
+++{下さる|くだ・さる}++  
 : to give (honorific)
 
-++もらう++ <abbr title="う verb">u-verb</abbr>
+++もらう++ <abbr title="う verb">u-verb</abbr>  
 : to receive
 
-++いただく++ <abbr title="う verb">u-verb</abbr>
+++いただく++ <abbr title="う verb">u-verb</abbr>  
 : to receive; to eat; to drink (humble)
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{召し上がる|め・し・あ・がる}++ <abbr title="う verb">u-verb</abbr>
+++{召し上がる|め・し・あ・がる}++ <abbr title="う verb">u-verb</abbr>  
 : to eat; to drink (honorific)
 
-++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>  
 : to drink
 
-++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>
+++{知る|し・る}++ <abbr title="う verb">u-verb</abbr>  
 : to know
 
-++{ご存じ|ご・ぞん・じ}++
+++{ご存じ|ご・ぞん・じ}++  
 : knowing (honorific)
 
-++{存じる|ぞん・じる}++ <abbr title="る verb">ru-verb</abbr>
+++{存じる|ぞん・じる}++ <abbr title="る verb">ru-verb</abbr>  
 : to know (humble)
 
-++ござる++
+++ござる++  
 : to be (formal)
 
-++もう++
+++もう++  
 : already
 
-++{仕事|し・ごと}++
+++{仕事|し・ごと}++  
 : job
 
-++{何|なに／なん}++
+++{何|なに／なん}++  
 : what
 
-++{推薦状|すい・せん・じょう}++
+++{推薦状|すい・せん・じょう}++  
 : letter of recommendation
 
-++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>  
 : to write
 
-++どちら++
+++どちら++  
 : which way
 
-++{今日|きょう}++
+++{今日|きょう}++  
 : today
 
-++{私|わたし}++
+++{私|わたし}++  
 : me; myself; I
 
-++{レポート|ri po o to}++
+++{レポート|ri po o to}++  
 : report
 
-++{失礼|しつ・れい}++
+++{失礼|しつ・れい}++  
 : discourtesy
 
 The difficult part of learning honorific and humble language is that there are a number of words that have separate verbs for honorific and humble forms. Anything that does not have its own special expression fall under the general rules of humble and honorific conjugations that we will cover next.
@@ -204,73 +204,73 @@ The following examples are all actions done by the speaker so they all use the h
 
 ### Vocabulary
 
-++こちら++
+++こちら++  
 : this way
 
-++{私|わたし}++
+++{私|わたし}++  
 : me, myself, I
 
-++{部屋|へ・や}++
+++{部屋|へ・や}++  
 : room
 
-++ござる++
+++ござる++  
 : to be (formal)
 
-++{お手洗い|お・て・あら・い}++
+++{お手洗い|お・て・あら・い}++  
 : bathroom
 
-++この++
+++この++  
 : this （abbr. of これの）
 
-++{ビル|bi ru}++
+++{ビル|bi ru}++  
 : building
 
-++{～階|～かい}++
+++{～階|～かい}++  
 : counter for story/floor
 
-++いい++ <abbr title="い adjective">i-adj</abbr>
+++いい++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
-++よろしい++ <abbr title="い adjective">i-adj</abbr>
+++よろしい++ <abbr title="い adjective">i-adj</abbr>  
 : good (formal)
 
-++{悪い|わる・い}++ <abbr title="い adjective">i-adj</abbr>
+++{悪い|わる・い}++ <abbr title="い adjective">i-adj</abbr>  
 : bad
 
-++すいません++
+++すいません++  
 : sorry (polite)
 
-++ごめん++
+++ごめん++  
 : sorry (casual)
 
-++ごめんなさい++
+++ごめんなさい++  
 : sorry (polite)
 
-++すみません++
+++すみません++  
 : sorry (polite)
 
-++{申し訳ありません|もう・し・わけ・ありません}++
+++{申し訳ありません|もう・し・わけ・ありません}++  
 : sorry (formal)
 
-++{言い訳|い・い・わけ}++
+++{言い訳|い・い・わけ}++  
 : excuse
 
-++{恐れ入ります|おそ・れ・い・ります}++
+++{恐れ入ります|おそ・れ・い・ります}++  
 : sorry (formal)
 
-++{恐縮です|きょう・しゅく・です}++
+++{恐縮です|きょう・しゅく・です}++  
 : sorry (formal)
 
-++{～様|～さま}++
+++{～様|～さま}++  
 : honorific name suffix
 
-++～さん++
+++～さん++  
 : polite name suffix
 
-++{お客様|お・きゃく・さま}++
+++{お客様|お・きゃく・さま}++  
 : customer (formal)
 
-++{神様|かみ・さま}++
+++{神様|かみ・さま}++  
 : god (formal)
 
 In addition to these set expressions, there are some words that also have more polite counterparts. Probably the most important is the politer version of ""ある"", which is ""ござる"". This verb can be used for both inanimate and animate objects. It is neither honorific nor humble but it is a step above ""ある"" in politeness. However, unless you want to sound like a samurai, ""ござる"" is always used in the polite form: ""ございます"".
@@ -313,115 +313,115 @@ In addition, the politest suffix for names is ""様"", one level above ""さん"
 
 ### Vocabulary
 
-++{お酒|お・さけ}++
+++{お酒|お・さけ}++  
 : alcohol
 
-++{お茶|お・ちゃ}++
+++{お茶|お・ちゃ}++  
 : tea
 
-++{お金|お・かね}++
+++{お金|お・かね}++  
 : money
 
-++{音読み|おん・よ・み}++
+++{音読み|おん・よ・み}++  
 : Chinese reading
 
-++{意見|い・けん}++
+++{意見|い・けん}++  
 : opinion
 
-++{ご飯|ご・はん}++
+++{ご飯|ご・はん}++  
 : rice; meal
 
-++{訓読み|くん・よ・み}++
+++{訓読み|くん・よ・み}++  
 : Japanese reading
 
-++{仕事|し・ごと}++
+++{仕事|し・ごと}++  
 : job
 
-++{お好み焼き|お・この・み・や・き}++
+++{お好み焼き|お・この・み・や・き}++  
 : okonomiyaki (Japanese-style pancake)
 
-++{お土産|お・みやげ}++
+++{お土産|お・みやげ}++  
 : souvenir
 
-++{返事|へん・じ}++
+++{返事|へん・じ}++  
 : reply
 
-++{先生|せん・せい}++
+++{先生|せん・せい}++  
 : teacher
 
-++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>
+++{見える|み・える}++ <abbr title="る verb">ru-verb</abbr>  
 : to be visible
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++もう++
+++もう++  
 : already
 
-++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to go home
 
-++{店内|てん・ない}++
+++{店内|てん・ない}++  
 : store interior
 
-++{召し上がる|め・し・あ・がる}++ <abbr title="る verb">ru-verb</abbr>
+++{召し上がる|め・し・あ・がる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat; to drink (honorific)
 
-++{二重敬語|に・じゅう・けい・ご}++
+++{二重敬語|に・じゅう・けい・ご}++  
 : redundant honorific
 
-++{下さる|くだ・さる}++
+++{下さる|くだ・さる}++  
 : to give (honorific)
 
-++{少々|しょう・しょう}++
+++{少々|しょう・しょう}++  
 : just a minute; small quantity;
 
-++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>  
 : to wait
 
-++こちら++
+++こちら++  
 : this way
 
-++{ご覧下さい|ご・らん・くだ・さい}++
+++{ご覧下さい|ご・らん・くだ・さい}++  
 : please look (honorific)
 
-++{閉まる|し・まる}++ <abbr title="う verb">u-verb</abbr>
+++{閉まる|し・まる}++ <abbr title="う verb">u-verb</abbr>  
 : to close
 
-++{ドア|do a}++
+++{ドア|do a}++  
 : door
 
-++{注意|ちゅう・い}++
+++{注意|ちゅう・い}++  
 : caution
 
-++よろしい++ <abbr title="い adjective">i-adj</abbr>
+++よろしい++ <abbr title="い adjective">i-adj</abbr>  
 : good (formal)
 
-++{願う|ねが・う}++ <abbr title="う verb">u-verb</abbr>
+++{願う|ねが・う}++ <abbr title="う verb">u-verb</abbr>  
 : to wish; to request
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>
+++{聞く|き・く}++ <abbr title="う verb">u-verb</abbr>  
 : to ask; to listen
 
-++こと++
+++こと++  
 : event, matter
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++すみません++
+++すみません++  
 : sorry (polite)
 
-++{千円|せん・えん}++
+++{千円|せん・えん}++  
 : 1,000 yen
 
-++{預かる|あず・かる}++
+++{預かる|あず・かる}++  
 : to look after; to hold on to;
 
-++{致す|いた・す}++ <abbr title="う verb">u-verb</abbr>
+++{致す|いた・す}++ <abbr title="う verb">u-verb</abbr>  
 : to do (humble)
 
 For all other verbs without set expressions, there are conjugation rules to change them into honorific and humble forms. They both involve a common practice of attaching a polite prefix ""御"". In Japanese, there is an practice of attaching an honorific prefix ""御"" to certain (not all) nouns to show politeness. In fact, some words like ""お酒""、 ""お茶""、or ""お金"" come with this prefix so often that it’s become practically the word itself. In general, ""御"" is written in hiragana as either ""ご"" for words read as 音読み （e.g. ご意見、ご飯） or ""お"" for words read as 訓読み （e.g. お金、 お仕事）. In fact, you may have been using this prefix already without realizing it like ""お好み焼き"" or ""お土産"". There are some exceptions to this rule such as ""お返事"". Luckily since ""御"" is rarely written in kanji, identifying the exceptions should not really be a problem.
@@ -492,40 +492,40 @@ You’ll hear something like example 4 when, for example, you need to get change
 
 ### Vocabulary
 
-++{下さる|くだ・さる}++
+++{下さる|くだ・さる}++  
 : to give (honorific)
 
-++いらっしゃる++
+++いらっしゃる++  
 : to be; to go; to come (honorific)
 
-++なさる++
+++なさる++  
 : to do (honorific)
 
-++おっしゃる++
+++おっしゃる++  
 : to say (honorific)
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++いらっしゃいませ++
+++いらっしゃいませ++  
 : please come in (formal)
 
-++いらっしゃい++
+++いらっしゃい++  
 : please come in
 
-++ありがとうございました++
+++ありがとうございました++  
 : thank you (polite)
 
-++また++
+++また++  
 : again
 
-++{越す|こ・す}++
+++{越す|こ・す}++  
 : to go over
 
-++どうぞ++
+++どうぞ++  
 : please
 
-++ゆっくり++
+++ゆっくり++  
 : slowly
 
 We learned how to make polite requests using ""～ください"" in a previous section and we just looked at how to use honorific verbs with requests as well. However, there is yet another way to make requests using honorific verbs. This grammar only applies to the honorific verbs with special ""～ます"" conjugations that we just covered. This includes ""下さる""、""いらっしゃる""、""なさる""、and ""おっしゃる"". I’ve never actually seen this used with ""おっしゃる"", but it is grammatically possible.

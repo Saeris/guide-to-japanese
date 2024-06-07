@@ -11,67 +11,67 @@ This lesson will cover various expressions used to express various degrees of am
 
 ### Vocabulary
 
-++りんご++
+++りんご++  
 : apple
 
-++これ++
+++これ++  
 : this
 
-++それ++
+++それ++  
 : that
 
-++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++この++
+++この++  
 : this （abbr. of これの）
 
-++{歌|うた}++
+++{歌|うた}++  
 : song
 
-++{歌う|うた・う}++ <abbr title="う verb">u-verb</abbr>
+++{歌う|うた・う}++ <abbr title="う verb">u-verb</abbr>  
 : to sing
 
-++その++
+++その++  
 : that （abbr. of それの）
 
-++{人|ひと}++
+++{人|ひと}++  
 : person
 
-++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>
+++{好き|す・き}++ <abbr title="な adjective">na-adj</abbr>  
 : likable; desirable
 
-++{販売機|はん・ばい・き}++
+++{販売機|はん・ばい・き}++  
 : vending machine
 
-++{五百円玉|ご・ひゃく・えん・だま}++
+++{五百円玉|ご・ひゃく・えん・だま}++  
 : 500 yen coin
 
-++{小林|こ・ばやし}++
+++{小林|こ・ばやし}++  
 : Kobayashi (last name)
 
-++{返事|へん・じ}++
+++{返事|へん・じ}++  
 : reply
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++{準備|じゅん・び}++
+++{準備|じゅん・び}++  
 : preparations
 
-++{終わる|お・わる}++ <abbr title="う verb">u-verb</abbr>
+++{終わる|お・わる}++ <abbr title="う verb">u-verb</abbr>  
 : to end
 
-++ここ++
+++ここ++  
 : here
 
-++{名前|な・まえ}++
+++{名前|な・まえ}++  
 : name
 
-++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>  
 : to write
 
-++いい++ <abbr title="い adjective">i-adj</abbr>
+++いい++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
 The particle ""だけ"" is used to express that that’s all there is. Just like the other particles we have already learned, it is directly attached to the end of whichever word that it applies to.
@@ -117,34 +117,35 @@ Unlike some particles, you can directly attach ""だけ"" to verbs as well.
 
 ### Vocabulary
 
-++この++
+++この++  
 : this （abbr. of これの）
 
-++{乗車券|じょう・しゃ・けん}++
+++{乗車券|じょう・しゃ・けん}++  
 : passenger ticket
 
-++{発売|はつ・ばい}++
+++{発売|はつ・ばい}++  
 : sale
 
-++{当日|とう・じつ}++
+++{当日|とう・じつ}++  
 : that very day
 
-++{有効|ゆう・こう}++
+++{有効|ゆう・こう}++  
 : effective
 
-++{アンケート|a n ke e to}++
+++{アンケート|a n ke e to}++  
 : survey
 
-++{対象|たい・しょう}++
+++{対象|たい・しょう}++  
 : target
 
-++{大学生|だい・がく・せい}++
+++{大学生|だい・がく・せい}++  
 : college student
 
 A particle that is essentially identical both grammatically and in meaning to ""だけ"" is ""のみ"". However, unlike ""だけ"", which is used in regular conversations, ""のみ"" is usually only used in a written context. It is often used for explaining policies, in manuals, and other things of that nature. This grammar really belongs in the advanced section since formal language has a different flavor and tone from what we have seen so far. However, it is covered here because it is essentially identical to ""だけ"". Just googling for ""のみ"" will quickly show the difference in the type of language that is used with ""のみ"" as opposed to ""だけ"".
 
 1. この乗車券は発売当日==のみ==有効です。  
    This boarding ticket is ==only== valid on the date on which it was purchased.
+
 1. アンケート対象は大学生==のみ==です。  
    The targets of this survey are ==only== college students.
 
@@ -152,61 +153,61 @@ A particle that is essentially identical both grammatically and in meaning to ""
 
 ### Vocabulary
 
-++これ++
+++これ++  
 : this
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to see
 
-++{今日|きょう}++
+++{今日|きょう}++  
 : today
 
-++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>
+++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>  
 : busy
 
-++{朝ご飯|あさ・ご・はん}++
+++{朝ご飯|あさ・ご・はん}++  
 : breakfast
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{全部|ぜん・ぶ}++
+++{全部|ぜん・ぶ}++  
 : everything
 
-++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>  
 : to buy
 
-++ううん++
+++ううん++  
 : no (casual)
 
-++{何|なに}++
+++{何|なに}++  
 : what
 
-++もらう++
+++もらう++  
 : to receive
 
-++{頑張る|がん・ば・る}++ <abbr title="う verb">u-verb</abbr>
+++{頑張る|がん・ば・る}++ <abbr title="う verb">u-verb</abbr>  
 : to try one’s best
 
-++こう++
+++こう++  
 : (things are) this way
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++{逃げる|に・げる}++ <abbr title="る verb">ru-verb</abbr>
+++{逃げる|に・げる}++ <abbr title="る verb">ru-verb</abbr>  
 : to escape; to run away
 
-++もう++
+++もう++  
 : already
 
-++{腐る|くさ・る}++ <abbr title="う verb">u-verb</abbr>
+++{腐る|くさ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to rot; to spoil
 
-++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>  
 : to throw away
 
 I carefully phrased the title of this section to show that ""しか"" must be used to indicate the **lack** of everything else. In other words, the rest of the sentence must always be negative.
@@ -269,25 +270,25 @@ You can also use this grammar with verbs.
 
 ### Vocabulary
 
-++これ++
+++これ++  
 : this
 
-++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
+++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>  
 : to buy
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++こう++
+++こう++  
 : (things are) this way
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++もう++
+++もう++  
 : already
 
-++やる++ <abbr title="う verb">u-verb</abbr>
+++やる++ <abbr title="う verb">u-verb</abbr>  
 : to do
 
 ""っきゃ"" is another version of ""しか"" that means essentially the same thing and works exactly the same way. Just substitute ""しか"" with ""っきゃ"" and you’re good to go. This version is a bit stronger than ""しか"" in emphasis but it’s not used nearly as often so I wouldn’t worry about it too much. I briefly cover it here just in case you do run into this expression.
@@ -304,46 +305,46 @@ You can also use this grammar with verbs.
 
 ### Vocabulary
 
-++{何|なに／なん}++
+++{何|なに／なん}++  
 : what
 
-++おばさん++
+++おばさん++  
 : middle-aged lady
 
-++{嫌|いや}++ <abbr title="な adjective">na-adj</abbr>
+++{嫌|いや}++ <abbr title="な adjective">na-adj</abbr>  
 : disagreeable; unpleasant
 
-++{崇|たかし}++
+++{崇|たかし}++  
 : Takashi (first name)
 
-++{～君|～くん}++
+++{～君|～くん}++  
 : name suffix
 
-++{漫画|まん・が}++
+++{漫画|まん・が}++  
 : comic book
 
-++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>  
 : to read
 
-++{かっこ悪い|かっこ・わる・い}++ <abbr title="い adjective">i-adj</abbr>
+++{かっこ悪い|かっこ・わる・い}++ <abbr title="い adjective">i-adj</abbr>  
 : unattractive; uncool
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{麻雀|マー・ジャン}++
+++{麻雀|マー・ジャン}++  
 : mahjong
 
-++{直美|なお・み}++
+++{直美|なお・み}++  
 : Naomi (first name)
 
-++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+++{遊ぶ|あそ・ぶ}++ <abbr title="う verb">u-verb</abbr>  
 : to play
 
-++{最近|さい・きん}++
+++{最近|さい・きん}++  
 : recent; lately
 
-++{仕事|し・ごと}++
+++{仕事|し・ごと}++  
 : job
 
 ""ばかり"" is used to express the condition where there’s so much of something to the point where there’s nothing else. Notice this is fundamentally different from ""しか"" which expresses a **lack** of everything else but the item in question. In more casual situations, ""ばかり"" is usually pronounced ""ばっかり"" or just ""ばっか"". For example, let’s say you went to a party to find, much to your dismay, the whole room filled with middle-aged women. You might say the following.
@@ -376,103 +377,103 @@ It is quite common in casual speech to end midsentence like this. Notice ""読�
 
 ### Vocabulary
 
-++{過ぎる|す・ぎる}++ <abbr title="る verb">ru-verb</abbr>
+++{過ぎる|す・ぎる}++ <abbr title="る verb">ru-verb</abbr>  
 : to exceed; to pass
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>
+++{飲む|の・む}++ <abbr title="う verb">u-verb</abbr>  
 : to drink
 
-++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>
+++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>  
 : to become fatter
 
-++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
+++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>  
 : quiet
 
-++{大きい|おお・きい}++ <abbr title="い adjective">i-adj</abbr>
+++{大きい|おお・きい}++ <abbr title="い adjective">i-adj</abbr>  
 : big
 
-++{面白い|おも・しろ・い}++ <abbr title="い adjective">i-adj</abbr>
+++{面白い|おも・しろ・い}++ <abbr title="い adjective">i-adj</abbr>  
 : interesting
 
-++もったいない++ <abbr title="い adjective">i-adj</abbr>
+++もったいない++ <abbr title="い adjective">i-adj</abbr>  
 : wasteful
 
-++{情けない|なさ・けない}++ <abbr title="い adjective">i-adj</abbr>
+++{情けない|なさ・けない}++ <abbr title="い adjective">i-adj</abbr>  
 : pitiable
 
-++{危ない|あぶ・ない}++ <abbr title="い adjective">i-adj</abbr>
+++{危ない|あぶ・ない}++ <abbr title="い adjective">i-adj</abbr>  
 : dangerous
 
-++{少ない|すく・ない}++ <abbr title="い adjective">i-adj</abbr>
+++{少ない|すく・ない}++ <abbr title="い adjective">i-adj</abbr>  
 : few
 
-++{佐藤|さ・とう}++
+++{佐藤|さ・とう}++  
 : Satou (last name)
 
-++{料理|りょう・り}++
+++{料理|りょう・り}++  
 : cooking; cuisine; dish
 
-++{上手|じょう・ず}++ <abbr title="な adjective">na-adj</abbr>
+++{上手|じょう・ず}++ <abbr title="な adjective">na-adj</abbr>  
 : skillful
 
-++また++
+++また++  
 : again
 
-++{お酒|お・さけ}++
+++{お酒|お・さけ}++  
 : alcohol
 
-++{気|き}++
+++{気|き}++  
 : mood; intent
 
-++つける++
+++つける++  
 : to attach
 
-++気をつける++
+++気をつける++  
 : (expression) to be careful
 
-++{トランク|to ra n ku}++
+++{トランク|to ra n ku}++  
 : trunk
 
-++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>  
 : to enter
 
-++{罠|わな}++
+++{罠|わな}++  
 : trap
 
-++{時間|じ・かん}++
+++{時間|じ・かん}++  
 : time
 
-++{足りる|た・りる}++ <abbr title="る verb">ru-verb</abbr>
+++{足りる|た・りる}++ <abbr title="る verb">ru-verb</abbr>  
 : to be sufficient
 
-++{何|なに}++
+++{何|なに}++  
 : what
 
-++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to be able to do
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{彼女|かの・じょ}++
+++{彼女|かの・じょ}++  
 : she; girlfriend
 
-++{昨晩|さく・ばん}++
+++{昨晩|さく・ばん}++  
 : last night
 
-++こと++
+++こと++  
 : event, matter
 
-++{全然|ぜん・ぜん}++
+++{全然|ぜん・ぜん}++  
 : not at all (when used with negative)
 
-++{覚える|おぼ・える}++ <abbr title="る verb">ru-verb</abbr>
+++{覚える|おぼ・える}++ <abbr title="る verb">ru-verb</abbr>  
 : to memorize
 
-++それ++
+++それ++  
 : that
 
 ""すぎる"" is a regular ru-verb written ""過ぎる"" meaning, “to exceed”. When ""すぎる"" is attached to the end of other verbs and adjectives, it means that it is too much or that it has exceeded the normal levels. For verbs, you must directly attach ""すぎる"" to the stem of the verb. For example, ""食べすぎる"" means “to eat too much” and ""飲みすぎる"" means “to drink too much”. For adjectives, you just attach it to the end after you remove the last ""い"" from the i-adjectives (as usual). One more rule is that for both negative verbs and adjectives, one must remove the ""い"" from ""ない"" and replace with ""さ"" before attaching ""すぎる"". There is no tense (past or non-past) associated with this grammar. Since ""すぎる"" is a regular ru-verb, this grammar always results in a regular ru-verb.
@@ -536,11 +537,11 @@ It is quite common in casual speech to end midsentence like this. Notice ""読�
 
 It is also common to change ""すぎる"" into its stem and use it as a noun.
 
-> Ａ
+> Ａ  
 > : 昨晩のこと、全然覚えてないな。  
 > : Man, I don’t remember anything about last night.
 >
-> Ｂ
+> Ｂ  
 > : それは==飲みすぎ==だよ。  
 > : That’s drinking too much.
 
@@ -548,37 +549,37 @@ It is also common to change ""すぎる"" into its stem and use it as a noun.
 
 ### Vocabulary
 
-++{昨日|きのう}++
+++{昨日|きのう}++  
 : yesterday
 
-++{電話|でん・わ}++
+++{電話|でん・わ}++  
 : phone
 
-++{～回|～かい}++
+++{～回|～かい}++  
 : counter for number of times
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{試験|し・けん}++
+++{試験|し・けん}++  
 : exam
 
-++ため++
+++ため++  
 : for the sake/benefit of
 
-++{～時間|～じ・かん}++
+++{～時間|～じ・かん}++  
 : counter for span of hour(s)
 
-++{勉強|べん・きょう}++
+++{勉強|べん・きょう}++  
 : study
 
-++{今年|こ・とし}++
+++{今年|こ・とし}++  
 : this year
 
-++{キロ|ki ro}++
+++{キロ|ki ro}++  
 : kilo
 
-++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>
+++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>  
 : to become fatter
 
 When the ""も"" particle comes after some type of amount, it means that the amount indicated is way too much. For instance, let’s look at the next example.
@@ -598,106 +599,106 @@ Notice that the ""も"" particle is attached to the amount “three times”. Th
 
 ### Vocabulary
 
-++{程|ほど}++
+++{程|ほど}++  
 : degree, extent
 
-++{今日|きょう}++
+++{今日|きょう}++  
 : today
 
-++{天気|てん・き}++
+++{天気|てん・き}++  
 : weather
 
-++それ++
+++それ++  
 : that
 
-++{暑い|あつ・い}++ <abbr title="い adjective">i-adj</abbr>
+++{暑い|あつ・い}++ <abbr title="い adjective">i-adj</abbr>  
 : hot
 
-++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to sleep
 
-++{時間|じ・かん}++
+++{時間|じ・かん}++  
 : time
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>
+++{忙しい|いそが・しい}++ <abbr title="い adjective">i-adj</abbr>  
 : busy
 
-++{韓国|かん・こく}++
+++{韓国|かん・こく}++  
 : Korea
 
-++{料理|りょう・り}++
+++{料理|りょう・り}++  
 : cooking; cuisine; dish
 
-++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|たべ・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++おいしい++ <abbr title="い adjective">i-adj</abbr>
+++おいしい++ <abbr title="い adjective">i-adj</abbr>  
 : tasty
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++{歩く|ある・く}++ <abbr title="う verb">u-verb</abbr>
+++{歩く|ある・く}++ <abbr title="う verb">u-verb</abbr>  
 : to walk
 
-++{迷う|まよ・う}++ <abbr title="う verb">u-verb</abbr>
+++{迷う|まよ・う}++ <abbr title="う verb">u-verb</abbr>  
 : to get lost
 
-++{勉強|べん・きょう}++
+++{勉強|べん・きょう}++  
 : study
 
-++{頭|あたま}++
+++{頭|あたま}++  
 : head
 
-++いい++ <abbr title="い adjective">i-adj</abbr>
+++いい++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
-++{ハードディスク|ha a do di i su ku}++
+++{ハードディスク|ha a do di i su ku}++  
 : hard disk
 
-++{容量|よう・りょう}++
+++{容量|よう・りょう}++  
 : capacity
 
-++{大きい|おお・きい}++ <abbr title="い adjective">i-adj</abbr>
+++{大きい|おお・きい}++ <abbr title="い adjective">i-adj</abbr>  
 : big
 
-++もっと++
+++もっと++  
 : more
 
-++たくさん++
+++たくさん++  
 : a lot (amount)
 
-++{曲|きょく}++
+++{曲|きょく}++  
 : tune
 
-++{保存|ほ・ぞん}++
+++{保存|ほ・ぞん}++  
 : save
 
-++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>
+++{出来る|で・き・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to be able to do
 
-++{航空券|こう・くう・けん}++
+++{航空券|こう・くう・けん}++  
 : plane ticket
 
-++{安い|やす・い}++ <abbr title="い adjective">i-adj</abbr>
+++{安い|やす・い}++ <abbr title="い adjective">i-adj</abbr>  
 : cheap
 
-++{限る|かぎ・る}++ <abbr title="う verb">u-verb</abbr>
+++{限る|かぎ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to limit
 
-++{文章|ぶん・しょう}++
+++{文章|ぶん・しょう}++  
 : sentence; writing
 
-++{短い|みじか・い}++ <abbr title="い adjective">i-adj</abbr>
+++{短い|みじか・い}++ <abbr title="い adjective">i-adj</abbr>  
 : short
 
-++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>
+++{簡単|かん・たん}++ <abbr title="な adjective">na-adj</abbr>  
 : simple
 
-++{良い|よ・い}++ <abbr title="い adjective">i-adj</abbr>
+++{良い|よ・い}++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
 The noun ""ほど""（程） is attached to a word in a sentence to express the extent of something. It can modify nouns as well as verbs as seen in the next example.
@@ -738,43 +739,43 @@ For na-adjectives, since you can’t use the ""ば"" conditional you have to res
 
 ### Vocabulary
 
-++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>
+++{高い|たか・い}++ <abbr title="い adjective">i-adj</abbr>  
 : high; tall; expensive
 
-++{低い|ひく・い}++ <abbr title="い adjective">i-adj</abbr>
+++{低い|ひく・い}++ <abbr title="い adjective">i-adj</abbr>  
 : short
 
-++{穏やか|おだ・やか}++ <abbr title="な adjective">na-adj</abbr>
+++{穏やか|おだ・やか}++ <abbr title="な adjective">na-adj</abbr>  
 : calm, peaceful
 
-++この++
+++この++  
 : this （abbr. of これの）
 
-++{ビル|ni ru}++
+++{ビル|ni ru}++  
 : building
 
-++{何|なに／なん}++
+++{何|なに／なん}++  
 : what
 
-++{犬|いぬ}++
+++{犬|いぬ}++  
 : dog
 
-++{聴覚|ちょう・かく}++
+++{聴覚|ちょう・かく}++  
 : sense of hearing
 
-++{敏感|びん・かん}++ <abbr title="な adjective">na-adj</abbr>
+++{敏感|びん・かん}++ <abbr title="な adjective">na-adj</abbr>  
 : sensitive
 
-++{人間|にん・げん}++
+++{人間|にん・げん}++  
 : human
 
-++{比べる|くら・べる】 (ru-verb}++ <abbr title="る verb">ru-verb</abbr>
+++{比べる|くら・べる】 (ru-verb}++ <abbr title="る verb">ru-verb</abbr>  
 : to compare
 
-++はるか++
+++はるか++  
 : far more
 
-++{上|うえ}++
+++{上|うえ}++  
 : above
 
 We will now learn how to add ""さ"" to adjectives to indicate an amount of that adjective. For example, we can attach ""さ"" to the adjective for “high” in order to get “height”. Instead of looking at the height, we can even attach ""さ"" to the adjective for “low” to focus on the amount of lowness as opposed to the amount of highness. In fact, there is nothing to stop us from using this with any adjective to indicate an amount of that adjective. The result becomes a regular noun indicating the amount of that adjective.

@@ -11,110 +11,109 @@ In this section, we’re going to learn how to make hypotheses and reach conclus
 
 ### Vocabulary
 
-++{訳|わけ}++
+++{訳|わけ}++  
 : meaning; reason; can be deduced
 
-++{直子|なお・こ}++
+++{直子|なお・こ}++  
 : Naoko (first name)
 
-++いくら++
+++いくら++  
 : how much
 
-++{英語|えい・ご}++
+++{英語|えい・ご}++  
 : English (language)
 
-++{勉強|べん・きょう}++
+++{勉強|べん・きょう}++  
 : study
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++うまい++ <abbr title="い adjective">i-adj</abbr>
+++うまい++ <abbr title="い adjective">i-adj</abbr>  
 : skillful; delicious
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++つまり++
+++つまり++  
 : in short
 
-++{語学|ご・がく}++
+++{語学|ご・がく}++  
 : language study
 
-++{能力|のう・りょく}++
+++{能力|のう・りょく}++  
 : ability
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>  
 : to say
 
-++{失礼|しつ・れい}++
+++{失礼|しつ・れい}++  
 : discourtesy
 
-++{中国語|ちゅう・ごく・ご}++
+++{中国語|ちゅう・ごく・ご}++  
 : Chinese language
 
-++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>
+++{読む|よ・む}++ <abbr title="う verb">u-verb</abbr>  
 : to read
 
-++{広子|ひろ・こ}++
+++{広子|ひろ・こ}++  
 : Hiroko (first name)
 
-++{家|1) うち; 2) いえ}++
-: one’s own home
-: house
+++{家|1) うち; 2) いえ}++  
+: one’s own home;<br/>house
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++こと++
+++こと++  
 : event, matter
 
-++{一郎|いち・ろう}++
+++{一郎|いち・ろう}++  
 : Ichirou (first name)
 
-++{微積分|び・せき・ぶん}++
+++{微積分|び・せき・ぶん}++  
 : (differential and integral) calculus
 
-++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>
+++{分かる|わ・かる}++ <abbr title="う verb">u-verb</abbr>  
 : to understand
 
-++ここ++
+++ここ++  
 : here
 
-++{試験|し・けん}++
+++{試験|し・けん}++  
 : exam
 
-++{合格|ごう・かく}++
+++{合格|ごう・かく}++  
 : pass (as in an exam)
 
-++{今度|こん・ど}++
+++{今度|こん・ど}++  
 : this time; another time
 
-++{負ける|ま・ける}++ <abbr title="る verb">ru-verb</abbr>
+++{負ける|ま・ける}++ <abbr title="る verb">ru-verb</abbr>  
 : to lose
 
-++{来る|く・る}++ <span>exception</span>
+++{来る|く・る}++ <span>exception</span>  
 : to come
 
-++あきらめる++ <abbr title="る verb">ru-verb</abbr>
+++あきらめる++ <abbr title="る verb">ru-verb</abbr>  
 : to give up
 
 The noun ""わけ"" (訳) is a bit difficult to describe but it’s defined as: “meaning; reason; can be deduced”. You can see how this word is used in the following mini-dialogue.
 
 ### Example 1
 
-> {直子|なお・こ} <small>Naoko</small>
+> {直子|なお・こ} <small>Naoko</small>  
 > : いくら英語を勉強しても、うまくならないの。  
 > : No matter how much I study, I don’t become better at English.
 >
-> {ジム|ji mu} <cite>Jim</cite>
+> {ジム|ji mu} <cite>Jim</cite>  
 > : つまり、語学には、能力がないという==訳==か。  
 > : So basically, it ==means== that you don’t have ability at language.
 >
-> {直子|なお・こ} <small>Naoko</small>
+> {直子|なお・こ} <small>Naoko</small>  
 > : 失礼ね。  
 > : How rude.
 
@@ -129,21 +128,21 @@ Under the normal rules of grammar, we must have a particle for the noun ""わけ
 
 ### Example 2
 
-> {直子|なお・こ} <small>Naoko</small>
+> {直子|なお・こ} <small>Naoko</small>  
 > : 広子の家に行ったことある？  
 > : Have you ever gone to Hiroko’s house?
 >
-> {一郎|いち・ろう} <small>Ichirou</small>
+> {一郎|いち・ろう} <small>Ichirou</small>  
 > : ある==わけない==でしょう。  
 > : There’s no way I would have ever gone to her house, right?
 
 ### Example 3
 
-> {直子|なお・こ} <small>Naoko</small>
+> {直子|なお・こ} <small>Naoko</small>  
 > : 微積分は分かる？  
 > : Do you understand (differential and integral) calculus?
 >
-> {一郎|いち・ろう} <small>Ichirou</small>
+> {一郎|いち・ろう} <small>Ichirou</small>  
 > : 分かる==わけない==よ！  
 > : There’s no way I would understand!
 
@@ -164,61 +163,61 @@ Finally, although not as common, ""わけ"" can also be used as a formal express
 
 ### Vocabulary
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{明日|あした}++
+++{明日|あした}++  
 : tomorrow
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++{今|いま}++
+++{今|いま}++  
 : now
 
-++{～時|～じ}++
+++{～時|～じ}++  
 : counter for hours
 
-++{着く|つ・く}++ <abbr title="う verb">u-verb</abbr>
+++{着く|つ・く}++ <abbr title="う verb">u-verb</abbr>  
 : to arrive
 
-++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>
+++{思う|おも・う}++ <abbr title="う verb">u-verb</abbr>  
 : to think
 
-++{観客|かん・きゃく}++
+++{観客|かん・きゃく}++  
 : spectator
 
-++{参加|さん・か}++
+++{参加|さん・か}++  
 : participation
 
-++もらう++
+++もらう++  
 : to receive
 
-++{被害者|ひ・がい・しゃ}++
+++{被害者|ひ・がい・しゃ}++  
 : victim
 
-++{非常|ひ・じょう}++
+++{非常|ひ・じょう}++  
 : extreme
 
-++{幸い|さいわ・い}++ <abbr title="な adjective">na-adj</abbr>
+++{幸い|さいわ・い}++ <abbr title="な adjective">na-adj</abbr>  
 : fortunate
 
-++{朝ご飯|あさ・ご・はん}++
+++{朝ご飯|あさ・ご・はん}++  
 : breakfast
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++もう++
+++もう++  
 : already
 
-++{昼|ひる}++
+++{昼|ひる}++  
 : afternoon
 
-++{お腹|お・なか}++
+++{お腹|お・なか}++  
 : stomach
 
-++{空く|す・く}++ <abbr title="う verb">u-verb</abbr>
+++{空く|す・く}++ <abbr title="う verb">u-verb</abbr>  
 : to become empty
 
 While this next grammar doesn’t necessarily have anything directly related to the previous grammar, I thought it would fit nicely together. In a previous lesson, we learn how to combine the volitional form with ""とする"" to indicate an attempt to perform an action. We will now learn several other ways ""とする"" can be used. It may help to keep in mind that ""とする"" is really just a combination of the quotation particle ""と"" and the verb ""する"" meaning “to do”. Let’s say you have a sentence: [verb]とする. This means literally that you are doing like “[verb]” (in quotes). As you can see, when used with the volitional, it becomes: “Doing like making motion to do [verb]”. In other words, you are acting as if to make a motion to do [verb]. As we have already seen, this translates to “attempt to do [verb]”. Let’s see what happens when we use it on plain verbs.

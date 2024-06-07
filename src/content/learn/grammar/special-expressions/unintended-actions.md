@@ -9,23 +9,23 @@ This is the first of many useful tools that will become essential in your day-to
 
 ### Vocabulary
 
-++{康介|こう・すけ}++
+++{康介|こう・すけ}++  
 : Kousuke (first name)
 
-++{宿題|しゅく・だい}++
+++{宿題|しゅく・だい}++  
 : homework
 
-++やる++ <abbr title="う verb">u-verb</abbr>
+++やる++ <abbr title="う verb">u-verb</abbr>  
 : to do
 
-++しまう++ <abbr title="う verb">u-verb</abbr>
+++しまう++ <abbr title="う verb">u-verb</abbr>  
 : to do something by accident; to finish completely
 
-> {康介|こう・すけ} <small>Kousuke</small>
+> {康介|こう・すけ} <small>Kousuke</small>  
 > : 宿題をやった？  
 > : Did you do homework?
 >
-> {アリス|a ri su} <small>Alice</small>
+> {アリス|a ri su} <small>Alice</small>  
 > : しまった！  
 > : Oh no! (I screwed up!)
 
@@ -33,61 +33,61 @@ This is the first of many useful tools that will become essential in your day-to
 
 ### Vocabulary
 
-++しまう++ <abbr title="う verb">u-verb</abbr>
+++しまう++ <abbr title="う verb">u-verb</abbr>  
 : to do something by accident; to finish completely
 
-++その++
+++その++  
 : that （abbr. of それの）
 
-++{ケーキ|ke e ki}++
+++{ケーキ|ke e ki}++  
 : cake
 
-++{全部|ぜん・ぶ}++
+++{全部|ぜん・ぶ}++  
 : everything
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{毎日|まい・にち}++
+++{毎日|まい・にち}++  
 : everyday
 
-++{キロ|ki ro}++
+++{キロ|ki ro}++  
 : kilo
 
-++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>
+++{太る|ふと・る}++ <abbr title="う verb">u-verb</abbr>  
 : to become fatter
 
-++ちゃんと++
+++ちゃんと++  
 : properly
 
-++{痩せる|や・せる}++ <abbr title="る verb">ru-verb</abbr>
+++{痩せる|や・せる}++ <abbr title="る verb">ru-verb</abbr>  
 : to become thin
 
-++{結局|けっ・きょく}++
+++{結局|けっ・きょく}++  
 : eventually
 
-++{嫌|いや}++ <abbr title="な adjective">na-adj</abbr>
+++{嫌|いや}++ <abbr title="な adjective">na-adj</abbr>  
 : disagreeable; unpleasant
 
-++こと++
+++こと++  
 : event, matter
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++ごめん++
+++ごめん++  
 : sorry
 
-++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>
+++{待つ|ま・つ}++ <abbr title="う verb">u-verb</abbr>  
 : to wait
 
-++{金魚|きん・ぎょ}++
+++{金魚|きん・ぎょ}++  
 : goldfish
 
-++もう++
+++もう++  
 : already
 
-++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>  
 : to die
 
 When ""しまう"" is used in this sense, it is normal to attach it to the te-form of another verb to express an action that is done or happened unintentionally. As is common with this type of grammar, the tense is decided by the tense of ""しまう"".
@@ -114,61 +114,61 @@ When ""しまう"" is used in this sense, it is normal to attach it to the te-fo
 
 ### Vocabulary
 
-++しまう++ <abbr title="な adjective">na-adj</abbr>
+++しまう++ <abbr title="な adjective">na-adj</abbr>  
 : to do something by accident; to finish completely
 
-++{金魚|きん・ぎょ}++
+++{金魚|きん・ぎょ}++  
 : goldfish
 
-++もう++
+++もう++  
 : already
 
-++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>
+++{死ぬ|し・ぬ}++ <abbr title="う verb">u-verb</abbr>  
 : to die
 
-++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to go home
 
-++いい++ <abbr title="い adjective">i-adj</abbr>
+++いい++ <abbr title="い adjective">i-adj</abbr>  
 : good
 
-++{皆|みんな}++
+++{皆|みんな}++  
 : everybody
 
-++どっか++
+++どっか++  
 : somewhere （abbr. of どこか）
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++そろそろ++
+++そろそろ++  
 : gradually; soon
 
-++{遅い|おそ・い}++ <abbr title="い adjective">i-adj</abbr>
+++{遅い|おそ・い}++ <abbr title="い adjective">i-adj</abbr>  
 : late
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++また++
+++また++  
 : again
 
-++{遅刻|ち・こく}++
+++{遅刻|ち・こく}++  
 : tardiness
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++ごめん++
+++ごめん++  
 : sorry
 
-++つい++
+++つい++  
 : just (now); unintentionally
 
-++{お前|お・まえ}++
+++{お前|お・まえ}++  
 : you (casual)
 
-++{呼ぶ|よ・ぶ}++ <abbr title="う verb">u-verb</abbr>
+++{呼ぶ|よ・ぶ}++ <abbr title="う verb">u-verb</abbr>  
 : to call
 
 In casual speech, the ""～てしまう"" is often substituted by ""～ちゃう"" while ""～でしまう"" is substituted by ""じゃう"". Both ""～ちゃう"" and ""～じゃう"" conjugate just like regular u-verbs.
@@ -197,13 +197,13 @@ There is yet another very colloquial version of ""～てしまう"" and ""～で
 
 ### Vocabulary
 
-++しまう++ <abbr title="う verb">u-verb</abbr>
+++しまう++ <abbr title="う verb">u-verb</abbr>  
 : to do something by accident; to finish completely
 
-++{宿題|しゅく・だい}++
+++{宿題|しゅく・だい}++  
 : homework
 
-++やる++ <abbr title="う verb">u-verb</abbr>
+++やる++ <abbr title="う verb">u-verb</abbr>  
 : to do
 
 You may have noticed that ""しまう"" has another definition meaning “to finish something completely”. You may want to consider this a totally separate verb from the ""しまう"" we have covered so far. Occasionally but not usually, ""しまう"" will have this meaning rather than the unintended action.

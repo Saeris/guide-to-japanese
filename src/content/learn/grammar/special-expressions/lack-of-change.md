@@ -11,43 +11,43 @@ Up until now, we’ve mostly been talking about things that have happened or cha
 
 ### Vocabulary
 
-++この++
+++この++  
 : this (abbr. of これの)
 
-++{宜しい|よろ・しい}++ <abbr title="い adjective">i-adj</abbr>
+++{宜しい|よろ・しい}++ <abbr title="い adjective">i-adj</abbr>  
 : good (formal)
 
-++{半分|はん・ぶん}++
+++{半分|はん・ぶん}++  
 : half
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
+++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>  
 : to throw away
 
-++{駄目|だめ}++
+++{駄目|だめ}++  
 : no good
 
-++いる++ <abbr title="る verb">ru-verb</abbr>
+++いる++ <abbr title="る verb">ru-verb</abbr>  
 : to exist (animate)
 
-++{今日|きょう}++
+++{今日|きょう}++  
 : today
 
-++{悲しい|かな・しい}++ <abbr title="い adjective">i-adj</abbr>
+++{悲しい|かな・しい}++ <abbr title="い adjective">i-adj</abbr>  
 : sad
 
-++その++
+++その++  
 : that (abbr. of それの)
 
-++{格好|かっ・こう}++
+++{格好|かっ・こう}++  
 : appearance
 
-++{クラブ|ku ra bu}++
+++{クラブ|ku ra bu}++  
 : club; nightclub
 
-++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>  
 : to enter
 
 ""まま"", not to be confused with the childish expression for “mother” (ママ), is a grammatical phrase to express a lack of change in something. Grammatically, it is used just like a regular noun. You’ll most likely hear this grammar at a convenience store when you buy a very small item. Since store clerks use super polite expressions and at lightning fast speeds, learning this one expression will help you out a bit in advance. (Of course, upon showing a lack of comprehension, the person usually repeats the exact same phrase… at the exact same speed.)
@@ -82,55 +82,55 @@ Finally, just in case, here’s an example of direct noun modification.
 
 ### Vocabulary
 
-++{放す|はな・す}++ <abbr title="う verb">u-verb</abbr>
+++{放す|はな・す}++ <abbr title="う verb">u-verb</abbr>  
 : to release; to set loose
 
-++くれる++ <abbr title="る verb">ru-verb</abbr>
+++くれる++ <abbr title="る verb">ru-verb</abbr>  
 : to give
 
-++ほったらかす++ <abbr title="う verb">u-verb</abbr>
+++ほったらかす++ <abbr title="う verb">u-verb</abbr>  
 : to neglect
 
-++{テレビ|te re bi}++
+++{テレビ|te re bi}++  
 : TV, television
 
-++{開ける|あ・ける}++ <abbr title="る verb">ru-verb</abbr>
+++{開ける|あ・ける}++ <abbr title="る verb">ru-verb</abbr>  
 : to open
 
-++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>
+++{書く|か・く}++ <abbr title="う verb">u-verb</abbr>  
 : to write
 
-++つける++ <abbr title="る verb">ru-verb</abbr>
+++つける++ <abbr title="る verb">ru-verb</abbr>  
 : to attach; to turn on
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{眠れる|ねむ・れる}++ <abbr title="る verb">ru-verb</abbr>
+++{眠れる|ねむ・れる}++ <abbr title="る verb">ru-verb</abbr>  
 : to fall asleep
 
-++{人|ひと}++
+++{人|ひと}++  
 : person
 
-++{結構|けっ・こう}++
+++{結構|けっ・こう}++  
 : fairly, reasonably
 
-++いる++ <abbr title="る verb">ru-verb</abbr>
+++いる++ <abbr title="る verb">ru-verb</abbr>  
 : to exist (animate)
 
-++{窓|まど}++
+++{窓|まど}++  
 : window
 
-++{蚊|か}++
+++{蚊|か}++  
 : mosquito
 
-++いっぱい++
+++いっぱい++  
 : full
 
-++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>
+++{入る|はい・る}++ <abbr title="う verb">u-verb</abbr>  
 : to enter
 
-++しまう++ <abbr title="う verb">u-verb</abbr>
+++しまう++ <abbr title="う verb">u-verb</abbr>  
 : to do something by accident; to finish completely
 
 The verb ""放す"" meaning “to set loose”, can be used in various ways in regards to leaving something the way it is. For instance, a variation ""放っとく"" is used when you want to say “Leave me alone”. For instance, you might use the command form of a request (くれる) and say, ""ほっといてくれ！""(Leave me alone!). Yet another variant ""ほったらかす"" means “to neglect”.

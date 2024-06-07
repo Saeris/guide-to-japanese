@@ -11,76 +11,76 @@ In general, Japanese people don’t assert themselves of something unless they a
 
 ### Vocabulary
 
-++{多分|た・ぶん}++
+++{多分|た・ぶん}++  
 : perhaps; probably
 
-++{映画|えい・が}++
+++{映画|えい・が}++  
 : movie
 
-++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>
+++{観る|み・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to watch
 
-++{彼|かれ}++
+++{彼|かれ}++  
 : he; boyfriend
 
-++{学生|がく・せい}++
+++{学生|がく・せい}++  
 : student
 
-++それ++
+++それ++  
 : that
 
-++{面白い|おも・し・ろい}++ <abbr title="い adjective">i-adj</abbr>
+++{面白い|おも・し・ろい}++ <abbr title="い adjective">i-adj</abbr>  
 : interesting
 
-++{先生|せん・せい}++
+++{先生|せん・せい}++  
 : teacher
 
-++{退屈|たい・くつ}++
+++{退屈|たい・くつ}++  
 : boredom
 
-++{食堂|しょく・どう}++
+++{食堂|しょく・どう}++  
 : cafeteria
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++{雨|あめ}++
+++{雨|あめ}++  
 : rain
 
-++{試合|し・あい}++
+++{試合|し・あい}++  
 : match, game
 
-++{中止|ちゅう・し}++
+++{中止|ちゅう・し}++  
 : cancellation
 
-++なる++ <abbr title="う verb">u-verb</abbr>
+++なる++ <abbr title="う verb">u-verb</abbr>  
 : to become
 
-++この++
+++この++  
 : this （abbr. of これの）
 
-++{映画|えい・が}++
+++{映画|えい・が}++  
 : movie
 
-++{～回|～かい}++
+++{～回|～かい}++  
 : counter for number of times
 
-++こと++
+++こと++  
 : event, matter
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++あそこ++
+++あそこ++  
 : over there
 
-++{代々木公園|よ・よ・ぎ・こう・えん}++
+++{代々木公園|よ・よ・ぎ・こう・えん}++  
 : Yoyogi park
 
-++もう++
+++もう++  
 : already
 
-++{逃げる|に・げる}++ <abbr title="る verb">ru-verb</abbr>
+++{逃げる|に・げる}++ <abbr title="る verb">ru-verb</abbr>  
 : to escape; to run away
 
 ""かもしれない"" is used to mean “maybe” or “possibly” and is less certain than the word ""多分"". It attaches to the end of a complete clause. For noun and na-adjective clauses, the declarative ""だ"" must be removed. It can also be written in kanji as ""かも知れない"" and you can treat it the same as a negative ru-verb (there is no positive equivalent) so the masu-form would become ""かもしれません"". In casual speech, it can be abbreviated to just ""かも"". There is also a very masculine version ""かもしれん"", which is simply a different type of negative verb.
@@ -129,31 +129,31 @@ In general, Japanese people don’t assert themselves of something unless they a
 
 ### Vocabulary
 
-++{多分|た・ぶん}++
+++{多分|た・ぶん}++  
 : perhaps; probably
 
-++{明日|あした}++
+++{明日|あした}++  
 : tomorrow
 
-++{雨|あめ}++
+++{雨|あめ}++  
 : rain
 
-++{学生|がく・せい}++
+++{学生|がく・せい}++  
 : student
 
-++これ++
+++これ++  
 : this
 
-++どこ++
+++どこ++  
 : where
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++{休む|やす・む}++ <abbr title="う verb">u-verb</abbr>
+++{休む|やす・む}++ <abbr title="う verb">u-verb</abbr>  
 : to rest
 
-++いただく++ <abbr title="う verb">u-verb</abbr>
+++いただく++ <abbr title="う verb">u-verb</abbr>  
 : to receive; to eat; to drink (humble)
 
 ""でしょう"" is used to express a level of some certainty and is close in meaning to ""多分"". Just like ""～です／～ます"", it must come at the end of a complete sentence. It does not have any other conjugations. You can also replace ""～ですか"" with ""～でしょうか"" to make the question sound slightly more polite and less assuming by adding a slight level of uncertainty.
@@ -178,87 +178,86 @@ If you want to sound really, really polite, you can even add ""～でしょう�
 
 ### Vocabulary
 
-++{遅刻|ち・こく}++
+++{遅刻|ち・こく}++  
 : tardiness
 
-++する++ <span>exception</span>
+++する++ <span>exception</span>  
 : to do
 
-++{時間|じ・かん}++
+++{時間|じ・かん}++  
 : time
 
-++ある++ <abbr title="う verb">u-verb</abbr>
+++ある++ <abbr title="う verb">u-verb</abbr>  
 : to exist (inanimate)
 
-++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>
+++{言う|い・う}++ <abbr title="う verb">u-verb</abbr>  
 : to say
 
-++これ++
+++これ++  
 : this
 
-++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>
+++{食べる|た・べる}++ <abbr title="る verb">ru-verb</abbr>  
 : to eat
 
-++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
+++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>  
 : to go
 
-++{掃除|そう・じ}++
+++{掃除|そう・じ}++  
 : cleaning
 
-++{手伝う|て・つだ・う}++ <abbr title="う verb">u-verb</abbr>
+++{手伝う|て・つだ・う}++ <abbr title="う verb">u-verb</abbr>  
 : to help, to assist
 
-++くれる++ <abbr title="る verb">ru-verb</abbr>
+++くれる++ <abbr title="る verb">ru-verb</abbr>  
 : to give
 
-++そう++
+++そう++  
 : (things are) that way
 
-++どこ++
+++どこ++  
 : where
 
-++もう++
+++もう++  
 : already
 
-++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>
+++{寝る|ね・る}++ <abbr title="る verb">ru-verb</abbr>  
 : to sleep
 
-++{家|1) うち; 2) いえ}++
-: one’s own home
-: house
+++{家|1) うち; 2) いえ}++  
+: one’s own home;<br/>house
 
-++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
+++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>  
 : to go home
 
 The casual equivalent of ""でしょう"" is surprisingly enough ""でしょう"". However, when you are speaking in a polite manner, the ""でしょう"" is enunciated flatly while in casual speech, it has a rising intonation and can be shortened to ""でしょ"". In addition, since people tend to be more assertive in casual situations, the casual version has a much stronger flavor often sounding more like, “See, I told you so!”
 
 ### Example 1
 
-> Ａ
+> Ａ  
 > : あっ！遅刻しちゃう！  
 > : Ah! We’re going to be late!
 >
-> Ｂ
+> Ｂ  
 > : だから、時間がないって言った==でしょう==！  
 > : That’s why I told you there was no time!
 
 ### Example 2
 
-> Ａ
+> Ａ  
 > : これから食べに行くん==でしょ==。  
 > : You’re going to eat from now aren’t you?
 >
-> Ｂ
+> Ｂ  
 > : だったら？  
 > : So what if I am?
 
 ### Example 3
 
-> Ａ
+> Ａ  
 > : 掃除、手伝ってくれる==でしょう==。  
 > : You’re going to help me clean, right?
 
-> Ｂ
+> Ｂ  
 > : え？そうなの？  
 > : Huh? Is that so?
 
@@ -266,20 +265,20 @@ The casual equivalent of ""でしょう"" is surprisingly enough ""でしょう"
 
 ### Example 4
 
-> Ａ
+> Ａ  
 > : アリスはどこだ？  
 > : Where is Alice?
 >
-> Ｂ
+> Ｂ  
 > : もう寝ている==だろう==。  
 > : Probably sleeping already.
 
 ### Example 5
 
-> Ａ
+> Ａ  
 > : もう家に帰るん==だろう==。  
 > : You’re going home already, right?
 >
-> Ｂ
+> Ｂ  
 > : そうよ。  
 > : That’s right.
