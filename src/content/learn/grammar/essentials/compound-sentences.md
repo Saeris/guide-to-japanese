@@ -266,29 +266,35 @@ Either the reason or the result can be omitted if it is clear from the context. 
 
 ### Example 1
 
-> <cite>田中さん：</cite> どうしてパーティーに行きませんでしたか。  
-> <cite>Tanaka-san:</cite> Why didn’t you go to the party?
+> {田中|た・なか}さん <small>Tanaka-san</small>
+> : どうしてパーティーに行きませんでしたか。  
+> : Why didn’t you go to the party?
 >
-> <cite>山田さん：</cite> 時間がなかった==から==です。  
-> <cite>Yamada-san:</cite> It’s because I didn’t have time.
+> {山田|や・まだ}さん <small>Yamada-san</small>
+> : 時間がなかった==から==です。  
+> : It’s because I didn’t have time.
 
 ### Example 2
 
-> <cite>一郎：</cite> パーティーに行かなかったの？  
-> <cite>Ichiro:</cite> You didn’t go to the party?
+> {一郎|いち・ろう} <small>Ichiro</small>
+> : パーティーに行かなかったの？  
+> : You didn’t go to the party?
 >
-> <cite>直子：</cite> うん、時間がなかった==から==。  
-> <cite>Naoko:</cite> Yeah, because I didn’t have time.
+> {直子|なお・こ} <small>Naoko</small>
+> : うん、時間がなかった==から==。  
+> : Yeah, because I didn’t have time.
 
 ### Example 3
 
 When you omit the reason, you must include the declarative ""だ"" or ""です"".
 
-> <cite>直子：</cite> 時間がなかった。  
-> <cite>Naoko:</cite> I didn’t have time.
+> {直子|なお・こ} <small>Naoko</small>
+> : 時間がなかった。  
+> : I didn’t have time.
 >
-> <cite>一郎：</cite> ==だから==パーティーに行かなかったの？  
-> <cite>Ichiro:</cite> Is that why you didn’t go to the party?
+> {一郎|いち・ろう} <small>Ichiro</small>
+> : ==だから==パーティーに行かなかったの？  
+> : Is that why you didn’t go to the party?
 
 Notice that we could have also used the explanatory ""の"" to express the same thing. In other words, 山田さん could have also said, ""時間がなかったのです"" or ""時間がなかったんです"" while 直子 could have said ""時間がなかったの"" (we’ll assume she wants to use the more feminine form).
 
@@ -497,19 +503,23 @@ When you want to list reasons for multiple states or actions you can do so by ad
 
 ### Example 1
 
-> <cite>Ａ：</cite> どうして友達じゃないんですか？  
-> <cite>A:</cite> Why isn’t (he/she) friend [seeking explanation]?
+> Ａ
+> ? : どうして友達じゃないんですか？  
+> : Why isn’t (he/she) friend [seeking explanation]?
 >
-> <cite>Ｂ：</cite> 先生==だし==、年上==だし==・・・。  
-> <cite>B:</cite> Well, he’s/she’s the teacher, and older…
+> Ｂ
+> : 先生==だし==、年上==だし==・・・。  
+> : Well, he’s/she’s the teacher, and older…
 
 ### Example 2
 
-> <cite>Ａ：</cite> どうして彼が好きなの？  
-> <cite>A:</cite> Why (do you) like him?
+> Ａ
+> : どうして彼が好きなの？  
+> : Why (do you) like him?
 >
-> <cite>Ｂ：</cite> 優しい==し==、かっこいい==し==、面白いから。  
-> <cite>B:</cite> Because he’s kind, attractive, and interesting (among other things).
+> Ｂ
+> : 優しい==し==、かっこいい==し==、面白いから。  
+> : Because he’s kind, attractive, and interesting (among other things).
 
 Notice that ""優しくて、かっこよくて、面白いから。"" could also have worked but much like the difference between the ""と"" and ""や"" particle, ""し"" implies that there may be other reasons.
 

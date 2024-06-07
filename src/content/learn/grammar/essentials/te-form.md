@@ -63,55 +63,67 @@ This ""いる"" is the same ru-verb describing existence, first described in the
 
 ### Example 1
 
-> <cite>Ａ：</cite> {友達|とも・だち}は何をし==ている==の？  
-> <cite>A:</cite> What is friend doing?
+> Ａ
+> : {友達|とも・だち}は何をし==ている==の？  
+> : What is friend doing?
 >
-> <cite>Ｂ：</cite> 昼ご飯を食べ==ている==。  
-> <cite>B:</cite> (Friend) is eating lunch.
+> Ｂ
+> : 昼ご飯を食べ==ている==。  
+> : (Friend) is eating lunch.
 
 Note that once you’ve changed it into a regular ru-verb, you can do all the normal conjugations. The examples below show the masu-form and plain negative conjugations.
 
 ### Example 2
 
-> <cite>Ａ：</cite> 何を読ん==でいる==？  
-> <cite>A:</cite> What are you reading?
+> Ａ
+> : 何を読ん==でいる==？  
+> : What are you reading?
 >
-> <cite>Ｂ：</cite> 教科書を読ん==でいます==。  
-> <cite>B:</cite> I am reading textbook.
+> Ｂ
+> : 教科書を読ん==でいます==。  
+> : I am reading textbook.
 
 ### Example 3
 
-> <cite>Ａ：</cite> 話を聞い==ていますか==。  
-> <cite>A:</cite> Are you listening to me? (lit: Are you listening to story?)
+> Ａ
+> : 話を聞い==ていますか==。  
+> : Are you listening to me? (lit: Are you listening to story?)
 >
-> <cite>Ｂ：</cite> ううん、聞い==ていない==。  
-> <cite>B:</cite> No, I’m not listening.
+> Ｂ
+> : ううん、聞い==ていない==。  
+> : No, I’m not listening.
 
 Since people are usually too lazy to roll their tongues to properly pronounce the ""い"", it is often omitted in conversational Japanese. If you are writing an essay or paper, you should always include the ""い"". Here are the abbreviated versions of the previous examples.
 
 ### Example 4
 
-> <cite>Ａ：</cite> {友達|とも・だち}は何をし==てる==の？  
-> <cite>A:</cite> What is friend doing?
+> Ａ
+> : {友達|とも・だち}は何をし==てる==の？  
+> : What is friend doing?
 >
-> <cite>Ｂ：</cite> 昼ご飯を食べ==てる==。  
-> <cite>B:</cite> (Friend) is eating lunch.
+> Ｂ
+> : 昼ご飯を食べ==てる==。  
+> : (Friend) is eating lunch.
 
 ### Example 5
 
-> <cite>Ａ：</cite> 何を読ん==でる==？  
-> <cite>A:</cite> What are you reading?
+> Ａ
+> : 何を読ん==でる==？  
+> : What are you reading?
 >
-> <cite>Ｂ：</cite> 教科書を読ん==でいます==。  
-> <cite>B:</cite> I am reading textbook.
+> Ｂ
+> : 教科書を読ん==でいます==。  
+> : I am reading textbook.
 
 ### Example 6
 
-> <cite>Ａ：</cite> 話を聞い==ていますか==。  
-> <cite>A:</cite> Are you listening to me? (lit: Are you listening to story?)
+> Ａ
+> : 話を聞い==ていますか==。  
+> : Are you listening to me? (lit: Are you listening to story?)
 >
-> <cite>Ｂ：</cite> ううん、聞い==てない==。  
-> <cite>B:</cite> No, I’m not listening.
+> Ｂ
+> : ううん、聞い==てない==。  
+> : No, I’m not listening.
 
 Notice how I left the ""い"" alone for the polite forms. Though people certainly omit the ""い"" even in polite form, you might want to get used to the proper way of saying things first before getting carried away with casual abbreviations. You will be amazed at the extensive types of abbreviations that exist in casual speech. (You may also be amazed at how long everything gets in super polite speech.) Basically, you will get the abbreviations if you just act lazy and slur everything together. Particles also get punted off left and right.
 
@@ -271,19 +283,23 @@ Since this grammar describes the state of a completed action, it is common to se
 
 ### Example 1
 
-> <cite>Ａ：</cite> 準備はどうですか。  
-> <cite>A:</cite> How are the preparations?
+> Ａ
+> : 準備はどうですか。  
+> : How are the preparations?
 >
-> <cite>Ｂ：</cite> 準備は、もう==してあるよ==。  
-> <cite>B:</cite> The preparations are already done.
+> Ｂ
+> : 準備は、もう==してあるよ==。  
+> : The preparations are already done.
 
 ### Example 2
 
-> <cite>Ａ：</cite> {旅行|りょ・こう}の計画は終わった？  
-> <cite>A:</cite> Are the plans for the trip complete?
+> Ａ
+> : {旅行|りょ・こう}の計画は終わった？  
+> : Are the plans for the trip complete?
 >
-> <cite>Ｂ：</cite> うん、切符を買ったし、ホテルの予約も==してある==。  
-> <cite>B:</cite> Uh huh, not only did I buy the ticket, I also took care of the hotel reservations.
+> Ｂ
+> : うん、切符を買ったし、ホテルの予約も==してある==。  
+> : Uh huh, not only did I buy the ticket, I also took care of the hotel reservations.
 
 ## Using the ""～ておく"" form as preparation for the future
 

@@ -15,8 +15,6 @@ This is the last lesson that will be specifically focused on particles but that 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{ナイフ|na i fu}++
 : knife
 
@@ -53,12 +51,11 @@ This is the last lesson that will be specifically focused on particles but that 
 ++{会う|あ・う}++ <abbr title="う verb">u-verb</abbr>
 : to meet
 
-</div>
-
 The ""と"" particle is similar to the ""も"" particle in that it contains a meaning of inclusion. It can combine two or more nouns together to mean “and”.
 
 1. {ナイフ|na i fu}==と=={フォーク|fo o ku}で{ステーキ|su te e ki}を{食べた|た・べた}。  
    Ate steak by means of knife and fork.
+
 1. {本|ほん}==と=={雑誌|ざっ・し}==と=={葉書|はがき}を{買った|か・った}。  
    Bought book, magazine, and post card.
 
@@ -66,14 +63,13 @@ Another similar use of the ""と"" particle is to show an action that was done t
 
 1. {友達|とも・だち}==と=={話した|はな・した}。  
    Talked with friend.
+
 1. {先生|せん・せい}==と==会った。  
    Met with teacher.
 
 ## The Vague Listing ""や"" and ""とか"" particles
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{飲み物|の・み・もの}++
 : beverage
@@ -96,12 +92,11 @@ Another similar use of the ""と"" particle is to show an action that was done t
 ++{買う|か・う}++ <abbr title="う verb">u-verb</abbr>
 : to buy
 
-</div>
-
 The ""や"" particle, just like the ""と"" particle, is used to list one or more nouns except that it is much more vague than the ""と"" particle. It implies that there may be other things that are unlisted and that not all items in the list may apply. In English, you might think of this as an “and/or, etc.” type of listing.
 
 1. {飲み物|の・み・もの}==や=={カップ|ka p pu}==や=={ナプキン|na pu ki n}は、いらない？  
    You don’t need (things like) drink, cup, or napkin, etc.?
+
 1. {靴|くつ}==や=={シャツ|shya tsu}を{買う|か・う}。  
    Buy (things like) shoes and shirt, etc…
 
@@ -109,14 +104,13 @@ The ""や"" particle, just like the ""と"" particle, is used to list one or mor
 
 1. {飲み物|の・み・もの}==とか=={カップ|ka p pu}==とか=={ナプキン|na pu ki n}は、いらない？  
    You don’t need (things like) drink, cup, or napkin, etc.?
+
 1. {靴|くつ}==とか=={シャツ|shya tsu}を{買う|か・う}。  
    Buy (things like) shoes and shirt, etc…
 
 ## The ""の"" particle
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{本|ほん}++
 : book
@@ -208,12 +202,11 @@ The ""や"" particle, just like the ""と"" particle, is used to list one or mor
 ++{学校|がっ・こう}++
 : school
 
-</div>
-
 The ""の"" particle has many uses and it is a very powerful particle. It is introduced here because like the ""と"" and ""や"" particle, it can be used to connect one or more nouns. Let’s look at a few examples.
 
 1. ボブ==の==本。  
    Book of Bob.
+
 1. 本==の==ボブ。  
    Bob of book.
 
@@ -228,6 +221,7 @@ The noun that is being modified can be omitted if the context clearly indicates 
 
 1. そのシャツは誰の==シャツ==？  
    Whose shirt is that shirt?
+
 1. ボブの==シャツ==だ。  
    It is shirt of Bob.
 
@@ -235,6 +229,7 @@ to become:
 
 1. そのシャツは誰==の==？  
    Whose shirt is that?
+
 1. ボブ==の==だ。  
    It is of Bob.
 
@@ -246,6 +241,7 @@ The ""の"" particle in this usage essentially replaces the noun and takes over 
 
 1. ==白いの==は、かわいい。  
    Thing that is white is cute.
+
 1. ==授業に行くの==を忘れた。  
    Forgot the event of going to class.
 
@@ -253,6 +249,7 @@ Now we can use the direct object, topic, and identifier particle with verbs and 
 
 1. 白い==物==は、かわいい。  
    Thing that is white is cute.
+
 1. 授業に行く==こと==を忘れた。  
    Forgot the thing of going to class.
 
@@ -260,6 +257,7 @@ However, the ""の"" particle is very useful in that you don’t have to specify
 
 1. ==毎日勉強する==のは大変。  
    The thing of studying every day is tough.
+
 1. ==毎日同じ物を食べる==のは、面白くない。  
    It’s not interesting to eat same thing every day.
 
@@ -284,8 +282,6 @@ https://www.youtube.com/watch?v=D7wRJug13d0
 https://www.youtube.com/watch?v=obOAAmHHHVI
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{今|いま}++
 : now
@@ -335,8 +331,6 @@ https://www.youtube.com/watch?v=obOAAmHHHVI
 ++どうして++
 : why
 
-</div>
-
 The ""の"" particle attached at the end of the last clause of a sentence can also convey an explanatory tone to your sentence. For example, if someone asked you if you have time, you might respond, “The thing is I’m kind of busy right now.” The abstract generic noun of “the thing is…” can also be expressed with the ""の"" particle. This type of sentence has an embedded meaning that explains the reason(s) for something else.
 
 The sentence would be expressed like so:
@@ -358,6 +352,7 @@ To express state-of-being, when the ""の"" particle is used to convey this expl
 
 1. ジムのだ。  
    It is of Jim. (It is Jim’s.)
+
 1. ジム==な==のだ。  
    It is Jim (with explanatory tone).
 
@@ -393,57 +388,62 @@ Let’s see some examples of the types of situations where this grammar is used.
 
 ### Example 1
 
-> <cite>{アリス|a ri su}：</cite> どこに行く==の==？  
-> <cite>Alice:</cite> Where is it that (you) are going?
+> {アリス|a ri su} <small>Alice</small>
+> : どこに行く==の==？  
+> : (lit) Where is it that (you) are going?
+> : Where are you going? (Seeking explanation)
 >
-> <cite>{ボブ|bo bu}：</cite> 授業に行く==んだ==。  
-> <cite>Bob:</cite> It is that (I) go to class.
->
-> <cite>Alice:</cite> Where are you going? (Seeking explanation)  
-> <cite>Bob:</cite> I’m going to class. (Explanatory)
+> {ボブ|bo bu} <small>Bob</small>
+> : 授業に行く==んだ==。  
+> : (lit) It is that (I) go to class.
+> : I’m going to class. (Explanatory)
 
 ### Example 2
 
-> <cite>{アリス|a ri su}：</cite> {今|いま}、授業がある==んじゃない==？  
-> <cite>Alice:</cite> Isn’t it that there is class now?
+> {アリス|a ri su} <small>Alice</small>
+> : {今|いま}、授業がある==んじゃない==？  
+> : (lit) Isn’t it that there is class now?
+> : Don’t you have class now? (Expecting that there is class)
 >
-> <cite>{ボブ|bo bu}：</cite> {今|いま}は、ない==んだ==。  
-> <cite>Bob:</cite> Now it is that there is no class.
->
-> <cite>Alice:</cite> Don’t you have class now? (Expecting that there is class)  
-> <cite>Bob:</cite> No, there is no class now. (Explanatory)
+> {ボブ|bo bu} <small>Bob</small>
+> : {今|いま}は、ない==んだ==。  
+> : (lit) Now it is that there is no class.
+> : No, there is no class now. (Explanatory)
 
 ### Example 3
 
-> <cite>{アリス|a ri su}：</cite> {今|いま}、授業がない==んじゃない==？  
-> <cite>Alice:</cite> Isn’t it that there isn’t class now?
+> {アリス|a ri su} <small>Alice</small>
+> : {今|いま}、授業がない==んじゃない==？  
+> : (lit) Isn’t it that there isn’t class now?
+> : Don’t you not have class now? (Expecting that there is no class)
 >
-> <cite>{ボブ|bo bu}：</cite> ううん、ある。  
-> <cite>Bob:</cite> No, there is.
->
-> <cite>Alice:</cite> Don’t you not have class now? (Expecting that there is no class)  
-> <cite>Bob:</cite> No, I do have class.
+> {ボブ|bo bu} <small>Bob</small>
+> : ううん、ある。  
+> : (lit) No, there is.
+> : No, I do have class.
 
 ### Example 4
 
-> <cite>{アリス|a ri su}：</cite> その人が買う==んじゃなかったの==？  
-> <cite>Alice:</cite> Wasn’t it that that person was the one to buy?
+> {アリス|a ri su} <small>Alice</small>
+> : その人が買う==んじゃなかったの==？  
+> : (lit) Wasn’t it that that person was the one to buy?
+> : Wasn’t that person going to buy? (Expecting that the person would buy)
 >
-> <cite>{ボブ|bo bu}：</cite> ううん、先生が買う==んだ==。  
-> <cite>Bob:</cite> No, it is that teacher is the one to buy.
->
-> <cite>Alice:</cite> Wasn’t that person going to buy? (Expecting that the person would buy)  
-> <cite>Bob:</cite> No, the teacher is going to. (Explanatory)
+> {ボブ|bo bu} <small>Bob</small>
+> : ううん、先生が買う==んだ==。  
+> : (lit) No, it is that teacher is the one to buy.
+> : No, the teacher is going to. (Explanatory)
 
 ### Example 5
 
-> <cite>{アリス|a ri su}：</cite> 朝ご飯を食べる==んじゃなかった==。  
-> <cite>Alice:</cite> It is that breakfast wasn’t to eat.
+> {アリス|a ri su} <small>Alice</small>
+> : 朝ご飯を食べる==んじゃなかった==。  
+> : (lit) It is that breakfast wasn’t to eat.
+> : Should not have eaten breakfast, you know. (Explaining that breakfast wasn’t to be eaten)
 >
-> <cite>{ボブ|bo bu}：</cite> どうして？  
-> <cite>Bob:</cite> Why?
->
-> <cite>Alice:</cite> Should not have eaten breakfast, you know. (Explaining that breakfast wasn’t to be eaten)  
-> <cite>Bob:</cite> How come?
+> {ボブ|bo bu} <small>Bob</small>
+> : どうして？  
+> : (lit) Why?
+> : How come?
 
 Don’t worry if you are thoroughly confused by now, we will see many more examples along the way. Once you get the sense of how everything works, it’s better to forget the English because the double and triple negatives can get quite confusing such as Example 3. However, in Japanese it is a perfectly normal expression, as you will begin to realize once you get accustomed to Japanese.

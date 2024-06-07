@@ -239,25 +239,31 @@ Finally, let’s get to the examples. Hopefully, you can see that ""じゃん"" 
 1. 誰もいないからここで着替えてもいい==じゃん==。  
    Since there’s nobody, it’s probably fine to change here.
 
-> <cite>Ａ：</cite> たかし君は、ここにいる？  
-> <cite>A:</cite> Is Takashi here?
+> Ａ
+> : たかし君は、ここにいる？  
+> : Is Takashi here?
 >
-> <cite>Ｂ：</cite> 知らない。  
-> <cite>B:</cite> Dunno.
+> Ｂ
+> : 知らない。  
+> : Dunno.
 >
-> <cite>Ａ：</cite> あっ！やっぱ、いるじゃん！  
-> <cite>A:</cite> Ah! See, he is here!
+> Ａ
+> : あっ！やっぱ、いるじゃん！  
+> : Ah! See, he is here!
 
 There’s also another variation, which attaches the question marker as well. The meaning is mostly the same but it adds more to the questioning, confirming tone.
 
-> <cite>Ａ：</cite> 駅の近くにカラオケがあるじゃんか。  
-> <cite>A:</cite> There’s a karaoke place near the station, right?
+> Ａ
+> : 駅の近くにカラオケがあるじゃんか。  
+> : There’s a karaoke place near the station, right?
 >
-> <cite>Ｂ：</cite> うん。  
-> <cite>B:</cite> Yeah.
+> Ｂ
+> : うん。  
+> : Yeah.
 >
-> <cite>Ａ：</cite> あそこのすぐ隣だ。  
-> <cite>A:</cite> It’s right next to there.
+> Ａ
+> : あそこのすぐ隣だ。  
+> : It’s right next to there.
 
 ## Using ""つ"" for ""という""
 

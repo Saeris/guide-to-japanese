@@ -96,26 +96,33 @@ After the ""よ"" and ""ね"", ""さ"" and ""な"" are the next most commonly us
 
 ""さ"", which is basically a very casual form of ""よ"", is similar to the English “like” in that some people throw it in at the end of almost every single phrase. Of course, that doesn’t mean it’s necessarily a very sophisticated manner of speech but just like using “like” all the time, I cannot deny that it is an easy habit to fall into. In that sense, due to its over-use, it has almost lost any specific meaning. You may overhear a conversation like the following:
 
-> <cite>Ａ：</cite> あの==さ==・・・  
-> <cite>A:</cite> Hey…
+> Ａ
+> : あの==さ==・・・  
+> : Hey…
 >
-> <cite>Ｂ：</cite> うん。  
-> <cite>B:</cite> Yeah.
+> Ｂ
+> : うん。  
+> : Yeah.
 >
-> <cite>Ａ：</cite> この間==さ==・・・  
-> <cite>A:</cite> This one time…
+> Ａ
+> : この間==さ==・・・  
+> : This one time…
 >
-> <cite>Ｂ：</cite> うん。  
-> <cite>B:</cite> Yeah.
+> Ｂ
+> : うん。  
+> : Yeah.
 >
-> <cite>Ａ：</cite> ディズニーランドに行ったんだけど==さ==、なんか==さ==、すごい込んでて・・・  
-> <cite>A:</cite> I went to Disney Land and it was really crowded…
+> Ａ
+> : ディズニーランドに行ったんだけど==さ==、なんか==さ==、すごい込んでて・・・  
+> : I went to Disney Land and it was really crowded…
 >
-> <cite>Ｂ：</cite> うん  
-> <cite>B:</cite> Uh huh.
+> Ｂ
+> : うん  
+> : Uh huh.
 >
-> <cite>Ａ：</cite> 何もできなくて==さ==・・・  
-> <cite>A:</cite> Couldn’t do anything, you know…
+> Ａ
+> : 何もできなくて==さ==・・・  
+> : Couldn’t do anything, you know…
 
 And it goes on like this, sometimes the other person might break in to say something related to the topic.
 
@@ -123,30 +130,35 @@ You can use ""な"" in place of ""ね"" when it sounds too soft and reserved for
 
 ### Example 1
 
-> <cite>洋介：</cite> 今、図書館に行くんだよ==な==。  
-> <cite>Yousuke:</cite> You are going to the library now huh? (seeking explanation)
+> {洋介|よう・すけ} <small>Yousuke</small>
+> : 今、図書館に行くんだよ==な==。  
+> : You are going to the library now huh? (seeking explanation)
 >
-> <cite>智子：</cite> うん、なんで？  
-> <cite>Tomoko:</cite> Yeah, why?
+> {智子|とも・こ} <small>Tomoko</small>
+> : うん、なんで？  
+> : Yeah, why?
 
 ### Example 2
 
-> <cite>ボブ：</cite> 日本語は、たくさん勉強したけど==な==。まだ全然わからない。  
-> <cite>Bob:</cite> I studied Japanese a lot, right? But, I still don’t get it at all.
+> {ボブ|bo bu} <small>Bob</small>
+> : 日本語は、たくさん勉強したけど==な==。まだ全然わからない。  
+> : I studied Japanese a lot, right? But, I still don’t get it at all.
 >
-> <cite>アリス：</cite> 大丈夫よ。きっとわかるようになるから==さ==。  
-> <cite>Alice:</cite> No problem. You’ll become able to understand for sure, you know?
+> {アリス|a ri su} <small>Alice</small>
+> : 大丈夫よ。きっとわかるようになるから==さ==。  
+> : No problem. You’ll become able to understand for sure, you know?
 >
-> <cite>ボブ：</cite> ならいいけど==な==。  
-> <cite>Bob:</cite> If so, it would be good.
+> {ボブ|bo bu} <small>Bob</small>
+> : ならいいけど==な==。  
+> : If so, it would be good.
 
 The ""な"" sentence-ending particle is often used with the question marker ""か"" to indicate that the speaker is considering something.
 
 1. 今日は雨が降る==かな==？  
    I wonder if it’ll rain today.
 
-1.いい大学に行ける==かな==？  
- I wonder if I can go to a good college.
+1. いい大学に行ける==かな==？  
+   I wonder if I can go to a good college.
 
 ## ""かい"" and ""だい"" sentence-ending particles
 
@@ -436,142 +448,114 @@ We learned quite a lot of things in this section. Let’s try to put it all toge
 
 ### Dialog Example 1
 
-> <cite>アリス：</cite> 加賀先生、ちょっと質問を聞いてもいいですか？
+> {アリス|a ri su} <small>Alice</small>
+> : 加賀先生、ちょっと質問を聞いてもいいですか？
+> : (lit) Kaga-sensei, is it ok to ask you a question?
+> : Kaga-sensei, is it ok to ask you a question?
 >
-> <cite>加賀先生：</cite> はい、いいですよ。
+> {加賀|か・が}{先生|せん・せい} <small>Kaga-sensei</small>
+> : はい、いいですよ。
+> : (lit) Yes, it’s ok.
+> : Sure.
 >
-> <cite>アリス：</cite> ""Hello""を日本語で==何と言えば==いいですか。
+> {アリス|a ri su} <small>Alice</small>
+> : ""Hello""を日本語で==何と言えば==いいですか。
+> : (lit) If you say what for “hello” in Japanese, is it ok?
+> : How do you say “Hello” in Japanese?
 >
-> <cite>加賀先生：</cite> そうね。大体、""こんにちは""==と言うと思います==よ。ただし、書く時は""こんにちわ""==じゃなくて==、""こんにちは""と書かなくてはなりません。
+> {加賀|か・が}{先生|せん・せい} <small>Kaga-sensei</small>
+> : そうね。大体、""こんにちは""==と言うと思います==よ。ただし、書く時は""こんにちわ""==じゃなくて==、""こんにちは""と書かなくてはなりません。
+> : (lit) Well, mostly, I think people say “konnichiwa”. Only, when you write it, you must write “konnichiha” and not “konnichiwa”.
+> : Well, most of the time, I think people say “konnichiwa”. Only, when you write it, you must write “konnichiha” and not “konnichiwa”.
 >
-> <cite>アリス：</cite> そうですか。他に何かいい表現はありますか。
+> {アリス|a ri su} <small>Alice</small>
+> : そうですか。他に何かいい表現はありますか。
+> : (lit) Is that so? Are there any other good expressions?
+> : Is that so? Are there any other good expressions?
 >
-> <cite>加賀先生：</cite> これも==覚えといて==ね。朝は、""おはよう""と言うの。でも、上の人には""おはようございます""と言ってください。
+> {加賀|か・が}{先生|せん・せい} <small>Kaga-sensei</small>
+> : これも==覚えといて==ね。朝は、""おはよう""と言うの。でも、上の人には""おはようございます""と言ってください。
+> : (lit) Please memorize this too (in preparation for the future). In the morning, everybody says, “ohayou”. But, please say, “ohayou-gozaimasu” to a higher person.
+> : You should know this too. In the morning, everybody says, “ohayou”. But, please say, “ohayou-gozaimasu” to a higher person.
 >
-> <cite>アリス：</cite> はい、分かりました。間違えないようにします。いい勉強になりました！
+> {アリス|a ri su} <small>Alice</small>
+> : はい、分かりました。間違えないようにします。いい勉強になりました！
+> : (lit) Yes, I understood. I’ll do in the manner of not making mistake. It became good study!
+> : Ok, I got it. I’ll try not to make that mistake. That was very informative!
 
 > [!Note] Notes:
 >
-> **""何と言えば"":** quoted sub-clause + if conditional of 言う
+> ==""何と言えば"":== quoted sub-clause + if conditional of 言う
 >
-> **""と言うと思います"":** quoted sub-clause + quoted sub-clause
+> ==""と言うと思います"":== quoted sub-clause + quoted sub-clause
 >
-> **""じゃなくて"":** negative sequence of states
+> ==""じゃなくて"":== negative sequence of states
 >
-> **""覚えといて"":** 覚える + abbreviated form of ～ておく + casual ～てください with ください dropped.
-
-#### Literal translation of Example 1
-
-> <cite>Alice:</cite> Kaga-sensei, is it ok to ask you a question?
->
-> <cite>Kaga-sensei:</cite> Yes, it’s ok.
->
-> <cite>Alice:</cite> If you say what for “hello” in Japanese, is it ok?
->
-> <cite>Kaga-sensei:</cite> Well, mostly, I think people say “konnichiwa”. Only, when you write it, you must write “konnichiha” and not “konnichiwa”.
->
-> <cite>Alice:</cite> Is that so? Are there any other good expressions?
->
-> <cite>Kaga-sensei:</cite> Please memorize this too (in preparation for the future). In the morning, everybody says, “ohayou”. But, please say, “ohayou-gozaimasu” to a higher person.
->
-> <cite>Alice:</cite> Yes, I understood. I’ll do in the manner of not making mistake. It became good study!
-
-#### Interpretative translation of Example 1
-
-> <cite>Alice:</cite> Kaga-sensei, is it ok to ask you a question?
->
-> <cite>Kaga-sensei:</cite> Sure.
->
-> <cite>Alice:</cite> How do you say “Hello” in Japanese?
->
-> <cite>Kaga-sensei:</cite> Well, most of the time, I think people say “konnichiwa”. Only, when you write it, you must write “konnichiha” and not “konnichiwa”.
->
-> <cite>Kaga-sensei:</cite> Well, most of the time, I think people say “konnichiwa”. Only, when you write it, you must write “konnichiha” and not “konnichiwa”.
->
-> <cite>Alice:</cite> Is that so? Are there any other good expressions?
->
-> <cite>Kaga-sensei:</cite> You should know this too. In the morning, everybody says, “ohayou”. But, please say, “ohayou-gozaimasu” to a higher person.
->
-> <cite>Alice:</cite> Ok, I got it. I’ll try not to make that mistake. That was very informative!
+> ==""覚えといて"":== 覚える + abbreviated form of ～ておく + casual ～てください with ください dropped.
 
 ### Dialog Example 2
 
-> <cite>洋介：</cite> お！アリスだ。あのね、質問を聞いてもいい？
+> {洋介|よう・すけ} <small>Yousuke</small>
+> : お！アリスだ。あのね、質問を聞いてもいい？
+> : (lit) Oh! It’s Alice. Hey, is it ok to ask a question?
+> : Oh! It’s Alice. Hey, can I ask you a question?
 >
-> <cite>アリス：</cite> 何？
+> {アリス|a ri su} <small>Alice</small>
+> : 何？
+> : (lit) What?
+> : What up?
 >
-> <cite>洋介：</cite> ちょっと英語を==教えてもらいたい==んだけどさ、もし時間があれば、教えてくれない？
+> {洋介|よう・すけ} <small>Yousuke</small>
+> : ちょっと英語を==教えてもらいたい==んだけどさ、もし時間があれば、教えてくれない？
+> : (lit) I want to receive the favor of you teaching English and if, by any chance, you have time, will you give the favor of teaching?
+> : I want to learn English so if you have time, can you teach me?
 >
-> <cite>アリス：</cite> え？英語を勉強するの？
+> {アリス|a ri su} <small>Alice</small>
+> : え？英語を勉強するの？
+> : (lit) Huh? You are going to study English?
+> : Huh? You’re going to study English?
 >
-> <cite>洋介：</cite> うん、アメリカで留学==してみたいなと思って==ね。去年も==行こうとした==けど、お金がなくて・・・
+> {洋介|よう・すけ} <small>Yousuke</small>
+> : うん、アメリカで留学==してみたいなと思って==ね。去年も==行こうとした==けど、お金がなくて・・・
+> : (lit) Yeah, I was thinking that I want to try studying abroad in America. I tried to make motion toward going last year too but, without money…
+> : Yeah, I was thinking about studying abroad in America. I tried going last year too but I didn’t have the money.
 >
-> <cite>アリス：</cite> そうなの？いいよ。いつ教えてほしいの？
+> {アリス|a ri su} <small>Alice</small>
+> : そうなの？いいよ。いつ教えてほしいの？
+> : (lit) Is that so? It’s good. When do you want me to teach you?
+> : Really? No problem. When do you want me to teach you?
 >
-> <cite>洋介：</cite> いつでもいいよ。
+> {洋介|よう・すけ} <small>Yousuke</small>
+> : いつでもいいよ。
+> : (lit) Anytime is good.
+> : Anytime is fine.
 >
-> <cite>アリス：</cite> じゃ、来週の木曜日からはどう？
+> {アリス|a ri su} <small>Alice</small>
+> : じゃ、来週の木曜日からはどう？
+> : (lit) Then what about from next week Thursday?
+> : What about from next week Thursday then?
 >
-> <cite>洋介：</cite> うん、いいよ。ありがとう！
+> {洋介|よう・すけ} <small>Yousuke</small>
+> : うん、いいよ。ありがとう！
+> : (lit) Yeah, ok. Thanks!
+> : OK, thanks!
 >
-> <cite>アリス：</cite> 勉強を==怠けたり==、==来なかったり==、==しないで==ね。
+> {アリス|a ri su} <small>Alice</small>
+> : 勉強を==怠けたり==、==来なかったり==、==しないで==ね。
+> : (lit) Don’t do things like shirk on your studies or not come, ok?
+> : You’re not going to shirk on your studies or not come or anything right?
 >
-> <cite>洋介：</cite> そんなことしないよ！
+> {洋介|よう・すけ} <small>Yousuke</small>
+> : そんなことしないよ！
+> : (lit) I won’t do anything like that!
+> : I won’t do anything like that!
 
 > [!Note] Notes:
 >
-> **""教えてもらいたい"":** receiving favor + to want （たい）
+> ==""教えてもらいたい"":== receiving favor + to want （たい）
 >
-> **""してみたいなと思って"":** to try something out （～てみる） + want to （たい） + な sentence-ending particle + quoted subquote + te-form of 思う
+> ==""してみたいなと思って"":== to try something out （～てみる） + want to （たい） + な sentence-ending particle + quoted subquote + te-form of 思う
 >
-> **""行こうとした"":** volitional of 行く + to attempt （とする）
+> ==""行こうとした"":== volitional of 行く + to attempt （とする）
 >
-> **""怠けたり、来なかったり、しないで"":** List of actions （～たりする） + negative request of する.
-
-#### Literal translation of Example 2
-
-> <cite>Yousuke:</cite> Oh! It’s Alice. Hey, is it ok to ask a question?
->
-> <cite>Alice:</cite> What?
->
-> <cite>Yousuke:</cite> I want to receive the favor of you teaching English and if, by any chance, you have time, will you give the favor of teaching?
->
-> <cite>Alice:</cite> Huh? You are going to study English?
->
-> <cite>Yousuke:</cite> Yeah, I was thinking that I want to try studying abroad in America. I tried to make motion toward going last year too but, without money…
->
-> <cite>Alice:</cite> Is that so? It’s good. When do you want me to teach you?
->
-> <cite>Yousuke:</cite> Anytime is good.
->
-> <cite>Alice:</cite> Then what about from next week Thursday?
->
-> <cite>Yousuke:</cite> Yeah, ok. Thanks!
->
-> <cite>Alice:</cite> Don’t do things like shirk on your studies or not come, ok?
->
-> <cite>Yousuke:</cite> I won’t do anything like that!
-
-#### Interpretative translation of Example 2
-
-> <cite>Yousuke:</cite> Oh! It’s Alice. Hey, can I ask you a question?
->
-> <cite>Alice:</cite> What up?
->
-> <cite>Yousuke:</cite> I want to learn English so if you have time, can you teach me?
->
-> <cite>Alice:</cite> Huh? You’re going to study English?
->
-> <cite>Yousuke:</cite> Yeah, I was thinking about studying abroad in America. I tried going last year too but I didn’t have the money.
->
-> <cite>Alice:</cite> Really? No problem. When do you want me to teach you?
->
-> <cite>Yousuke:</cite> Anytime is fine.
->
-> <cite>Alice:</cite> What about from next week Thursday then?
->
-> <cite>Yousuke:</cite> OK, thanks!
->
-> <cite>Alice:</cite> You’re not going to shirk on your studies or not come or anything right?
->
-> <cite>Yousuke:</cite> I won’t do anything like that!
+> ==""怠けたり、来なかったり、しないで"":== List of actions （～たりする） + negative request of する.

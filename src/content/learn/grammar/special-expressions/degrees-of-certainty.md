@@ -234,42 +234,52 @@ The casual equivalent of ""でしょう"" is surprisingly enough ""でしょう"
 
 ### Example 1
 
-> <cite>Ａ：</cite> あっ！遅刻しちゃう！  
-> <cite>A:</cite> Ah! We’re going to be late!
+> Ａ
+> : あっ！遅刻しちゃう！  
+> : Ah! We’re going to be late!
 >
-> <cite>Ｂ：</cite> だから、時間がないって言った==でしょう==！  
-> <cite>B:</cite> That’s why I told you there was no time!
+> Ｂ
+> : だから、時間がないって言った==でしょう==！  
+> : That’s why I told you there was no time!
 
 ### Example 2
 
-> <cite>Ａ：</cite> これから食べに行くん==でしょ==。  
-> <cite>A:</cite> You’re going to eat from now aren’t you?
+> Ａ
+> : これから食べに行くん==でしょ==。  
+> : You’re going to eat from now aren’t you?
 >
-> <cite>Ｂ：</cite> だったら？  
-> <cite>B:</cite> So what if I am?
+> Ｂ
+> : だったら？  
+> : So what if I am?
 
 ### Example 3
 
-> <cite>Ａ：</cite> 掃除、手伝ってくれる==でしょう==。  
-> <cite>A:</cite> You’re going to help me clean, right?
+> Ａ
+> : 掃除、手伝ってくれる==でしょう==。  
+> : You’re going to help me clean, right?
 
-> <cite>Ｂ：</cite> え？そうなの？  
-> <cite>B:</cite> Huh? Is that so?
+> Ｂ
+> : え？そうなの？  
+> : Huh? Is that so?
 
 ""だろう"" means essentially the same thing as ""でしょう"" except that it sounds more masculine and is used mostly by males.
 
 ### Example 4
 
-> <cite>Ａ：</cite> アリスはどこだ？  
-> <cite>A:</cite> Where is Alice?
+> Ａ
+> : アリスはどこだ？  
+> : Where is Alice?
 >
-> <cite>Ｂ：</cite> もう寝ている==だろう==。  
-> <cite>B:</cite> Probably sleeping already.
+> Ｂ
+> : もう寝ている==だろう==。  
+> : Probably sleeping already.
 
 ### Example 5
 
-> <cite>Ａ：</cite> もう家に帰るん==だろう==。  
-> <cite>A:</cite> You’re going home already, right?
+> Ａ
+> : もう家に帰るん==だろう==。  
+> : You’re going home already, right?
 >
-> <cite>Ｂ：</cite> そうよ。  
-> <cite>B:</cite> That’s right.
+> Ｂ
+> : そうよ。  
+> : That’s right.

@@ -11,8 +11,6 @@ In this section, we will learn some new particles essential for using verbs. We 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{魚|さかな}++
 : fish
 
@@ -61,8 +59,6 @@ In this section, we will learn some new particles essential for using verbs. We 
 ++{登録|とう・ろく}++
 : register
 
-</div>
-
 The first particle we will learn is the object particle because it is a very straightforward particle. The ""を"" character is attached to the end of a word to signify that that word is the direct object of the verb. This character is essentially never used anywhere else. That is why the katakana equivalent ""ヲ"" is almost never used since particles are always written in hiragana. The ""を"" character, while technically pronounced as _/wo/_ essentially sounds like _/o/_ in real speech. Here are some examples of the direct object particle in action.
 
 #### Examples
@@ -93,8 +89,6 @@ When you use ""する"" with a noun, the ""を"" particle is optional and you ca
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{日本|に・ほん}++
 : Japan
 
@@ -102,9 +96,7 @@ When you use ""する"" with a noun, the ""を"" particle is optional and you ca
 : to go
 
 ++{家|1) うち; 2) いえ}++
-: 1. one’s own home
-
-1. house
+: one’s own home;<br/>house
 
 ++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
 : to go home
@@ -166,8 +158,6 @@ When you use ""する"" with a noun, the ""を"" particle is optional and you ca
 ++{来年|らい・ねん}++
 : next year
 
-</div>
-
 The ""に"" particle can specify a target of a verb. This is different from the ""を"" particle in which the verb does something to the direct object. With the ""に"" particle, the verb does something toward the word associated with the ""に"" particle. For example, the target of any motion verb is specified by the ""に"" particle.
 
 #### Examples
@@ -220,8 +210,6 @@ While the ""に"" particle is not always required to indicate time, there is a s
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{日本|に・ほん}++
 : Japan
 
@@ -229,9 +217,7 @@ While the ""に"" particle is not always required to indicate time, there is a s
 : to go
 
 ++{家|1) うち; 2) いえ}++
-: 1. one’s own home
-
-1. house
+: one’s own home;<br/>house
 
 ++{帰る|かえ・る}++ <abbr title="う verb">u-verb</abbr>
 : to go home
@@ -253,8 +239,6 @@ While the ""に"" particle is not always required to indicate time, there is a s
 
 ++{向かう|むか・う}++ <abbr title="う verb">u-verb</abbr>
 : to face; to go towards
-
-</div>
 
 While ""へ"" is normally pronounced _/he/_, when it is being used as a particle, it is always pronounced _/e/_ （え）. The primary difference between the ""に"" and ""へ"" particle is that ""に"" goes to a target as the final, intended destination (both physical or abstract). The ""へ"" particle, on the other hand, is used to express the fact that one is setting out towards the direction of the target. As a result, it is only used with directional motion verbs. It also does not guarantee whether the target is the final intended destination, only that one is heading towards that direction. In other words, the ""に"" particle sticks to the destination while the ""へ"" particle is fuzzy about where one is ultimately headed. For example, if we choose to replace ""に"" with ""へ"" in the first three examples of the previous section, the nuance changes slightly.
 
@@ -283,8 +267,6 @@ This does not mean to say that ""へ"" cannot set out towards an abstract concep
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{映画館|えい・が・かん}++
 : movie theatre
 
@@ -311,8 +293,6 @@ This does not mean to say that ""へ"" cannot set out towards an abstract concep
 
 ++{暇|ひま}++
 : free 　(as in not busy)
-
-</div>
 
 The ""で"" particle will allow us to specify the context in which the action is performed. For example, if a person ate a fish, where did he eat it? If a person went to school, by what means did she go? With what will you eat the soup? All of these questions can be answered with the ""で"" particle. Here are some examples.
 
@@ -353,8 +333,6 @@ The ""から"" here meaning “because” is different from the ""から"" we ju
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{学校|がっ・こう}++
 : school
 
@@ -376,33 +354,37 @@ The ""から"" here meaning “because” is different from the ""から"" we ju
 ++どう++
 : how
 
-</div>
-
 There are times when the location of an action is also the topic of a sentence. You can attach the topic particle （""は"" and ""も""） to the three particles that indicate location （""に""、""へ""、""で""） when the location is the topic. We’ll see how location might become the topic in the following examples.
 
 #### Example 1
 
-> <cite>{ボブ|bo bu}：</cite> {学校|がっ・こう}に{行|い}った？  
-> <cite>Bob:</cite> (Did you) go to school?
+> {ボブ|bo bu} <small>Bob</small>
+> : {学校|がっ・こう}に{行|い}った？  
+> : (Did you) go to school?
 >
-> <cite>{アリス|a ri su}：</cite> {行|い}かなかった。  
-> <cite>Alice:</cite> Didn’t go.
+> {アリス|a ri su} <small>Alice</small>
+> : {行|い}かなかった。  
+> : Didn’t go.
 >
-> <cite>{ボブ|bo bu}：</cite> {図書館|と・しょ・かん}==には==？  
-> <cite>Bob:</cite> What about library?
+> {ボブ|bo bu} <small>Bob</small>
+> : {図書館|と・しょ・かん}==には==？  
+> : What about library?
 >
-> <cite>{アリス|a ri su}：</cite> {図書館|と・しょ・かん}==にも=={行|い}かなかった。  
-> <cite>Alice:</cite> Also didn’t go to library.
+> {アリス|a ri su} <small>Alice</small>
+> : {図書館|と・しょ・かん}==にも=={行|い}かなかった。  
+> : Also didn’t go to library.
 
 In this example, Bob brings up a new topic (library) and so the location becomes the topic. The sentence is actually an abbreviated version of ""{図書館|と・しょ・かん}には{行|い}った？"" which you can ascertain from the context.
 
 #### Example 2
 
-> <cite>{ボブ|bo bu}：</cite> どこで{食べる|た・べる}？  
-> <cite>Bob:</cite> Eat where?
+> {ボブ|bo bu} <small>Bob</small>
+> : どこで{食べる|た・べる}？  
+> : Eat where?
 >
-> <cite>{アリス|a ri su}：</cite> {イタリア|i ta ri a}{レストラン|re su to ra n}==では==どう？  
-> <cite>Alice:</cite> How about Italian restaurant?
+> {アリス|a ri su} <small>Alice</small>
+> : {イタリア|i ta ri a}{レストラン|re su to ra n}==では==どう？  
+> : How about Italian restaurant?
 
 Bob asks, “Where shall we eat?” and Alice suggests an Italian restaurant. A sentence like, “How about…” usually brings up a new topic because the person is suggesting something new. In this case, the location (restaurant) is being suggested so it becomes the topic.
 
@@ -410,15 +392,11 @@ Bob asks, “Where shall we eat?” and Alice suggests an Italian restaurant. A 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{日本語|に・ほん・ご}++
 : Japanese (language)
 
 ++{習う|なら・う}++ <abbr title="う verb">u-verb</abbr>
 : to learn
-
-</div>
 
 The direct object particle is different from particles related to location in that you cannot use any other particles at the same time. For example, going by the previous section, you might have guessed that you can say ""をは"" to express a direct object that is also the topic but this is not the case. A topic can be a direct object without using the ""を"" particle. In fact, putting the ""を"" particle in will make it wrong.
 

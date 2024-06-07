@@ -536,11 +536,13 @@ It is quite common in casual speech to end midsentence like this. Notice ""読�
 
 It is also common to change ""すぎる"" into its stem and use it as a noun.
 
-> <cite>Ａ：</cite> 昨晩のこと、全然覚えてないな。  
-> <cite>A:</cite> Man, I don’t remember anything about last night.
+> Ａ
+> : 昨晩のこと、全然覚えてないな。  
+> : Man, I don’t remember anything about last night.
 >
-> <cite>Ｂ：</cite> それは==飲みすぎ==だよ。  
-> <cite>B:</cite> That’s drinking too much.
+> Ｂ
+> : それは==飲みすぎ==だよ。  
+> : That’s drinking too much.
 
 ## Adding the ""も"" particle to express excessive amounts
 

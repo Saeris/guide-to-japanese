@@ -347,19 +347,23 @@ Let’s compare the difference in nuance.
 
 ### Example 1
 
-> <cite>Ａ：</cite> 友達に会えれ==ば==、買い物に行きます。  
-> <cite>A:</cite> We will go shopping, ==if== I can meet with my friend.
+> Ａ
+> : 友達に会えれ==ば==、買い物に行きます。  
+> : We will go shopping, ==if== I can meet with my friend.
 >
-> <cite>Ｂ：</cite> 友達に会え==たら==、買い物に行きます。  
-> <cite>B:</cite> If I can meet with my friend, ==we will go shopping==.
+> Ｂ
+> : 友達に会え==たら==、買い物に行きます。  
+> : If I can meet with my friend, ==we will go shopping==.
 
 ### Example 2
 
-> <cite>Ａ：</cite> お金があれ==ば==いいね。  
-> <cite>A:</cite> It would be good, ==if== I had money, huh?
+> Ａ
+> : お金があれ==ば==いいね。  
+> : It would be good, ==if== I had money, huh?
 >
-> <cite>Ｂ：</cite> お金があっ==たら==いいね。  
-> <cite>B:</cite> If I had money, ==it would be good, huh==?
+> Ｂ
+> : お金があっ==たら==いいね。  
+> : If I had money, ==it would be good, huh==?
 
 Going by the context, the ""～たら"" form sounds more natural for both examples because it doesn’t seem like we’re really focusing on the condition itself. We’re probably more interested in what’s going to happen once we meet the friend or how nice it would be if we had money.
 

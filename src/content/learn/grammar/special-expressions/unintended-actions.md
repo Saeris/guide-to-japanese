@@ -21,11 +21,13 @@ This is the first of many useful tools that will become essential in your day-to
 ++しまう++ <abbr title="う verb">u-verb</abbr>
 : to do something by accident; to finish completely
 
-> <cite>康介：</cite> 宿題をやった？  
-> <cite>Kousuke:</cite> Did you do homework?
+> {康介|こう・すけ} <small>Kousuke</small>
+> : 宿題をやった？  
+> : Did you do homework?
 >
-> <cite>アリス：</cite> しまった！  
-> <cite>Alice:</cite> Oh no! (I screwed up!)
+> {アリス|a ri su} <small>Alice</small>
+> : しまった！  
+> : Oh no! (I screwed up!)
 
 ## Using ""しまう"" with other verbs
 

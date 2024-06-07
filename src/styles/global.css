@@ -166,6 +166,10 @@ dl {
   margin: unset;
   margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);
 
+  &:not(rt) {
+    letter-spacing: 0.04em;
+  }
+
   dt {
     display: flex;
     flex-direction: column;
@@ -209,15 +213,69 @@ dl {
     max-width: 18ch;
     margin: unset;
     font-size: var(--bt);
-
-    rt {
-      text-align: left;
-    }
   }
 
   /* hack to remove this element from the grid */
   > msreadoutspan {
     position: absolute;
+  }
+}
+
+blockquote dl {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: unset;
+  max-width: 50ch;
+  margin-inline: auto;
+  padding-inline: 32px;
+  padding-block: 24px;
+  border-radius: 8px;
+  background-color: var(--cp-25);
+  border: 1px solid var(--cp-100);
+
+  dt {
+    --fs-body: var(--bs);
+    display: block;
+    padding-bottom: 16px;
+    color: var(--cp-700);
+    font-size: var(--fs-body);
+
+    small {
+      font-family: var(--family-display);
+      color: var(--cn-700);
+    }
+  }
+
+  dt:nth-of-type(even) {
+    direction: rtl;
+  }
+
+  dt:not(:first-child) {
+    margin-top: 32px;
+  }
+
+  dt:nth-of-type(even),
+  dt:nth-of-type(even) + dd,
+  dt:nth-of-type(even) + dd + dd,
+  dt:nth-of-type(even) + dd + dd + dd {
+    align-self: flex-end;
+    text-align: right;
+  }
+
+  dt:nth-of-type(odd) + dd + dd,
+  dt:nth-of-type(odd) + dd + dd + dd,
+  dt:nth-of-type(even) + dd + dd,
+  dt:nth-of-type(even) + dd + dd + dd {
+    --fs-body: var(--bn);
+    font-family: var(--family-display);
+    color: var(--cn-700);
+  }
+
+  dd {
+    --fs-body: var(--bm);
+    font-size: var(--fs-body);
+    max-width: unset;
   }
 }
 

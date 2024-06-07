@@ -11,8 +11,6 @@ We will finish defining all the basic properties of verbs by learning how to exp
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{出る|で・る}++ <abbr title="る verb">ru-verb</abbr>
 : to come out
 
@@ -33,8 +31,6 @@ We will finish defining all the basic properties of verbs by learning how to exp
 
 ++{見る|み・る}++ <abbr title="る verb">ru-verb</abbr>
 : to see
-
-</div>
 
 We will start off with the easy ru-verb category. To change a ru-verb from the dictionary form into the past tense, you simply drop the ""る"" and add ""た"".
 
@@ -58,8 +54,6 @@ We will start off with the easy ru-verb category. To change a ru-verb from the d
 ## Past tense for u-verbs
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{話す|はな・す}++ <abbr title="う verb">u-verb</abbr>
 : to speak
@@ -112,8 +106,6 @@ We will start off with the easy ru-verb category. To change a ru-verb from the d
 ++{勉強|べん・きょう}++
 : study
 
-<div>
-
 Changing a u-verb from dictionary form to the past tense is difficult because we must break up u-verbs into four additional categories. These four categories depend on the last character of the verb. The table below illustrates the different sub-categories. In addition, there is one exception to the rules, which is the verb ""{行|い}く"". I’ve bundled it with the regular exception verbs ""する"" and ""{来|く}る"" even though ""{行|い}く"" is a regular u-verb in all other conjugations.
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2ch;"><div style="max-width: 65%">
@@ -148,25 +140,27 @@ Table: Exceptions
 
 <small style="width: 100%;"><center>
 
-- exceptions particular to this conjugation
+\*- exceptions particular to this conjugation
+
 </center></small></div>
 
 #### Examples
 
 1. {今日|きょう}は、=={走|はし}った==。  
    As for today, ran.
+
 1. {友達|とも・だち}が=={来|く}た==。  
    Friend is the one that came.
+
 1. {私|わたし}も=={遊|あそ}んだ==。  
    I also played.
+
 1. {勉強|べん・きょう}は、==した==。  
    About study, did it.
 
 ## Past-negative tense for all verbs
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{捨てる|す・てる}++ <abbr title="る verb">ru-verb</abbr>
 : to throw away
@@ -197,8 +191,6 @@ Table: Exceptions
 
 ++いる++ <abbr title="る verb">ru-verb</abbr>
 : to exist (animate)
-
-</div>
 
 The conjugation rules for the past-negative tense are the same for all verbs. You might have noticed that the negative of just about everything always end in ""ない"". The conjugation rule for the past-negative tense of verbs is pretty much the same as all the other negatives that end in ""ない"". You simply take the negative of any verb, remove the ""い"" from the ""ない"" ending, and replace it with ""かった"".
 

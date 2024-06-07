@@ -61,19 +61,23 @@ The question marker is covered here because it is primarily used to clearly indi
 
 ### Example 1
 
-> <cite>{田中|た・なか}さん：</cite> お母さんはどこですか。  
-> <cite>Tanaka-san:</cite> Where is (your) mother?
+> {田中|た・なか}さん <small>Tanaka-san</small>
+> : お母さんはどこですか。  
+> : Where is (your) mother?
 >
-> <cite>{鈴木|すず・き}さん：</cite> 母は買い物に行きました。  
-> <cite>Suzuki-san:</cite> (My) mother went shopping.
+> {鈴木|すず・き}さん <small>Suzuki-san</small>
+> : 母は買い物に行きました。  
+> : (My) mother went shopping.
 
 ### Example 2
 
-> <cite>{キム|ki mu}さん：</cite> イタリア料理を食べに行きませんか。  
-> <cite>Kim-san:</cite> Go to eat Italian food?
+> {キム|ki mu}さん <small>Kim-san</small>
+> : イタリア料理を食べに行きませんか。  
+> : Go to eat Italian food?
 >
-> <cite>{鈴木|すず・き}さん：</cite> すみません。ちょっと、お腹がいっぱいです。  
-> <cite>Suzuki-san:</cite> Sorry. (My) stomach is a little full.
+> {鈴木|すず・き}さん <small>Suzuki-san</small>
+> : すみません。ちょっと、お腹がいっぱいです。  
+> : Sorry. (My) stomach is a little full.
 
 Here the question is actually being used as an invitation just like how in English we say, “Won’t you come in for a drink?” ""すみません"" is a polite way of apologizing. Slightly less formal is ""ごめんなさい"" while the casual version is simply ""ごめん"".
 
@@ -102,6 +106,7 @@ It makes sense to conclude that the question marker would work in exactly the sa
 
 1. こんなのを本当に食べる==か==？
    Do you think [he/she] will really eat this type of thing?
+
 1. そんなのは、ある==か==よ！
    Do I look like I would have something like that?!
 
@@ -109,6 +114,7 @@ Instead of ""か"", real questions in casual speech are usually asked with the e
 
 1. こんなのを本当に食べる？
    Are you really going to eat something like this?
+
 1. そんなのは、ある==の==？
    Do you have something like that?
 
@@ -159,8 +165,10 @@ Another use of the question marker is simply grammatical and has nothing to do w
 
 1. ==昨日何を食べたか==忘れた。  
    Forgot what I ate yesterday.
+
 1. 彼は==何を言ったか==分からない。  
    Don’t understand what he said.
+
 1. ==先生が学校に行ったか==教えない？  
    Won’t you inform me whether teacher went to school?
 
@@ -168,6 +176,7 @@ In sentences like example 3 where the question being considered has a yes/no ans
 
 1. 先生が学校に行ったか==どうか==知らない。  
    Don’t know whether or not teacher went to school.
+
 1. 先生が学校に行ったか==行かなかったか==知らない。  
    Don’t know whether teacher went to school or didn’t.
 
@@ -232,10 +241,13 @@ As you can see by the following examples, you can treat these words just like an
 
 1. 誰かがおいしいクッキーを全部食べた。  
    Someone ate all the delicious cookies.
+
 1. 誰が盗んだのか、誰か知りませんか。  
    Doesn’t anybody know who stole it?
+
 1. 犯人をどこかで見ましたか。  
    Did you see the criminal somewhere?
+
 1. この中からどれかを選ぶの。  
    (Explaining) You are to select a certain one from inside this (selection).
 
@@ -308,10 +320,13 @@ Table: Inclusive Words
 
 1. この質問の答えは、==誰も==知らない。  
    Nobody knows the answer of this question.
+
 1. 友達は==いつも==遅れる。  
    Friend is always late.
+
 1. ここにあるレストランは==どれも==おいしくない 。  
    Any and all restaurants that are here are not tasty.
+
 1. 今週末は、==どこにも==行かなかった。  
    Went nowhere this weekend.
 
@@ -367,7 +382,9 @@ Table: Words for “Any”
 
 1. この質問の答えは、==誰でも==分かる。  
    Anybody understands the answer of this question.
+
 1. 昼ご飯は、==どこでも==いいです。  
    About lunch, anywhere is good.
+
 1. あの人は、本当に==何でも==食べる。  
    That person really eats anything.

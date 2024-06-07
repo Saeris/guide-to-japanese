@@ -407,11 +407,13 @@ Don’t forget to add ""だ"" for nouns or na-adjectives.
 
 When starting the sentence with this grammar, you also need to add ""だ"" just like you do with ""だから""
 
-> <cite>Ａ：</cite> 今日、田中さんはこないの？  
-> <cite>A:</cite> Is Tanaka-san not coming today?
+> Ａ
+> : 今日、田中さんはこないの？  
+> : Is Tanaka-san not coming today?
 >
-> <cite>Ｂ：</cite> だそうです。  
-> <cite>B:</cite> So I hear.
+> Ｂ
+> : だそうです。  
+> : So I hear.
 
 ## Expressing hearsay or behavior using ""～らしい""
 
@@ -463,19 +465,23 @@ When starting the sentence with this grammar, you also need to add ""だ"" just 
 
 ### Example 1
 
-> <cite>Ａ：</cite> 今日、田中さんはこないの？  
-> <cite>A:</cite> Is Tanaka-san not coming today?
+> Ａ
+> : 今日、田中さんはこないの？  
+> : Is Tanaka-san not coming today?
 >
-> <cite>Ｂ：</cite> こない==らしい==。  
-> <cite>B:</cite> Seems like it (based on what I heard).
+> Ｂ
+> : こない==らしい==。  
+> : Seems like it (based on what I heard).
 
 ### Example 2
 
-> <cite>Ａ：</cite> あの人は何なの？  
-> <cite>A:</cite> What is that person over there?
+> Ａ
+> : あの人は何なの？  
+> : What is that person over there?
 >
-> <cite>Ｂ：</cite> 美由紀さんの友達==らしい==ですよ。  
-> <cite>B:</cite> Seems to be Miyuki-san’s friend (based on what I heard).
+> Ｂ
+> : 美由紀さんの友達==らしい==ですよ。  
+> : Seems to be Miyuki-san’s friend (based on what I heard).
 
 Another way to use ""らしい"" is to indicate that a person seems to be a certain thing due to his behavior.
 

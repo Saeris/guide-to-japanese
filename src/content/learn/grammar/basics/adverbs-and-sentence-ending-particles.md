@@ -89,8 +89,8 @@ Unlike English, changing adjectives to adverbs is a very simple and straightforw
 
 The adverb 「{早く|はや・く}」 is a little different from the English word ‘fast’ in that it can mean quickly in terms of speed or time. In other words, Bob may have eaten his breakfast early or he may have eaten it quickly depending on the context. In other types of sentences such as 「{早く|はや・く}{走った|はし・った}」, it is quite obvious that it probably means quickly and not early. (Of course this also depends on the context.)
 
-> {アリス|a ri su}は{自分|じ・ぶん}の{部屋|へ・や}を==きれいに==した。  
-> Alice did her own room toward clean.
+- {アリス|a ri su}は{自分|じ・ぶん}の{部屋|へ・や}を==きれいに==した。  
+   Alice did her own room toward clean.
 
 The literal translation kind of gives you a sense of why the target particle is used. There is some argument against calling this an adverb at all but it is convenient for us to do so because of the grouping of i-adjectives and na-adjectives. Thinking of it as an adverb, we can interpret the sentence to mean: “Alice did her room cleanly.” or less literally: “Alice cleaned her room.” （「きれい」 literally means “pretty” but if it helps, you can think of it as, “Alice prettied up her own room.”）
 
@@ -177,21 +177,25 @@ People usually add ""ね"" to the end of their sentence when they are looking fo
 
 ### Example 1
 
-> <cite>{ボブ|bo bu}：</cite> いい{天気|てん・き}だ==ね==。  
-> <cite>Bob:</cite> Good weather, ==huh==?
+> {ボブ|bo bu} <small>Bob</small>
+> : いい{天気|てん・き}だ==ね==。
+> : Good weather, ==huh==?
 >
-> <cite>{アリス|a ri su}：</cite> そう==ね==。  
-> <cite>Alice:</cite> That is so, ==isn’t it==?
+> {アリス|a ri su} <small>Alice</small>
+> : そう==ね==。
+> : That is so, ==isn’t it==?
 
 The literal translation of 「そうね」 sounds a bit odd but it basically means something like, “Sure is”. Males would probably say, 「そうだね」.
 
 ### Example 2
 
-> <cite>{アリス|a ri su}：</cite> おもしろい{映画|えい・が}だった==ね==。  
-> <cite>Alice:</cite> That was interesting movie, ==wasn’t it==?
+> {アリス|a ri su} <small>Alice</small>
+> : おもしろい{映画|えい・が}だった==ね==。  
+> : That was interesting movie, ==wasn’t it==?
 >
-> <cite>{ボブ|bo bu}：</cite> え？ {全然|ぜん・ぜん}おもしろくなかった。  
-> <cite>Bob:</cite> Huh? No, it wasn’t interesting at all.
+> {ボブ|bo bu} <small>Bob</small>
+> : え？ {全然|ぜん・ぜん}おもしろくなかった。  
+> : Huh? No, it wasn’t interesting at all.
 
 Since Alice is expecting agreement that the movie was interesting Bob is surprised because he didn’t find the movie interesting at all. (""え"" is a sound of surprise and confusion.)
 
@@ -201,19 +205,23 @@ When ""よ"" is attached to the end of a sentence, it means that the speaker is 
 
 ### Example 1
 
-> <cite>{アリス|a ri su}：</cite> {時間|じ・かん}がない==よ==。  
-> <cite>Alice:</cite> ==You know==, there is no time.
+> {アリス|a ri su} <small>Alice</small>
+> : {時間|じ・かん}がない==よ==。  
+> : ==You know==, there is no time.
 >
-> <cite>{ボブ|bo bu}：</cite> {大丈夫|だい・じょう・ぶ}だ==よ==。  
-> <cite>Bob:</cite> It’s ok, ==you know==.
+> {ボブ|bo bu} <small>Bob</small>
+> : {大丈夫|だい・じょう・ぶ}だ==よ==。  
+> : It’s ok, ==you know==.
 
 ### Example 2
 
-> <cite>{アリス|a ri su}：</cite> {今日|きょう}はいい{天気|てん・き}だね。  
-> <cite>Alice:</cite> Good weather today, huh?
+> {アリス|a ri su} <small>Alice</small>
+> : {今日|きょう}はいい{天気|てん・き}だね。  
+> : Good weather today, huh?
 >
-> <cite>{ボブ|bo bu}：</cite> うん。でも、{明日|あした}{雨|あめ}が{降る|ふ・る}==よ==。  
-> <cite>Bob:</cite> Yeah. But it will rain tomorrow, ==you know==.
+> {ボブ|bo bu} <small>Bob</small>
+> : うん。でも、{明日|あした}{雨|あめ}が{降る|ふ・る}==よ==。  
+> : Yeah. But it will rain tomorrow, ==you know==.
 
 ## Combining both to get ""よね""
 
@@ -221,8 +229,10 @@ You can also combine the two particles we just learned to create ""よね"". Thi
 
 ### Example
 
-> <cite>{アリス|a ri su}：</cite> {ボブ|bo bu}は、{魚|さかな}が{好き|す・き}なんだ==よね==。  
-> <cite>Alice:</cite> ==You know==, you like fish, ==dontcha==?
+> {アリス|a ri su} <small>Alice</small>
+> : {ボブ|bo bu}は、{魚|さかな}が{好き|す・き}なんだ==よね==。  
+> : ==You know==, you like fish, ==don'tcha==?
 >
-> <cite>{ボブ|bo bu}：</cite> そうだね。  
-> <cite>Bob:</cite> That is so, ==huh==?
+> {ボブ|bo bu} <small>Bob</small>
+> : そうだね。  
+> : That is so, ==huh==?

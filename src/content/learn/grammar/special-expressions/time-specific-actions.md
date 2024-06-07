@@ -8,8 +8,11 @@ part: 13
 In this lesson, we will go over various ways to express actions that take place in a certain time-frame. In particular, we will learn how to say:
 
 1. an action has just been completed
+
 1. an action is taken immediately after another action took place
+
 1. an action occurs while another action is ongoing
+
 1. and one continuously repeats an action
 
 ## Expressing what just happened with ""～ばかり""

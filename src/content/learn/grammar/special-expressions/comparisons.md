@@ -188,11 +188,13 @@ For those curious about the meaning of the proverb, dango is a sweet doughy trea
 
 Of course, there is no rule that ""より"" must be used with ""方"". The other way of things can be gleaned from context.
 
-> <cite>鈴木：</cite> 毎日仕事に行くのが嫌だ。  
-> <cite>Suzuki:</cite> I don’t like going to work everyday.
+> {鈴木|すず・き} <small>Suzuki</small>
+> : 毎日仕事に行くのが嫌だ。  
+> : I don’t like going to work everyday.
 >
-> <cite>スミス：</cite> 仕事がない==より==ましだよ。  
-> <cite>Smith:</cite> It’s not as bad as opposed to not having a job.
+> {スミス|su mi su} <small>Smith</small>
+> : 仕事がない==より==ましだよ。  
+> : It’s not as bad as opposed to not having a job.
 
 Words associated with ""より"" do not need any tense. Notice in the following sentence that ""食べる"" in front of ""より"" is present tense even though ""食べる"" in front of ""方"" is past tense.
 
@@ -381,11 +383,13 @@ When you want to say, “depending on [X]”, you can do this in Japanese by sim
 
 This is simply the te-form of ""よる"" as seen by the following simple exchange.
 
-> <cite>和子：</cite> 今日は飲みに行こうか？  
-> <cite>Kazuko:</cite> Shall we go drinking today?
+> {和子|かず・こ} <small>Kazuko</small>
+> : 今日は飲みに行こうか？  
+> : Shall we go drinking today?
 >
-> <cite>大樹：</cite> それは、裕子に==よる==ね。  
-> <cite>Daiki:</cite> That depends on Yuuko.
+> {大樹|だい・き} <cite>Daiki</cite>
+> : それは、裕子に==よる==ね。  
+> : That depends on Yuuko.
 
 ## Indicating a source of information using ""によると""
 

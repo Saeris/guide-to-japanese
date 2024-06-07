@@ -13,8 +13,6 @@ Have you noticed how, many forms of verbs and the state-of-being conjugate in a 
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{国際|こく・さい}++
 : international
 
@@ -78,8 +76,6 @@ Have you noticed how, many forms of verbs and the state-of-being conjugate in a 
 ++{辞める|や・める}++ <abbr title="る verb">ru-verb</abbr>
 : to quit
 
-</div>
-
 The negative, past, and negative past conjugations of verbs can be used just like adjectives to directly modify nouns. However, we <u>cannot</u> do this with the plain non-past state-of-being using ""だ"". (I told you this was a pain in the butt.) The language has particles for this purpose, which will be covered in the next section.
 
 > [!Caution]
@@ -108,8 +104,6 @@ Here are some examples of direct noun modifications with a conjugated noun claus
 ## Using relative verb clauses as adjectives
 
 ### Vocabulary
-
-<div class="columns">
 
 ++{先週|せん・しゅう}++
 : last week
@@ -156,8 +150,6 @@ Here are some examples of direct noun modifications with a conjugated noun claus
 ++{銀行|ぎん・こう}++
 : bank
 
-</div>
-
 Verbs clauses can also be used just like adjectives to modify nouns. The following examples show us how this will allow us to make quite detailed and complicated sentences. The verb clause is highlighted.
 
 ### Examples
@@ -178,8 +170,6 @@ Verbs clauses can also be used just like adjectives to modify nouns. The followi
 
 ### Vocabulary
 
-<div class="columns">
-
 ++{私|わたし}++
 : me; myself; I
 
@@ -197,8 +187,6 @@ Verbs clauses can also be used just like adjectives to modify nouns. The followi
 
 ++{行く|い・く}++ <abbr title="う verb">u-verb</abbr>
 : to go
-
-</div>
 
 Now that we’ve learned the concept of relative clauses and how they are used as building blocks to make sentences, I can go over how Japanese sentence ordering works. There’s this myth that keeps floating around about Japanese sentence order that continues to plague many hapless beginners to Japanese. Here’s how it goes.
 

@@ -106,14 +106,17 @@ The noun ""わけ"" (訳) is a bit difficult to describe but it’s defined as: 
 
 ### Example 1
 
-> <cite>直子：</cite> いくら英語を勉強しても、うまくならないの。  
-> <cite>Naoko:</cite> No matter how much I study, I don’t become better at English.
+> {直子|なお・こ} <small>Naoko</small>
+> : いくら英語を勉強しても、うまくならないの。  
+> : No matter how much I study, I don’t become better at English.
 >
-> <cite>ジム：</cite> つまり、語学には、能力がないという==訳==か。  
-> <cite>Jim:</cite> So basically, it ==means== that you don’t have ability at language.
+> {ジム|ji mu} <cite>Jim</cite>
+> : つまり、語学には、能力がないという==訳==か。  
+> : So basically, it ==means== that you don’t have ability at language.
 >
-> <cite>直子：</cite> 失礼ね。  
-> <cite>Naoko:</cite> How rude.
+> {直子|なお・こ} <small>Naoko</small>
+> : 失礼ね。  
+> : How rude.
 
 As you can see, Jim is concluding from what Naoko said that she must not have any skills at learning languages. This is completely different from the explanatory ""の"", which is used to explain something that may or may not be obvious. ""わけ"" is instead used to draw conclusions that anyone might be able to arrive at given certain information.
 
@@ -126,19 +129,23 @@ Under the normal rules of grammar, we must have a particle for the noun ""わけ
 
 ### Example 2
 
-> <cite>直子：</cite> 広子の家に行ったことある？  
-> <cite>Naoko:</cite> Have you ever gone to Hiroko’s house?
+> {直子|なお・こ} <small>Naoko</small>
+> : 広子の家に行ったことある？  
+> : Have you ever gone to Hiroko’s house?
 >
-> <cite>一郎：</cite> ある==わけない==でしょう。  
-> <cite>Ichirou:</cite> There’s no way I would have ever gone to her house, right?
+> {一郎|いち・ろう} <small>Ichirou</small>
+> : ある==わけない==でしょう。  
+> : There’s no way I would have ever gone to her house, right?
 
 ### Example 3
 
-> <cite>直子：</cite> 微積分は分かる？  
-> <cite>Naoko:</cite> Do you understand (differential and integral) calculus?
+> {直子|なお・こ} <small>Naoko</small>
+> : 微積分は分かる？  
+> : Do you understand (differential and integral) calculus?
 >
-> <cite>一郎：</cite> 分かる==わけない==よ！  
-> <cite>Ichirou:</cite> There’s no way I would understand!
+> {一郎|いち・ろう} <small>Ichirou</small>
+> : 分かる==わけない==よ！  
+> : There’s no way I would understand!
 
 There is one thing to be careful of because ""わけない"" can also mean that something is very easy (lit: requires no explanation). You can easily tell when this meaning is intended however, because it is used in the same manner as an adjective.
 

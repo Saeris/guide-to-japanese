@@ -11,8 +11,8 @@ In this lesson, we’ll learn various expressions involving how to describe peop
 
 ### Vocabulary
 
-++{嫌|いや}++
-: disagreeable; unpleasant <abbr title="な adjective">na-adj</abbr>
+++{嫌|いや}++ <abbr title="な adjective">na-adj</abbr>
+: disagreeable; unpleasant
 
 ++{怖い|こわ・い}++ <abbr title="い adjective">i-adj</abbr>
 : scary
@@ -248,8 +248,8 @@ This grammar is also used to observe very frankly on what you think someone othe
 ++{何|なに／なん}++
 : what
 
-++{平気|へい・き}++
-: coolness; calmness <abbr title="な adjective">na-adj</abbr>
+++{平気|へい・き}++ <abbr title="な adjective">na-adj</abbr>
+: coolness; calmness
 
 ++{顔|かお}++
 : face
@@ -353,8 +353,8 @@ This grammar is completely different from the ""ばかり"" used to express amou
 ++{皆|みんな}++
 : everybody
 
-++{嫌|いや}++
-: disagreeable; unpleasant <abbr title="な adjective">na-adj</abbr>
+++{嫌|いや}++ <abbr title="な adjective">na-adj</abbr>
+: disagreeable; unpleasant
 
 By now, you’re probably thinking, “Ok, we’ve done adjectives and verbs. What about nouns?” As a matter of fact, there is a similar grammar that is used usually for nouns and na-adjectives. It is used to indicate that something is showing the signs of a certain state. Unlike the ""～がる"" grammar, there is no action that indicates anything; merely the atmosphere gives off the impression of the state. Just like the previous grammar we learned in this section, this grammar has a list of commonly used nouns such as ""謎""、""秘密""、or ""皮肉"". This grammar is used by simply attaching ""めく"" to the noun or na-adjective. The result then becomes a regular u-verb.
 

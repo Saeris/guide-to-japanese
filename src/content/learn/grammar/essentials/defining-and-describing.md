@@ -284,11 +284,13 @@ We can attach the question marker ""か"" to ""という"" in order to add a que
 
 ### Example Dialogue 1
 
-> <cite>Ａ：</cite> みきちゃんは、あんたの彼女でしょう？  
-> <cite>A:</cite> Miki-chan is your girlfriend, right?
+> Ａ
+> : みきちゃんは、あんたの彼女でしょう？  
+> : Miki-chan is your girlfriend, right?
 >
-> <cite>Ｂ：</cite> う～ん、彼女==というか==、友達==というか==、なん==というか==・・・  
-> <cite>B:</cite> Um, you might say girlfriend, or friend, or something…
+> Ｂ
+> : う～ん、彼女==というか==、友達==というか==、なん==というか==・・・  
+> : Um, you might say girlfriend, or friend, or something…
 
 This construction is used all the time, particularly in casual conversations. It can be used to correct something, come to a different conclusion, or even as an interjection.
 
@@ -307,14 +309,17 @@ Rather than using ""か"" to rephrase a conclusion, we can also simply use ""こ
 
 ### Example Dialogue 2
 
-> <cite>Ａ：</cite> みきちゃんが洋介と別れたんだって。  
-> <cite>A:</cite> I heard that Miki-chan broke up with Yousuke.
+> Ａ
+> : みきちゃんが洋介と別れたんだって。  
+> : I heard that Miki-chan broke up with Yousuke.
 >
-> <cite>Ｂ：</cite> ==ということ==は、みきちゃんは、今彼氏がいない==ということ==？  
-> <cite>B:</cite> Does that mean Miki-chan doesn’t have a boyfriend now?
+> Ｂ
+> : ==ということ==は、みきちゃんは、今彼氏がいない==ということ==？  
+> : Does that mean Miki-chan doesn’t have a boyfriend now?
 >
-> <cite>Ａ：</cite> ==そう。そういうこと==。  
-> <cite>A:</cite> That’s right. That’s what it means.
+> Ａ
+> : ==そう。そういうこと==。  
+> : That’s right. That’s what it means.
 
 ## Using ""って"" or ""て"" for ""という""
 
@@ -391,19 +396,23 @@ As mentioned in the previous lesson, ""って"" is very often used in causal sla
 
 ### Dialog Example 1
 
-> <cite>Ａ：</cite> しないとだめだよ。  
-> <cite>A:</cite> Have to do it, you know.
+> Ａ
+> : しないとだめだよ。  
+> : Have to do it, you know.
 >
-> <cite>Ｂ：</cite> ==だって==、時間がないからできないよ。  
-> <cite>B:</cite> But (even so), can’t do it because there is no time.
+> Ｂ
+> : ==だって==、時間がないからできないよ。  
+> : But (even so), can’t do it because there is no time.
 
 ### Dialog Example 2
 
-> <cite>Ａ：</cite> 行かなくてもいいよ。  
-> <cite>A:</cite> Don’t have to go, you know.
+> Ａ
+> : 行かなくてもいいよ。  
+> : Don’t have to go, you know.
 >
-> <cite>Ｂ：</cite> ==だって==、みんな行くって。私も行かないと。  
-> <cite>B:</cite> But (even so), everybody said they’re going. I have to go too.
+> Ｂ
+> : ==だって==、みんな行くって。私も行かないと。  
+> : But (even so), everybody said they’re going. I have to go too.
 
 In some cases, the small ""つ"" is left out and just ""て"" is used instead of ""って"". This is done (as is usually the case for slang) in order to make things easier to say. In general, this is when there is nothing before the ""て"" or when the sound that comes before it doesn’t require the explicit separation the ""っ"" gives us in order to be understood.
 

@@ -23,23 +23,33 @@ Before going into this: a note about the word ""{私|わたし}". The official r
 Here is a list of the most common words for “I” and how they are used:
 
 1. {私|わたくし} – Used by both males and females for formal situations.
+
 1. {私|わたし} – Used by both males and females for normal polite situations.
+
 1. {僕|ぼく} – Used primarily by males from fairly polite to fairly casual situations.
+
 1. {俺|おれ} – A very rough version of “I” used almost exclusively by males in very casual situations.
+
 1. あたし – A very feminine and casual way to refer to oneself. Many girls have decided to opt for ""わたし" instead because ""あたし" has a cutesy and girly sound.
+
 1. One’s own name – Also a very feminine and kind of childish way to refer to oneself.
+
 1. わし – Usually used by older men well in their middle-ages.
 
 Let’s see how different types of sentences use the appropriate version of “I”. ""わたくし" is left out because we have yet to go over very formal grammatical expressions.
 
 1. {私|わたし}の{名前|な・まえ}は{キム|ki mu}です。  
    My name is Kim. (Neutral, polite)
+
 1. {僕|ぼく}の{名前|な・まえ}は{キム|ki mu}です。  
    My name is Kim. (Masculine, polite)
+
 1. {僕|ぼく}の{名前|な・まえ}は{ボブ|bo bu}だ。  
    My name is Bob. (Masculine, casual)
+
 1. {俺|おれ}の{名前|な・まえ}は{ボブ|bo bu}だ。  
    My name is Bob. (Masculine, casual)
+
 1. あたしの{名前|な・まえ}は{アリス|a ri su}。  
    My name is Alice. (Feminine, casual)
 

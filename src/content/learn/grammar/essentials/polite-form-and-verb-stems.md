@@ -204,10 +204,13 @@ Table: A conjugation chart with sample stem ""遊び""
 
 1. 明日、大学に行きます。  
    Tomorrow, go to college.
+
 1. 先週、ボブに会いましたよ。  
    You know, met Bob last week.
+
 1. 晩ご飯を食べませんでしたね。  
    Didn’t eat dinner, huh?
+
 1. 面白くない映画は見ません。  
    About not interesting movies, do not see (them).
 
@@ -285,10 +288,13 @@ Table: na-adjective/noun (might have to remove だ)
 
 1. 子犬はとても好きです。  
    About puppies, like very much. (The most natural translation is that someone likes puppies very much but there is not enough context to rule out that the puppies like something very much.)
+
 1. 昨日、時間がなかったんです。  
    It was that there was no time yesterday.
+
 1. その部屋はあまり静かじゃないです。  
    That room is not very quiet.
+
 1. 先週に見た映画は、とても面白かったです。  
    Movie saw last week was very interesting.
 
@@ -311,6 +317,7 @@ Table: A more formal negative conjugation
 
 1. その部屋はあまり静かじゃないですよ。  
    You know, that room is not very quiet.
+
 1. その部屋はあまり静かじゃありませんよ。  
    You know, that room is not very quiet.
 
@@ -337,8 +344,11 @@ I’m sure most of you have learned the expression ""そう"" by now. Now, there
 ### Different ways to say, “That is so.”
 
 1. そう。
+
 1. そうだ。
+
 1. そうです。
+
 1. そうでございます。
 
 The first ""そう"" is the implied state-of-being and ""そうだ"" is the declarative. As I’ve stated before, the non-assuming soft spoken ""そう"" is often used by females while the more confident ""そうだ"" is often used by males.
@@ -350,7 +360,9 @@ Perhaps we wanted to make that sentence into a question instead to ask, “Is th
 ### Different ways to ask, “Is that so?”
 
 1. そう？
+
 1. そうか？
+
 1. そうですか？
 
 As I’ve explained before, the ""だ"" is used to declare what one believes to be a fact. Therefore, ""そうだか？"" is not a valid way to ask a question because it is declaring a fact and asking a question at the same time. But the fact that ""そうですか"" is a valid question shows that ""です"" and ""だ"" are essentially different. ""そうです"", in showing respect and humbleness, is not as assertive and is merely the polite version of ""そう"".
@@ -359,6 +371,7 @@ Besides the difference in nuance between ""だ"" and ""です"", another key dif
 
 1. そうだと思います  
    I think that is so.
+
 1. そうですと思います  
    (Incorrect sentence)
 
