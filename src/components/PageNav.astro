@@ -2,6 +2,8 @@
 import { getCollection } from "astro:content";
 import { GoArrowLeft } from "react-icons/go";
 import { GoArrowRight } from "react-icons/go";
+import { getLastEditTime } from "../utils/getLastEditTime";
+import manifest from "../../package.json";
 
 export interface Props {
   id: string;
@@ -21,6 +23,12 @@ const pages = (await getCollection("learn"))
 const currentPage = pages.findIndex((page) => page.id === id);
 const prevPage = currentPage > 0 ? pages[currentPage - 1] : null;
 const nextPage = currentPage < pages.length - 1 ? pages[currentPage + 1] : null;
+const lastEditTime = await getLastEditTime({
+  repo: manifest.name,
+  owner: `saeris`,
+  path: `src/content/learn/${id}`,
+  token: `Bearer ${import.meta.env.LASTEDIT_TOKEN}`
+});
 ---
 
 <script>
@@ -38,15 +46,37 @@ const nextPage = currentPage < pages.length - 1 ? pages[currentPage + 1] : null;
 
 <style is:global>
   footer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 12px;
     padding-block: 24px 48px;
     padding-inline: 24px;
+    color: var(--cn-700);
     font-family: var(--family-display);
+    font-size: var(--ll);
 
     nav {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 24px;
       width: stretch;
+      padding-top: 24px;
+      border-top: 1px solid var(--cn-200);
+
+      a {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 12px;
+        width: stretch;
+        padding-block: 16px;
+        padding-inline: 24px;
+        background-color: var(--fill);
+        border: 1px solid var(--stroke);
+        border-radius: 8px;
+        box-shadow: 0px 0px 0px 2px var(--shadow);
+      }
     }
 
     a {
@@ -71,18 +101,8 @@ const nextPage = currentPage < pages.length - 1 ? pages[currentPage + 1] : null;
         color: var(--text);
       }
 
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      width: stretch;
-      padding-block: 16px;
-      padding-inline: 24px;
-      background-color: var(--fill);
-      border: 1px solid var(--stroke);
-      border-radius: 8px;
       color: var(--text);
       text-decoration: none;
-      box-shadow: 0px 0px 0px 2px var(--shadow);
 
       &.prev {
         grid-column: 1;
@@ -134,6 +154,13 @@ const nextPage = currentPage < pages.length - 1 ? pages[currentPage + 1] : null;
 </style>
 
 <footer>
+  {
+    lastEditTime ? (
+      <a href={lastEditTime.url} target="_blank">
+        {`Last updated on ${new Intl.DateTimeFormat("en-US").format(lastEditTime.date)}`}
+      </a>
+    ) : null
+  }
   <nav>
     {
       prevPage && (

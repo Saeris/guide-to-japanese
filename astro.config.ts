@@ -24,7 +24,7 @@ import {
   remarkExtendedTable,
   extendedTableHandlers
 } from "remark-extended-table";
-import remarkQuotation from "./src/quotation";
+import remarkQuotation from "./src/utils/quotation";
 
 // https://astro.build/config
 export default defineConfig({

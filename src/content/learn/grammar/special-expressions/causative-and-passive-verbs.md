@@ -143,8 +143,8 @@ Verbs conjugated into the causative form are used to indicate an action that som
 >
 > **Exception Verbs:**
 >
-> 1.""する"" becomes ""させる""
-> 1.""くる"" becomes ""こさせる"".
+> 1. ""する"" becomes ""させる""
+> 1. ""くる"" becomes ""こさせる""
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1ch;"><div>
 
