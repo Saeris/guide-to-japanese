@@ -29,7 +29,16 @@ const { id, title, headings } = Astro.props as Props;
     <title>{title}</title>
   </head>
   <body>
-    <header></header>
+    <header>
+      <h1><a href="/">Guide to Japanese</a></h1>
+      <nav>
+        <ul>
+          <li>
+            <a href="/learn/grammar">Grammar Guide</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
     <SubNav />
     <main>
       <ToC id={id} headings={headings} />

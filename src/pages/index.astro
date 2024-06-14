@@ -1,0 +1,17 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getEntry } from "astro:content";
+
+export const prerender = true;
+
+const page = await getEntry("learn", "grammar/introduction");
+
+const { Content, headings } = await page.render();
+---
+
+<Layout id={page.id} title={page.data.title} headings={headings}>
+  <article>
+    <h1>{page.data.title}</h1>
+    <Content />
+  </article>
+</Layout>
