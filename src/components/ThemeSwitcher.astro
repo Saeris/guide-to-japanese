@@ -1,0 +1,61 @@
+---
+import { PiMonitor, PiSun, PiMoon } from "react-icons/pi";
+---
+
+<script>
+  const button = document.querySelector(`button[aria-label="Switch Theme"]`);
+
+  const handleRotateTheme = () => {
+    if (button) {
+      const theme =
+        document.documentElement.attributes.getNamedItem("data-theme")?.value ??
+        `system`;
+      const themes = {
+        light: `dark`,
+        dark: `system`,
+        system: `light`
+      };
+      button.ariaDescription = `Toggle theme mode. Current theme: ${theme ?? `system`}`;
+      document.dispatchEvent(
+        new CustomEvent("set-theme", {
+          detail: themes[theme]
+        })
+      );
+    }
+  };
+
+  button?.addEventListener(`click`, handleRotateTheme);
+</script>
+
+<style is:global>
+  button[aria-label="Switch Theme"] {
+    align-items: center;
+
+    svg {
+      display: none;
+    }
+  }
+
+  [data-theme="system"] svg[aria-label="System"] {
+    display: block;
+  }
+
+  [data-theme="light"] svg[aria-label="Light"] {
+    display: block;
+  }
+
+  [data-theme="dark"] svg[aria-label="Dark"] {
+    display: block;
+  }
+</style>
+
+<button
+  class="ghost"
+  type="button"
+  title="Switch Theme"
+  aria-label="Switch Theme"
+>
+  <PiMonitor aria-label="System" />
+  <PiSun aria-label="Light" />
+  <PiMoon aria-label="Dark" />
+</button>

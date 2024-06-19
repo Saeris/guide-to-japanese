@@ -1894,6 +1894,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@saeris/colors@npm:^0.1.0":
+  version: 0.1.0
+  resolution: "@saeris/colors@npm:0.1.0"
+  dependencies:
+    colorjs.io: "npm:^0.5.0"
+  checksum: 10/3cb109a39e358f6635ff2c5b69c438c7243232880c8472bc189ee76d0276c28e3c0df2d3a1584bb2c5672517a3bad4d359ae6089077d1b41d81c146c4fcd43e5
+  languageName: node
+  linkType: hard
+
 "@saeris/eslint-config@npm:^2.6.0":
   version: 2.6.0
   resolution: "@saeris/eslint-config@npm:2.6.0"
@@ -3563,6 +3572,13 @@ __metadata:
     color-convert: "npm:^2.0.1"
     color-string: "npm:^1.9.0"
   checksum: 10/b23f5e500a79ea22428db43d1a70642d983405c0dd1f95ef59dbdb9ba66afbb4773b334fa0b75bb10b0552fd7534c6b28d4db0a8b528f91975976e70973c0152
+  languageName: node
+  linkType: hard
+
+"colorjs.io@npm:^0.5.0":
+  version: 0.5.0
+  resolution: "colorjs.io@npm:0.5.0"
+  checksum: 10/ac8a29e08a47be7806da1153da9dd1842d0554285597756b79bd7580ee1c092bb9ef3e51e422faa8f306b8be24cb14fea2c27aa24258555cc0801a0578e7e867
   languageName: node
   linkType: hard
 
@@ -5308,6 +5324,7 @@ __metadata:
     "@fontsource-variable/nunito": "npm:^5.0.19"
     "@remark-embedder/core": "npm:^3.0.3"
     "@remark-embedder/transformer-oembed": "npm:^5.0.0"
+    "@saeris/colors": "npm:^0.1.0"
     "@saeris/eslint-config": "npm:^2.6.0"
     "@types/node": "npm:20.14.2"
     "@types/react": "npm:^18.3.3"

@@ -1,14 +1,14 @@
 ---
 import "@fontsource-variable/nunito";
 import "@fontsource-variable/inter";
-import "remark-alerts/styles/github-colors-light.css";
-import "remark-alerts/styles/github-colors-dark-media.css";
-import "remark-alerts/styles/github-base.css";
-import "../styles/global.css";
 import type { MarkdownHeading } from "astro";
+import "../styles/vendor";
+import "../styles/global.css";
+import Theme from "../components/Theme.astro";
 import SubNav from "../components/SubNav.astro";
 import ToC from "../components/ToC.astro";
 import PageNav from "../components/PageNav.astro";
+import Header from "../components/Header.astro";
 
 export interface Props {
   id: string;
@@ -22,6 +22,7 @@ const { id, title, headings } = Astro.props as Props;
 <!doctype html>
 <html lang="en">
   <head>
+    <Theme />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
@@ -29,16 +30,7 @@ const { id, title, headings } = Astro.props as Props;
     <title>{title}</title>
   </head>
   <body>
-    <header>
-      <h1><a href="/">Guide to Japanese</a></h1>
-      <nav>
-        <ul>
-          <li>
-            <a href="/learn/grammar">Grammar Guide</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
+    <Header />
     <SubNav />
     <main>
       <ToC id={id} headings={headings} />

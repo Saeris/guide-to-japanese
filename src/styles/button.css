@@ -1,0 +1,38 @@
+button {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 4px;
+  border: 1px solid var(--stroke);
+  background-color: var(--fill);
+  padding: 3px;
+  color: var(--text);
+  cursor: pointer;
+
+  svg {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+.ghost {
+  /* Initial values */
+  --stroke: transparent;
+  --fill: transparent;
+  --text: var(--cp-700);
+
+  &:hover:not(:disabled) {
+    --fill: var(--cn-a50);
+    --text: var(--cp-a800);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--violet-500);
+    outline-offset: 2px;
+  }
+
+  &:disabled {
+    --text: var(--cn-a700);
+  }
+}

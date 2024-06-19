@@ -1,5 +1,4 @@
 @import url("./fonts.css");
-@import url("./colors.css");
 
 :root {
   /* Primary Color */
@@ -54,6 +53,13 @@
   --cn-a900: var(--neutral-a900);
   --cn-a950: var(--neutral-a950);
 
+  --color-note: var(--blue-500);
+  --color-tip: var(--green-500);
+  --color-warning: var(--yellow-500);
+  --color-severe: var(--amber-500);
+  --color-caution: var(--red-500);
+  --color-important: var(--violet-500);
+
   --bg: #fefeff;
   --surface-default: var(--bg);
   --surface-inset: var(--cn-50);
@@ -63,8 +69,8 @@
   &.dark {
     --bg: #111111;
     --surface-default: var(--bg);
-    --surface-inset: var(--neutral-25);
-    --surface-raised: var(--neutral-100);
+    --surface-inset: var(--cn-25);
+    --surface-raised: var(--cn-100);
     --surface-translucent: hsl(240 6 12 / 0.7);
   }
 
