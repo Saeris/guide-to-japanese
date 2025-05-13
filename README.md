@@ -1,51 +1,52 @@
-# Starlight Starter Kit: Basics
+# Guide to Japanese
 
-```
-npm create astro@latest -- --template starlight
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This repository is a markdown and Astro port of [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/) designed to facilitate easy content editing and providing an enhanced, accessibility focused user experience.
 
 ## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
 
 ```
 .
 ├── public/
 ├── src/
-│   ├── assets/
+│   ├── components/
 │   ├── content/
-│   │   ├── docs/
+│   │   ├── learn/
+│   │   │   └── grammar/
 │   │   └── config.ts
-│   └── env.d.ts
+│   ├── layouts/
+│   ├── pages/
+│   │   ├── learn/
+│   │   │   ├── [...slug].asro
+│   │   │   └── grammar.astro
+│   │   └── index.astro
+│   ├── styles/
+│   ├── utils/
+│   ├── env.d.ts
+│   └── ruby.d.ts
 ├── astro.config.mjs
 ├── package.json
 └── tsconfig.json
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+Astro looks for `.md` or `.mdx` files in the `src/content/learn/` directory. Each file is exposed as a route based on its sub-path name.
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+Each file in the `pages/` directory maps to a url path starting from the site origin: `https://jp.saeris.gg/`. For example, `https://jp.saeris.gg/learn/grammar` maps to `src/pages/learn/grammar.astro`, which renders the content of `src/content/learn/grammar/introduction.md`. For all other routes within the `src/content/learn/grammar/` directory, a special "catch-all" page `src/pages/learn/[...slug].astro` will render the remainder of those files.
 
-Static assets, like favicons, can be placed in the `public/` directory.
+Each page uses a layout from the `src/layouts/` directory, which in turn is a composition of individual regions which are defined as components in the `src/components/` directory. Depending on the needs of each, a page, layout, or component may define it's own `<style>` or `script>` tags to extend the specific styling or interactivity requirements of each. Otherwise, site-wide styles such as the shared theme are defined in the `src/styles/` directory.
+
+Images can be added to an `images/` folder in the same directory as a page file and embedded in Markdown with a relative link.
+
+Static assets, like favicons, fonts, etc, are placed in the `public/` directory.
 
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `yarn install`         | Installs dependencies                            |
+| `yarn dev`             | Starts local dev server at `localhost:3000`      |
+| `yarn build`           | Build your production site to `./dist/`          |
+| `yarn preview`         | Preview your build locally, before deploying     |
+| `yarn astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `yarn astro -- --help` | Get help using the Astro CLI                     |
