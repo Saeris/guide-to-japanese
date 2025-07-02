@@ -14,7 +14,7 @@ interface Quotation extends Parent {
   /**
    * Node type of mdast Quotation.
    */
-  type: "quotation";
+  type: `quotation`;
   /**
    * Children of paragraph.
    */
@@ -107,7 +107,10 @@ export const plugin: Plugin<void[], Root> = () => {
       }
 
       const insertNode = constructQuotationNode([
-        { type: `text`, value: insertedText.trim() }
+        {
+          type: `text`,
+          value: insertedText.trim()
+        }
       ]);
 
       children.push(insertNode);
@@ -167,7 +170,7 @@ export const plugin: Plugin<void[], Root> = () => {
       closingNode
     ) as PhrasingContent[];
 
-    /********************* OPENING NODE ***********************/
+    /** ******************* OPENING NODE ***********************/
 
     // let's analyze the opening Text node
     const value = openingNode.value;
@@ -194,7 +197,7 @@ export const plugin: Plugin<void[], Root> = () => {
       mainChildren.unshift(textNode);
     }
 
-    /********************* CLOSING NODE ***********************/
+    /** ******************* CLOSING NODE ***********************/
 
     // let's analyze the closing Text node
     const value_ = (closingNode as Text).value;

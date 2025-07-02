@@ -11,9 +11,9 @@ import { PiMonitor, PiSun, PiMoon } from "react-icons/pi";
         document.documentElement.attributes.getNamedItem("data-theme")?.value ??
         `system`;
       const themes = {
-        light: `dark`,
-        dark: `system`,
-        system: `light`
+        system: `dark`,
+        dark: `light`,
+        light: `system`
       };
       button.ariaDescription = `Toggle theme mode. Current theme: ${theme ?? `system`}`;
       document.dispatchEvent(

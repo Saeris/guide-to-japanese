@@ -1,8 +1,10 @@
+import { join } from "node:path";
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import { rehypeHeadingIds } from "@astrojs/markdown-remark";
 import vercel from "@astrojs/vercel/serverless";
 import react from "@astrojs/react";
+import remarkAyaji from "@saeris/remark-ayaji";
 import rehypeSlug from "rehype-slug";
 import rehypeRewrite from "rehype-rewrite";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
@@ -24,12 +26,19 @@ import {
   remarkExtendedTable,
   extendedTableHandlers
 } from "remark-extended-table";
-import remarkQuotation from "./src/utils/quotation";
+import remarkQuotation from "./src/utils/quotation.js";
 
 // https://astro.build/config
 export default defineConfig({
   markdown: {
     remarkPlugins: [
+      [
+        remarkAyaji,
+        {
+          dict: join(process.cwd(), `./dict`),
+          furigana: true
+        }
+      ],
       remarkRuby,
       remarkDirective,
       remarkAlerts,
@@ -59,6 +68,7 @@ export default defineConfig({
           behavior: `wrap`
         }
       ],
+      // @ts-expect-error
       [
         rehypeRewrite,
         {

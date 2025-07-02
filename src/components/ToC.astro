@@ -1,11 +1,11 @@
 ---
-import type { MarkdownHeading } from "astro/dist/@types/astro";
+import type { MarkdownHeading } from "astro";
 import { GoPencil } from "react-icons/go";
 import manifest from "../../package.json";
 
 export interface Props {
-  id: string;
-  headings: MarkdownHeading[];
+  id?: string;
+  headings?: MarkdownHeading[];
 }
 
 const { id, headings } = Astro.props;
@@ -126,7 +126,7 @@ const fileURL = new URL(
 <nav class="toc">
   <div>
     {
-      headings.length ? (
+      headings?.length ? (
         <>
           <h2>On this page</h2>
           <ul class="headings">

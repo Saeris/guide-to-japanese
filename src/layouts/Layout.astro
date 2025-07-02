@@ -11,9 +11,9 @@ import PageNav from "../components/PageNav.astro";
 import Header from "../components/Header.astro";
 
 export interface Props {
-  id: string;
-  title: string;
-  headings: MarkdownHeading[];
+  id?: string;
+  title?: string;
+  headings?: MarkdownHeading[];
 }
 
 const { id, title, headings } = Astro.props as Props;

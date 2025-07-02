@@ -25,7 +25,7 @@ const { defaultTheme = `system` } = Astro.props as Props;
   const resolveTheme = (setting) =>
     setting !== undefined
       ? setting
-      : localStorage.getItem(STORAGE_KEY) ?? getThemePreference();
+      : (localStorage.getItem(STORAGE_KEY) ?? getThemePreference());
 
   const writeTheme = (theme) => {
     document.documentElement.setAttribute("data-theme", theme);

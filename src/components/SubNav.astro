@@ -1,9 +1,9 @@
 ---
 import { getCollection } from "astro:content";
 
-const pages = (await getCollection("learn")).map(({ data, slug, collection }) =>
+const pages = (await getCollection("learn")).map(({ data, id, collection }) =>
   Object.assign(data, {
-    slug: `/${collection}/${slug}`
+    slug: `/${collection}/${id}`
   })
 );
 

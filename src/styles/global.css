@@ -98,15 +98,49 @@ small {
   --fs-body: var(--fs-300);
 }
 
-dl {
+details.vocab {
+  background-color: var(--cn-25);
+  border: 1px solid var(--cn-100);
+  border-radius: 8px;
+  padding: 12px 24px;
+
+  &[open] > summary:first-of-type::before {
+    content: "-";
+  }
+
+  summary {
+    position: relative;
+    display: flex;
+
+    &:before {
+      content: "+";
+      position: absolute;
+      top: 0.25em;
+      right: 0.25em;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 1em;
+      height: 1em;
+      line-height: 1em;
+    }
+
+    h3 {
+      display: inline;
+    }
+  }
+}
+
+.vocab dl {
   display: grid;
   align-items: baseline;
   grid-template-columns: repeat(
     auto-fit,
-    [def-start] minmax(max-content, 2ch) [def-middle] minmax(max-content, 18ch)
+    [def-start] minmax(max-content, 2ch) [def-middle] minmax(auto, 16ch)
       [def-end]
   );
-  gap: 12px;
+  justify-items: space-between;
+  gap: 24px 12px;
   width: stretch;
   margin: unset;
   margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);
@@ -155,7 +189,77 @@ dl {
 
   dd {
     width: fit-content;
-    max-width: 18ch;
+    margin: unset;
+    font-size: var(--bt);
+  }
+
+  /* hack to remove this element from the grid */
+  > msreadoutspan {
+    position: absolute;
+  }
+}
+
+.kanji dl {
+  display: grid;
+  grid-auto-flow: dense;
+  align-items: baseline;
+  column-gap: 2ch;
+  width: stretch;
+  margin: unset;
+  margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);
+
+  dt {
+    &:nth-of-type(odd) {
+      grid-column: 1;
+      & + dd,
+      & + dd + dd,
+      & + dd + dd + dd {
+        grid-column: 2;
+      }
+    }
+
+    &:nth-of-type(even) {
+      grid-column: 3;
+      & + dd,
+      & + dd + dd,
+      & + dd + dd + dd {
+        grid-column: 4;
+      }
+    }
+
+    grid-row: span 3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: stretch;
+    gap: 4px;
+    font-size: var(--bl);
+
+    a {
+      display: flex;
+      justify-content: center;
+      width: stetch;
+      padding: 8px;
+      text-decoration: none;
+    }
+
+    span,
+    abbr {
+      display: block;
+      padding-inline: 0.5em;
+      border-radius: 1em;
+      background: var(--amber-500);
+      color: var(--cp-25);
+      font-size: var(--lt);
+      line-height: normal;
+      text-decoration: none;
+      text-wrap: nowrap;
+      user-select: none;
+    }
+  }
+
+  dd {
+    width: fit-content;
     margin: unset;
     font-size: var(--bt);
   }

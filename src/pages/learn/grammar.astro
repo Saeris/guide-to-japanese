@@ -1,17 +1,19 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
 
 export const prerender = true;
 
-const page = await getEntry("learn", "grammar/introduction");
+const entry = await getEntry("learn", "grammar/introduction");
 
-const { Content, headings } = await page.render();
+if (typeof entry === `undefined`) throw new Error(`Unable to load page`);
+
+const { Content, headings } = await render(entry);
 ---
 
-<Layout id={page.id} title={page.data.title} headings={headings}>
+<Layout id={entry?.id} title={entry?.data.title} headings={headings}>
   <article>
-    <h1>{page.data.title}</h1>
+    <h1>{entry?.data.title}</h1>
     <Content />
   </article>
 </Layout>

@@ -1,17 +1,17 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getCollection } from "astro:content";
+import { getCollection, render } from "astro:content";
 
 export const prerender = true;
 
 export const getStaticPaths = async () =>
   (await getCollection("learn")).map((page) => ({
-    params: { slug: page.slug },
+    params: { slug: page.id },
     props: { page }
   }));
 
 const { page } = Astro.props;
-const { Content, headings } = await page.render();
+const { Content, headings } = await render(page);
 ---
 
 <Layout id={page.id} title={page.data.title} headings={headings}>
