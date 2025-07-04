@@ -3,6 +3,11 @@
 @import url("./button.css");
 @import url("./headers.css");
 
+html {
+  scrollbar-width: thin;
+  scrollbar-color: var(--slate-a500) var(--slate-a100);
+}
+
 body {
   --nav-width: 240px;
   /* Default Font Sizes */
@@ -33,6 +38,17 @@ main {
   height: 100%;
   padding: 32px;
 
+  @media screen and (max-width: 1024px) {
+    top: 64px;
+    gap: unset;
+  }
+
+  @media screen and (max-width: 1280px) {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
   article {
     position: relative;
     order: -1;
@@ -40,6 +56,11 @@ main {
     flex-direction: column;
     max-width: min(1280px, 70ch);
     margin-inline: auto;
+
+    @media screen and (max-width: 1280px) {
+      max-width: fill-available;
+      order: unset;
+    }
   }
 }
 
@@ -98,25 +119,40 @@ small {
   --fs-body: var(--fs-300);
 }
 
-details.vocab {
+details {
+  margin-block: calc(var(--fs-body) / 1.125) calc(var(--fs-body) * 0.25);
+}
+
+details.vocab,
+details.kanji {
   background-color: var(--cn-25);
   border: 1px solid var(--cn-100);
   border-radius: 8px;
-  padding: 12px 24px;
+  filter: drop-shadow(0px 4px 4px var(--slate-a50));
 
   &[open] > summary:first-of-type::before {
     content: "-";
   }
 
+  &[open] > summary {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+
   summary {
     position: relative;
     display: flex;
+    align-items: center;
+    padding: 12px 24px;
+    border-bottom: 1px solid var(--slate-a100);
+    border-radius: 8px;
+    background-color: var(--slate-a50);
+    cursor: pointer;
 
     &:before {
       content: "+";
       position: absolute;
-      top: 0.25em;
-      right: 0.25em;
+      right: calc(0.25em + 24px);
       display: flex;
       justify-content: center;
       align-items: center;
@@ -125,9 +161,20 @@ details.vocab {
       line-height: 1em;
     }
 
+    &:focus-visible {
+      outline: 2px solid var(--violet-500);
+      outline-offset: 2px;
+    }
+
     h3 {
       display: inline;
+      margin-block: unset;
     }
+  }
+
+  dl {
+    padding-inline: 24px;
+    padding-bottom: 24px;
   }
 }
 

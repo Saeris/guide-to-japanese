@@ -47,6 +47,12 @@ const chapters = Object.values<Chapter>(
 </script>
 
 <style is:global>
+  @media screen and (max-width: 1024px) {
+    header:not(:has(input[type="checkbox"]:checked)) ~ .subnav {
+      transform: translateX(0%);
+    }
+  }
+
   .subnav {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
@@ -57,6 +63,27 @@ const chapters = Object.values<Chapter>(
     height: fit-content;
     padding: 2rem;
     box-sizing: border-box;
+
+    @media screen and (max-width: 1024px) {
+      bottom: 0;
+      height: auto;
+      right: 100vw;
+      max-width: 360px;
+      position: fixed;
+      top: 60px;
+      transform: translateX(100%);
+      transition: transform .25s;
+      width: 90vw;
+      z-index: 8888;
+      background-color: var(--bg);
+      overflow-y: auto;
+      scrollbar-width: thin;
+      scrollbar-color: var(--slate-a500) var(--slate-a100);
+
+      [data-theme="light"] {
+        filter: drop-shadow(0px 10px 8px var(--slate-a300));
+      }
+    }
 
     details {
       --outline: transparent;

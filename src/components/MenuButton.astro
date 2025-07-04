@@ -1,0 +1,69 @@
+---
+import { PiList, PiX } from "react-icons/pi";
+---
+
+<style is:global>
+  .visually-hidden:not(:focus):not(:active) {
+    clip: rect(0 0 0 0); 
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap; 
+    width: 1px;
+  }
+
+  label[for="menu"] {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 4px;
+    border: 1px solid var(--stroke);
+    background-color: var(--fill);
+    padding: 3px;
+    color: var(--text);
+    cursor: pointer;
+
+    @media screen and (max-width: 1024px) {
+      display: flex;
+    }
+
+    svg[aria-label="Open Page Navigation"] {
+      display: block;
+    }
+
+    svg[aria-label="Close Page Navigation"] {
+      display: none;
+    }
+
+    &:has(input[type="checkbox"]:checked) {
+      svg[aria-label="Open Page Navigation"] {
+        display: none;
+      }
+
+      svg[aria-label="Close Page Navigation"] {
+        display: block;
+      }
+    }
+
+    input[type="checkbox"] {
+      appearance: none;
+      background-color: none;
+      margin: 0;
+    }
+
+    svg {
+      width: 16px;
+      height: 16px;
+      user-select: none;
+    }
+  }
+</style>
+
+<label class="ghost" for="menu">
+  <input id="menu" type="checkbox" />
+  <PiList aria-label="Open Page Navigation" />
+  <PiX aria-label="Close Page Navigation" />
+</label>

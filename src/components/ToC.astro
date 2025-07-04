@@ -46,6 +46,33 @@ const fileURL = new URL(
       position: sticky;
       top: 24px;
 
+      @media screen and (max-width: 1280px) {
+        display: flex;
+        justify-content: space-between;
+
+        span:first-child {
+          column-count: 2;
+          column-fill: balance;
+          width: stretch;
+
+          h2 {
+            column-span: all;
+          }
+        }
+
+        span:last-child {
+          width: fit-content;
+
+          h2 {
+            text-align: right;
+          }
+
+          ul {
+            width: max-content;
+          }
+        }
+      }
+
       .headings {
         border-left: var(--stroke-width) solid var(--cn-400);
         padding-block: 12px;
@@ -127,7 +154,7 @@ const fileURL = new URL(
   <div>
     {
       headings?.length ? (
-        <>
+        <span>
           <h2>On this page</h2>
           <ul class="headings">
             {headings.map((heading) => (
@@ -136,16 +163,18 @@ const fileURL = new URL(
               </li>
             ))}
           </ul>
-        </>
+        </span>
       ) : null
     }
-    <h2>Contribute</h2>
-    <ul class="contribute">
-      <li>
-        <a href={fileURL} target="_blank">
-          <GoPencil /> Edit this page
-        </a>
-      </li>
-    </ul>
+    <span>
+      <h2>Contribute</h2>
+      <ul class="contribute">
+        <li>
+          <a href={fileURL} target="_blank">
+            <GoPencil /> Edit this page
+          </a>
+        </li>
+      </ul>
+    </span>
   </div>
 </nav>

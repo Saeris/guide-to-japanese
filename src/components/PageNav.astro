@@ -6,17 +6,17 @@ import { getLastEditTime } from "../utils/getLastEditTime";
 import manifest from "../../package.json";
 
 export interface Props {
-  id: string;
+  id?: string;
 }
 
 const { id } = Astro.props as Props;
 
 const pages = (await getCollection("learn"))
-  .map(({ id, data, slug, collection }) => ({
+  .map(({ id, data, collection }) => ({
     id,
     title: data.title,
     number: parseInt(`${data.chapterNumber}${data.part}`, 10),
-    slug: `/${collection}/${slug}`
+    slug: `/${collection}/${id}`
   }))
   .sort((a, b) => a.number - b.number);
 

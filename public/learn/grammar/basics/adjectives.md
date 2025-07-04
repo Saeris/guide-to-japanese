@@ -5,114 +5,100 @@ chapter: Basic Grammar
 part: 4
 ---
 
-https://www.youtube.com/watch?v=LGXVzWwz0Oc
+<details class="kanji"><summary><h3>漢字「かんじ」- Kanji</h3></summary>
 
-## Properties of Adjectives
-
-Now that we can connect two nouns together in various ways using particles, we want to describe our nouns with adjectives. An adjective can directly modify a noun that immediately follows it. It can also be connected in the same way we did with nouns using particles. All adjectives fall under two categories: na-adjectives and i-adjectives.
-
-<details class="kanji" open><summary>
-
-### Kanji
-
-</summary>
-
-[静](https://jisho.org/search/%E9%9D%99%20%23kanji) <span>JLPT N3</span> <span>Grade 4</span>
+[静](https://jisho.org/search/静%23kanji) <span>JLPT N3</span> <span>Grade 4</span>
 : quiet
 : <abbr title="kunyomi">Kun</abbr>: しず-、 しず・か、 しず・まる、 しず・める
 : <abbr title="onyomi">On</abbr>: セイ、 ジョウ
 
-[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+[人](https://jisho.org/search/人%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
 : person
 : <abbr title="kunyomi">Kun</abbr>: ひと、 -り、 -と
 : <abbr title="onyomi">On</abbr>: ジン、 ニン
 
-[友](https://jisho.org/search/%E5%8F%8B%20%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
+[友](https://jisho.org/search/友%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
 : friend
 : <abbr title="kunyomi">Kun</abbr>: とも
 : <abbr title="onyomi">On</abbr>: ユウ
 
-[達](https://jisho.org/search/%E9%81%94%20%23kanji) <span>JLPT N3</span> <span>Grade 4</span>
+[達](https://jisho.org/search/達%23kanji) <span>JLPT N3</span> <span>Grade 4</span>
 : accomplished, reach, arrive, attain
 : <abbr title="kunyomi">Kun</abbr>: -たち
 : <abbr title="onyomi">On</abbr>: タツ、 ダ
 
-[親](https://jisho.org/search/%E8%A6%AA%20%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
+[親](https://jisho.org/search/親%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
 : parent, intimacy, relative, familiarity, dealer (cards)
 : <abbr title="kunyomi">Kun</abbr>: おや、 おや-、 した・しい、 した・しむ
 : <abbr title="onyomi">On</abbr>: シン
 
-[切](https://jisho.org/search/%E5%88%87%20%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
+[切](https://jisho.org/search/切%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
 : cut, cutoff, be sharp
 : <abbr title="kunyomi">Kun</abbr>: き・る、 -き・る、 き・り、 -き・り、 -ぎ・り、 き・れる、 -き・れる、 き・れ、 -き・れ、 -ぎ・れ
 : <abbr title="onyomi">On</abbr>: セツ、 サイ
 
-[魚](https://jisho.org/search/%E9%AD%9A%20%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
+[魚](https://jisho.org/search/魚%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
 : fish
 : <abbr title="kunyomi">Kun</abbr>: うお、 さかな、 -ざかな
 : <abbr title="onyomi">On</abbr>: ギョ
 
-[好](https://jisho.org/search/%E5%A5%BD%20%23kanji) <span>JLPT N3</span> <span>Grade 4</span>
+[好](https://jisho.org/search/好%23kanji) <span>JLPT N3</span> <span>Grade 4</span>
 : fond, pleasing, like something
 : <abbr title="kunyomi">Kun</abbr>: この・む、 す・く、 よ・い、 い・い
 : <abbr title="onyomi">On</abbr>: コウ
 
-[肉](https://jisho.org/search/%E8%82%89%20%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
+[肉](https://jisho.org/search/肉%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
 : meat
 : <abbr title="kunyomi">Kun</abbr>: しし
 : <abbr title="onyomi">On</abbr>: ニク
 
-[野](https://jisho.org/search/%E9%87%8E%20%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
+[野](https://jisho.org/search/野%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
 : plains, field, rustic, civilian life
 : <abbr title="kunyomi">Kun</abbr>: の、 の-
 : <abbr title="onyomi">On</abbr>: ヤ、 ショ
 
-[菜](https://jisho.org/search/%E8%8F%9C%20%23kanji) <span>JLPT N2</span> <span>Grade 4</span>
+[菜](https://jisho.org/search/菜%23kanji) <span>JLPT N2</span> <span>Grade 4</span>
 : vegetable, side dish, greens
 : <abbr title="kunyomi">Kun</abbr>: な
 : <abbr title="onyomi">On</abbr>: サイ
 
-[嫌](https://jisho.org/search/%E5%AB%8C%20%23kanji) <span>JLPT N1</span> <span>Grade 6-8</span>
+[嫌](https://jisho.org/search/嫌%23kanji) <span>JLPT N1</span> <span>Grade 6-8</span>
 : dislike, detest, hate
 : <abbr title="kunyomi">Kun</abbr>: きら・う、 きら・い、 いや
 : <abbr title="onyomi">On</abbr>: ケン、 ゲン
 
-[食](https://jisho.org/search/%E9%A3%9F%20%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
+[食](https://jisho.org/search/食%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
 : eat, food
 : <abbr title="kunyomi">Kun</abbr>: く・う、 く・らう、 た・べる、 は・む
 : <abbr title="onyomi">On</abbr>: ショク、 ジキ
 
-[物](https://jisho.org/search/%E7%89%A9%20%23kanji) <span>JLPT N4</span> <span>Grade 3</span>
+[物](https://jisho.org/search/物%23kanji) <span>JLPT N4</span> <span>Grade 3</span>
 : thing, object, matter
 : <abbr title="kunyomi">Kun</abbr>: もの、 もの-
 : <abbr title="onyomi">On</abbr>: ブツ、 モツ
 
-[高](https://jisho.org/search/%E9%AB%98%20%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
+[高](https://jisho.org/search/高%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
 : tall, high, expensive
 : <abbr title="kunyomi">Kun</abbr>: たか・い、 たか、 -だか、 たか・まる、 たか・める
 : <abbr title="onyomi">On</abbr>: コウ
 
-[値](https://jisho.org/search/%E5%80%A4%20%23kanji) <span>JLPT N3</span> <span>Grade 6</span>
+[値](https://jisho.org/search/値%23kanji) <span>JLPT N3</span> <span>Grade 6</span>
 : price, cost, value
 : <abbr title="kunyomi">Kun</abbr>: ね、 あたい
 : <abbr title="onyomi">On</abbr>: チ
 
-[段](https://jisho.org/search/%E6%AE%B5%20%23kanji) <span>JLPT N3</span> <span>Grade 6</span>
+[段](https://jisho.org/search/段%23kanji) <span>JLPT N3</span> <span>Grade 6</span>
 : grade, steps, stairs
 : <abbr title="onyomi">On</abbr>: ダン、 タン
 
-[彼](https://jisho.org/search/%E5%BD%BC%20%23kanji) <span>JLPT N3</span> <span>Grade 6-8</span>
+[彼](https://jisho.org/search/彼%23kanji) <span>JLPT N3</span> <span>Grade 6-8</span>
 : he, that, the
 : <abbr title="kunyomi">Kun</abbr>: かれ、 かの、 か・の
 : <abbr title="onyomi">On</abbr>: ヒ
 
 </details>
 
-<details class="vocab" open><summary>
-
-### Vocabulary
-
-</summary>
+<details class="vocab"><summary><h3>言葉「ことば」- Vocabulary</h3></summary>
 
 ++{静か|しず・か}++ <abbr title="な adjective">na-adj</abbr>
 : quiet
@@ -175,6 +161,14 @@ Now that we can connect two nouns together in various ways using particles, we w
 : cool; handsome
 
 </details>
+
+---
+
+https://www.youtube.com/watch?v=LGXVzWwz0Oc
+
+## Properties of Adjectives
+
+Now that we can connect two nouns together in various ways using particles, we want to describe our nouns with adjectives. An adjective can directly modify a noun that immediately follows it. It can also be connected in the same way we did with nouns using particles. All adjectives fall under two categories: na-adjectives and i-adjectives.
 
 ## The na-adjective
 
