@@ -5,9 +5,45 @@ chapter: Basic Grammar
 part: 2
 ---
 
-## Declaring something is so and so using ""だ""
+<details class="kanji"><summary><h3>漢字「かんじ」- Kanji</h3></summary>
 
-### Vocabulary
+[人](https://jisho.org/search/人%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+: person
+: <abbr title="kunyomi">Kun</abbr>: ひと、 -り、 -と
+: <abbr title="onyomi">On</abbr>: ジン、 ニン
+
+[学](https://jisho.org/search/学%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+: study, learning, science
+: <abbr title="kunyomi">Kun</abbr>: まな・ぶ
+: <abbr title="onyomi">On</abbr>: ガク
+
+[生](https://jisho.org/search/生%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+: life, genuine, birth
+: <abbr title="kunyomi">Kun</abbr>: い・きる、 い・かす、 い・ける、 う・まれる、 うま・れる、 う・まれ、 うまれ、 う・む、 お・う、 は・える、 は・やす、 き、 なま、 なま-、 な・る、 な・す、 む・す、 -う
+
+[元](https://jisho.org/search/元%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
+: beginning, former time, origin
+: <abbr title="kunyomi">Kun</abbr>: もと
+: <abbr title="onyomi">On</abbr>: ゲン、 ガン
+
+[気](https://jisho.org/search/気%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+: spirit, mind, air, atmosphere, mood
+: <abbr title="kunyomi">Kun</abbr>: いき、 き
+: <abbr title="onyomi">On</abbr>: キ、 ケ
+
+[友](https://jisho.org/search/友%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
+: friend
+: <abbr title="kunyomi">Kun</abbr>: とも
+: <abbr title="onyomi">On</abbr>: ユウ
+
+[達](https://jisho.org/search/達%23kanji) <span>JLPT N3</span> <span>Grade 4</span>
+: accomplished, reach, arrive, attain
+: <abbr title="kunyomi">Kun</abbr>: -たち
+: <abbr title="onyomi">On</abbr>: タツ、 ダ
+
+</details>
+
+<details class="vocab"><summary><h3>言葉「ことば」- Vocabulary</h3></summary>
 
 ++{人|ひと}++
 : person
@@ -17,6 +53,15 @@ part: 2
 
 ++{元気|げん・き}++
 : healthy; lively (Used as a greeting to indicate whether one is well)
+
+++{友達|とも・だち}++
+: friend
+
+</details>
+
+---
+
+## Declaring something is so and so using ""だ""
 
 One of the trickiest part of Japanese is that there is no verb for the state-of-being like the verb “to be” in English. You can, however, declare what something is by attaching the Hiragana character ""だ"" to a noun or na-adjective only. (We will learn about na-adjectives in the section on adjectives later.)
 
@@ -58,17 +103,6 @@ The declarative ""だ"" is also needed in various grammatical structures where a
 
 ## Conjugating to the negative state-of-being
 
-### Vocabulary
-
-++{学生|がく・せい}++
-: student
-
-++{友達|とも・だち}++
-: friend
-
-++{元気|げん・き}++
-: healthy; lively (Used as a greeting to indicate whether one is well)
-
 In Japanese, negative and past tense are all expressed by conjugation. We can conjugate a noun or adjective to either its negative or past tense to say that something is not [X] or that something was [X]. This may be a bit hard to grasp at first but none of these state-of-being conjugations make anything declarative like ""だ"" does. We’ll learn how to make these tenses declarative by attaching ""だ"" to the end of the sentence in a later lesson.
 
 First, for the negative, attach ""じゃない"" to the noun or na-adjective.
@@ -91,17 +125,6 @@ First, for the negative, attach ""じゃない"" to the noun or na-adjective.
    Is not well.
 
 ## Conjugating to the past state-of-being
-
-### Vocabulary
-
-++{学生|がく・せい}++
-: student
-
-++{友達|とも・だち}++
-: friend
-
-++{元気|げん・き}++
-: healthy; lively (Used as a greeting to indicate whether one is well)
 
 We will now learn the past tense of the state-of-being. To say something was something, attach ""だった"" to the noun or na-adjective.
 

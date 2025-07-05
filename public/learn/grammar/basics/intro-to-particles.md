@@ -5,15 +5,55 @@ chapter: Basic Grammar
 part: 3
 ---
 
-## Defining grammatical functions with particles
+<details class="kanji"><summary><h3>漢字「かんじ」- Kanji</h3></summary>
 
-We want to now make good use of what we learned in the last lesson by associating a noun with another noun. This is done with something called particles. Particles are one or more Hiragana characters that attach to the end of a word to define the grammatical function of that word in the sentence. Using the correct particles is very important because the meaning of a sentence can completely change just by changing the particles. For example, the sentence “Eat fish.” can become “The fish eats.” simply by changing one particle.
+[学](https://jisho.org/search/学%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+: study, learning, science
+: <abbr title="kunyomi">Kun</abbr>: まな・ぶ
+: <abbr title="onyomi">On</abbr>: ガク
 
-## The ""は"" topic particle
+[生](https://jisho.org/search/生%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+: life, genuine, birth
+: <abbr title="kunyomi">Kun</abbr>: い・きる、 い・かす、 い・ける、 う・まれる、 うま・れる、 う・まれ、 うまれ、 う・む、 お・う、 は・える、 は・やす、 き、 なま、 なま-、 な・る、 な・す、 む・す、 -う
 
-https://www.youtube.com/watch?v=uZb5IOXBByQ
+[明](https://jisho.org/search/明%23kanji) <span>JLPT N4</span> <span>Grade 2</span>
+: bright, light
+: <abbr title="kunyomi">Kun</abbr>: あ・かり、 あか・るい、 あか・るむ、 あか・らむ、 あき・らか、 あ・ける、 -あ・け、 あ・く、 あ・くる、 あ・かす
+: <abbr title="onyomi">On</abbr>: メイ、 ミョウ、 ミン
 
-### Vocabulary
+[日](https://jisho.org/search/日%23kanji) <span>JLPT N5</span> <span>Grade 1</span>
+: day, sun, Japan, counter for days
+: <abbr title="kunyomi">Kun</abbr>: ひ、 -び、 -か
+: <abbr title="onyomi">On</abbr>: ニチ、 ジツ
+
+[今](https://jisho.org/search/今%23kanji) <span>JLPT N5</span> <span>Grade 2</span>
+: now
+: <abbr title="kunyomi">Kun</abbr>: いま
+: <abbr title="onyomi">On</abbr>: コン、 キン
+
+[試](https://jisho.org/search/試%23kanji) <span>JLPT N4</span> <span>Grade 4</span>
+: test, try, attempt, experiment, ordeal
+: <abbr title="kunyomi">Kun</abbr>: こころ・みる、 ため・す
+: <abbr title="onyomi">On</abbr>: シ
+
+[験](https://jisho.org/search/験%23kanji) <span>JLPT N4</span> <span>Grade 4</span>
+: verification, effect, testing
+: <abbr title="kunyomi">Kun</abbr>: あかし、 しるし、 ため・す、 ためし
+: <abbr title="onyomi">On</abbr>: ケン、 ゲン
+
+[誰](https://jisho.org/search/誰%23kanji)
+: who, someone, somebody
+: <abbr title="kunyomi">Kun</abbr>: だれ、 たれ、 た
+: <abbr title="onyomi">On</abbr>: スイ
+
+[私](https://jisho.org/search/私%23kanji) <span>JLPT N4</span> <span>Grade 6</span>
+: private, I, me
+: <abbr title="kunyomi">Kun</abbr>: わたくし、 わたし
+: <abbr title="onyomi">On</abbr>: シ
+
+</details>
+
+<details class="vocab"><summary><h3>言葉「ことば」- Vocabulary</h3></summary>
 
 ++{学生|がく・せい}++
 : student
@@ -32,6 +72,27 @@ https://www.youtube.com/watch?v=uZb5IOXBByQ
 
 ++{試験|しけん}++
 : exam
+
+++でも++
+: but
+
+++{誰|だれ}++
+: who
+
+++{私|わたし}++
+: me; myself; I
+
+</details>
+
+---
+
+## Defining grammatical functions with particles
+
+We want to now make good use of what we learned in the last lesson by associating a noun with another noun. This is done with something called particles. Particles are one or more Hiragana characters that attach to the end of a word to define the grammatical function of that word in the sentence. Using the correct particles is very important because the meaning of a sentence can completely change just by changing the particles. For example, the sentence “Eat fish.” can become “The fish eats.” simply by changing one particle.
+
+## The ""は"" topic particle
+
+https://www.youtube.com/watch?v=uZb5IOXBByQ
 
 The first particle we will learn is the topic particle. The topic particle identifies what it is that you’re talking about, essentially the topic of your sentence. Let’s say a person says, “Not student.” This is a perfectly valid sentence in Japanese but it doesn’t tell us much without knowing what the person is talking about. The topic particle will allow us to express what our sentences are about. The topic particle is the character ""は"". Now, while this character is normally pronounced as _/ha/_, it is pronounced _/wa/_ only when it is being used as the topic particle.
 
@@ -79,20 +140,6 @@ We’ll see a more specific particle that ties more closely into the sentence at
 
 ## The ""も"" inclusive topic particle
 
-### Vocabulary
-
-++{学生|がく・せい}++
-: student
-
-++うん++
-: yes (casual)
-
-++でも++
-: but
-
-++ううん++
-: no (casual)
-
 Another particle that is very similar to the topic particle is the inclusive topic particle. It is essentially the topic particle with the additional meaning of “also”. Basically, it can introduce another topic in addition to the current topic. The inclusive topic particle is the ""も"" character and its use is best explained by an example.
 
 ### Example 1
@@ -130,17 +177,6 @@ Below is an example of inclusion with the negative.
 > : No, and Tom is also not student.
 
 ## The ""が"" identifier particle
-
-### Vocabulary
-
-++{誰|だれ}++
-: who
-
-++{学生|がく・せい}++
-: student
-
-++{私|わたし}++
-: me; myself; I
 
 Ok, so we can make a topic using the ""は"" and ""も"" particle. But what if we don’t know what the topic is? What if I wanted to ask, “Who is the student?” What I need is some kind of identifier because I don’t know who the student is. If I use the topic particle, the question would become, “Is who the student?” and that doesn’t make any sense because “who” is not an actual person.
 
